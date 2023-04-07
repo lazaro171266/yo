@@ -227,13 +227,3 @@ http://live.budtvlight.com:25461/live/Luna001/18dabf00/11988.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg", LA ROSA DE GUADALUPE
 http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/806275
 
-#EXTINF:-1, BOX NATION
-http://160.ip-192-99-70.net:25461/live/Iceman/Iceman/91458
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.oYddxkjislUCT3LFzXIqJAHaEM?w=271&h=182&c=7&r=0&o=5&pid=1.7", FOX SPORTS
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=522&f=.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hy7WLaUz3nd3FYM8MJNknwHaHa?w=149&h=180&c=7&r=0&o=5&pid=1.7", TUDN MX
-http://160.ip-192-99-70.net:25461/live/Iceman/Iceman/117115
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hy7WLaUz3nd3FYM8MJNknwHaHa?w=149&h=180&c=7&r=0&o=5&pid=1.7", TUDN USA
-http://160.ip-192-99-70.net:25461/live/Iceman/Iceman/117071
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-DMDRwMyhoPQ/W1ezVNghVxI/AAAAAAAABOY/bN08j1VFijQL4pUuVvtMIxQi_WBlSqxFACLcBGAs/s1600/AFIZZIONADOS-201x200-879593817.png", AFIZZIONADOS
-http://160.ip-192-99-70.net:25461/live/Iceman/Iceman/117066
