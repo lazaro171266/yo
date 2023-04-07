@@ -201,23 +201,6 @@ http://live.budtvlight.com:25461/live/Luna001/18dabf00/38842
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png", UNIVERSAL CINEMA
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/38848
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7e/a6/47/7ea6474f11454db36655ce7ae38bef41.jpg", CINEMA ACCION CLASSIC
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/38699
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1JHmY-4zzAowcsFK2b4KKw80B7Pdmnadvudkx4KBk5ESkjJQjApMLpvI9ge5jK-fxg", DISNEY LIVE!
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/12075
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Disney_Cinemagic.svg/langes-320px-Disney_Cinemagic.svg.png", CINEMA DISNEY FAMILY
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/38702
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/80/ce/ca/80ceca318933b3e488e9966f9edd7deb.jpg", CINEMA DREAMWORKS
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/12074
-#EXTINF:-1 tvg-logo="https://culturizando.com/wp-content/uploads/2018/06/disney-pixar.png", CINEMA DISNEY PIXAR
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/38701
-#EXTINF:-1 tvg-logo="https://i0.wp.com/msgt.com.sg/wp-content/uploads/2021/05/marvel-2.jpg?resize=1024%2C875&ssl=1", CINEMA MARVEL STUDIO
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/38694
-#EXTINF:-1 tvg-logo="https://i0.wp.com/msgt.com.sg/wp-content/uploads/2021/05/marvel-2.jpg?resize=1024%2C875&ssl=1", CINEMA MARVEL STUDIO
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/12071
-#EXTINF:-1,CANTINA TV
-http://160.ip-192-99-70.net:25461/live/Iceman/Iceman/91898
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/comediasmx/images/8/8e/LaHoraPicoLogo.jpg/revision/latest?cb=20170221001107&path-prefix=es", LA HORA PICO
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/11101.m3u8
 #EXTINF:-1 tvg-logo="https://www.publimetro.com.mx/resizer/r_PyNXbtfXsQNKbpGfEFh2jvCuc=/1024x1024/filters:format(jpg):quality(70):focal(294x119:304x129)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/QXFNNQGZQVAQVKB73NIP4FUVJA.jpg", ACAPULCO SHORE 24/7
