@@ -108,8 +108,10 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=335&f=.
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=442&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeGp-hA6o96NrEwlnJr_IAtc8GsJiOnjM2jUgS7v8PnMhJ229WPS9SeDho17oWtwkMI-E&usqp=CAU", AZTECA CINEMA
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=425&f=.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jMh5P6hu1mYDsxOY1criswHaDV?w=315&h=157&c=7&r=0&o=5&pid=1.7", DHE
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313037
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/684061254353174529/wjSOKcvm_400x400.jpg", ULTRA CLASICO
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/85136.m3u8
+http://live.budtvlight.com:25461/live/Luna001/18dabf00/73896.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXeSlJpHoIHVibHcBj0-vH993DnouCkUb7Flp7k=s900-c-k-c0x00ffffff-no-rj", ULTRA MEX
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/85134.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/07/Ultra-Cine-Logo.png", ULTRA CINE
@@ -200,7 +202,16 @@ http://live.budtvlight.com:25461/live/Luna001/18dabf00/30347
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/38842
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png", UNIVERSAL CINEMA
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/38848
-
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.81f3f2b82067c7390d267fe1efa59733?rik=9%2bfYBsjCQ1cfuQ&pid=ImgRaw&r=0", LOVE NATURE
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313137
+#EXTINF:-1 tvg-logo="", CINEMA ACCION HD
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/50572
+#EXTINF:-1 tvg-logo="", SCOOBY DOO HD
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35533
+#EXTINF:-1 tvg-logo="", EL CHAVO DEL 8 HD
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/58120
+#EXTINF:-1 tvg-logo="", HAGALO USTED MISMO
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/58131
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/comediasmx/images/8/8e/LaHoraPicoLogo.jpg/revision/latest?cb=20170221001107&path-prefix=es", LA HORA PICO
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/11101.m3u8
 #EXTINF:-1 tvg-logo="https://www.publimetro.com.mx/resizer/r_PyNXbtfXsQNKbpGfEFh2jvCuc=/1024x1024/filters:format(jpg):quality(70):focal(294x119:304x129)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/QXFNNQGZQVAQVKB73NIP4FUVJA.jpg", ACAPULCO SHORE 24/7
