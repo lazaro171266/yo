@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU", MILENIO HD 1080
 http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/552955
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU", MILENIO HD 720
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU", MILENIO HD 720-alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302702
 #EXTINF:-1, EL HERALDO
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302671
@@ -10,6 +10,8 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302671
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=161&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png", CNN ESPAÑOL
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=187&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png", CNN ESPAÑOL -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302624
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1", ESTRELLA NOTICIAS
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio-miami.org/wp-content/uploads/2016/12/RT-en-Espa%C3%B1ol.jpg", RT ESPAÑOL
@@ -32,18 +34,28 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/12250.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU", AZTECA UNO
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=23&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png", AZTECA 7
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43605
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU", AZTECA UNO-alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302682
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU", AZTECA UNO -1 hora
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302685
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png", AZTECA 7
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png", AZTECA 7-alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43605
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgUc4QHpE2QCHeAQVm2HprLawGM1RlPmRWQ&usqp=CAU", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg", AZ MUNDO
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=276&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg", AZ MUNDO
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43603
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgUc4QHpE2QCHeAQVm2HprLawGM1RlPmRWQ&usqp=CAU", A + 
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2278&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgUc4QHpE2QCHeAQVm2HprLawGM1RlPmRWQ&usqp=CAU", A+ -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302604
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FoP883UjFoijLtMspFK776a5Cf8JeNggTFexxGFFuixfF2g17-g8Ke-SwEmCUL-Kx2U&usqp=CAU", AZ CORAZON
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=250&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", LAS ESTRELLAS
@@ -54,10 +66,14 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304504
 http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/552804
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png", CANAL 5
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png", CANAL 5 -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43626
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-32yi_Q97h20/YRqmU2uGmlI/AAAAAAAAQEI/PpTQiDvbuEEih8uf05K_vqLybdRkv0FqQCLcBGAsYHQ/s210/Televisa%2BQuer%25C3%25A9taro%2Ben%2Bvivo.png", EL NU9VE
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=1922&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png", IMAGEN TV
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png", IMAGEN TV -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302650
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtyrem12xNzEJENioNY3gXmPjm4_LINH7pMD0uTYHzpG8alDW0Mc19idZccwZHCRebXHE&usqp=CAU", TELEVISA PUEBLA
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/51632.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalcatorce.tv/descargas/logo_descargas.jpg", CANAL 14
@@ -80,15 +96,23 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=218&f=.
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35078
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg", E! ENTERTAINMENT
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=255&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg", E! ENTERTAINMENT -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312962
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000082275411/56e540e9a4cd262a4e423ab8d6ae5d83_400x400.jpeg", EL GOURMET
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=268&f=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000082275411/56e540e9a4cd262a4e423ab8d6ae5d83_400x400.jpeg", EL GOURMET -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35047
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/MAS_CHIC_LAM.png", MAS CHIC
 http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/553006
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/MAS_CHIC_LAM.png", MAS CHIC -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35056
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_comedy-central-hd_m.png", COMEDY CENTRAL
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=217&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_comedy-central-hd_m.png", COMEDY CENTRAL -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34950
 #EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2019/11/distrito-comedia.jpg", DISTRITO COMEDIA
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=272&f=.m3u8
-#EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2019/11/distrito-comedia.jpg", DISTRITO COMEDIA 720
+#EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2019/11/distrito-comedia.jpg", DISTRITO COMEDIA -alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302634
 #EXTINF:-1 tvg-logo="https://docplayer.es/docs-images/83/87269480/images/1-0.jpg", PASIONES
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35060
@@ -98,6 +122,8 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=275&f=.
 http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/25577
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf8PZb6tdtui8fSVYRPWhRob43FCDEVWncg&usqp=CAU", TELEMUNDO INTERNACIONAL
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=85&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf8PZb6tdtui8fSVYRPWhRob43FCDEVWncg&usqp=CAU", TELEMUNDO INTERNACIONAL -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302728
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20210811041956%21Estrella_TV_-_2020_logo.png", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png", GALAVISION
@@ -118,6 +144,8 @@ http://live.budtvlight.com:25461/live/Luna001/18dabf00/37740.m3u8
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312701
 #EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/01/DE-PELICULA.png", DE PELICULA
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=335&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/01/DE-PELICULA.png", DE PELICULA -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312786
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es", DE PELICULA PLUS
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=442&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeGp-hA6o96NrEwlnJr_IAtc8GsJiOnjM2jUgS7v8PnMhJ229WPS9SeDho17oWtwkMI-E&usqp=CAU", AZTECA CINEMA
@@ -140,46 +168,70 @@ http://live.budtvlight.com:25461/live/Luna001/18dabf00/85139.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png", LIFETIME
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=379&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png", LIFETIME -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35039
 #EXTINF:-1 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", CINE SONY
 http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/440687
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W0PBRXvqBGo/hqdefault.jpg", RETRO TV 
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/38699
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AP0e9qny4RYFM-6TILM1YUo-jmzEh968P5vpUgwagBu3hb9ajcdNqtbmfOvhTCokUIk&usqp=CAU", AMC
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AP0e9qny4RYFM-6TILM1YUo-jmzEh968P5vpUgwagBu3hb9ajcdNqtbmfOvhTCokUIk&usqp=CAU", AMC -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312924
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png", PANICO
 http://live.live.budtvlight.com:25461/live/Luna001/18dabf00/49777.m3u8
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_morbido-tv-amplia-su-distribucion-de-contenido-con-veset-nimbus.jpg", MORBIDO
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=470&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es", A&E
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es", A&E -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312957
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn?format=jpg&name=small", AXN
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2507&f=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn?format=jpg&name=small", AXN -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34943
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGNPtUroUbz8Q/company-logo_200_200/0/1664215107963?e=2147483647&v=beta&t=xO8K2PHuuJJU1-khrYHU1pdrzdvQoSXyuzEt4Fr0SW0", FX
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=209&f=.m3u8
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGNPtUroUbz8Q/company-logo_200_200/0/1664215107963?e=2147483647&v=beta&t=xO8K2PHuuJJU1-khrYHU1pdrzdvQoSXyuzEt4Fr0SW0", FX -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312926
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2999.png", TNT SERIES
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=266&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2999.png", TNT SERIES -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302734
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SET_India_new_logo.svg/1200px-SET_India_new_logo.svg.png", SONY
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU0AZiEKCmfydHiZb1Vlfaptm6WU1uip0Vo6TdavUM=s900-c-k-c0x00ffffff-no-rj", SONY SD
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/50464
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SET_India_new_logo.svg/1200px-SET_India_new_logo.svg.png", SONY -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312933
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg", SYFY
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=257&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg", SYFY -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312930
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUbrhoUvR7irF__UOi0uxVVjhLKC0F_UIAdj1v-0g=s900-c-k-c0x00ffffff-no-rj", UNIVERSAL CHANNEL
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35266
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUbrhoUvR7irF__UOi0uxVVjhLKC0F_UIAdj1v-0g=s900-c-k-c0x00ffffff-no-rj", UNIVERSAL CHANNEL -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313049
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.b2fed26140640991b2ed39b447e27961?rik=T04sfH7DmA%2bzhA&pid=ImgRaw&r=0", WARNER CHANNEL
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=205&f=.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.b2fed26140640991b2ed39b447e27961?rik=T04sfH7DmA%2bzhA&pid=ImgRaw&r=0", WARNER CHANNEL -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34921
 #EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2019/07/bitme.jpg", BITME
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2591&f=.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-q9n_zoXc0OQ/VsBOfhzDYzI/AAAAAAAAz7o/bTb8eLAnuf0/s1600/Cinecanal_logo.jpg", CINECANAL
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=430&f=.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-q9n_zoXc0OQ/VsBOfhzDYzI/AAAAAAAAz7o/bTb8eLAnuf0/s1600/Cinecanal_logo.jpg", CINECANAL -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312920
 #EXTINF:-1 tvg-logo="https://plataformas.news/online/nota_cinemax-se-incorpora-a-zapping-tv.jpg", CINEMAX
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=481&f=.m3u8
+#EXTINF:-1 tvg-logo="https://plataformas.news/online/nota_cinemax-se-incorpora-a-zapping-tv.jpg", CINEMAX -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313036
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpokXNnKwNhroVXgdUAadTFXN27CEkCaJ_FdZ1ARX_Z7KzdTRVbNaZLYDM1dhFiNvdl0&usqp=CAU", FRECUENCIA MUSICAL CINE
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg", GOLDEN
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=123&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png", GOLDEN PLUS
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=436&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png", GOLDEN PLUS -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313039
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", GOLDEN EDGE
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=484&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", GOLDEN PREMIER
@@ -190,14 +242,24 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34914
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/38447.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Paramount_Pictures_%282022%29.png", PARAMOUNT
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=1726&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Paramount_Pictures_%282022%29.png", PARAMOUNT -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313041
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/space.jpg", SPACE
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=445&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/space.jpg", SPACE -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34969
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png", TNT
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=435&f=.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png", TNT -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313047
 #EXTINF:-1 tvg-logo="https://files.rcnradio.com/2021-02/foxch.jpg", STAR CHANNEL
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=201&f=.m3u8
+#EXTINF:-1 tvg-logo="https://files.rcnradio.com/2021-02/foxch.jpg", STAR CHANNEL-alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34925
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png", STUDIO UNIVERSAL
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=492&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png", STUDIO UNIVERSAL -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313045
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.81l7NWjYZcKVw2SOd3H5iAHaEk?pid=ImgDet&w=168&h=168&c=7", TBS HD
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312896
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yb3Hj1tSoV1iWOiEZQFKY831QVpXgOP9qq86wWrr2sp9L4P_3h03xi4b9cgP6D1JrQ5ylJ-CZg=s900-c-k-c0x00ffffff-no-rj", HBO
