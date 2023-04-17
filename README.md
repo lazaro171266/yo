@@ -8,6 +8,8 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302702
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302671
 #EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png", TELEFORMULA
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=161&f=.m3u8
+#EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png", TELEFORMULA -alterno
+http://live.budtvlight.com:25461/Luna001/18dabf00/36941
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png", CNN ESPAÑOL
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=187&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png", CNN ESPAÑOL -alterno
@@ -72,6 +74,8 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=105&f=.
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302619
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-32yi_Q97h20/YRqmU2uGmlI/AAAAAAAAQEI/PpTQiDvbuEEih8uf05K_vqLybdRkv0FqQCLcBGAsYHQ/s210/Televisa%2BQuer%25C3%25A9taro%2Ben%2Bvivo.png", EL NU9VE
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=1922&f=.m3u8
+logo="https://1.bp.blogspot.com/-32yi_Q97h20/YRqmU2uGmlI/AAAAAAAAQEI/PpTQiDvbuEEih8uf05K_vqLybdRkv0FqQCLcBGAsYHQ/s210/Televisa%2BQuer%25C3%25A9taro%2Ben%2Bvivo.png", EL NU9VE -alterno
+http://live.budtvlight.com:25461/Luna001/18dabf00/26836
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png", IMAGEN TV
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2298&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png", IMAGEN TV -alterno
@@ -137,17 +141,14 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302728
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20210811041956%21Estrella_TV_-_2020_logo.png", ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png", GALAVISION
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312699
+http://live.budtvlight.com:25461/Luna001/18dabf00/9514
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/340px-Logo_UniM%C3%A1s.svg.png", UNIMAS
-http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/25564
+http://live.budtvlight.com:25461/Luna001/18dabf00/9494
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png", UNIVISION
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312973
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54355ffce4b01cad832b0ce7/3a0c52b7-e1b2-40fd-99a5-85c57be3fa2a/Teleonce.png", TELE 11
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/751530537165025280/uzVEpyCs_400x400.jpg", PUNTO 2
+http://live.budtvlight.com:25461/Luna001/18dabf00/51641
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLuoctXlK1RNDCg_UJ3h5hyp3UdozudTG-K20rGlvQUJ56AhujWeLNFhadgrMj-_PctWU&usqp=CAU", CINE LATINO
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34998
+http://live.budtvlight.com:25461/Luna001/18dabf00/1467
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958", CINEMA DINAMITA
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/37740.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png/revision/latest?cb=20191216004334&path-prefix=es", DE PELICULA CLASICO
@@ -158,6 +159,8 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=335&f=.
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312786
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es", DE PELICULA PLUS
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=442&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es", DE PELICULA PLUS -alterno
+http://live.budtvlight.com:25461/Luna001/18dabf00/3143
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeGp-hA6o96NrEwlnJr_IAtc8GsJiOnjM2jUgS7v8PnMhJ229WPS9SeDho17oWtwkMI-E&usqp=CAU", AZTECA CINEMA
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43601
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jMh5P6hu1mYDsxOY1criswHaDV?w=315&h=157&c=7&r=0&o=5&pid=1.7", DHE
@@ -176,6 +179,8 @@ http://live.budtvlight.com:25461/live/Luna001/18dabf00/73899.m3u8
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/85139.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DJda3RWU8AA8ud4.jpg", MULTIPREMIER
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35003
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DJda3RWU8AA8ud4.jpg", MULTIPREMIER HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/38498
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png", LIFETIME
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=379&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png", LIFETIME -alterno
@@ -187,7 +192,7 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=444&f=.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AP0e9qny4RYFM-6TILM1YUo-jmzEh968P5vpUgwagBu3hb9ajcdNqtbmfOvhTCokUIk&usqp=CAU", AMC -alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312924
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png", PANICO
-http://live.live.budtvlight.com:25461/live/Luna001/18dabf00/49777.m3u8
+http://live.budtvlight.com:25461/Luna001/18dabf00/49777
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_morbido-tv-amplia-su-distribucion-de-contenido-con-veset-nimbus.jpg", MORBIDO
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=470&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es", A&E
