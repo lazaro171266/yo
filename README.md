@@ -58,6 +58,8 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2278&f=
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302604
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FoP883UjFoijLtMspFK776a5Cf8JeNggTFexxGFFuixfF2g17-g8Ke-SwEmCUL-Kx2U&usqp=CAU", AZ CORAZON
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=250&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FoP883UjFoijLtMspFK776a5Cf8JeNggTFexxGFFuixfF2g17-g8Ke-SwEmCUL-Kx2U&usqp=CAU", AZ CORAZON -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43602
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", LAS ESTRELLAS
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35037
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", LAS ESTRELLAS -1 HORA
@@ -67,7 +69,7 @@ http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/552804
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png", CANAL 5
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=105&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png", CANAL 5 -alterno
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43626
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302619
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-32yi_Q97h20/YRqmU2uGmlI/AAAAAAAAQEI/PpTQiDvbuEEih8uf05K_vqLybdRkv0FqQCLcBGAsYHQ/s210/Televisa%2BQuer%25C3%25A9taro%2Ben%2Bvivo.png", EL NU9VE
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=1922&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png", IMAGEN TV
@@ -86,6 +88,12 @@ http://160.ip-192-99-70.net:25461/live/Iceman/Iceman/106390
 http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/282596
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1103674569443942400/QlYJvntx_400x400.jpg", TELEVISA NVO LAREDO
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/51629.m3u8
+#EXTINF:-1, CARACOL INTERNACIONAL
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304247
+#EXTINF:-1,RCN
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304257
+#EXTINF:-1,ECUAVISA
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304384
 #EXTINF:-1, CONCERT CHANNEL
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35023
 #EXTINF:-1, TELEHIT
@@ -102,6 +110,8 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312962
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=268&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000082275411/56e540e9a4cd262a4e423ab8d6ae5d83_400x400.jpeg", EL GOURMET -alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35047
+#EXTINF:-1,Hola! TV 
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35199
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/MAS_CHIC_LAM.png", MAS CHIC
 http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/553006
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/MAS_CHIC_LAM.png", MAS CHIC -alterno
@@ -165,15 +175,13 @@ http://live.budtvlight.com:25461/live/Luna001/18dabf00/73899.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-6rjuq0qfXlrHcVHg9YZG4QTCy7-9MRVnafDZ3=s900-c-k-c0x00ffffff-no-rj", ULTRA DOCU
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/85139.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DJda3RWU8AA8ud4.jpg", MULTIPREMIER
-
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35003
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png", LIFETIME
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=379&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png", LIFETIME -alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35039
 #EXTINF:-1 tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png", CINE SONY
-http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/440687
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W0PBRXvqBGo/hqdefault.jpg", RETRO TV 
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/38699
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304509
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AP0e9qny4RYFM-6TILM1YUo-jmzEh968P5vpUgwagBu3hb9ajcdNqtbmfOvhTCokUIk&usqp=CAU", AMC
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AP0e9qny4RYFM-6TILM1YUo-jmzEh968P5vpUgwagBu3hb9ajcdNqtbmfOvhTCokUIk&usqp=CAU", AMC -alterno
@@ -228,18 +236,22 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313036
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg", GOLDEN
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=123&f=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg", GOLDEN -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302658
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png", GOLDEN PLUS
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=436&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png", GOLDEN PLUS -alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313039
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", GOLDEN EDGE
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=484&f=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", GOLDEN EDGE -alterno
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302657
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", GOLDEN PREMIER
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34913
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", GOLDEN PREMIER 2
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34914
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png", EUROPA EUROPA
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/38447.m3u8
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/177210
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Paramount_Pictures_%282022%29.png", PARAMOUNT
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=1726&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Paramount_Pictures_%282022%29.png", PARAMOUNT -alterno
@@ -288,13 +300,107 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302741
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302743
 #EXTINF:-1, UNIVERSAL COMEDY
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34856
+
+#EXTINF:-1,PPV: Cinema 01
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34477
+#EXTINF:-1,PPV: Cinema 02
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34478
+#EXTINF:-1,PPV: Cinema 03
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34479
+#EXTINF:-1,PPV: Cinema 04
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34480
+#EXTINF:-1,PPV: Cinema 05
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34481
+#EXTINF:-1,PPV: Cinema 06
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34482
+#EXTINF:-1,PPV: Cinema 07
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34483
+#EXTINF:-1,PPV: Cinema 08
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34484
+#EXTINF:-1,PPV: Cinema 09
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34485
+#EXTINF:-1,PPV: Cinema 10
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34486
+#EXTINF:-1,PPV: Cinema 11
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34487
+#EXTINF:-1,PPV: Cinema 12
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34488
+#EXTINF:-1,PPV: Cinema 13
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34489
+#EXTINF:-1,PPV: Cinema 14
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34490
+#EXTINF:-1,PPV: Cinema 15
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34491
+#EXTINF:-1,PPV: Cinema 16
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34492
+#EXTINF:-1,PPV: Cinema 17
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34493
+#EXTINF:-1,PPV: Cinema 18
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34494
+#EXTINF:-1,PPV: Cinema 19
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34495
+#EXTINF:-1,PPV: Cinema 20
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34496
+#EXTINF:-1,PPV: Cinema 21
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34497
+#EXTINF:-1,PPV: Cinema 22
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34498
+#EXTINF:-1,PPV: Cinema 24
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34500
+#EXTINF:-1,PPV: Cinema 25
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34501
+#EXTINF:-1,PPV: Cinema 26
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34502
+#EXTINF:-1,PPV: Cinema 27
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34503
+#EXTINF:-1,PPV: Cinema 28
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34504
+#EXTINF:-1,PPV: Cinema 30
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34506
+#EXTINF:-1,PPV: Cinema 31
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34507
+#EXTINF:-1,PPV: Cinema 32
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34508
+#EXTINF:-1,PPV: Cinema 33
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34509
+#EXTINF:-1,PPV: Cinema 34
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34510
+#EXTINF:-1,PPV: Cinema 35
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34511
+#EXTINF:-1,PPV: Cinema 36
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34512
+#EXTINF:-1,PPV: Cinema 37
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34513
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.81f3f2b82067c7390d267fe1efa59733?rik=9%2bfYBsjCQ1cfuQ&pid=ImgRaw&r=0", LOVE NATURE
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313137
+#EXTINF:-1,Animal Planet 
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35195
+#EXTINF:-1,DISCOVERY CHANNEL
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34809
+#EXTINF:-1,DISCOVERY THEATER
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34819
+#EXTINF:-1,DISCOVERY H&H
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313128
+#EXTINF:-1,DISCOVERY TLC
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34821
+#EXTINF:-1, HISTORY CHANNEL
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34830
+#EXTINF:-1, HISTORY 2
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313132
+#EXTINF:-1, NATIONAL GEOGRAPHIC
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313135
+#EXTINF:-1,DISCOVERY WORLD
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34828
+#EXTINF:-1,DISCOVERY ID
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34837
+#EXTINF:-1,DISCOVERY SCIENCE
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312807
+
+
 
 #EXTINF:-1 tvg-logo="", CINEMA DREAMSWORK
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304507
-#EXTINF:-1 tvg-logo="", CINEMA ACCION HD
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/50572
 #EXTINF:-1 tvg-logo="", SCOOBY DOO HD
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35533
 #EXTINF:-1 tvg-logo="", EL CHAVO DEL 8 HD
@@ -308,5 +414,5 @@ http://live.budtvlight.com:25461/live/Luna001/18dabf00/12056.m3u8
 #EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/1200x660/libero/original/2022/01/16/61e48a16b022773bec3b3aed.jpg", EN FAMILIA CON CHABELO
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/11988.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg", LA ROSA DE GUADALUPE
-http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/806275
+
 
