@@ -4,8 +4,6 @@
 http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/552955
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU", MILENIO HD 720-alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302702
-#EXTINF:-1, EL HERALDO
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302671
 #EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png", TELEFORMULA
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=161&f=.m3u8
 #EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png", TELEFORMULA -alterno
@@ -14,6 +12,8 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/36941
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=187&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png", CNN ESPAÑOL -alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302624
+#EXTINF:-1, EL HERALDO
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302671
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1", ESTRELLA NOTICIAS
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio-miami.org/wp-content/uploads/2016/12/RT-en-Espa%C3%B1ol.jpg", RT ESPAÑOL
@@ -132,8 +132,6 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302634
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35060
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_tlnovelas_m.png", TELENOVELAS
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=275&f=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf8PZb6tdtui8fSVYRPWhRob43FCDEVWncg&usqp=CAU", TELEMUNDO LA
-http://barebudget.h1ott.com:80/Eugenia23/Eugenia23/25577
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf8PZb6tdtui8fSVYRPWhRob43FCDEVWncg&usqp=CAU", TELEMUNDO INTERNACIONAL
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=85&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf8PZb6tdtui8fSVYRPWhRob43FCDEVWncg&usqp=CAU", TELEMUNDO INTERNACIONAL -alterno
@@ -191,10 +189,6 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304509
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AP0e9qny4RYFM-6TILM1YUo-jmzEh968P5vpUgwagBu3hb9ajcdNqtbmfOvhTCokUIk&usqp=CAU", AMC -alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312924
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png", PANICO
-http://live.budtvlight.com:25461/Luna001/18dabf00/49777
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_morbido-tv-amplia-su-distribucion-de-contenido-con-veset-nimbus.jpg", MORBIDO
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=470&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es", A&E
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es", A&E -alterno
@@ -227,8 +221,6 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313049
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=205&f=.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.b2fed26140640991b2ed39b447e27961?rik=T04sfH7DmA%2bzhA&pid=ImgRaw&r=0", WARNER CHANNEL -alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34921
-#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2019/07/bitme.jpg", BITME
-https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2591&f=.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-q9n_zoXc0OQ/VsBOfhzDYzI/AAAAAAAAz7o/bTb8eLAnuf0/s1600/Cinecanal_logo.jpg", CINECANAL
 https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=430&f=.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-q9n_zoXc0OQ/VsBOfhzDYzI/AAAAAAAAz7o/bTb8eLAnuf0/s1600/Cinecanal_logo.jpg", CINECANAL -alterno
@@ -278,6 +270,12 @@ https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=492&f=.
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png", STUDIO UNIVERSAL -alterno
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313045
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.81l7NWjYZcKVw2SOd3H5iAHaEk?pid=ImgDet&w=168&h=168&c=7", TBS HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png", PANICO
+http://live.budtvlight.com:25461/Luna001/18dabf00/49777
+#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2019/07/bitme.jpg", BITME
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=2591&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_morbido-tv-amplia-su-distribucion-de-contenido-con-veset-nimbus.jpg", MORBIDO
+https://regioplay.xyz/php/SR_REGIO_604023_/tpnuevo02.php?tokennn=Regio&c=470&f=.m3u8
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312896
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yb3Hj1tSoV1iWOiEZQFKY831QVpXgOP9qq86wWrr2sp9L4P_3h03xi4b9cgP6D1JrQ5ylJ-CZg=s900-c-k-c0x00ffffff-no-rj", HBO
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34880
@@ -306,76 +304,6 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302743
 #EXTINF:-1, UNIVERSAL COMEDY
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34856
 
-#EXTINF:-1,PPV: Cinema 01
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34477
-#EXTINF:-1,PPV: Cinema 02
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34478
-#EXTINF:-1,PPV: Cinema 03
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34479
-#EXTINF:-1,PPV: Cinema 04
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34480
-#EXTINF:-1,PPV: Cinema 05
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34481
-#EXTINF:-1,PPV: Cinema 06
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34482
-#EXTINF:-1,PPV: Cinema 07
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34483
-#EXTINF:-1,PPV: Cinema 08
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34484
-#EXTINF:-1,PPV: Cinema 09
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34485
-#EXTINF:-1,PPV: Cinema 10
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34486
-#EXTINF:-1,PPV: Cinema 11
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34487
-#EXTINF:-1,PPV: Cinema 12
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34488
-#EXTINF:-1,PPV: Cinema 13
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34489
-#EXTINF:-1,PPV: Cinema 14
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34490
-#EXTINF:-1,PPV: Cinema 15
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34491
-#EXTINF:-1,PPV: Cinema 16
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34492
-#EXTINF:-1,PPV: Cinema 17
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34493
-#EXTINF:-1,PPV: Cinema 18
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34494
-#EXTINF:-1,PPV: Cinema 19
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34495
-#EXTINF:-1,PPV: Cinema 20
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34496
-#EXTINF:-1,PPV: Cinema 21
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34497
-#EXTINF:-1,PPV: Cinema 22
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34498
-#EXTINF:-1,PPV: Cinema 24
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34500
-#EXTINF:-1,PPV: Cinema 25
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34501
-#EXTINF:-1,PPV: Cinema 26
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34502
-#EXTINF:-1,PPV: Cinema 27
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34503
-#EXTINF:-1,PPV: Cinema 28
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34504
-#EXTINF:-1,PPV: Cinema 30
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34506
-#EXTINF:-1,PPV: Cinema 31
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34507
-#EXTINF:-1,PPV: Cinema 32
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34508
-#EXTINF:-1,PPV: Cinema 33
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34509
-#EXTINF:-1,PPV: Cinema 34
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34510
-#EXTINF:-1,PPV: Cinema 35
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34511
-#EXTINF:-1,PPV: Cinema 36
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34512
-#EXTINF:-1,PPV: Cinema 37
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34513
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.81f3f2b82067c7390d267fe1efa59733?rik=9%2bfYBsjCQ1cfuQ&pid=ImgRaw&r=0", LOVE NATURE
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313137
