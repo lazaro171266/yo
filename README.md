@@ -342,6 +342,10 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34837
 #EXTINF:-1 group-title="TV OPCION 2",DISCOVERY SCIENCE
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312807
 
+
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.8vhf8zLPZbgrKt1FUXgqGQHaEK?w=254&h=180&c=7&r=0&o=5&pid=1.7", CANALES DE MUSICA
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png", CONECTA TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV 
