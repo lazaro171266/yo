@@ -370,8 +370,6 @@ https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
 #EXTINF:-1, AMORDISCOS
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
-#EXTINF:-1, VINTAGE MUSICA
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, CANTINA TV
@@ -386,6 +384,8 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, V CLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, VINTAGE MUSICA
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/dmlkZW8udG91cmNoYW5uZWxfaWNvbl8xNTcxMDE1ODc4XzA3Ng/icon.png?w=100&fakeurl=1",VIDEO TOUR CHANNEL
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://preview.redd.it/2ff36gtu41e71.jpg?auto=webp&s=d5f74b9ca69e4fba268b58e9972afd867f6d8b27", REWIND TV
