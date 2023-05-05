@@ -317,6 +317,25 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302743
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34856
 
 
+#EXTINF:-1 group-title="TV OPCION 2", CINEMA FAMILIA
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/50581
+#EXTINF:-1 group-title="TV OPCION 2", CINEMA DISNEY PIXAR
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/50579
+#EXTINF:-1 group-title="TV OPCION 2", CINEMA DREAMSWORK
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/50580
+#EXTINF:-1 group-title="TV OPCION 2", CINEMA HORROR
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/50583
+#EXTINF:-1 group-title="TV OPCION 2", LOS SIMPSONS
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/50616
+#EXTINF:-1 group-title="TV OPCION 2", LOONEY TUNES
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35526
+#EXTINF:-1 group-title="TV OPCION 2", SCOOBY DOO
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35533
+#EXTINF:-1 group-title="TV OPCION 2", EL CHAVO
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/58120
+#EXTINF:-1 group-title="TV OPCION 2", THE BIG BANG THEORY
+http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/58228
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.81f3f2b82067c7390d267fe1efa59733?rik=9%2bfYBsjCQ1cfuQ&pid=ImgRaw&r=0" group-title="TV OPCION 2", LOVE NATURE
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313137
 #EXTINF:-1 group-title="TV OPCION 2",Animal Planet 
