@@ -122,7 +122,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78398.ts
 #EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2019/11/distrito-comedia.jpg" group-title="TV OPCION 1", DISTRITO COMEDIA
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=272&f=.m3u8
 #EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2019/11/distrito-comedia.jpg" group-title="TV OPCION 2", DISTRITO COMEDIA 
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302634
+http://hidra.live:80/live/xaehsalg/454K7nBmkn/302634.m3u8
 #EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2019/11/distrito-comedia.jpg" group-title="TV OPCION 3", DISTRITO COMEDIA 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78416.ts
 #EXTINF:-1 tvg-logo="https://docplayer.es/docs-images/83/87269480/images/1-0.jpg", PASIONES
