@@ -162,6 +162,9 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43601
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313037
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/684061254353174529/wjSOKcvm_400x400.jpg" group-title="TV OPCION 2", ULTRA CLASICO
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/73896.m3u8
+
+#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/olympusat/ultra-mex-85364966.jpg" group-title="TV OPCION 3", ULTRA MEX
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78558.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXeSlJpHoIHVibHcBj0-vH993DnouCkUb7Flp7k=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 2", ULTRA MEX
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/85134.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/07/Ultra-Cine-Logo.png" group-title="TV OPCION 2", ULTRA CINE
