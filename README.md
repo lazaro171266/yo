@@ -17,6 +17,16 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://vanguardia.com.mx/binrepository/472x368/0c0/0d0/none/11604/RTNF/mvs-tv-120313_VG2706870_MG7078058.jpg" group-title="TV OPCION 1", MVS TV
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/12250.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.UJsCLP7nlLdTlkxtzvHQGgHaFj?w=233&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", +CINE
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr21JUm7clwHSrF87TPe1QRkRfM8JuAd_CQ&usqp=CAU" group-title="TV OPCION 1", CLASSIC CHANNEL
+https://paneltv.online:1936/8046/8046/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4SFnNM5q56jNyougOm6MrNbBsoxGD7EmJA&usqp=CAU" group-title="TV OPCION 1", KANAL D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQbU5L8feakFXv1ZHK8PpALBG3RENjhhyV7gOKq=s176-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", TERROR TV
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/plantilla-diseno-logotipo-canal-tv-linea-concepto-logotipo-fruta-transmision-vivo-empresa-entretenimiento-antena-como-hoja-boton-reproduccion-blanco-elipse-forma-redondeada-rojo-negro_228967-762.jpg" group-title="TV OPCION 1", TV Y TV
+https://Stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINO : VIENDOMOVIES" tvg-logo="http://onlytimewilltell.xyz:2086/images/45bf4f64448f46138bb4dcb0ef2e745a.png" group-title="TV OPCION 1",LATINO : VIENDOMOVIES
