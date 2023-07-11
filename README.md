@@ -129,7 +129,7 @@ http://mains.services/live/Jhbxcgoisnm/56756756765722222/33f1e4b9-1b07-4ab1-896d
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/b3178b38-5d56-4404-845a-42497f4a957d.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LATINO : CENTRO AMERICA TV" tvg-logo="https://seeklogo.com/images/C/centroamerica-tv-logo-340A62256A-seeklogo.com.png" group-title="TV OPCION 1",LATINO : CENTRO AMERICA TV
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/0957fe7b-bae3-435f-a122-db5bb5e90de4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : CARACOL TV" tvg-logo="http://onlytimewilltell.xyz:2086/images/3f82fda440556f498230839b709ea515.png" group-title="TV OPCION 1",LATINO : CARACOL TV
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CARACOL TV" tvg-logo="https://th.bing.com/th/id/OIP.N0-GOTi_03GYAivXQu6k3wHaHY?w=213&h=212&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1",LATINO : CARACOL TV
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/830bcdd8-846f-4c7f-9be8-0f56810bb3cf.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LATINO : CANAL 22 INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/220px-Logo_XEIMT-TV.svg.png" group-title="TV OPCION 1",LATINO : CANAL 22 INTERNACIONAL
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/39a369f5-195a-4f0b-8827-dc41ba2decee.m3u
@@ -140,9 +140,9 @@ http://mains.services/live/Jhbxcgoisnm/56756756765722222/722f66ab-1f52-4849-81cc
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ES : A&E" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="TV OPCION 1",ES : A&E
+#EXTINF:-1 tvg-id="" tvg-name="ES : A&E" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBPCQNPDitGAUy9uqEAaAfGq2jSss5UUGEXqQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="TV OPCION 1",ES : A&E
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/bb4cb027-1157-4968-b16d-e9524f4ed291.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ES : AMC" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="TV OPCION 1",ES : AMC
+#EXTINF:-1 tvg-id="" tvg-name="ES : AMC" tvg-logo="https://amcnetworks.es/noticias/amc/amc-networks-sustituye-mgm-channel-por-amc/" group-title="TV OPCION 1",ES : AMC
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/fa371f81-3fb0-4ab6-9758-d629d41e4f37.m3u
 #EXTINF:-1 tvg-id="" tvg-name="ES : ANIMAL PLANET" tvg-logo="http://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="TV OPCION 1",ES : ANIMAL PLANET
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/97e99fff-7846-47c3-a5cb-21a50cd070a7.m3u
@@ -352,6 +352,98 @@ http://mains.services/live/Jhbxcgoisnm/56756756765722222/a07b88e0-24f5-46d9-b686
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/a607705c-41e9-4979-b14a-3e22b37ebded.m3u
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUbrhoUvR7irF__UOi0uxVVjhLKC0F_UIAdj1v-0g=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", UNIVERSAL CHANNEL
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35266
+
+#EXTINF:-1, CANTINA TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png", CONECTA TV
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.mmradio.com/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dc126338448314449d0c.jpeg", TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", MUNDO DE LA MUSICA TV 
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, VISION MUSICA TV
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, HITS 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, VM LATINO
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, FABULOSA FM
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, CADENA ELITE
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, FM HIT
+https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, LA SABROSURA TV
+https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, VISION TV
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, SOY PLANCHA TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, MEMORIAS TV
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, TELE MUSICA
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
+#EXTINF:-1, AMORDISCOS
+https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
+#EXTINF:-1, SEXY KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, FREESTYLE DJS
+https://freestyledjs.ddns.net/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1, THE RETRO CHANNEL
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, OLDIES HITS
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, KARIBEÑA TV
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8?PlaylistM3UCL
+#EXTINF:-1, VCLASIC TV TROPICAL
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, MAS CUMBIA
+https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, V CLASSIC TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, VINTAGE MUSICA
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/dmlkZW8udG91cmNoYW5uZWxfaWNvbl8xNTcxMDE1ODc4XzA3Ng/icon.png?w=100&fakeurl=1",VIDEO TOUR CHANNEL
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://preview.redd.it/2ff36gtu41e71.jpg?auto=webp&s=d5f74b9ca69e4fba268b58e9972afd867f6d8b27", REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vLvQKx6bpHkxLM0RcSex_N_L4gEB5kIQvhrSZNgnaqjw-xTooaXt0HwcMc_hE3ytV5E", EL GALPON 80
+https://stmv2.zcasthn.com.br/ferchile/ferchile/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, RE7
+https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png", RECUERDOS RETRO
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2F0aW9uLnJldHJvcGx1c19zY3JlZW5fMF8xNTU2MzExMDMyXzAyMA/screen-0.jpg?h=500&fakeurl=1&type=.jpg", RETRO PLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2F0aW9uLnJldHJvcGx1c19zY3JlZW5fMF8xNTU2MzExMDMyXzAyMA/screen-0.jpg?h=500&fakeurl=1&type=.jpg", RETRO PLUS TV - SEÑAL 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2F0aW9uLnJldHJvcGx1c19zY3JlZW5fMF8xNTU2MzExMDMyXzAyMA/screen-0.jpg?h=500&fakeurl=1&type=.jpg", RETRO PLUS TV - SEÑAL 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t1.6435-9/101207717_587303221907601_3488682173672718336_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=d3dvxH5PG2wAX-uxEZf&tn=Zm9NyaopXhj1iRga&_nc_ht=scontent.fver2-1.fna&oh=00_AT_V4GEFNgw6swA5UmHq5lMD9ljyP9zWjkSE9_gghDIwpA&oe=62C864DA", TV POP
+https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, PARENTESIS TV
+https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg", PORTAL FOXMIX
+https://video.streamingchilenos.cl:1936/8026/8026/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999132/800x800.png?type=smartCast_channelTile",VEVO 80S
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/loop-80s-us.png", LOOP 80´S
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png", TV RETRO
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1, TU MUSICA HD
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8?PlaylistM3UCL
+#EXTINF:-1, PANAVISION
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1074_Eva_Retro.png", Eva Retro 
+https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1029_Evavision_Pachanga.png", Evavisión Pachanga 
+http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRzEPtdvrqFMf32Co5KDqwjQwR5rpIYhLM1JetS=s900-c-k-c0x00ffffff-no-rj", LOOP TV LATINOS
+https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
+#EXTINF:-1, HOUSE MUSIC TV
+https://paneltv.net:3767/stream/play.m3u8?PlaylistM3UCL
+
 
 
 
