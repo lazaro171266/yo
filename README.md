@@ -15,7 +15,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xGaFC3C8uTY/maxresdefault.jpg" group-title="TV OPCION 1", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-https://netsolution.pl/wp-content/uploads/2018/02/canalplus_film_logo_1.giflogo="https://image.roku.com/developer_channels/prod/44511bab56d57f77ab61065d12a1ce71098a95336d0d2a632d833ae5c934c9d2.png" group-title="TV OPCION 1", AZTECA MAS
+#EXTINF:-1 tvg-logo="https://netsolution.pl/wp-content/uploads/2018/02/canalplus_film_logo_1.giflogo="https://image.roku.com/developer_channels/prod/44511bab56d57f77ab61065d12a1ce71098a95336d0d2a632d833ae5c934c9d2.png" group-title="TV OPCION 1", AZTECA MAS
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 1", CANAL 5 
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=9
@@ -31,9 +31,9 @@ http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=beto_7hd
 http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=cinemundo_plus
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/cinema-movie-vector-poster-design-template-popcorn-filmstrip-clapboard-tickets-movie-time-background-banner-shining-sign-83041595.jpg" group-title="TV OPCION 1", CINEMA HD
 http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=ganja_tv_2
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.JzKwIMyI9Vrpeie1moXm_wHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", PUNTO MOVIES
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Features/24/55/71/dj.bixlbzus.tif/400x400cc.jpg" group-title="TV OPCION 1", PUNTO MOVIES
 http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=punto_movies
-#EXTINF:-1 tvg-logo="https://netsolution.pl/wp-content/uploads/2018/02/canalplus_film_logo_1.gif" group-title="TV OPCION 1", CANAL MOVIES
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.3B4uKQeqw20jwxdKwswiWAHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", CANAL MOVIES
 http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=a_neflix01
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxqoELTnWJTmGdc8N0XyQ88BgQZh3uYB0fzP_NT=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1", PELICULAS MANIA
 http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=peliculas_mania
