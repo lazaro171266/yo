@@ -69,7 +69,12 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=182
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=184
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGNPtUroUbz8Q/company-logo_200_200/0/1664215107963?e=2147483647&v=beta&t=xO8K2PHuuJJU1-khrYHU1pdrzdvQoSXyuzEt4Fr0SW0" group-title="TV OPCION 1", FX
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=187
-
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="TV OPCION 1", UNIVERSAL STUDIO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=194
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.a46d1c8035697ae6a5667f7828c66fd7?rik=LiHazTPL9IxvXw&pid=ImgRaw&r=0" group-title="TV OPCION 1", SyFy
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=196
+#EXTINF:-1 tvg-logo="https://files.lafm.com.co/assets/public/2021-02/star.jpg" group-title="TV OPCION 1", STAR CHANNEL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=206
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR2B2dBenxwDK-39uWhz5NlUYwCOlPffEV_Sy1q=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", LOBO TV
