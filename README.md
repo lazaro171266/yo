@@ -11,10 +11,13 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="TV OPCION 1", ADN40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.gUWL8KrHa36yz-0AVGm6AwHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", TUDN
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/radios-150px/2L9FyAywnv.jpg" group-title="TV OPCION 1", TUDN
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=276
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.6e8edeec4fa5692d0b8b08cd952ac7c1?rik=Y%2bRNIEGsrusghA&riu=http%3a%2f%2fguillermopanizza.com.ar%2fbeta%2fwp-content%2fuploads%2f2017%2f07%2fFox-Sports-Premium-logo.png&ehk=3K4gub0Fp4bc5L3Mf6%2fZ7rESEW8VNmKCj2Ofo3f56j8%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", FOX SPORTS PREMIUM
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=287
+
+
+
 #EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 1", TELEMUNDO
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=270https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=270
 #EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/aztecauno.jpg" group-title="TV OPCION 1", AZTECA UNO
@@ -107,6 +110,8 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=222
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=269
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AJ0-cwuIhx0/maxresdefault.jpg" group-title="TV OPCION 1", CINEMAX
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=288
+#EXTINF:-1 tvg-logo="https://antoniogenna.com/wp-content/uploads/2010/05/tnt-logo-300x298.gif" group-title="TV OPCION 1", TNT
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=199
 
 
 
