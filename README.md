@@ -22,9 +22,9 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=287
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=270https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=270
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png" group-title="TV OPCION 2", AZTECA 7 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png" group-title="TV OPCION 1", AZTECA 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgUc4QHpE2QCHeAQVm2HprLawGM1RlPmRWQ&usqp=CAU" group-title="TV OPCION 2", A+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgUc4QHpE2QCHeAQVm2HprLawGM1RlPmRWQ&usqp=CAU" group-title="TV OPCION 1", A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 1", CANAL 5 
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=9
