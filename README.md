@@ -47,6 +47,21 @@ http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=terror_mania
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vzNy4ePj6P7YwFyNRvE8uCEG4H3wTmZH1-v40dZbaYG0CE100DiTrKm7oD7W2EgHFTfWGhsy=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", UNICABLE 
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=21
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn?format=jpg&name=small" group-title="TV OPCION 1", AXN 
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=64
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUbrhoUvR7irF__UOi0uxVVjhLKC0F_UIAdj1v-0g=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", UNIVERSAL CHANNEL
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=105
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.4L5SSHiEp9cVVE8GS-hMiQHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", BITME
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=110
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ce18750046a1250aee26ca3735faae51?rik=wAzBzKOvqM4qQA&riu=http%3a%2f%2fimages.mi.tv%2fchannels%2far_el-gourmet_m.png&ehk=56fd26XgSNV%2f8%2b4%2f8zfViSGXNaVOiJPVQP5h44b72%2bc%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", EL GOURMET
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=152
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ysSoHmfeNt5oyMdgFXhPwQAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", LIFETIME
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=162
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR2B2dBenxwDK-39uWhz5NlUYwCOlPffEV_Sy1q=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", LOBO TV
@@ -670,16 +685,10 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313039
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 3", MILENIO HD 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78489.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 3", AZTECA UNO -1 hora
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302685
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png" group-title="TV OPCION 3", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png" group-title="TV OPCION 3", AZTECA 7 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78352.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV OPCION 3", LAS ESTRELLAS
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67327.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV OPCION 3", LAS ESTRELLAS -1 HORA
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304504
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 3", CANAL 5 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/101363.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vzNy4ePj6P7YwFyNRvE8uCEG4H3wTmZH1-v40dZbaYG0CE100DiTrKm7oD7W2EgHFTfWGhsy=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 3", UNICABLE 
@@ -698,7 +707,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78416.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67380.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV OPCION 3", GOLDEN EDGE
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78461.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV OPCION 3", GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV OPCION 3", GOLDEN EDGE
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67381.ts
 #EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/space.jpg" group-title="TV OPCION 3", SPACE 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78519.ts
