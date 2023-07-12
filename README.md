@@ -75,12 +75,17 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=194
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=196
 #EXTINF:-1 tvg-logo="https://files.rcnradio.com/2021-02/foxch.jpg" group-title="TV OPCION 1", STAR CHANNEL 
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=206
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.NSwkdw0w86945YIm4RF9tAHaFj?pid=ImgDet&rs=1" group-title="TV OPCION 1", GOLDEN
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d70e2d9b9a67aad84679cdf1eee48612?rik=eRBLtHSZzpxhrg&riu=http%3a%2f%2fcablez.com.mx%2fwp-content%2fuploads%2f2017%2f03%2fCinema_golden_choice.png&ehk=CA%2ff2dkoiP1EgstoGRifJVKguaOEWDX4%2fJOOuQ2JkSQ%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", GOLDEN
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=208
-#EXTINF:-1 tvg-logo="https://live.staticflickr.com/4683/39199446922_0b81e3e488.jpg" group-title="TV OPCION 1", GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://static.jobdone.net/images_staging/2042/design-a-unique-appealing-logo-for-your-company-R5xqIQzSs2.png" group-title="TV OPCION 1", GOLDEN PLUS
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=210
 #EXTINF:-1 tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/golden-premier.jpg" group-title="TV OPCION 1", GOLDEN PREMIER
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=211
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR2B2dBenxwDK-39uWhz5NlUYwCOlPffEV_Sy1q=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", LOBO TV
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
