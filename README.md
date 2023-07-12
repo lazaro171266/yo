@@ -81,13 +81,13 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=208
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=210
 #EXTINF:-1 tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/golden-premier.jpg" group-title="TV OPCION 1", GOLDEN PREMIER
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=211
-#EXTINF:-1 tvg-logo="https://www.auditionfinder.com/wp-content/uploads/2018/02/Will-Ferrell%E2%80%99s-Succession-Season-1-HBO-TV.jpg" group-title="TV OPCION 1", HBO
+#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/hbo-e135dd9b-9600-4eb1-8818-0b0a509b730-resize-750.jpeg" group-title="TV OPCION 1", HBO
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=212
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.LUsHVgS5aoxFb0ucU-fHAAAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", HBO2
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=213
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2YxRpbfBuhQ/X6CWuz7vQzI/AAAAAAAAKhc/TmtKzuyorZQFx_kOtTQCAIXygqmyIksOwCLcBGAsYHQ/w1200-h630-p-k-no-nu/HBO%2BPLUS.jpg" group-title="TV OPCION 1", HBO+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/p0I0D0thbWc/hqdefault.jpg" group-title="TV OPCION 1", HBO+
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=214
-#EXTINF:-1 tvg-logo="https://proflix.pro/upload/images/h%20(6).jpg" group-title="TV OPCION 1", HBO POP
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="TV OPCION 1", HBO POP
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=217
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.-pNGKpQVNA3pwgv-2l5CEgAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", HBO FAMILY
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=215
