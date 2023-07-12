@@ -57,6 +57,8 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=110
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=152
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ysSoHmfeNt5oyMdgFXhPwQAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", LIFETIME
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=162
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ddc36ac015e01fee6366fb10bf1f11ca?rik=dof5ZJfbLD48pg&pid=ImgRaw&r=0" group-title="TV OPCION 1", AMC
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=173
 
 
 
