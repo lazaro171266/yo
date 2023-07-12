@@ -115,7 +115,7 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=288
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=199
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-q9n_zoXc0OQ/VsBOfhzDYzI/AAAAAAAAz7o/bTb8eLAnuf0/s1600/Cinecanal_logo.jpg" group-title="TV OPCION 1", CINECANAL 
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=177
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", WARNER TV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.b2fed26140640991b2ed39b447e27961?rik=T04sfH7DmA%2bzhA&pid=ImgRaw&r=0" group-title="TV OPCION 1", WARNER TV
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=108
 
 
