@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.sYlE99I7qxfdZ46cst26dgAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", LOS SIMPSON 24/7
-http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=simpson_maniahd189
+http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=simpson_maniahd192
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1" group-title="TV OPCION 1", ESTRELLA NOTICIAS
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio-miami.org/wp-content/uploads/2016/12/RT-en-Espa%C3%B1ol.jpg" group-title="TV OPCION 1", RT ESPAÑOL
@@ -15,17 +15,32 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xGaFC3C8uTY/maxresdefault.jpg" group-title="TV OPCION 1", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/44511bab56d57f77ab61065d12a1ce71098a95336d0d2a632d833ae5c934c9d2.png" group-title="TV OPCION 1", AZTECA MAS
+#EXTINF:-1 tvg-https://netsolution.pl/wp-content/uploads/2018/02/canalplus_film_logo_1.giflogo="https://image.roku.com/developer_channels/prod/44511bab56d57f77ab61065d12a1ce71098a95336d0d2a632d833ae5c934c9d2.png" group-title="TV OPCION 1", AZTECA MAS
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 1", CANAL 5 
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV OPCION 1", LAS ESTRELLAS
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=17
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Zyi1MipgekuDSFenAGxpjgHaGm?w=172&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/wkaq-tv2_telemundo_puerto_rico_2018_0.png?WakmXAF..Z7IRF5ghGNiowR92QYzLHG8&itok=fiemUi_o" group-title="TV OPCION 1",TELEMUNDO PR
 https://regioplay.xyz/php/SR_REGIO_105023_/playpc.php?c=l1?ch=telemundo_pr
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.8Dhk8K_u_Kt6d4R1D2gakgHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", CINE HD
 http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=beto_7hd
-
-
-
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9bee320c3818dbc2ddc14975a99e84a5?rik=zCyWwiA65QPS1g&pid=ImgRaw&r=0" group-title="TV OPCION 1", CINE MUNDO+
+http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=cinemundo_plus
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/cinema-movie-vector-poster-design-template-popcorn-filmstrip-clapboard-tickets-movie-time-background-banner-shining-sign-83041595.jpg" group-title="TV OPCION 1", CINEMA HD
+http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=ganja_tv_2
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.JzKwIMyI9Vrpeie1moXm_wHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", PUNTO MOVIES
+http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=punto_movies
+#EXTINF:-1 tvg-logo="https://netsolution.pl/wp-content/uploads/2018/02/canalplus_film_logo_1.gif" group-title="TV OPCION 1", CANAL MOVIES
+http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=a_neflix01
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxqoELTnWJTmGdc8N0XyQ88BgQZh3uYB0fzP_NT=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1", PELICULAS MANIA
+http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=peliculas_mania
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQbU5L8feakFXv1ZHK8PpALBG3RENjhhyV7gOKq=s176-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", TERROR TV
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/terror_mania_320.jpg" group-title="TV OPCION 1", TERROR MANIA
+http://regioplay.xyz/php/SR_REGIO_105023_/vs.php?key=SrRegio&c=terror_mania
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR2B2dBenxwDK-39uWhz5NlUYwCOlPffEV_Sy1q=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", LOBO TV
@@ -42,8 +57,6 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
 https://paneltv.online:1936/8046/8046/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4SFnNM5q56jNyougOm6MrNbBsoxGD7EmJA&usqp=CAU" group-title="TV OPCION 1", KANAL D DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQbU5L8feakFXv1ZHK8PpALBG3RENjhhyV7gOKq=s176-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", TERROR TV
-https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/plantilla-diseno-logotipo-canal-tv-linea-concepto-logotipo-fruta-transmision-vivo-empresa-entretenimiento-antena-como-hoja-boton-reproduccion-blanco-elipse-forma-redondeada-rojo-negro_228967-762.jpg" group-title="TV OPCION 1", TV Y TV
 https://Stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="TV OPCION 1", ORBIT TV
