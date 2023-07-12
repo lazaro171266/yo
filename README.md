@@ -11,6 +11,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="TV OPCION 1", ADN40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://s1.gifyu.com/images/telemundo-logo-12.md.png" group-title="TV OPCION 1", TELEMUNDO
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=270https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=270
 #EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/aztecauno.jpg" group-title="TV OPCION 1", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xGaFC3C8uTY/maxresdefault.jpg" group-title="TV OPCION 1", AZTECA 7
@@ -99,9 +101,12 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=218
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=222
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.e44e7c72190c0a390251343634a85aa3?rik=S%2fLxkwaMdov5aA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-GFG-V-PcDIE%2fVTkB9lAYXWI%2fAAAAAAAACkM%2fNg4qwzfT5YM%2fs1600%2f2Vk7B-Ds_400x400.png&ehk=x%2fQOol16gX6lbbOF6odGYR%2btE22bPlhgMRH46LBOtQQ%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", SPACE
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=269
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AJ0-cwuIhx0/maxresdefault.jpg" group-title="TV OPCION 1", CINEMAX
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=288
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR2B2dBenxwDK-39uWhz5NlUYwCOlPffEV_Sy1q=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", LOBO TV
+
+#EXTINF:-1 tvg-logo="https:/https://i.ytimg.com/vi/AJ0-cwuIhx0/maxresdefault.jpg/yt3.ggpht.com/ytc/AKedOLR2B2dBenxwDK-39uWhz5NlUYwCOlPffEV_Sy1q=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", LOBO TV
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="TV OPCION 1", AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
