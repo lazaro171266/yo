@@ -82,6 +82,8 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=181
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=182
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="TV OPCION 1", EUROPA EUROPA
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=184
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.729936f5e9281d7a35929dd82ff86503?rik=H6sRbFmNSufuBw&riu=http%3a%2f%2fmedia.masslive.com%2fentertainment%2fphoto%2f11287290-large.jpg&ehk=Zn%2bTrTi2xGq%2fh4xsRUOoZDB9G5SoSqEo02QlHiRDc9U%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", A&E
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=61
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGNPtUroUbz8Q/company-logo_200_200/0/1664215107963?e=2147483647&v=beta&t=xO8K2PHuuJJU1-khrYHU1pdrzdvQoSXyuzEt4Fr0SW0" group-title="TV OPCION 1", FX
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=187
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="TV OPCION 1", UNIVERSAL STUDIO
