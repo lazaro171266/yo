@@ -93,11 +93,12 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=217
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=215
 #EXTINF:-1 tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/HBO-Mundi-.png" group-title="TV OPCION 1", HBO MUNDI
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=216
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/max_808/11355023.548145c7b7edf.jpg" group-title="TV OPCION 1", HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lCFv64gzhw8/hqdefault.jpg" group-title="TV OPCION 1", HBO SIGNATURE
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=218
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/87/c7/05/87c70560f43228712563c5352afe1f03.jpg" group-title="TV OPCION 1", PARAMOUNT NETWORK
 https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=222
-
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.e44e7c72190c0a390251343634a85aa3?rik=S%2fLxkwaMdov5aA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-GFG-V-PcDIE%2fVTkB9lAYXWI%2fAAAAAAAACkM%2fNg4qwzfT5YM%2fs1600%2f2Vk7B-Ds_400x400.png&ehk=x%2fQOol16gX6lbbOF6odGYR%2btE22bPlhgMRH46LBOtQQ%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", SPACE
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=269
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR2B2dBenxwDK-39uWhz5NlUYwCOlPffEV_Sy1q=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", LOBO TV
