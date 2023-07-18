@@ -27,6 +27,8 @@ https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=287
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=beto_7hd
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9bee320c3818dbc2ddc14975a99e84a5?rik=zCyWwiA65QPS1g&pid=ImgRaw&r=0" group-title="TV OPCION 1", CINE MUNDO+
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=cinemundo_plus
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", +CINE
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/cinema-movie-vector-poster-design-template-popcorn-filmstrip-clapboard-tickets-movie-time-background-banner-shining-sign-83041595.jpg" group-title="TV OPCION 1", CINEMA HD
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=ganja_tv_2
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Features/24/55/71/dj.bixlbzus.tif/400x400cc.jpg" group-title="TV OPCION 1", PUNTO MOVIES
