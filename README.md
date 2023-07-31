@@ -185,6 +185,8 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", MAS CUMBIA
 https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8?PlaylistM3UCL
+#EXTINF:-1, RETR0 PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", V CLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo=" "group-title="TV OPCION 1", VINTAGE MUSICA
@@ -199,8 +201,6 @@ https://stmv2.zcasthn.com.br/ferchile/ferchile/playlist.m3u8?PlaylistM3UCL
 https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png" group-title="TV OPCION 1", RECUERDOS RETRO
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1, RETRO PLUS TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2F0aW9uLnJldHJvcGx1c19zY3JlZW5fMF8xNTU2MzExMDMyXzAyMA/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="TV OPCION 1", RETRO PLUS TV - SEÑAL 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2F0aW9uLnJldHJvcGx1c19zY3JlZW5fMF8xNTU2MzExMDMyXzAyMA/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="TV OPCION 1", RETRO PLUS TV - SEÑAL 3
