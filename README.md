@@ -199,7 +199,7 @@ https://stmv2.zcasthn.com.br/ferchile/ferchile/playlist.m3u8?PlaylistM3UCL
 https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png" group-title="TV OPCION 1", RECUERDOS RETRO
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2F0aW9uLnJldHJvcGx1c19zY3JlZW5fMF8xNTU2MzExMDMyXzAyMA/screen-0.jpg?h=500&fakeurl=1&type=.jpg", RETRO PLUS TV
+#EXTINF:-1, RETRO PLUS TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2F0aW9uLnJldHJvcGx1c19zY3JlZW5fMF8xNTU2MzExMDMyXzAyMA/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="TV OPCION 1", RETRO PLUS TV - SEÑAL 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
