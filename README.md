@@ -141,7 +141,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?WebM3UCL
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", CANTINA TV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.AeulrL_hRVhxCMdWqiu_ZAAAAA?w=171&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", CANTINA TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png" group-title="TV OPCION 1", CONECTA TV
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
@@ -149,17 +149,17 @@ https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="TV OPCION 1", MUNDO DE LA MUSICA TV 
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCIONN 1", VISION MUSICA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimiTRDJq3fMvgzj4BE09vpAYJY0sy2NDI6PAKVy5wfOcuzERb6WyiuMjPuODEhSy10Z1bHQpeqL8dOUJzk3CDKxC7-yjF3tERmlFXbfV3oiNYM6SewJMsecN35SUTO7Be2opI-jrq6ummBHlALus-lSyCmV1u8YHEByKraUod3r2cHpnPtuN3I6joM/s1600/vision-tv-musica.png" group-title="TV OPCIONN 1", VISION MUSICA TV
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", HITS 360
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.GMkIWlKq7_IWNFNqNFD9KAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", HITS 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", VM LATINO
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8c4f4bd62212c6c0a3865ce67c88a30a?rik=DipubajYnPEPtA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-YCK6f1r9GLc%2fUEqpjGZA3uI%2fAAAAAAAAAxY%2foFFEXy__eXs%2fs1600%2fvmcanaldelamusica.jpg&ehk=HJJdEnk3o4RlYUGLYaxd3S67aoABmcI5XuByukfDR48%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", VM LATINO
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", FABULOSA FM
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.BL2PYReyaNu1UKUKzrLG7gHaHa?w=157&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", FABULOSA FM
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", CADENA ELITE
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.9Z0y0SW-9MdFbql8J73RrwAAAA?w=139&h=150&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", FM HIT
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.gt2qV2ZkFGZY7RTq8Z3RfwHaHa?w=180&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", FM HIT
 https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", LA SABROSURA TV
 https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
