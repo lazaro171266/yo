@@ -161,17 +161,15 @@ http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.gt2qV2ZkFGZY7RTq8Z3RfwHaHa?w=180&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", FM HIT
 https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", LA SABROSURA TV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.pkdEO7Pw522PJiEl9scB6wHaHa?w=160&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", LA SABROSURA TV
 https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", VISION TV
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", SOY PLANCHA TV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", MEMORIAS TV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rcoZX4bOwtLt6U07QYHqbwAAAA?pid=ImgDet&w=206&h=206&c=7" group-title="TV OPCION 1", MEMORIAS TV
 https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", TELE MUSICA
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zpLpuDyiJ4OiGbEsVdPwWAHaFw?pid=ImgDet&rs=1" group-title="TV OPCION 1", TELE MUSICA
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", AMORDISCOS
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgbQnnDFbNHyu8PVfOyf8dr9x3Av6nInyMUvSOYD2jPUC6mtQVYRMmPCn-Q6X1ssAtyJc7PaHJmag946n-yrQ_V1ua0hzg9yGpIDUUEgiVG79UDROH51DMwy6k3oIMusDq2m3xDsNM1a5uySLzCR4O37ZXpkKwfY7PMVinA0GaujUAjUBzOZzLW389W=w1600" group-title="TV OPCION 1", AMORDISCOS
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
