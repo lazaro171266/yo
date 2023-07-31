@@ -544,11 +544,11 @@ http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59644
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="TV OPCION 2", CNN ESPAÑOL 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 2", AZTECA UNO 
-
+http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/24944
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png" group-title="TV OPCION 2", AZTECA 7 
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43605
+http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/55053
 #EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="TV OPCION 2", AZ MUNDO
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43603
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgUc4QHpE2QCHeAQVm2HprLawGM1RlPmRWQ&usqp=CAU" group-title="TV OPCION 2", A+ 
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302604
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FoP883UjFoijLtMspFK776a5Cf8JeNggTFexxGFFuixfF2g17-g8Ke-SwEmCUL-Kx2U&usqp=CAU" group-title="TV OPCION 2", AZ CORAZON
@@ -572,7 +572,7 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35056
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_comedy-central-hd_m.png" group-title="TV OPCION 2", COMEDY CENTRAL 
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34950
 #EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2019/11/distrito-comedia.jpg" group-title="TV OPCION 2", DISTRITO COMEDIA 
-http://hidra.live:80/live/xaehsalg/454K7nBmkn/302634.m3u8
+http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59454
 #EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2019/11/distrito-comedia.jpg" group-title="TV OPCION 2", DISTRITO COMEDIA 
 http://hidra.live:80/live/xaehsalg/454K7nBmkn/302634.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf8PZb6tdtui8fSVYRPWhRob43FCDEVWncg&usqp=CAU" group-title="TV OPCION 2", TELEMUNDO INTERNACIONAL 
