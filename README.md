@@ -475,23 +475,23 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78519.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78522.ts
 
 
-#EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="TV OPCION "4, LA ROSA DE GUADALUPE
+#EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="TV OPCION 4", LA ROSA DE GUADALUPE
 http://gotv.vip:8880/Jaime/Jaime123/36555
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION "4, MILENIO HD 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 4", MILENIO HD 
 http://gotv.vip:8880/Jaime/Jaime123/614
 #EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png" group-title="TV OPCION 4", TELEFORMULA 
 http://gotv.vip:8880/Jaime/Jaime123/121
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | ESTRELLA NEWS" tvg-logo="" group-title="TV OPCION 4",ESTRELLA NEWS
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1" group-title="TV OPCION 4", ESTRELLA NOTICIAS
 http://gotv.vip:8880/Jaime/Jaime123/37985
 #EXTINF:-1 tvg-id="I9.15384.schedulesdirect.org" tvg-name="Latino | ADN40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="TV OPCION 4",ADN40
 http://gotv.vip:8880/Jaime/Jaime123/345
 #EXTINF:-1 tvg-id="forotv.mx" tvg-name="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="TV OPCION 4",FORO TV
 http://gotv.vip:8880/Jaime/Jaime123/68
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Unicable" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="TV OPCION 4",Unicable
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Unicable" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="TV OPCION 4",UNICABLE
 http://gotv.vip:8880/Jaime/Jaime123/368
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TLnovelas" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="TV OPCION 4",TLnovelas
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TLnovelas" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="TV OPCION 4",TLNOVELAS
 http://gotv.vip:8880/Jaime/Jaime123/370
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISTRITO COMEDIA" tvg-logo="https://forounivers.com/uploads/monthly_2018_10/large.Distrito_comedia2018.png.2134b7cf7371cfacfd887b32228d20ec.png" group-title="TV OPCION 4",DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 4", DISTRITO COMEDIA 
 http://gotv.vip:8880/Jaime/Jaime123/57
 #EXTINF:-1 tvg-id="I236.10989.zap2it.com" tvg-name="E! Entertaiment" tvg-logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg" group-title="TV OPCION 4",E! Entertaiment
 http://gotv.vip:8880/Jaime/Jaime123/58
