@@ -54,7 +54,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 1", CANAL 5 
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=9
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV OPCION 1", LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=17
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Zyi1MipgekuDSFenAGxpjgHaGm?w=172&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MULTIMEDIOS MTY 
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=20
@@ -439,13 +439,13 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78489.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67419.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png" group-title="TV OPCION 3", AZTECA 7 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78352.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV OPCION 3", LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67327.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 3", CANAL 5 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/101363.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vzNy4ePj6P7YwFyNRvE8uCEG4H3wTmZH1-v40dZbaYG0CE100DiTrKm7oD7W2EgHFTfWGhsy=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 3", UNICABLE 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67440.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889329572961038336/l6RhES-Q.jpg" group-title="TV OPCION 3", A & E
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.729936f5e9281d7a35929dd82ff86503?rik=H6sRbFmNSufuBw&riu=http%3a%2f%2fmedia.masslive.com%2fentertainment%2fphoto%2f11287290-large.jpg&ehk=Zn%2bTrTi2xGq%2fh4xsRUOoZDB9G5SoSqEo02QlHiRDc9U%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 3", A&E
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78333.ts
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGNPtUroUbz8Q/company-logo_200_200/0/1664215107963?e=2147483647&v=beta&t=xO8K2PHuuJJU1-khrYHU1pdrzdvQoSXyuzEt4Fr0SW0" group-title="TV OPCION 3", FX
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78455.ts
@@ -461,7 +461,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78416.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/73896.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXeSlJpHoIHVibHcBj0-vH993DnouCkUb7Flp7k=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 3", ULTRA MEX
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78558.ts
-#EXTINF:-1 tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2020/12/canal-amc-logo.jpg" group-title="TV OPCION 3", AMC
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ddc36ac015e01fee6366fb10bf1f11ca?rik=dof5ZJfbLD48pg&pid=ImgRaw&r=0" group-title="TV OPCION 3", AMC
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78340.ts
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png" group-title="TV OPCION 3", GOLDEN PLUS
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67380.ts
@@ -475,11 +475,11 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78519.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78522.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ROSA DE GUADALUPE" tvg-logo="" group-title="TV OPCION 4", LA ROSA DE GUADALUPE
+#EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="TV OPCION "4, LA ROSA DE GUADALUPE
 http://gotv.vip:8880/Jaime/Jaime123/36555
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="MILENIO TV" tvg-logo="https://www.milenioplay.com/upload/media/default/0002/47/thumb_146766_default_big_tv.jpeg" group-title="TV OPCION 4"Noticias,MILENIO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION "4, MILENIO HD 
 http://gotv.vip:8880/Jaime/Jaime123/614
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TELEFORMULA" tvg-logo="https://selectra.mx/sites/default/files/images/logos/teleformula-350x183.png" group-title="TV OPCION 4"Noticias,TELEFORMULA
+#EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png" group-title="TV OPCION 4", TELEFORMULA 
 http://gotv.vip:8880/Jaime/Jaime123/121
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS | ESTRELLA NEWS" tvg-logo="" group-title="TV OPCION 4",ESTRELLA NEWS
 http://gotv.vip:8880/Jaime/Jaime123/37985
