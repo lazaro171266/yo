@@ -500,29 +500,27 @@ http://gotv.vip:8880/Jaime/Jaime123/59
 #EXTINF:-1 tvg-id="I242.45910.schedulesdirect.org" tvg-name="EL GOURMET" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="TV OPCION 4",EL GOURMET
 http://gotv.vip:8880/Jaime/Jaime123/60
 
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION ATLANTA" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="TV OPCION 4",GALAVISION ATLANTA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION ATLANTA
 http://gotv.vip:8880/Jaime/Jaime123/587
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION AUSTIN" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="TV OPCION 4",GALAVISION AUSTIN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION AUSTIN
 http://gotv.vip:8880/Jaime/Jaime123/588
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION EAST" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="TV OPCION 4",GALAVISION EAST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION EAST
 http://gotv.vip:8880/Jaime/Jaime123/591
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION FRESNO" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="TV OPCION 4",GALAVISION FRESNO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION FRESNO
 http://gotv.vip:8880/Jaime/Jaime123/592
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION LA" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="TV OPCION 4",GALAVISION LA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION LA
 http://gotv.vip:8880/Jaime/Jaime123/594
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION MIAMI" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="TV OPCION 4",GALAVISION MIAMI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION MIAMI
 http://gotv.vip:8880/Jaime/Jaime123/596
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION PHOENIX" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="TV OPCION 4",GALAVISION PHOENIX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION PHOENIX
 http://gotv.vip:8880/Jaime/Jaime123/599
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SACRAMENTO" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="TV OPCION 4",GALAVISION SACRAMENTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION SACRAMENTO
 http://gotv.vip:8880/Jaime/Jaime123/601
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SAN ANTONIO" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="TV OPCION 4",GALAVISION SAN ANTONIO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION SAN ANTONIO
 http://gotv.vip:8880/Jaime/Jaime123/603
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION WEST" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="TV OPCION 4",GALAVISION WEST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION WEST
 http://gotv.vip:8880/Jaime/Jaime123/605
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT| UNITEL BOLIVIA*" tvg-logo="" group-title="TV OPCION 4",UNITEL BOLIVIA*
-http://gotv.vip:8880/Jaime/Jaime123/69744
 #EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO MCALLEN TX *" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO MCALLEN TX *
 http://gotv.vip:8880/Jaime/Jaime123/69745
 #EXTINF:-1 tvg-id="telemundowzdc.us" tvg-name="LAT| TELEMUNDO WASHINGTON HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO WASHINGTON HD
