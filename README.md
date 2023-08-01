@@ -521,61 +521,61 @@ http://gotv.vip:8880/Jaime/Jaime123/603
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 4", GALAVISION WEST
 http://gotv.vip:8880/Jaime/Jaime123/605
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO MCALLEN TX *" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO MCALLEN TX *
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO MCALLEN TX
 http://gotv.vip:8880/Jaime/Jaime123/69745
-#EXTINF:-1 tvg-id="telemundowzdc.us" tvg-name="LAT| TELEMUNDO WASHINGTON HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO WASHINGTON HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO WASHINGTON HD
 http://gotv.vip:8880/Jaime/Jaime123/69746
-#EXTINF:-1 tvg-id="telemundokrdo.us" tvg-name="LAT| TELEMUNDO COLORADO HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO COLORADO HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO COLORADO HD
 http://gotv.vip:8880/Jaime/Jaime123/69747
-#EXTINF:-1 tvg-id="telemundokmasld.us" tvg-name="LAT| TELEMUNDO DENVER HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO DENVER HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO DENVER HD
 http://gotv.vip:8880/Jaime/Jaime123/69748
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO NEW ORLEANS HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO NEW ORLEANS HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO NEW ORLEANS HD
 http://gotv.vip:8880/Jaime/Jaime123/69749
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO NEBRASKA HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO NEBRASKA HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO NEBRASKA HD
 http://gotv.vip:8880/Jaime/Jaime123/69750
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO SAN FRANCISCO HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO SAN FRANCISCO HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO SAN FRANCISCO HD
 http://gotv.vip:8880/Jaime/Jaime123/69751
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO OKLAHOMA HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO OKLAHOMA HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO OKLAHOMA HD
 http://gotv.vip:8880/Jaime/Jaime123/69752
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO 39 TX HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO 39 TX HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO 39 TX HD
 http://gotv.vip:8880/Jaime/Jaime123/69753
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO 52 LOS ANGELES HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO 52 LOS ANGELES HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO 52 LOS ANGELES HD
 http://gotv.vip:8880/Jaime/Jaime123/69754
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO  BOSTON HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO  BOSTON HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO BOSTON HD
 http://gotv.vip:8880/Jaime/Jaime123/69755
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO CENTRAL HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO CENTRAL HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO CENTRAL HD
 http://gotv.vip:8880/Jaime/Jaime123/69756
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO CONNECTICUT" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO CONNECTICUT
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO CONNECTICUT
 http://gotv.vip:8880/Jaime/Jaime123/69757
-#EXTINF:-1 tvg-id="telemundokblr.us" tvg-name="LAT| TELEMUNDO LAS VEGAS HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO LAS VEGAS HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO LAS VEGAS HD
 http://gotv.vip:8880/Jaime/Jaime123/69758
-#EXTINF:-1 tvg-id="telemundoktaz.us" tvg-name="LAT| TELEMUNDO PHOENIX ARIZONA HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO PHOENIX ARIZONA HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO PHOENIX ARIZONA HD
 http://gotv.vip:8880/Jaime/Jaime123/69759
-#EXTINF:-1 tvg-id="telemundokcso.us" tvg-name="LAT| TELEMUNDO SACRAMENTO CALIFORNIA HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO SACRAMENTO CALIFORNIA HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO SACRAMENTO CALIFORNIA HD
 http://gotv.vip:8880/Jaime/Jaime123/69760
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO SALK LAKE CITY HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO SALK LAKE CITY HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO SALK LAKE CITY HD
 http://gotv.vip:8880/Jaime/Jaime123/69761
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO GALVESTON HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO GALVESTON HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO GALVESTON HD
 http://gotv.vip:8880/Jaime/Jaime123/69762
-#EXTINF:-1 tvg-id="telemundokxtq.us" tvg-name="LAT| TELEMUNDO LUBBOCK TX HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO LUBBOCK TX HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO LUBBOCK TX HD
 http://gotv.vip:8880/Jaime/Jaime123/69763
-#EXTINF:-1 tvg-id="telemundokvda.us" tvg-name="LAT| TELEMUNDO SAN ANTONIO TX HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO SAN ANTONIO TX HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO SAN ANTONIO TX HD
 http://gotv.vip:8880/Jaime/Jaime123/69764
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO 47 NEW YORK HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO 47 NEW YORK HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO 47 NEW YORK HD
 http://gotv.vip:8880/Jaime/Jaime123/69765
-#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO 51 MIAMI HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO 51 MIAMI HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO 51 MIAMI HD
 http://gotv.vip:8880/Jaime/Jaime123/69766
-#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="LAT| TELEMUNDO LOS ANGELES HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO LOS ANGELES HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO LOS ANGELES HD
 http://gotv.vip:8880/Jaime/Jaime123/69767
-#EXTINF:-1 tvg-id="telemundokgla.us" tvg-name="LAT| TELEMUNDO NEW ORLAND" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO NEW ORLAND
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO NEW ORLAND
 http://gotv.vip:8880/Jaime/Jaime123/69768
-#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="LAT| TELEMUNDO CHICAGO HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO CHICAGO HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO CHICAGO HD
 http://gotv.vip:8880/Jaime/Jaime123/69769
-#EXTINF:-1 tvg-id="telemundowktb.us" tvg-name="LAT| TELEMUNDO ATLANTA HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO ATLANTA HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO ATLANTA HD
 http://gotv.vip:8880/Jaime/Jaime123/69770
-#EXTINF:-1 tvg-id="telemundowriwcd.us" tvg-name="LAT| TELEMUNDO PROVIDENCE HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO PROVIDENCE HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO PROVIDENCE HD
 http://gotv.vip:8880/Jaime/Jaime123/69771
-#EXTINF:-1 tvg-id="telemundowrmd.us" tvg-name="LAT| TELEMUNDO TAMPA HD" tvg-logo="" group-title="TV OPCION 4",TELEMUNDO TAMPA HD
+#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 4", TELEMUNDO TAMPA HD
 http://gotv.vip:8880/Jaime/Jaime123/69772
 #EXTINF:-1 tvg-id="univision34kmex.us" tvg-name="LAT USA | Unimas Los Angeles" tvg-logo="" group-title="TV OPCION 4",Unimas Los Angeles
 http://gotv.vip:8880/Jaime/Jaime123/69776
