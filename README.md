@@ -149,7 +149,7 @@ https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="TV OPCION 1", MUNDO DE LA MUSICA TV 
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimiTRDJq3fMvgzj4BE09vpAYJY0sy2NDI6PAKVy5wfOcuzERb6WyiuMjPuODEhSy10Z1bHQpeqL8dOUJzk3CDKxC7-yjF3tERmlFXbfV3oiNYM6SewJMsecN35SUTO7Be2opI-jrq6ummBHlALus-lSyCmV1u8YHEByKraUod3r2cHpnPtuN3I6joM/s1600/vision-tv-musica.png" group-title="TV OPCIONN 1", VISION MUSICA TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimiTRDJq3fMvgzj4BE09vpAYJY0sy2NDI6PAKVy5wfOcuzERb6WyiuMjPuODEhSy10Z1bHQpeqL8dOUJzk3CDKxC7-yjF3tERmlFXbfV3oiNYM6SewJMsecN35SUTO7Be2opI-jrq6ummBHlALus-lSyCmV1u8YHEByKraUod3r2cHpnPtuN3I6joM/s1600/vision-tv-musica.png" group-title="TV OPCION 1", VISION MUSICA TV
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.GMkIWlKq7_IWNFNqNFD9KAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", HITS 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
@@ -458,7 +458,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78398.ts
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 3", DISTRITO COMEDIA 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78416.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/684061254353174529/wjSOKcvm_400x400.jpg" group-title="TV OPCION 3", ULTRA CLASICO
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67432.ts
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/73896.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXeSlJpHoIHVibHcBj0-vH993DnouCkUb7Flp7k=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 3", ULTRA MEX
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78558.ts
 #EXTINF:-1 tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2020/12/canal-amc-logo.jpg" group-title="TV OPCION 3", AMC
