@@ -443,16 +443,20 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67327.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/101363.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vzNy4ePj6P7YwFyNRvE8uCEG4H3wTmZH1-v40dZbaYG0CE100DiTrKm7oD7W2EgHFTfWGhsy=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 3", UNICABLE 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67440.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889329572961038336/l6RhES-Q.jpg"TV OPCION 3", A & E
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78333.ts
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGNPtUroUbz8Q/company-logo_200_200/0/1664215107963?e=2147483647&v=beta&t=xO8K2PHuuJJU1-khrYHU1pdrzdvQoSXyuzEt4Fr0SW0" group-title="TV OPCION 3", FX
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78455.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SET_India_new_logo.svg/1200px-SET_India_new_logo.svg.png" group-title="TV OPCION 3", SONY
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.45b205f99d5a708d9f11bc372ea1422b?rik=Lo8mIlIQ0LYnIQ&pid=ImgRaw&r=0" group-title="TV OPCION 3", SONY
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78518.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUbrhoUvR7irF__UOi0uxVVjhLKC0F_UIAdj1v-0g=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 3", UNIVERSAL CHANNEL 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67442.ts
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_comedy-central-hd_m.png" group-title="TV OPCION 3", COMEDY CENTRAL 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78398.ts
-#EXTINF:-1 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2019/11/distrito-comedia.jpg" group-title="TV OPCION 3", DISTRITO COMEDIA 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 3", DISTRITO COMEDIA 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78416.ts
+#EXTINF:-1 tvg-logo="https://tvhistoria.com.br/wp-content/uploads/2020/12/canal-amc-logo.jpg" group-title="TV OPCION 3", AMC
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78340.ts
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png" group-title="TV OPCION 3", GOLDEN PLUS
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67380.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV OPCION 3", GOLDEN EDGE
