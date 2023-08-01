@@ -487,6 +487,30 @@ http://gotv.vip:8880/Jaime/Jaime123/37985
 http://gotv.vip:8880/Jaime/Jaime123/345
 #EXTINF:-1 tvg-id="forotv.mx" tvg-name="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="TV OPCION 4",FORO TV
 http://gotv.vip:8880/Jaime/Jaime123/68
+#EXTINF:-1 tvg-id="I134.95687.schedulesdirect.org" tvg-name="AZ CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="TV OPCION 4",AZ CINEMA
+http://gotv.vip:8880/Jaime/Jaime123/22
+#EXTINF:-1 tvg-id="I20.90653.schedulesdirect.org" tvg-name="AMC" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg" group-title="TV OPCION 4",AMC
+http://gotv.vip:8880/Jaime/Jaime123/16
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="AZ CORAZON" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="TV OPCION 4",AZ CORAZON
+http://gotv.vip:8880/Jaime/Jaime123/23
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="AZ MUNDO" tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="TV OPCION 4",AZ MUNDO
+http://gotv.vip:8880/Jaime/Jaime123/24
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="AZTECA 1" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg" group-title="TV OPCION 4",AZTECA 1
+http://gotv.vip:8880/Jaime/Jaime123/25
+#EXTINF:-1 tvg-id="" tvg-name="LATINO | AZTECA 1  (-2 HORAS )" tvg-logo="https://th.bing.com/th/id/R.55b48005750df1568ad7361e57ab7709?rik=bF9UmDoiTN9mow&riu=http%3a%2f%2fwww.wizzplus.mx%2fizzi_tv%2fizzi%2fimg%2fdummy-img%2fchannels%2fcanal-aztecauno-2.png&ehk=UaiDiIPx9omt9tgYcfgq0sgN7xyu0Zu7ThGkUhxrU7o%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 4",AZTECA 1  (-2 HORAS )
+http://gotv.vip:8880/Jaime/Jaime123/37940
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="TV OPCION 4",AZTECA 7
+http://gotv.vip:8880/Jaime/Jaime123/26
+#EXTINF:-1 tvg-id="a-plus.mx" tvg-name="A+" tvg-logo="" group-title="TV OPCION 4",A+
+http://gotv.vip:8880/Jaime/Jaime123/36286
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="TV OPCION 4",LAS ESTRELLAS
+http://gotv.vip:8880/Jaime/Jaime123/33
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="LAS ESTRELLAS  (-2 HORAS)" tvg-logo="" group-title="TV OPCION 4",LAS ESTRELLAS  (-2 HORAS)
+http://gotv.vip:8880/Jaime/Jaime123/37939
+#EXTINF:-1 tvg-id="I442.65064.zap2it.com" tvg-name="ESTRELLA TV" tvg-logo="https://s03.s3c.es/imag/_v0/770x420/8/b/b/600x400_Estrella-TV-770.jpg" group-title="TV OPCION 4",ESTRELLA TV
+http://gotv.vip:8880/Jaime/Jaime123/66
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELA TV (2 Horas)" tvg-logo="" group-title="TV OPCION 4",ESTRELA TV (2 Horas)
+http://gotv.vip:8880/Jaime/Jaime123/37941
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Unicable" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="TV OPCION 4",UNICABLE
 http://gotv.vip:8880/Jaime/Jaime123/368
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TLnovelas" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="TV OPCION 4",TLNOVELAS
@@ -610,30 +634,6 @@ http://gotv.vip:8880/Jaime/Jaime123/73786
 
 #EXTINF:-1 tvg-id="I103.59724.schedulesdirect.org" tvg-name="AFIZZIONADOS" tvg-logo="https://pbs.twimg.com/profile_images/1315369786906468354/7PjFLwZP.jpg" group-title="TV OPCION 4",AFIZZIONADOS
 http://gotv.vip:8880/Jaime/Jaime123/15
-#EXTINF:-1 tvg-id="I134.95687.schedulesdirect.org" tvg-name="AZ CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="TV OPCION 4",AZ CINEMA
-http://gotv.vip:8880/Jaime/Jaime123/22
-#EXTINF:-1 tvg-id="I20.90653.schedulesdirect.org" tvg-name="AMC" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg" group-title="TV OPCION 4",AMC
-http://gotv.vip:8880/Jaime/Jaime123/16
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="AZ CORAZON" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="TV OPCION 4",AZ CORAZON
-http://gotv.vip:8880/Jaime/Jaime123/23
-#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="AZ MUNDO" tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="TV OPCION 4",AZ MUNDO
-http://gotv.vip:8880/Jaime/Jaime123/24
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="AZTECA 1" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg" group-title="TV OPCION 4",AZTECA 1
-http://gotv.vip:8880/Jaime/Jaime123/25
-#EXTINF:-1 tvg-id="" tvg-name="LATINO | AZTECA 1  (-2 HORAS )" tvg-logo="" group-title="TV OPCION 4",AZTECA 1  (-2 HORAS )
-http://gotv.vip:8880/Jaime/Jaime123/37940
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="AZTECA 7" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="TV OPCION 4",AZTECA 7
-http://gotv.vip:8880/Jaime/Jaime123/26
-#EXTINF:-1 tvg-id="a-plus.mx" tvg-name="A+" tvg-logo="" group-title="TV OPCION 4",A+
-http://gotv.vip:8880/Jaime/Jaime123/36286
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="TV OPCION 4",LAS ESTRELLAS
-http://gotv.vip:8880/Jaime/Jaime123/33
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="LAS ESTRELLAS  (-2 HORAS)" tvg-logo="" group-title="TV OPCION 4",LAS ESTRELLAS  (-2 HORAS)
-http://gotv.vip:8880/Jaime/Jaime123/37939
-#EXTINF:-1 tvg-id="I442.65064.zap2it.com" tvg-name="ESTRELLA TV" tvg-logo="https://s03.s3c.es/imag/_v0/770x420/8/b/b/600x400_Estrella-TV-770.jpg" group-title="TV OPCION 4",ESTRELLA TV
-http://gotv.vip:8880/Jaime/Jaime123/66
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELA TV (2 Horas)" tvg-logo="" group-title="TV OPCION 4",ESTRELA TV (2 Horas)
-http://gotv.vip:8880/Jaime/Jaime123/37941
 #EXTINF:-1 tvg-id="galavision.us" tvg-name="USA | GALAVISION   (2 Horas)" tvg-logo="" group-title="TV OPCION 4",GALAVISION   (2 Horas)
 http://gotv.vip:8880/Jaime/Jaime123/37943
 #EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="USA | universo (-2 Horas)" tvg-logo="" group-title="TV OPCION 4",universo (-2 Horas)
