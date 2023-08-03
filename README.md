@@ -58,6 +58,8 @@ https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=9
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=17
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Zyi1MipgekuDSFenAGxpjgHaGm?w=172&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MULTIMEDIOS MTY 
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=20
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20210811041956%21Estrella_TV_-_2020_logo.png" group-title="TV OPCION 2", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vzNy4ePj6P7YwFyNRvE8uCEG4H3wTmZH1-v40dZbaYG0CE100DiTrKm7oD7W2EgHFTfWGhsy=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", UNICABLE 
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=21
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 1", DISTRITO COMEDIA
@@ -140,7 +142,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png" group-title="TV OPCION 1", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 
-
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.SXZ4NuhBrBpZU78XW_OGdQAAAA?w=154&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MMC
+https://regioplay.xyz/php/SR_REGIO_617032_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.AeulrL_hRVhxCMdWqiu_ZAAAAA?w=171&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", CANTINA TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png" group-title="TV OPCION 1", CONECTA TV
@@ -251,7 +254,7 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302604
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FoP883UjFoijLtMspFK776a5Cf8JeNggTFexxGFFuixfF2g17-g8Ke-SwEmCUL-Kx2U&usqp=CAU" group-title="TV OPCION 2", AZ CORAZON
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43602
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV OPCION 2", LAS ESTRELLAS
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35037
+http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59488
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 2", CANAL 5 
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302619
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-32yi_Q97h20/YRqmU2uGmlI/AAAAAAAAQEI/PpTQiDvbuEEih8uf05K_vqLybdRkv0FqQCLcBGAsYHQ/s210/Televisa%2BQuer%25C3%25A9taro%2Ben%2Bvivo.png" group-title="TV OPCION 2", EL NU9VE 
@@ -273,7 +276,7 @@ http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59454
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf8PZb6tdtui8fSVYRPWhRob43FCDEVWncg&usqp=CAU" group-title="TV OPCION 2", TELEMUNDO INTERNACIONAL 
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302728
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20210811041956%21Estrella_TV_-_2020_logo.png" group-title="TV OPCION 2", ESTRELLA TV
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59634
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 2", GALAVISION
 http://live.budtvlight.com:25461/Luna001/18dabf00/9514
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/340px-Logo_UniM%C3%A1s.svg.png" group-title="TV OPCION 2", UNIMAS
@@ -281,15 +284,17 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/9494
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="TV OPCION 2", UNIVISION
 http://live.budtvlight.com:25461/Luna001/18dabf00/51641
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLuoctXlK1RNDCg_UJ3h5hyp3UdozudTG-K20rGlvQUJ56AhujWeLNFhadgrMj-_PctWU&usqp=CAU" group-title="TV OPCION 2", CINE LATINO
-http://live.budtvlight.com:25461/Luna001/18dabf00/1467
+http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/110
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="TV OPCION 2", CINEMA DINAMITA
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/37740.m3u8
+http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/116
+#EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="TV OPCION 2", CLARO CINEMA
+http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/120
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png/revision/latest?cb=20191216004334&path-prefix=es" group-title="TV OPCION 2", DE PELICULA CLASICO
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312701
 #EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/01/DE-PELICULA.png" group-title="TV OPCION 2", DE PELICULA 
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312786
+http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/183
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="TV OPCION 2", DE PELICULA PLUS
-http://live.budtvlight.com:25461/Luna001/18dabf00/3143
+http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/181
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeGp-hA6o96NrEwlnJr_IAtc8GsJiOnjM2jUgS7v8PnMhJ229WPS9SeDho17oWtwkMI-E&usqp=CAU" group-title="TV OPCION 2", AZTECA CINEMA
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43601
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jMh5P6hu1mYDsxOY1criswHaDV?w=315&h=157&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 2", DHE
