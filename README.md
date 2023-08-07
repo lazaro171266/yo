@@ -23,6 +23,8 @@ http://live.budtvlight.com:25461/live/Luna001/18dabf00/12250.m3u8
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=276
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.6e8edeec4fa5692d0b8b08cd952ac7c1?rik=Y%2bRNIEGsrusghA&riu=http%3a%2f%2fguillermopanizza.com.ar%2fbeta%2fwp-content%2fuploads%2f2017%2f07%2fFox-Sports-Premium-logo.png&ehk=3K4gub0Fp4bc5L3Mf6%2fZ7rESEW8VNmKCj2Ofo3f56j8%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", FOX SPORTS PREMIUM
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=287
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.UmOGXRBt3Di3iO994My2TwHaE8?w=226&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", NETFLIX 01
+http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=a_neflix01
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.8Dhk8K_u_Kt6d4R1D2gakgHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", CINE HD
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=beto_7hd
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9bee320c3818dbc2ddc14975a99e84a5?rik=zCyWwiA65QPS1g&pid=ImgRaw&r=0" group-title="TV OPCION 1", CINE MUNDO+
@@ -56,6 +58,8 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=9
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=17
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.5IHOT3o7qJoOKYpf0l1xLgHaFI?w=220&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", TLNOVELAS
+https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=98
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Zyi1MipgekuDSFenAGxpjgHaGm?w=172&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MULTIMEDIOS MTY 
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20210811041956%21Estrella_TV_-_2020_logo.png" group-title="TV OPCION 2", ESTRELLA TV
