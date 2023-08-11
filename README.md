@@ -4,7 +4,7 @@ http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=simpson_maniahd19
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1" group-title="TV OPCION 1", ESTRELLA NOTICIAS
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio-miami.org/wp-content/uploads/2016/12/RT-en-Espa%C3%B1ol.jpg" group-title="TV OPCION 1", RT ESPAÑOL
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/IMG_20160821_232615.jpg.83d93a335d6cf14ed3e8de950a1173b8.jpg" group-title="TV OPCION 1", FORO TV
@@ -20,9 +20,85 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://vanguardia.com.mx/binrepository/472x368/0c0/0d0/none/11604/RTNF/mvs-tv-120313_VG2706870_MG7078058.jpg" group-title="TV OPCION 1", MVS TV
 http://live.budtvlight.com:25461/live/Luna001/18dabf00/12250.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwfCiewO27KZ9SMq996nR1iUosNqeBNSM_7jg=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1", TUDN
-https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=276
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.6e8edeec4fa5692d0b8b08cd952ac7c1?rik=Y%2bRNIEGsrusghA&riu=http%3a%2f%2fguillermopanizza.com.ar%2fbeta%2fwp-content%2fuploads%2f2017%2f07%2fFox-Sports-Premium-logo.png&ehk=3K4gub0Fp4bc5L3Mf6%2fZ7rESEW8VNmKCj2Ofo3f56j8%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", FOX SPORTS PREMIUM
-https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=287
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="TV OPCION 1",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="TV OPCION 1",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="TV OPCION 1",Ciudad Mágica
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVe8j4y.png" group-title="TV OPCION 1",Canal Blu (720p)
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="TV OPCION 1",CANAL TDC 
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" group-title="TV OPCION 1", PLAY TV
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV OPCION 1",RCN Más 
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="TV OPCION 1",SEO TV  Novelas (1080p)
+https://live.seo.tv.bo/live/3SEO.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="TV OPCION 1",SEO TV Películas (1080p)
+https://live.seo.tv.bo/live/4SEO.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="TV OPCION 1",SEO TV (1080p)
+https://live.seo.tv.bo/live/6SEO.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="TV OPCION 1",SEO TV 7 (1080p)
+https://live.seo.tv.bo/live/7SEO.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="TV OPCION 1",Solive TV (720p)
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="TV OPCION 1",Super Classics TV (360p)
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="TV OPCION 1",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="TV OPCION 1",Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="TV OPCION 1",Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="TV OPCION 1",Xtrema Cine Comedy (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="TV OPCION 1",Xtrema Cine Drama (360p)
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="TV OPCION 1",Xtrema Cine Family (274p)
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="TV OPCION 1",Xtrema Cine Latino (360p)
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="TV OPCION 1",Xtrema Cine Suspenso (360p)
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="TV OPCION 1",Xtrema Cine Terror (270p)
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Argentina",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="TV OPCION 1",Xtrema Retro Series (360p)
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="TV OPCION 1",Xtrema Series (360p)
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="TV OPCION 1",Master Show TV (360p)
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="TV OPCION 1",Magic TV (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="TV OPCION 1",Pluto TV Love Nature (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="TV OPCION 1",PlanetaTV Movie (720p)
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="TV OPCION 1",PlanetaTV Music (720p)
+https://scl.edge.grupoz.cl/music/live/music.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9BjpfT/Canal-CNC-HITS-Channel-tvtolive-com.jpg" group-title="TV OPCION 1",Hits Channel (1024p)
+https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg" group-title="TV OPCION 1",Sentimiento Vallenato (720p)
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YT9Lc0P/Soncorazonlogo.png" group-title="TV OPCION 1",Son Corazón (720p)
+https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg" group-title="TV OPCION 1",Son Latino (1080p)
+https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBQyccq/Canal-CNC-Son-Popular-tvtolive-com.jpg" group-title="TV OPCION 1",Son Popular (720p)
+https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="TV OPCION 1",Huila TV (720p)
+https://plataformavideo.com:19360/8020/8020.m3u8
+#EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="TV OPCION 1",La Despechada TV (720p)
+https://servidordevideo.com:3077/live/despechadalive.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.UmOGXRBt3Di3iO994My2TwHaE8?w=226&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", NETFLIX 01
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=a_neflix01
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.8Dhk8K_u_Kt6d4R1D2gakgHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", CINE HD
@@ -44,10 +120,8 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/terror_mania_320.jpg" group-title="TV OPCION 1", TERROR MANIA
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=terror_mania
 
-#EXTINF:-1 tvg-logo="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/List_of_telenovelas_of_Telemundo__6fa132/Telemundo_Logo_2018-2.svg__17280__thumb.png" group-title="TV OPCION 1", TELEMUNDO
-https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=270https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=270
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/wkaq-tv2_telemundo_puerto_rico_2018_0.png?WakmXAF..Z7IRF5ghGNiowR92QYzLHG8&itok=fiemUi_o" group-title="TV OPCION 1",TELEMUNDO PR
-https://regioplay.xyz/php/SR_REGIO_617032_/playpc.php?c=l1?ch=telemundo_pr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="TV OPCION 1", LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9532940c64bfa31a9418edb1d29d01aa?rik=zQo7hFQ31kAuKg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20140515064650%2flogopedia%2fimages%2f1%2f13%2fAzteca_7_2000.png&ehk=1ZijXBEDE74TL8IGRNar13W4KG8k3CgS76nUnf8w6vE%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", AZTECA 7 
