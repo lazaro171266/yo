@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.sYlE99I7qxfdZ46cst26dgAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", LOS SIMPSON 24/7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="TV OPCION 1",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",Excélsior TV 
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=simpson_maniahd192
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1" group-title="TV OPCION 1", ESTRELLA NOTICIAS
 https://estrellanews-plex.amagi.tv/playlist.m3u8
@@ -97,8 +101,80 @@ https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 https://plataformavideo.com:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="TV OPCION 1",La Despechada TV (720p)
 https://servidordevideo.com:3077/live/despechadalive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQghjMA.png" group-title="TV OPCION 1",Telered (720p)
+https://video20.klm99.com:3558/live/teleredlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="TV OPCION 1",Cartoon Network 
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="TV OPCION 1",Cartoonito 
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="TV OPCION 1",B15 
+https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="TV OPCION 1",Canal Ocho TV (1080p)
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="TV OPCION 1",Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="TV OPCION 1",Estrella News (720p)
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV (1080p)
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="TV OPCION 1",Mexiquense TV (720p)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="TV OPCION 1",MyTime movie network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TwBa344.png" group-title="TV OPCION 1",NMás 
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="TV OPCION 1",NMás Media 
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="TV OPCION 1",Televisa Veracruz 
+https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="TV OPCION 1",Televisa Puebla 
+https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqq7tD9.png" group-title="TV OPCION 1",WAPA-DT1 (WAPA-TV) (1080p)
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="TV OPCION 1",ACC Network (720p)
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTh2jgF.png" group-title="TV OPCION 1",Azteca Valle (KRGV 5.2)
+https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Music Presents
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="TV OPCION 1",Canela TV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Cine Romantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV OPCION 1",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="TV OPCION 1",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgMZLC2.png" group-title="TV OPCION 1",Juntos (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Novelas Turcas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",REGIONAL MX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Ritmos Inolvidables
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Tierra De Amor Y Venganza
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="TV OPCION 1",Top Cine (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HnjUjog.png" group-title="TV OPCION 1",MEGACINE HD (1080p)
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 vg-logo="https://i.imgur.com/lizQs3n.png" group-title="TV OPCION 1",ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.UmOGXRBt3Di3iO994My2TwHaE8?w=226&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", NETFLIX 01
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=a_neflix01
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.8Dhk8K_u_Kt6d4R1D2gakgHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", CINE HD
