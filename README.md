@@ -21,10 +21,24 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/hfkEf2.png" group-title="TV OPCION 1", CAPITAL 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwfCiewO27KZ9SMq996nR1iUosNqeBNSM_7jg=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1", TUDN
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.6e8edeec4fa5692d0b8b08cd952ac7c1?rik=Y%2bRNIEGsrusghA&riu=http%3a%2f%2fguillermopanizza.com.ar%2fbeta%2fwp-content%2fuploads%2f2017%2f07%2fFox-Sports-Premium-logo.png&ehk=3K4gub0Fp4bc5L3Mf6%2fZ7rESEW8VNmKCj2Ofo3f56j8%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", FOX SPORTS PREMIUM
-
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO 
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9532940c64bfa31a9418edb1d29d01aa?rik=zQo7hFQ31kAuKg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20140515064650%2flogopedia%2fimages%2f1%2f13%2fAzteca_7_2000.png&ehk=1ZijXBEDE74TL8IGRNar13W4KG8k3CgS76nUnf8w6vE%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", AZTECA 7 
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1", A+ 
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV (1080p)
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="TV OPCION 1",Televisa Veracruz 
+https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="TV OPCION 1",Televisa Puebla 
+https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqq7tD9.png" group-title="TV OPCION 1",WAPA-DT1 (WAPA-TV) (1080p)
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="TV OPCION 1",Mexiquense TV (720p)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="TV OPCION 1",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="TV OPCION 1",Ciudad Magazine
@@ -113,25 +127,15 @@ https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="TV OPCION 1",Estrella News (720p)
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV (1080p)
-https://estrellatv-glewed.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="TV OPCION 1",Mexiquense TV (720p)
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="TV OPCION 1",MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TwBa344.png" group-title="TV OPCION 1",NMás 
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="TV OPCION 1",NMás Media 
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="TV OPCION 1",Televisa Veracruz 
-https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="TV OPCION 1",Televisa Puebla 
-https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kqq7tD9.png" group-title="TV OPCION 1",WAPA-DT1 (WAPA-TV) (1080p)
-https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="TV OPCION 1",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kTh2jgF.png" group-title="TV OPCION 1",Azteca Valle (KRGV 5.2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTh2jgF.png" group-title="TV OPCION 1", NOVELISIMA
 https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
@@ -193,19 +197,8 @@ http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=peliculas_mania
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/terror_mania_320.jpg" group-title="TV OPCION 1", TERROR MANIA
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=terror_mania
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="TV OPCION 1", LAS ESTRELLAS
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO 
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9532940c64bfa31a9418edb1d29d01aa?rik=zQo7hFQ31kAuKg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20140515064650%2flogopedia%2fimages%2f1%2f13%2fAzteca_7_2000.png&ehk=1ZijXBEDE74TL8IGRNar13W4KG8k3CgS76nUnf8w6vE%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", AZTECA 7 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1", A+ 
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 1", CANAL 5 
-https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=9
-#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
-https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=17
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.5IHOT3o7qJoOKYpf0l1xLgHaFI?w=220&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", TLNOVELAS
 https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=98
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Zyi1MipgekuDSFenAGxpjgHaGm?w=172&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MULTIMEDIOS MTY 
