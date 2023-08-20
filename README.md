@@ -89,16 +89,10 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="TV OPCION 1",Xtrema Series (360p)
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="TV OPCION 1",Master Show TV (360p)
-https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="TV OPCION 1",Magic TV (720p)
-https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="TV OPCION 1",Pluto TV Love Nature (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="TV OPCION 1",PlanetaTV Movie (720p)
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="TV OPCION 1",PlanetaTV Music (720p)
-https://scl.edge.grupoz.cl/music/live/music.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9BjpfT/Canal-CNC-HITS-Channel-tvtolive-com.jpg" group-title="TV OPCION 1",Hits Channel (1024p)
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg" group-title="TV OPCION 1",Sentimiento Vallenato (720p)
@@ -111,16 +105,12 @@ https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="TV OPCION 1",Huila TV (720p)
 https://plataformavideo.com:19360/8020/8020.m3u8
-#EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="TV OPCION 1",La Despechada TV (720p)
-https://servidordevideo.com:3077/live/despechadalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQghjMA.png" group-title="TV OPCION 1",Telered (720p)
 https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="TV OPCION 1",Cartoon Network 
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="TV OPCION 1",Cartoonito 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="TV OPCION 1",B15 
-https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="TV OPCION 1",Canal Ocho TV (1080p)
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="TV OPCION 1",Estrella Games (1080p)
@@ -161,8 +151,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",REGIONAL MX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Ritmos Inolvidables
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Tierra De Amor Y Venganza
@@ -287,6 +275,12 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png" group-title="TV OPCION 1", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="TV OPCION 1",B15 
+https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="TV OPCION 1",La Despechada TV (720p)
+https://servidordevideo.com:3077/live/despechadalive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",REGIONAL MX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.SXZ4NuhBrBpZU78XW_OGdQAAAA?w=154&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MMC
 https://regioplay.xyz/php/SR_REGIO_617032_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.AeulrL_hRVhxCMdWqiu_ZAAAAA?w=171&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", CANTINA TV
@@ -295,6 +289,11 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://image.mmradio.com/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dc126338448314449d0c.jpeg" group-title="TV OPCION 1", TELERITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="TV OPCION 1",Master Show TV (360p)
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="TV OPCION 1",Magic TV (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="TV OPCION 1", MUNDO DE LA MUSICA TV 
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimiTRDJq3fMvgzj4BE09vpAYJY0sy2NDI6PAKVy5wfOcuzERb6WyiuMjPuODEhSy10Z1bHQpeqL8dOUJzk3CDKxC7-yjF3tERmlFXbfV3oiNYM6SewJMsecN35SUTO7Be2opI-jrq6ummBHlALus-lSyCmV1u8YHEByKraUod3r2cHpnPtuN3I6joM/s1600/vision-tv-musica.png" group-title="TV OPCION 1", VISION MUSICA TV
@@ -310,6 +309,8 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.gt2qV2ZkFGZY7RTq8Z3RfwHaHa?w=180&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", FM HIT
 https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.pkdEO7Pw522PJiEl9scB6wHaHa?w=160&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", LA SABROSURA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="TV OPCION 1",PlanetaTV Music (720p)
+https://scl.edge.grupoz.cl/music/live/music.m3u8
 https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
