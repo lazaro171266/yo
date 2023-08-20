@@ -7,6 +7,8 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=simpson_maniahd192
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302702
+#EXTINF:-1 tvg-logo="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1417335623/gatrdcwxyjgfdi4albkl.png" group-title="TV OPCION 1", CNN EN ESPAÑOL
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302691
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",Excélsior TV 
 https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
@@ -218,7 +220,7 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302634
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn?format=jpg&name=small" group-title="TV OPCION 1", AXN 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUbrhoUvR7irF__UOi0uxVVjhLKC0F_UIAdj1v-0g=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", UNIVERSAL CHANNEL
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34955
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.4L5SSHiEp9cVVE8GS-hMiQHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", BITME
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ce18750046a1250aee26ca3735faae51?rik=wAzBzKOvqM4qQA&riu=http%3a%2f%2fimages.mi.tv%2fchannels%2far_el-gourmet_m.png&ehk=56fd26XgSNV%2f8%2b4%2f8zfViSGXNaVOiJPVQP5h44b72%2bc%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", EL GOURMET
@@ -241,6 +243,8 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302635
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGNPtUroUbz8Q/company-logo_200_200/0/1664215107963?e=2147483647&v=beta&t=xO8K2PHuuJJU1-khrYHU1pdrzdvQoSXyuzEt4Fr0SW0" group-title="TV OPCION 1", FX
 
+
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34955
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="TV OPCION 1", UNIVERSAL STUDIO
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg" group-title="TV OPCION 1", SYFY 
@@ -251,6 +255,8 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312910
 
 #EXTINF:-1 tvg-logo="https://static.jobdone.net/images_staging/2042/design-a-unique-appealing-logo-for-your-company-R5xqIQzSs2.png" group-title="TV OPCION 1", GOLDEN PLUS
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313039
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV OPCION 1", GOLDEN EDGE
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302657
 #EXTINF:-1 tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/golden-premier.jpg" group-title="TV OPCION 1", GOLDEN PREMIER
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302660
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/hbo-e135dd9b-9600-4eb1-8818-0b0a509b730-resize-750.jpeg" group-title="TV OPCION 1", HBO
