@@ -21,8 +21,6 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/hfkEf2.png" group-title="TV OPCION 1", CAPITAL 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://vanguardia.com.mx/binrepository/472x368/0c0/0d0/none/11604/RTNF/mvs-tv-120313_VG2706870_MG7078058.jpg" group-title="TV OPCION 1", MVS TV
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/12250.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwfCiewO27KZ9SMq996nR1iUosNqeBNSM_7jg=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1", TUDN
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.6e8edeec4fa5692d0b8b08cd952ac7c1?rik=Y%2bRNIEGsrusghA&riu=http%3a%2f%2fguillermopanizza.com.ar%2fbeta%2fwp-content%2fuploads%2f2017%2f07%2fFox-Sports-Premium-logo.png&ehk=3K4gub0Fp4bc5L3Mf6%2fZ7rESEW8VNmKCj2Ofo3f56j8%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", FOX SPORTS PREMIUM
