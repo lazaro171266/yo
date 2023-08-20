@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-fNXQurHo3-4/AAAAAAAAAAI/AAAAAAAAAAA/9cbGa0EHl_I/s900-c-k-no/photo.jpg" group-title=" TV OPCION 1", TELEAMAZONAS
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304398
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1",TUDN
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304510 
 #EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="TV OPCION 1",La Rosa de Guadalupe
@@ -218,7 +220,7 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302738
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 1", DISTRITO COMEDIA
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302634
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn?format=jpg&name=small" group-title="TV OPCION 1", AXN 
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312922
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUbrhoUvR7irF__UOi0uxVVjhLKC0F_UIAdj1v-0g=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", UNIVERSAL CHANNEL
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34955
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.4L5SSHiEp9cVVE8GS-hMiQHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", BITME
@@ -240,11 +242,9 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302635
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="TV OPCION 1", EUROPA EUROPA
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.729936f5e9281d7a35929dd82ff86503?rik=H6sRbFmNSufuBw&riu=http%3a%2f%2fmedia.masslive.com%2fentertainment%2fphoto%2f11287290-large.jpg&ehk=Zn%2bTrTi2xGq%2fh4xsRUOoZDB9G5SoSqEo02QlHiRDc9U%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", A&E
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34948
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGNPtUroUbz8Q/company-logo_200_200/0/1664215107963?e=2147483647&v=beta&t=xO8K2PHuuJJU1-khrYHU1pdrzdvQoSXyuzEt4Fr0SW0" group-title="TV OPCION 1", FX
-
-
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34955
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34976
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="TV OPCION 1", UNIVERSAL STUDIO
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg" group-title="TV OPCION 1", SYFY 
