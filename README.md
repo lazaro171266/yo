@@ -83,7 +83,7 @@ https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="TV OPCION 1",Xtrema Cine Terror (270p)
 https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Argentina",Xtrema Retro Cartoons (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="TV OPCION 1",Xtrema Retro Cartoons (360p)
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="TV OPCION 1",Xtrema Retro Series (360p)
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
