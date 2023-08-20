@@ -3,6 +3,9 @@
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.sYlE99I7qxfdZ46cst26dgAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", LOS SIMPSON 24/7
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=simpson_maniahd192
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302702
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",Excélsior TV 
 https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1" group-title="TV OPCION 1", ESTRELLA NOTICIAS
@@ -183,11 +186,12 @@ http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=peliculas_mania
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS(T)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313173
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 1", CANAL 5 
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302619
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV OPCION 1", IMAGEN TV 
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302675
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.5IHOT3o7qJoOKYpf0l1xLgHaFI?w=220&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", TLNOVELAS
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Zyi1MipgekuDSFenAGxpjgHaGm?w=172&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MULTIMEDIOS MTY 
@@ -195,7 +199,7 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vzNy4ePj6P7YwFyNRvE8uCEG4H3wTmZH1-v40dZbaYG0CE100DiTrKm7oD7W2EgHFTfWGhsy=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", UNICABLE 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 1", DISTRITO COMEDIA
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302634
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn?format=jpg&name=small" group-title="TV OPCION 1", AXN 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUbrhoUvR7irF__UOi0uxVVjhLKC0F_UIAdj1v-0g=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", UNIVERSAL CHANNEL
