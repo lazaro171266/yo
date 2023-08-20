@@ -226,9 +226,9 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302661
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ysSoHmfeNt5oyMdgFXhPwQAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", LIFETIME
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ddc36ac015e01fee6366fb10bf1f11ca?rik=dof5ZJfbLD48pg&pid=ImgRaw&r=0" group-title="TV OPCION 1", AMC
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34919
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzsNdRonOPfxKMFYD2PnS2xSVmaYRPiO3XkEw=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1", DHE
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313037
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.pw90ruxFP4N2v9hvtd2LhAHaHD?pid=ImgDet&rs=1" group-title="TV OPCION 1", DE PELICULA CLASICO
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/De_Pel%C3%ADcula.svg.png/revision/latest?cb=20171203162338" group-title="TV OPCION 1", DE PELICULA
@@ -244,39 +244,39 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302635
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="TV OPCION 1", UNIVERSAL STUDIO
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg" group-title="TV OPCION 1", SYFY 
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312930
 #EXTINF:-1 tvg-logo="https://files.rcnradio.com/2021-02/foxch.jpg" group-title="TV OPCION 1", STAR CHANNEL 
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312910
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d70e2d9b9a67aad84679cdf1eee48612?rik=eRBLtHSZzpxhrg&riu=http%3a%2f%2fcablez.com.mx%2fwp-content%2fuploads%2f2017%2f03%2fCinema_golden_choice.png&ehk=CA%2ff2dkoiP1EgstoGRifJVKguaOEWDX4%2fJOOuQ2JkSQ%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", GOLDEN
 
 #EXTINF:-1 tvg-logo="https://static.jobdone.net/images_staging/2042/design-a-unique-appealing-logo-for-your-company-R5xqIQzSs2.png" group-title="TV OPCION 1", GOLDEN PLUS
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313039
 #EXTINF:-1 tvg-logo="https://prensa.televisa.com/wp-content/uploads/2022/03/golden-premier.jpg" group-title="TV OPCION 1", GOLDEN PREMIER
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302660
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/hbo-e135dd9b-9600-4eb1-8818-0b0a509b730-resize-750.jpeg" group-title="TV OPCION 1", HBO
-https://regioplay.xyz/php/SR_REGIO_617032_/nuevotv.php?key=SrRegio&c=212
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34883
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.LUsHVgS5aoxFb0ucU-fHAAAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", HBO2
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35288
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/p0I0D0thbWc/hqdefault.jpg" group-title="TV OPCION 1", HBO+
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35290
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="TV OPCION 1", HBO POP
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312919
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.-pNGKpQVNA3pwgv-2l5CEgAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", HBO FAMILY
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312908
 #EXTINF:-1 tvg-logo="https://myplaysat.com/wp-content/uploads/2021/01/HBO-Mundi-.png" group-title="TV OPCION 1", HBO MUNDI
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302663
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lCFv64gzhw8/hqdefault.jpg" group-title="TV OPCION 1", HBO SIGNATURE
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312907
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/87/c7/05/87c70560f43228712563c5352afe1f03.jpg" group-title="TV OPCION 1", PARAMOUNT NETWORK
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302716
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.e44e7c72190c0a390251343634a85aa3?rik=S%2fLxkwaMdov5aA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-GFG-V-PcDIE%2fVTkB9lAYXWI%2fAAAAAAAACkM%2fNg4qwzfT5YM%2fs1600%2f2Vk7B-Ds_400x400.png&ehk=x%2fQOol16gX6lbbOF6odGYR%2btE22bPlhgMRH46LBOtQQ%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", SPACE
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312898
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AJ0-cwuIhx0/maxresdefault.jpg" group-title="TV OPCION 1", CINEMAX
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34996
 #EXTINF:-1 tvg-logo="https://antoniogenna.com/wp-content/uploads/2010/05/tnt-logo-300x298.gif" group-title="TV OPCION 1", TNT
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-q9n_zoXc0OQ/VsBOfhzDYzI/AAAAAAAAz7o/bTb8eLAnuf0/s1600/Cinecanal_logo.jpg" group-title="TV OPCION 1", CINECANAL 
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34994
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.b2fed26140640991b2ed39b447e27961?rik=T04sfH7DmA%2bzhA&pid=ImgRaw&r=0" group-title="TV OPCION 1", WARNER TV
 
 
