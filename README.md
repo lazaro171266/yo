@@ -223,7 +223,7 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302661
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34919
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzsNdRonOPfxKMFYD2PnS2xSVmaYRPiO3XkEw=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1", DHE
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313037
-#EXTINF:-1 tvg-id="I134.95687.schedulesdirect.org" tvg-name="AZ CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="TV OPCION 1 ",AZ CINEMA
+#EXTINF:-1 tvg-id="I134.95687.schedulesdirect.org" tvg-name="AZ CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="TV OPCION 1",AZ CINEMA
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43601
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.pw90ruxFP4N2v9hvtd2LhAHaHD?pid=ImgDet&rs=1" group-title="TV OPCION 1", DE PELICULA CLASICO
 
