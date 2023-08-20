@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247"  group-title="TV OPCION 1",TUDN
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1",TUDN
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304510
 #EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="TV OPCION 1",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
