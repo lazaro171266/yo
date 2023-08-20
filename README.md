@@ -11,7 +11,6 @@ http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=simpson_maniahd19
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302702
 #EXTINF:-1 tvg-logo="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1417335623/gatrdcwxyjgfdi4albkl.png" group-title="TV OPCION 1", CNN EN ESPAÑOL
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302691
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",Excélsior TV 
 https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1" group-title="TV OPCION 1", ESTRELLA NOTICIAS
@@ -204,17 +203,10 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302680
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302682
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9532940c64bfa31a9418edb1d29d01aa?rik=zQo7hFQ31kAuKg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20140515064650%2flogopedia%2fimages%2f1%2f13%2fAzteca_7_2000.png&ehk=1ZijXBEDE74TL8IGRNar13W4KG8k3CgS76nUnf8w6vE%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", AZTECA 7 (T)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43605
-
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.5IHOT3o7qJoOKYpf0l1xLgHaFI?w=220&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", TLNOVELAS
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Zyi1MipgekuDSFenAGxpjgHaGm?w=172&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MULTIMEDIOS MTY 
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="TV OPCION 1", E! ENTERTAINMENT
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35041
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf8PZb6tdtui8fSVYRPWhRob43FCDEVWncg&usqp=CAU" group-title="TV OPCION 1", TELEMUNDO INTERNACIONAL 
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302728
-
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vzNy4ePj6P7YwFyNRvE8uCEG4H3wTmZH1-v40dZbaYG0CE100DiTrKm7oD7W2EgHFTfWGhsy=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", UNICABLE 
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302738
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 1", DISTRITO COMEDIA
@@ -223,8 +215,6 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302634
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312922
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUbrhoUvR7irF__UOi0uxVVjhLKC0F_UIAdj1v-0g=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", UNIVERSAL CHANNEL
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34955
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.4L5SSHiEp9cVVE8GS-hMiQHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", BITME
-
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ce18750046a1250aee26ca3735faae51?rik=wAzBzKOvqM4qQA&riu=http%3a%2f%2fimages.mi.tv%2fchannels%2far_el-gourmet_m.png&ehk=56fd26XgSNV%2f8%2b4%2f8zfViSGXNaVOiJPVQP5h44b72%2bc%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", EL GOURMET
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302661
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ysSoHmfeNt5oyMdgFXhPwQAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", LIFETIME
@@ -233,6 +223,8 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302661
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34919
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzsNdRonOPfxKMFYD2PnS2xSVmaYRPiO3XkEw=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1", DHE
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313037
+#EXTINF:-1 tvg-id="I134.95687.schedulesdirect.org" tvg-name="AZ CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="TV OPCION 1 ",AZ CINEMA
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43601
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.pw90ruxFP4N2v9hvtd2LhAHaHD?pid=ImgDet&rs=1" group-title="TV OPCION 1", DE PELICULA CLASICO
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/De_Pel%C3%ADcula.svg.png/revision/latest?cb=20171203162338" group-title="TV OPCION 1", DE PELICULA
