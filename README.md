@@ -232,13 +232,13 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302635
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large.DePeliculaPlus_logoFull-ver.png.f5f1631094cd8ac8819ca11e8676b28c.png" group-title="TV OPCION 1", DE PELICULA PLUS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="TV OPCION 1", EUROPA EUROPA
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/177210
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.729936f5e9281d7a35929dd82ff86503?rik=H6sRbFmNSufuBw&riu=http%3a%2f%2fmedia.masslive.com%2fentertainment%2fphoto%2f11287290-large.jpg&ehk=Zn%2bTrTi2xGq%2fh4xsRUOoZDB9G5SoSqEo02QlHiRDc9U%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", A&E
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34948
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGNPtUroUbz8Q/company-logo_200_200/0/1664215107963?e=2147483647&v=beta&t=xO8K2PHuuJJU1-khrYHU1pdrzdvQoSXyuzEt4Fr0SW0" group-title="TV OPCION 1", FX
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34976
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="TV OPCION 1", UNIVERSAL STUDIO
-
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34966
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/c96eba31-2bd5-4758-86db-660204f95b88_m.jpg" group-title="TV OPCION 1", SYFY 
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312930
 #EXTINF:-1 tvg-logo="https://files.rcnradio.com/2021-02/foxch.jpg" group-title="TV OPCION 1", STAR CHANNEL 
