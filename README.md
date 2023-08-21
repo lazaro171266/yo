@@ -1096,44 +1096,486 @@ http://gotv.vip:8880/Jaime/Jaime123/36759
 http://gotv.vip:8880/Jaime/Jaime123/36760
 
 
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Accion Classics FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50572
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Horror Classics HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50574
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Comedia FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50575
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema DC Comics FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50576
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema DC Universe HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50577
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Disney Family FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50578
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Disney Pixar FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50579
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Dreamworks FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50580
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Familia FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50581
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Happy Madison FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50582
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Horror FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50583
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Lego Movies FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50584
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Marvel Animated FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50585
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Marvel Studios FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50586
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cocina Abierta FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50588
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cuentos de la Cripta SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50589
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Death Note HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50592
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Detective Conan SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50593
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Disney Live Action FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50595
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Disney Princess FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50596
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dragon Ball Z Movies FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50597
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Laboratorio de Dexter SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50598
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Futurama HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50599
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Happy tree friends FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50601
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Jimmy Neutron SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50604
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Kung Fu Panda HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50606
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Casa de Mickey Mouse HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50607
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Tropa Goofy HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50610
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Lilo & Stitch SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50611
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Lo Mejor de Donald SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50612
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Locos Adams
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50615
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Simpsons FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50616
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Simpsons Horror HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50617
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Simpsons Retro SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50618
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Masha y el Oso HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50620
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Moviecenter Kids FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50622
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Moviecenter Premium FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50623
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Moviecenter Premium Este FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50624
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Moviecenter Premium Oeste FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50625
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Paw Patrol FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50626
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Peppa Pig FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50627
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Pinguinos de Madagascar HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50628
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Pocoyo FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50630
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Rick y Morty FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50631
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", South Park FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50632
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Talking Tom FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50633
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", 31 Minutos HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50635
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Sailor Moon SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50636
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Tiny Toons SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/50642
+
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dragon Ball Z
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/35448
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Caso Cerrado Inmigracion SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49159
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Caso Cerrado La Familia 1 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49160
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Caso Cerrado La Familia 3 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49162
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Laura Bozzo SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49163
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Miguelito SD (Chile)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49164
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Mayday Catastrofes Aereas SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49166
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Mundo De Beakman Temp 1 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49168
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", NCIS Los Angeles SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49181
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Magnificos Temp 1 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49182
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", MacGiver (2016) Temp 1 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49186
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", ER Sala de Urgencias SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49188
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los 3 Chiflados SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49190
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Hechizada Temp 1 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49192
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Niñera Temp 1 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49198
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Friends Temp 1 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49199
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Paso A Paso SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49203
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Vecinos Temp 2 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49208
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Vecinos Temp 3 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49209
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Vecinos Temp 4 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49210
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Paradise PD SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49214
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Brickleberry SD (+15)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49217
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Casa de Mickey Mouse SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49233
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Doctora Juguete SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49234
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", She-Ra La Princesa del Poder SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49239
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Sailor Moon SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49241
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Birdman SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49246
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Capitan Cabernicola SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49256
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Jhonny Bravo SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49257
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Vaca y el Pollito SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49258
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Años Maravillosos SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49259
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Oso Yogui SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49262
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Candy Candy SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49264
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Casa de los Dibujos SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49274
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Gallo Claudio SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/49275
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Marvel Studios Este FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58067
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Marvel Studios Oeste FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58068
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Anime [test] FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58069
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Retro Simpsons SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58071
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", 31 Minutos SD 
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58073
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Bob Esponja SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58076
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dragon Ball HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58082
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dragon Ball 2 HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58083
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dragon Ball GT SD 
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58084
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Pajaro Loco SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58086
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Gallo claudio SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58088
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Amazon Kids (Test) FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58090
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Lo Mejor de Pluto SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58101
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58105
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58106
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dragon Ball Super 3 Saga de la Supervivencia Universal HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58107
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Supercampeones SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58109
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Chavo HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58120
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Chespirito TV
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58121
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Mr.Bean SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58123
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cocina Real TV FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58127
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Hagalo Usted Mismo TV
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58131
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cantinflas HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58264
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Caso Cerrado HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58265
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Coraje SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58267
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dragon Ball GT HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58271
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dragon Ball Super HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58273
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Chavo Del 8 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58278
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Principe De Rap SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58284
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Principe Del Rap 2 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58285
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Friends HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58291
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Las aventuras de Tom Sawyer SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58298
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Caballeros del Zodiaco SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58301
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los pequeños Tom y Jerry SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58310
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", 11 Los Simpsons HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58314
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", MALCOLM SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58317
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Pajaro Loco HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58322
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Timon y Pumba HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58230
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", The Big Bang Theory FHD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58228
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Supercampeones SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58223
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Looney Tunes  1 SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58207
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Guerra De Bestias Transformers SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58188
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Espíritu de lucha SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58182
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El show de Scooby Doo y ScrappyDoo SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58179
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dr House HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58177
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Capitan Futuro SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58167
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Capitán Centella SD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58168
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Transformers Prime HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58233
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", 11 SuperGirl HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/58224
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Hey Arnold
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333116
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Ciencia Ficcion HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333120
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Marvel Studios Este HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333121
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cine Estelar HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333122
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", 13 Now Kids
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333123
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Chu Chu TV HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333124
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", PlayKids HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333125
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Buenazo HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333126
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Riquisimo HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333127
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cocina Real HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333128
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", 13. Docu HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333129
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Desencanto
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333130
+#EXTINF:-1,2 Perros Tontos
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333131
+#EXTINF:-1,Aaahh Real Monsters
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333132
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Agreetsuko HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333133
+#EXTINF:-1,24/ 7Alf
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333134
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Big Mouth HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333135
+#EXTINF:-1,24/ 7Buzz Lightyear
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333136
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Chicas Superpoderosas
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333137
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", DC Hero Super Girls
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333138
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Doraemon
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333139
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Duck Dodgers
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333140
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Show de Garfield
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333141
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Escandalosos 1 HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333142
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Escandalosos 2 HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333143
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Escandalosos 3 HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333144
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Fenomenoide
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333145
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Grupo Increible
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333146
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Guardia del Leon
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333147
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Resistencia HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333148
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Resistencia Canal 2 HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333149
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Sirenita
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333150
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Little Pet Shop
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333151
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Lo Mejor de Mickey
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333152
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Looney Tunes
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333153
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Autos Locos
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333154
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Cazafantasmas
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333155
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Croods
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333156
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Gatos Samurai
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333157
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Simpsons Latinos HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333158
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Mickey Mouse Channel
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333159
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Pato Darwing
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333160
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Princesa Sofia
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333161
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Sam y Cat HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333162
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", She-ra
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333163
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Street Shark
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333164
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Teen Titans GO
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333165
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Tortugas Ninja
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333166
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Winnie the Pooh
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333167
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", YoHoo and Friends
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333168
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", TWD Channel HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333169
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cine Mania HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333170
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", RT Doc HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333171
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Cinema Accion Classics HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333172
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Johnny Bravo
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333173
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Animaniacs
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333174
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Babar
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333175
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dinosaurios.
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333176
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Looney Tunes Show
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333177
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Picapiedras
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333178
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Los Supersonicos
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333179
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Mickey Mouse
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333180
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Pato Aventura
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333181
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Pinky & Cerebro
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333182
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Quack Pack
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333183
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Timon y Pumba
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333184
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Romance Channel HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333185
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Halloween Channel HD
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333186
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Almacen
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333187
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", A Orillas del Río
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333188
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Azul Profundo
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333189
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Casa de Muñecos
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333190
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", De Aquí Vengo yo
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333191
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Celebración
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333192
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Chic! Cazadores de Tendencias
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333193
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Comer y Sanar
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333194
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Dem3nte
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333195
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Disfruta la ruta
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333196
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Doble Tentación
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333197
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Edificio Corona
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333198
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Efecto Mariposa
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333199
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", El Retador
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333200
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Eres mi tesoro
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333201
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Genios de la carne
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333202
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Pan Comido
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333203
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Paola y Miguelito
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333204
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Pobre Novio
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333205
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Rapidos y Sabrosos
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333206
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Secretos Urbanos
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333207
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Seleccion Internacional
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333208
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Seleccion Nacional
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333209
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Volverias con tu EX
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333210
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Vuelta a la manzana
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333211
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Yo soy Lorenzo
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333212
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La carpa de los sueños
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333213
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Caceria
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333214
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", La Colonia
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333215
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Adiós al Séptimo de Línea
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333216
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Martín
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333217
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Neruda
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333218
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Acoso
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333219
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Deeply
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333220
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Eramosseis
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333221
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Hijos del Desierto
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333222
+#EXTINF:-1 tvg-logo="" group-title="24/7 VIP", Hasta encontrarte
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333223
 
 
 
 
 
-
-#EXTINF:-1, CARACOL INTERNACIONAL
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304247
-#EXTINF:-1,RCN
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304257
-#EXTINF:-1,ECUAVISA
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304384
-#EXTINF:-1, CONCERT CHANNEL
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35023
-#EXTINF:-1, TELEHIT
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35031
-#EXTINF:-1,Hola! TV 
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35199
-#EXTINF:-1 tvg-logo="https://docplayer.es/docs-images/83/87269480/images/1-0.jpg", PASIONES
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35060
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DJda3RWU8AA8ud4.jpg", MULTIPREMIER HD
-http://live.budtvlight.com:25461/Luna001/18dabf00/38498
-
-
-
-#EXTINF:-1 tvg-logo="", CINEMA DREAMSWORK
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/304507
-#EXTINF:-1 tvg-logo="", SCOOBY DOO HD
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35533
-#EXTINF:-1 tvg-logo="", EL CHAVO DEL 8 HD
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/58120
-#EXTINF:-1 tvg-logo="", HAGALO USTED MISMO
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/58131
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/comediasmx/images/8/8e/LaHoraPicoLogo.jpg/revision/latest?cb=20170221001107&path-prefix=es", LA HORA PICO
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/11101.m3u8
-#EXTINF:-1 tvg-logo="https://www.publimetro.com.mx/resizer/r_PyNXbtfXsQNKbpGfEFh2jvCuc=/1024x1024/filters:format(jpg):quality(70):focal(294x119:304x129)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/QXFNNQGZQVAQVKB73NIP4FUVJA.jpg", ACAPULCO SHORE 24/7
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/12056.m3u8
-#EXTINF:-1 tvg-logo="https://imgmedia.libero.pe/1200x660/libero/original/2022/01/16/61e48a16b022773bec3b3aed.jpg", EN FAMILIA CON CHABELO
-http://live.budtvlight.com:25461/live/Luna001/18dabf00/11988.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg", LA ROSA DE GUADALUPE
 
