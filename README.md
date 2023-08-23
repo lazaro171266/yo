@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 5", DISTRITO COMEDIA
 http://1tv41.icu:8080/Py5zFZ/363334/57639
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 5",TUDN
+http://hdhd.tk:80/alice/alice2023/28467
+
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-fNXQurHo3-4/AAAAAAAAAAI/AAAAAAAAAAA/9cbGa0EHl_I/s900-c-k-no/photo.jpg" group-title="TV OPCION 1", TELEAMAZONAS
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304398
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1",TUDN
