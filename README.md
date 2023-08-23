@@ -10,13 +10,13 @@ http://hdhd.tk:80/alice/alice2023/28467
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 5",TUDN USA
 http://hdhd.tk:80/alice/alice2023/28748
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",CINEMA DINAMITA
-http://hdhd.tk:80/alice/alice2023/28876
+http://hdhd.tk:80/live/alice/alice2023/28876.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",DE PELICULA CLASICO
 http://hdhd.tk:80/alice/alice2023/28883
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",DE PELICULA
 http://hdhd.tk:80/alice/alice2023/28879
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",MEXICANAL
-http://hdhd.tk:80/alice/alice2023/28904
+http://hdhd.tk:80/live/alice/alice2023/28904.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TELEXITOS
 http://hdhd.tk:80/alice/alice2023/28927
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIMAS
