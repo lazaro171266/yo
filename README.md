@@ -3,6 +3,29 @@
 http://1tv41.icu:8080/Py5zFZ/363334/57639
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 5",TUDN
 http://hdhd.tk:80/alice/alice2023/28467
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",CINEMA DINAMITA
+http://hdhd.tk:80/alice/alice2023/28876
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",DE PELICULA CLASICO
+http://hdhd.tk:80/alice/alice2023/28883
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",DE PELICULA
+http://hdhd.tk:80/alice/alice2023/28879
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",MEXICANAL
+http://hdhd.tk:80/alice/alice2023/28904
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TELEXITOS
+http://hdhd.tk:80/alice/alice2023/28927
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIMAS
+http://hdhd.tk:80/alice/alice2023/28967
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIVISION 41
+http://hdhd.tk:80/alice/alice2023/28964
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",HBO
+http://hdhd.tk:80/alice/alice2023/28896
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",FOX DEPORTES
+http://hdhd.tk:80/alice/alice2023/28892
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TELEMETRO
+http://hdhd.tk:80/alice/alice2023/29152
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",RPC
+http://hdhd.tk:80/alice/alice2023/29150
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-fNXQurHo3-4/AAAAAAAAAAI/AAAAAAAAAAA/9cbGa0EHl_I/s900-c-k-no/photo.jpg" group-title="TV OPCION 1", TELEAMAZONAS
