@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 5", MILENIO HD 
+http://hdhd.tk:80/alice/alice2023/44094
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 5", DISTRITO COMEDIA
 http://1tv41.icu:8080/Py5zFZ/363334/57639
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 5", DISTRITO COMEDIA 2
+http://hdhd.tk:80/alice/alice2023/44066
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 5",TUDN
 http://hdhd.tk:80/alice/alice2023/28467
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 5",TUDN USA
+http://hdhd.tk:80/alice/alice2023/28748
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",CINEMA DINAMITA
 http://hdhd.tk:80/alice/alice2023/28876
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",DE PELICULA CLASICO
@@ -25,6 +31,10 @@ http://hdhd.tk:80/alice/alice2023/28892
 http://hdhd.tk:80/alice/alice2023/29152
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",RPC
 http://hdhd.tk:80/alice/alice2023/29150
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIVERSO
+http://hdhd.tk:80/alice/alice2023/39175
+
+
 
 
 
