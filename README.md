@@ -27,13 +27,16 @@ http://hdhd.tk:80/alice/alice2023/28964
 http://hdhd.tk:80/alice/alice2023/28896
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",FOX DEPORTES
 http://hdhd.tk:80/alice/alice2023/28892
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",FOX SPORTS
+http://hdhd.tk:80/alice/alice2023/44121
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TELEMETRO
 http://hdhd.tk:80/alice/alice2023/29152
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",RPC
 http://hdhd.tk:80/alice/alice2023/29150
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIVERSO
 http://hdhd.tk:80/alice/alice2023/39175
-
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", SPACE
+http://hdhd.tk:80/alice/alice2023/44106
 
 
 
