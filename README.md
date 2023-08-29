@@ -51,6 +51,8 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=simpson_maniahd192
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302702
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 2
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1417335623/gatrdcwxyjgfdi4albkl.png" group-title="TV OPCION 1", CNN EN ESPAÑOL
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302691
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",Excélsior TV 
@@ -423,8 +425,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e0900076
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/loop-80s-us.png" group-title="TV OPCION 1", LOOP 80´S
 https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="TV OPCION 1", TV RETRO
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 
 
 
