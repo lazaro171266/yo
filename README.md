@@ -59,28 +59,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-fNXQurHo3-4/AAAAAAAAAAI/AAAAAAAAAAA/9cbGa0EHl_I/s900-c-k-no/photo.jpg" group-title="TV OPCION 1", TELEAMAZONAS
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304398
-
-#EXTINF:-1 group-title="TV OPCION 1", FMH KIDS
-http://45.160.15.130:2909/play/003
-#EXTINF:-1 group-title="TV OPCION 1", FMH FAMILY
-http://45.160.15.130:2909/play/a169
-#EXTINF:-1 group-title="TV OPCION 1", FMH MOVIES
-http://45.160.15.130:2909/play/a16b
-#EXTINF:-1 group-title="TV OPCION 1", FMH REWIND
-http://45.160.15.130:2909/play/a16c
-#EXTINF:-1 group-title="TV OPCION 1", MX Family HD
-http://45.160.15.130:2909/play/120
-#EXTINF:-1 group-title="TV OPCION 1", MX Classic HD
-http://45.160.15.130:2909/play/121
-#EXTINF:-1 group-title="TV OPCION 1", MX Prime HD
-http://45.160.15.130:2909/play/122
-#EXTINF:-1 group-title="TV OPCION 1", MX Old HD
-http://45.160.15.130:2909/play/123
-#EXTINF:-1 group-title="TV OPCION 1", MX SERIES
-#EXTINF:-1 group-title="TV OPCION 1", Old Music HD
-http://45.160.15.130:2909/play/137
-#EXTINF:-1 group-title="TV OPCION 1", LOVE NATURE HD
-http://45.160.15.130:2909/play/a16v
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO 
