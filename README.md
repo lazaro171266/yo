@@ -59,8 +59,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-fNXQurHo3-4/AAAAAAAAAAI/AAAAAAAAAAA/9cbGa0EHl_I/s900-c-k-no/photo.jpg" group-title="TV OPCION 1", TELEAMAZONAS
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304398
-#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1",TUDN
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304510
+
 #EXTINF:-1 group-title="TV OPCION 1", FMH KIDS
 http://45.160.15.130:2909/play/003
 #EXTINF:-1 group-title="TV OPCION 1", FMH FAMILY
