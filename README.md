@@ -41,30 +41,26 @@ http://hdhd.tk:80/alice/alice2023/44106
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-logo="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1417335623/gatrdcwxyjgfdi4albkl.png" group-title="TV OPCION 1", CNN EN ESPAÑOL
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302691
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",Excélsior TV 
-https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1" group-title="TV OPCION 1", ESTRELLA NOTICIAS
-https://estrellanews-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radio-miami.org/wp-content/uploads/2016/12/RT-en-Espa%C3%B1ol.jpg" group-title="TV OPCION 1", RT ESPAÑOL
-https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/IMG_20160821_232615.jpg.83d93a335d6cf14ed3e8de950a1173b8.jpg" group-title="TV OPCION 1", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="TV OPCION 1", ADN40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",Excélsior TV 
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1" group-title="TV OPCION 1", ESTRELLA NOTICIAS
+https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="TV OPCION 1", AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/hfkEf2.png" group-title="TV OPCION 1", CAPITAL 21
-https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://radio-miami.org/wp-content/uploads/2016/12/RT-en-Espa%C3%B1ol.jpg" group-title="TV OPCION 1", RT ESPAÑOL
+https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-fNXQurHo3-4/AAAAAAAAAAI/AAAAAAAAAAA/9cbGa0EHl_I/s900-c-k-no/photo.jpg" group-title="TV OPCION 1", TELEAMAZONAS
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304398
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1",TUDN
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304510 8
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304510
 #EXTINF:-1 group-title="TV OPCION 1", FMH KIDS
 http://45.160.15.130:2909/play/003
 #EXTINF:-1 group-title="TV OPCION 1", FMH FAMILY
