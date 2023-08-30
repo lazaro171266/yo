@@ -244,7 +244,7 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRituMHc-XA99p7O3cfLDimxM__TWI_yAJ9KQlmHk62U26dNDk6dunk6dL6UEShh2GfpuI&usqp=CAU" group-title="TV OPCION 1", CLASSICS TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.kcGi7J_aHhgLus9NQo1x3AHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", RETR0 PLUS
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.kcGi7J_aHhgLus9NQo1x3AHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", RETR0 PLUS
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsRKHHlqjVuJDIbjKe0tW7MPpqkYK61_I-kQ8GzCNDfyFOSjkmXmyPtyclP5OJjxJcTs&usqp=CAU" group-title="TV OPCION 1", V CLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
@@ -256,9 +256,9 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vLvQKx6bpHkxLM0RcSex_N_L4gEB5kIQvhrSZNgnaqjw-xTooaXt0HwcMc_hE3ytV5E" group-title="TV OPCION 1", EL GALPON 80
 https://stmv2.zcasthn.com.br/ferchile/ferchile/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", THE RETRO CHANNEL
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.80aa4c56b540d69b19bf97e9762894e4?rik=Y3OdsdLA0HAxGg&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TV OPCION 1", THE RETRO CHANNEL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", OLDIES HITS
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8ea5cb89be0e1535d39522f4aff9f998?rik=gck84SgpCjWGDg&pid=ImgRaw&r=0" group-title="TV OPCION 1", OLDIES HITS
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="TV OPCION 1",B15 
 https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
