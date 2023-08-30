@@ -187,15 +187,15 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/11/mx-nuestro-cine-donde-ver-canal-cine-mexicano.jpg" group-title="TV OPCION 1",PELICULAS CINE DE ORO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HnjUjog.png" group-title="TV OPCION 1",MEGACINE HD (1080p)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1015291157860020230/NAY2iXam_400x400.jpg" group-title="TV OPCION 1",MEGACINE HD 
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png" group-title="TV OPCION 1", FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
-#EXTINF:-1 vg-logo="https://i.imgur.com/lizQs3n.png" group-title="TV OPCION 1",ORBIT TV
+#EXTINF:-1 vg-logo="https://play-lh.googleusercontent.com/HRjPHj19xl5RhKWrMD56ccOYCej8XfEUALCi8smkGTLUcPwij8ZvIwftw8puzBAj3w" group-title="TV OPCION 1", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="TV OPCION 1",MyTime movie network Mexico
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1",MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Cine Romantico
+#EXTINF:-1 tvg-logo="https://press.upentertainment.com/wp-content/uploads/2021/09/cine-romantico-red-750x500-1.jpg" group-title="TV OPCION 1",Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV OPCION 1",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
