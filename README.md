@@ -51,6 +51,10 @@ https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 https://estrellanews-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mvt.com.mx/wp-content/uploads/2020/07/AMX-1.jpg" group-title="TV OPCION 1", AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TwBa344.png" group-title="TV OPCION 1", N+ NOTICIAS
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="TV OPCION 1",N+ DOCUMENTALES
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://radio-miami.org/wp-content/uploads/2016/12/RT-en-Espa%C3%B1ol.jpg" group-title="TV OPCION 1", RT ESPAÑOL
 https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
@@ -101,8 +105,6 @@ https://live.seo.tv.bo/live/6SEO.m3u8
 https://live.seo.tv.bo/live/7SEO.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="TV OPCION 1",Solive TV (720p)
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="TV OPCION 1",Super Classics TV (360p)
-https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="TV OPCION 1",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="TV OPCION 1",Xtrema Cartoons (360p)
@@ -155,18 +157,8 @@ https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="TV OPCION 1",Estrella News (720p)
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="TV OPCION 1",MyTime movie network Mexico
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TwBa344.png" group-title="TV OPCION 1",NMás 
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="TV OPCION 1",NMás Media 
-https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpCkbkT.png" group-title="TV OPCION 1",ACC Network (720p)
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTh2jgF.png" group-title="TV OPCION 1", NOVELISIMA
 https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Clasicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Kids
@@ -177,10 +169,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="TV OPCION 1",Canela TV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Cine Romantico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV OPCION 1",Cine Sony (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="TV OPCION 1",Cine Sureño (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dgMZLC2.png" group-title="TV OPCION 1",Juntos (1080p)
@@ -197,10 +185,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/11/mx-nuestro-cine-donde-ver-canal-cine-mexicano.jpg" group-title="TV OPCION 1",PELICULAS CINE DE ORO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnjUjog.png" group-title="TV OPCION 1",MEGACINE HD (1080p)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png" group-title="TV OPCION 1", FRECUENCIA MUSICAL TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 vg-logo="https://i.imgur.com/lizQs3n.png" group-title="TV OPCION 1",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="TV OPCION 1",MyTime movie network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Cine Romantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV OPCION 1",Cine Sony (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.UmOGXRBt3Di3iO994My2TwHaE8?w=226&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", NETFLIX 01
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=a_neflix01
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.8Dhk8K_u_Kt6d4R1D2gakgHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", CINE HD
@@ -223,6 +221,59 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.sYlE99I7qxfdZ46cst26dgAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", LOS SIMPSON 24/7
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=simpson_maniahd192
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr21JUm7clwHSrF87TPe1QRkRfM8JuAd_CQ&usqp=CAU" group-title="TV OPCION 1", CLASSIC CHANNEL
+https://paneltv.online:1936/8046/8046/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDs0Ty_KJ1j-5-nkaIunEWGk_oZ-qfxbWAA&usqp=CAU" group-title="TV OPCION 1",RETRO MUSIC BALADAS
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rcoZX4bOwtLt6U07QYHqbwAAAA?pid=ImgDet&w=206&h=206&c=7" group-title="TV OPCION 1", MEMORIAS TV
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zpLpuDyiJ4OiGbEsVdPwWAHaFw?pid=ImgDet&rs=1" group-title="TV OPCION 1", TELE MUSICA
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgbQnnDFbNHyu8PVfOyf8dr9x3Av6nInyMUvSOYD2jPUC6mtQVYRMmPCn-Q6X1ssAtyJc7PaHJmag946n-yrQ_V1ua0hzg9yGpIDUUEgiVG79UDROH51DMwy6k3oIMusDq2m3xDsNM1a5uySLzCR4O37ZXpkKwfY7PMVinA0GaujUAjUBzOZzLW389W=w1600" group-title="TV OPCION 1", AMORDISCOS
+https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="TV OPCION 1", MUNDO DE LA MUSICA TV 
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="TV OPCION 1",Master Show TV (360p)
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png" group-title="TV OPCION 1", RECUERDOS RETRO
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/0/a/a/0aa84db9ccb645183fd4b7cfa2133a46_fgraphic.png" group-title="TV OPCION 1", RETRO MUSIC TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRituMHc-XA99p7O3cfLDimxM__TWI_yAJ9KQlmHk62U26dNDk6dunk6dL6UEShh2GfpuI&usqp=CAU" group-title="TV OPCION 1", CLASSICS TV
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/U73kFg4Qya85ClsrZ0r8z4srpmZ2xb_85TlGjSwNnJvYdqcGVCkVL2KmQtK0heLnCMo" group-title="TV OPCION 1", RETR0 PLUS
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsRKHHlqjVuJDIbjKe0tW7MPpqkYK61_I-kQ8GzCNDfyFOSjkmXmyPtyclP5OJjxJcTs&usqp=CAU" group-title="TV OPCION 1", V CLASSIC TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQmzvtTn4YrYJXQ-bRXPyNHqKW_4Z_P6ORhUYUr=s900-c-k-c0x00ffffff-no-rj"group-title="TV OPCION 1", VINTAGE MUSICA
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/dmlkZW8udG91cmNoYW5uZWxfaWNvbl8xNTcxMDE1ODc4XzA3Ng/icon.png?w=100&fakeurl=1" group-title="TV OPCION 1",VIDEO TOUR CHANNEL
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://preview.redd.it/2ff36gtu41e71.jpg?auto=webp&s=d5f74b9ca69e4fba268b58e9972afd867f6d8b27" group-title="TV OPCION 1", REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vLvQKx6bpHkxLM0RcSex_N_L4gEB5kIQvhrSZNgnaqjw-xTooaXt0HwcMc_hE3ytV5E" group-title="TV OPCION 1", EL GALPON 80
+https://stmv2.zcasthn.com.br/ferchile/ferchile/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", THE RETRO CHANNEL
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", OLDIES HITS
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="TV OPCION 1",B15 
+https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="TV OPCION 1",La Despechada TV (720p)
+https://servidordevideo.com:3077/live/despechadalive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",REGIONAL MX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.SXZ4NuhBrBpZU78XW_OGdQAAAA?w=154&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MMC
+https://regioplay.xyz/php/SR_REGIO_617032_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.AeulrL_hRVhxCMdWqiu_ZAAAAA?w=171&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", CANTINA TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png" group-title="TV OPCION 1", CONECTA TV
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.mmradio.com/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dc126338448314449d0c.jpeg" group-title="TV OPCION 1", TELERITMO
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS(T)
@@ -311,41 +362,8 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34996
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34994
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.b2fed26140640991b2ed39b447e27961?rik=T04sfH7DmA%2bzhA&pid=ImgRaw&r=0" group-title="TV OPCION 1", WARNER TV
 
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr21JUm7clwHSrF87TPe1QRkRfM8JuAd_CQ&usqp=CAU" group-title="TV OPCION 1", CLASSIC CHANNEL
-https://paneltv.online:1936/8046/8046/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF4SFnNM5q56jNyougOm6MrNbBsoxGD7EmJA&usqp=CAU" group-title="TV OPCION 1", KANAL D DRAMA
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/plantilla-diseno-logotipo-canal-tv-linea-concepto-logotipo-fruta-transmision-vivo-empresa-entretenimiento-antena-como-hoja-boton-reproduccion-blanco-elipse-forma-redondeada-rojo-negro_228967-762.jpg" group-title="TV OPCION 1", TV Y TV
-https://Stmv1.zcasthn.com.br/tvytv/tvytv/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="TV OPCION 1", ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png" group-title="TV OPCION 1", FRECUENCIA MUSICAL TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="TV OPCION 1",B15 
-https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="TV OPCION 1",La Despechada TV (720p)
-https://servidordevideo.com:3077/live/despechadalive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",REGIONAL MX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.SXZ4NuhBrBpZU78XW_OGdQAAAA?w=154&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MMC
-https://regioplay.xyz/php/SR_REGIO_617032_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.AeulrL_hRVhxCMdWqiu_ZAAAAA?w=171&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", CANTINA TV
-https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53db584f78df87025740a1e380af9038b2f37b8c6e27bf1146267bc2dde03833.png" group-title="TV OPCION 1", CONECTA TV
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://image.mmradio.com/sites/default/files/video_embed_field_thumbnails/mediastream/57b4dc126338448314449d0c.jpeg" group-title="TV OPCION 1", TELERITMO
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="TV OPCION 1",Master Show TV (360p)
-https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="TV OPCION 1",Magic TV (720p)
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="TV OPCION 1", MUNDO DE LA MUSICA TV 
-https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimiTRDJq3fMvgzj4BE09vpAYJY0sy2NDI6PAKVy5wfOcuzERb6WyiuMjPuODEhSy10Z1bHQpeqL8dOUJzk3CDKxC7-yjF3tERmlFXbfV3oiNYM6SewJMsecN35SUTO7Be2opI-jrq6ummBHlALus-lSyCmV1u8YHEByKraUod3r2cHpnPtuN3I6joM/s1600/vision-tv-musica.png" group-title="TV OPCION 1", VISION MUSICA TV
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.GMkIWlKq7_IWNFNqNFD9KAHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", HITS 360
@@ -362,62 +380,24 @@ https://6362ca6f1fc28.streamlock.net/radiofmhit/radiofmhit/playlist.m3u8?Playlis
 https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="TV OPCION 1",PlanetaTV Music (720p)
 https://scl.edge.grupoz.cl/music/live/music.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rcoZX4bOwtLt6U07QYHqbwAAAA?pid=ImgDet&w=206&h=206&c=7" group-title="TV OPCION 1", MEMORIAS TV
-https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zpLpuDyiJ4OiGbEsVdPwWAHaFw?pid=ImgDet&rs=1" group-title="TV OPCION 1", TELE MUSICA
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgbQnnDFbNHyu8PVfOyf8dr9x3Av6nInyMUvSOYD2jPUC6mtQVYRMmPCn-Q6X1ssAtyJc7PaHJmag946n-yrQ_V1ua0hzg9yGpIDUUEgiVG79UDROH51DMwy6k3oIMusDq2m3xDsNM1a5uySLzCR4O37ZXpkKwfY7PMVinA0GaujUAjUBzOZzLW389W=w1600" group-title="TV OPCION 1", AMORDISCOS
-https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", RE7
+https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t1.6435-9/101207717_587303221907601_3488682173672718336_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=d3dvxH5PG2wAX-uxEZf&tn=Zm9NyaopXhj1iRga&_nc_ht=scontent.fver2-1.fna&oh=00_AT_V4GEFNgw6swA5UmHq5lMD9ljyP9zWjkSE9_gghDIwpA&oe=62C864DA" group-title="TV OPCION 1", TV POP
+https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", PARENTESIS TV
+https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" group-title="TV OPCION 1", PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", FREESTYLE DJS
 https://freestyledjs.ddns.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", THE RETRO CHANNEL
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", OLDIES HITS
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", KARIBEÑA TV
 https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", VCLASIC TV TROPICAL
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", MAS CUMBIA
 https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8?PlaylistM3UCL
-#EXTINF:-1, RETR0 PLUS
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", V CLASSIC TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo=" "group-title="TV OPCION 1", VINTAGE MUSICA
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/dmlkZW8udG91cmNoYW5uZWxfaWNvbl8xNTcxMDE1ODc4XzA3Ng/icon.png?w=100&fakeurl=1" group-title="TV OPCION 1",VIDEO TOUR CHANNEL
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://preview.redd.it/2ff36gtu41e71.jpg?auto=webp&s=d5f74b9ca69e4fba268b58e9972afd867f6d8b27" group-title="TV OPCION 1", REWIND TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vLvQKx6bpHkxLM0RcSex_N_L4gEB5kIQvhrSZNgnaqjw-xTooaXt0HwcMc_hE3ytV5E" group-title="TV OPCION 1", EL GALPON 80
-https://stmv2.zcasthn.com.br/ferchile/ferchile/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", RE7
-https://cp.panelchs.com:1936/etpxbvxrcp/etpxbvxrcp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png" group-title="TV OPCION 1", RECUERDOS RETRO
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2F0aW9uLnJldHJvcGx1c19zY3JlZW5fMF8xNTU2MzExMDMyXzAyMA/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="TV OPCION 1", RETRO PLUS TV - SEÑAL 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcGxpY2F0aW9uLnJldHJvcGx1c19zY3JlZW5fMF8xNTU2MzExMDMyXzAyMA/screen-0.jpg?h=500&fakeurl=1&type=.jpg" group-title="TV OPCION 1", RETRO PLUS TV - SEÑAL 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t1.6435-9/101207717_587303221907601_3488682173672718336_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=d3dvxH5PG2wAX-uxEZf&tn=Zm9NyaopXhj1iRga&_nc_ht=scontent.fver2-1.fna&oh=00_AT_V4GEFNgw6swA5UmHq5lMD9ljyP9zWjkSE9_gghDIwpA&oe=62C864DA" group-title="TV OPCION 1", TV POP
-https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", PARENTESIS TV
-https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" group-title="TV OPCION 1", PORTAL FOXMIX
-https://video.streamingchilenos.cl:1936/8026/8026/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/9999132/800x800.png?type=smartCast_channelTile" group-title="TV OPCION 1",VEVO 80S
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/loop-80s-us.png" group-title="TV OPCION 1", LOOP 80´S
-https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="TV OPCION 1", TV RETRO
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-
-
 
 
 
@@ -427,8 +407,6 @@ http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59641
 #EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png" group-title="TV OPCION 2", TELEFORMULA 
 http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59644
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="TV OPCION 2", CNN ESPAÑOL 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 2", AZTECA UNO 
 http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/24944
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png" group-title="TV OPCION 2", AZTECA 7 
