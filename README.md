@@ -1047,7 +1047,7 @@ http://gotv.vip:8880/Jaime/Jaime123/65657
 http://gotv.vip:8880/Jaime/Jaime123/65658
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 4",FOX SPORTS PREMIUM 
 http://gotv.vip:8880/Jaime/Jaime123/65670
-#EXTINF:-1 tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2022/03/28/f960x540-10513_84588_0.jpg" group-title=" TV OPCION 4",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-logo="https://www.eluniversal.com.mx/sites/default/files/2022/03/28/f960x540-10513_84588_0.jpg" group-title="TV OPCION 4",FOX SPORTS PREMIUM
 http://gotv.vip:8880/Jaime/Jaime123/29641
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 4",ESPN 1 MX
 http://gotv.vip:8880/Jaime/Jaime123/65639
