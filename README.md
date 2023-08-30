@@ -264,7 +264,7 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="TV OPCION 1",La Despechada TV (720p)
 https://servidordevideo.com:3077/live/despechadalive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",REGIONAL MX
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.RQ1dGPelkvwn2zqhiyIXlQAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1",REGIONAL MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.SXZ4NuhBrBpZU78XW_OGdQAAAA?w=154&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MMC
 https://regioplay.xyz/php/SR_REGIO_617032_/distroregio.php?token=SrRegio&c=mmc&f=.m3u8
