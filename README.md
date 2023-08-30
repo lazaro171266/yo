@@ -240,11 +240,11 @@ https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png" group-title="TV OPCION 1", RECUERDOS RETRO
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/0/a/a/0aa84db9ccb645183fd4b7cfa2133a46_fgraphic.png" group-title="TV OPCION 1", RETRO MUSIC TV
+#EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2022/09/Retro-Music-TV-Chequia.png" group-title="TV OPCION 1", RETRO MUSIC TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRituMHc-XA99p7O3cfLDimxM__TWI_yAJ9KQlmHk62U26dNDk6dunk6dL6UEShh2GfpuI&usqp=CAU" group-title="TV OPCION 1", CLASSICS TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/U73kFg4Qya85ClsrZ0r8z4srpmZ2xb_85TlGjSwNnJvYdqcGVCkVL2KmQtK0heLnCMo" group-title="TV OPCION 1", RETR0 PLUS
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/900805.jpg" group-title="TV OPCION 1", RETR0 PLUS
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsRKHHlqjVuJDIbjKe0tW7MPpqkYK61_I-kQ8GzCNDfyFOSjkmXmyPtyclP5OJjxJcTs&usqp=CAU" group-title="TV OPCION 1", V CLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
