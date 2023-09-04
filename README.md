@@ -184,6 +184,8 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u
 http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=simpson_maniahd192
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr21JUm7clwHSrF87TPe1QRkRfM8JuAd_CQ&usqp=CAU" group-title="TV OPCION 1", CLASSIC CHANNEL
 https://paneltv.online:1936/8046/8046/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0e32f5659bb8ef7fa85b9e8cc0992808?rik=uZKDR9moyWC3%2bA&riu=http%3a%2f%2fteleclasica.com%2fwp-content%2fuploads%2f2022%2f06%2fNaranja.jpg&ehk=%2foDgcLh1nehIHp5CYj7g0lnEpndDWo6JiB1EP1osc0A%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", TELECLASICA
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE PREMIUM
 http://204.199.120.34:16123/play/ch49
