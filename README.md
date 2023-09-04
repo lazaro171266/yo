@@ -365,13 +365,13 @@ https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 2", MILENIO HD 
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59641
+http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/10620
 #EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png" group-title="TV OPCION 2", TELEFORMULA 
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59644
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 2", AZTECA UNO 
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/24944
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png" group-title="TV OPCION 2", AZTECA 7 
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/55053
+
 #EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="TV OPCION 2", AZ MUNDO
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgUc4QHpE2QCHeAQVm2HprLawGM1RlPmRWQ&usqp=CAU" group-title="TV OPCION 2", A+ 
@@ -409,19 +409,21 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/9494
 #EXTINF:-1 tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="TV OPCION 2", UNIVISION
 http://live.budtvlight.com:25461/Luna001/18dabf00/51641
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLuoctXlK1RNDCg_UJ3h5hyp3UdozudTG-K20rGlvQUJ56AhujWeLNFhadgrMj-_PctWU&usqp=CAU" group-title="TV OPCION 2", CINE LATINO
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/110
+http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/155849
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="TV OPCION 2", CINEMA DINAMITA
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/116
+http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/197237
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="TV OPCION 2", CLARO CINEMA
 http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/120
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png/revision/latest?cb=20191216004334&path-prefix=es" group-title="TV OPCION 2", DE PELICULA CLASICO
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/312701
+http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/201864
 #EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/01/DE-PELICULA.png" group-title="TV OPCION 2", DE PELICULA 
 http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/183
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="TV OPCION 2", DE PELICULA PLUS
 http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/181
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeGp-hA6o96NrEwlnJr_IAtc8GsJiOnjM2jUgS7v8PnMhJ229WPS9SeDho17oWtwkMI-E&usqp=CAU" group-title="TV OPCION 2", AZTECA CINEMA
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43601
+#EXTINF:-1 tvg-logo="https://archive.org/download/rafa_035_hotmail_FBK/Fotomultipremier.png" group-title="TV OPCION 2", MULTIPREMIER
+http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/201151
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jMh5P6hu1mYDsxOY1criswHaDV?w=315&h=157&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 2", DHE
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313037
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/684061254353174529/wjSOKcvm_400x400.jpg" group-title="TV OPCION 2", ULTRA CLASICO
