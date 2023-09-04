@@ -185,6 +185,14 @@ http://regioplay.xyz/php/SR_REGIO_617032_/vs.php?key=SrRegio&c=simpson_maniahd19
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr21JUm7clwHSrF87TPe1QRkRfM8JuAd_CQ&usqp=CAU" group-title="TV OPCION 1", CLASSIC CHANNEL
 https://paneltv.online:1936/8046/8046/playlist.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE PREMIUM
+http://204.199.120.34:16123/play/ch49
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE FAMILIAR
+http://204.199.120.34:16123/play/ch52
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE HISPANO
+http://204.199.120.34:16123/play/ch51
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDs0Ty_KJ1j-5-nkaIunEWGk_oZ-qfxbWAA&usqp=CAU" group-title="TV OPCION 1",RETRO MUSIC BALADAS
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
