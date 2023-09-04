@@ -627,7 +627,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78398.ts
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 3", DISTRITO COMEDIA 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78416.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/684061254353174529/wjSOKcvm_400x400.jpg" group-title="TV OPCION 3", ULTRA CLASICO
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/73896.ts
+http://budtvlight.com:25461/bud-185308/acbd5173b7/73896
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXeSlJpHoIHVibHcBj0-vH993DnouCkUb7Flp7k=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 3", ULTRA MEX
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78558.ts
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ddc36ac015e01fee6366fb10bf1f11ca?rik=dof5ZJfbLD48pg&pid=ImgRaw&r=0" group-title="TV OPCION 3", AMC
