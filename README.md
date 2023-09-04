@@ -397,7 +397,7 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/35056
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_comedy-central-hd_m.png" group-title="TV OPCION 2", COMEDY CENTRAL 
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/34950
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.MW-hcwMiamdOm4US_I0ZVwHaHa?w=166&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 2", DISTRITO COMEDIA 
-http://104.37.187.234:8080/XB21cLxBT4/kdeojk2vDM/15594
+http://104.37.187.234:8080/live/XB21cLxBT4/kdeojk2vDM/15594.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf8PZb6tdtui8fSVYRPWhRob43FCDEVWncg&usqp=CAU" group-title="TV OPCION 2", TELEMUNDO INTERNACIONAL 
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302728
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20210811041956%21Estrella_TV_-_2020_logo.png" group-title="TV OPCION 2", ESTRELLA TV
