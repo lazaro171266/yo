@@ -412,14 +412,14 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/51641
 http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/155849
 #EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="TV OPCION 2", CINEMA DINAMITA
 http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/197237
-#EXTINF:-1 tvg-logo="https://trademarks.justia.com/media/og_image.php?serial=85957958" group-title="TV OPCION 2", CLARO CINEMA
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/120
+#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/claro-sa/claro-cinema-86830508.jpg" group-title="TV OPCION 2", CLARO CINEMA
+http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/2091457
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png/revision/latest?cb=20191216004334&path-prefix=es" group-title="TV OPCION 2", DE PELICULA CLASICO
 http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/201864
 #EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2023/01/DE-PELICULA.png" group-title="TV OPCION 2", DE PELICULA 
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/183
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="TV OPCION 2", DE PELICULA PLUS
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/181
+http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/154098
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeGp-hA6o96NrEwlnJr_IAtc8GsJiOnjM2jUgS7v8PnMhJ229WPS9SeDho17oWtwkMI-E&usqp=CAU" group-title="TV OPCION 2", AZTECA CINEMA
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43601
 #EXTINF:-1 tvg-logo="https://archive.org/download/rafa_035_hotmail_FBK/Fotomultipremier.png" group-title="TV OPCION 2", MULTIPREMIER
