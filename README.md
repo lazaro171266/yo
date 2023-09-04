@@ -1,43 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 5", MILENIO HD 
-http://hdhd.tk:80/live/alice/alice2023/44094.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 5", DISTRITO COMEDIA
-http://1tv41.icu:8080/Py5zFZ/363334/57639
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 5", DISTRITO COMEDIA 2
-http://hdhd.tk:80/live/alice/alice2023/44066.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 5",TUDN
-http://hdhd.tk:80/alice/alice2023/28467
-#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 5",TUDN USA
-http://hdhd.tk:80/alice/alice2023/28748
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",CINEMA DINAMITA
-http://hdhd.tk:80/live/alice/alice2023/28876.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",DE PELICULA CLASICO
-http://hdhd.tk:80/alice/alice2023/28883
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",DE PELICULA
-http://hdhd.tk:80/alice/alice2023/28879
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",MEXICANAL
-http://hdhd.tk:80/live/alice/alice2023/28904.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TELEXITOS
-http://hdhd.tk:80/alice/alice2023/28927
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIMAS
-http://hdhd.tk:80/alice/alice2023/28967
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIVISION 41
-http://hdhd.tk:80/alice/alice2023/28964
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",HBO
-http://hdhd.tk:80/alice/alice2023/28896
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",FOX DEPORTES
-http://hdhd.tk:80/alice/alice2023/28892
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",FOX SPORTS
-http://hdhd.tk:80/alice/alice2023/44121
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TELEMETRO
-http://hdhd.tk:80/alice/alice2023/29152
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",RPC
-http://hdhd.tk:80/alice/alice2023/29150
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIVERSO
-http://hdhd.tk:80/alice/alice2023/39175
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", SPACE
-http://hdhd.tk:80/alice/alice2023/44106
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
@@ -797,7 +758,6 @@ http://gotv.vip:8880/Jaime/Jaime123/69793
 http://gotv.vip:8880/Jaime/Jaime123/69794
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 4",TELEMUNDO HOUSTON HD
 http://gotv.vip:8880/Jaime/Jaime123/73786
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1315369786906468354/7PjFLwZP.jpg" group-title="TV OPCION 4",AFIZZIONADOS
 http://gotv.vip:8880/Jaime/Jaime123/15
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 4",GALAVISION   (2 Horas)
@@ -820,9 +780,9 @@ http://gotv.vip:8880/Jaime/Jaime123/35
 http://gotv.vip:8880/Jaime/Jaime123/36
 #EXTINF:-1 tvg-logo="https://lasemanadelsur.com/wp-content/uploads/2018/10/cine_02-web.jpg" group-title="TV OPCION 4",CINELATINO
 http://gotv.vip:8880/Jaime/Jaime123/37
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg" group-title="TV OPCION 4"USA,USA - CINEMAX
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg" group-title="TV OPCION 4",CINEMAX
 http://gotv.vip:8880/Jaime/Jaime123/38
-#EXTINF:-1 tvg-logo="https://www.entornointeligente.com/wp-content/uploads/2020/08/2_aviones_rusos_hacen_intercepcion_a_C2_80_C2_98inseguraa_C2_80_C2_99_de_bombardero_b_52_de_la_fuerza_aerea_de_ee_uu_.png" group-title="TV OPCION 4"Noticias,CNN ESPAÑOL
+#EXTINF:-1 tvg-logo="https://www.entornointeligente.com/wp-content/uploads/2020/08/2_aviones_rusos_hacen_intercepcion_a_C2_80_C2_98inseguraa_C2_80_C2_99_de_bombardero_b_52_de_la_fuerza_aerea_de_ee_uu_.png" group-title="TV OPCION 4",CNN ESPAÑOL
 http://gotv.vip:8880/Jaime/Jaime123/39
 #EXTINF:-1 tvg-logo="https://storybaker.co/wp-content/uploads/2019/05/ccentral.jpg" group-title="TV OPCION 4",COMEDY CENTRAL
 http://gotv.vip:8880/Jaime/Jaime123/40
@@ -878,7 +838,7 @@ http://gotv.vip:8880/Jaime/Jaime123/81
 http://gotv.vip:8880/Jaime/Jaime123/82
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="TV OPCION 4",GLITZ
 http://gotv.vip:8880/Jaime/Jaime123/83
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="TV OPCION 4"DEPORTES,GOL TV
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="TV OPCION 4",GOL TV
 http://gotv.vip:8880/Jaime/Jaime123/84
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV OPCION 4",GOLDEN EDGE
 http://gotv.vip:8880/Jaime/Jaime123/85
@@ -926,7 +886,7 @@ http://gotv.vip:8880/Jaime/Jaime123/106
 http://gotv.vip:8880/Jaime/Jaime123/107
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/1769eb87-a655-4ab6-99f5-343640682ce5_m.jpg" group-title="TV OPCION 4",PASIONES
 http://gotv.vip:8880/Jaime/Jaime123/108
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="TV OPCION 4"Noticias,RCN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="TV OPCION 4",RCN
 http://gotv.vip:8880/Jaime/Jaime123/109
 #EXTINF:-1 tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="TV OPCION 4",SHOWTIME
 http://gotv.vip:8880/Jaime/Jaime123/111
@@ -970,11 +930,11 @@ http://gotv.vip:8880/Jaime/Jaime123/250
 http://gotv.vip:8880/Jaime/Jaime123/251
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1115324965681868800/7ks7jt6l_400x400.png" group-title="TV OPCION 4",FILMS ART
 http://gotv.vip:8880/Jaime/Jaime123/252
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_teleuno1998.jpg" group-title="TV OPCION 4"Costa Rica,TELEUNO
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_teleuno1998.jpg" group-title="TV OPCION 4",TELEUNO
 http://gotv.vip:8880/Jaime/Jaime123/272
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="TV OPCION 4"DEPORTES,Adrenalina Sport Network
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="TV OPCION 4",Adrenalina Sport Network
 http://gotv.vip:8880/Jaime/Jaime123/353
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/56/03/445603f1f3be3708d3bf74ec435376fb.png" group-title="TV OPCION 4"Ecuador,CANAL UNO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/56/03/445603f1f3be3708d3bf74ec435376fb.png" group-title="TV OPCION 4",CANAL UNO
 http://gotv.vip:8880/Jaime/Jaime123/355
 #EXTINF:-1 tvg-logo="https://assets.elimparcial.com/__export/1562611313007/sites/elimparcial/img/2019/07/08/tnt-series_crop1562611186225.png_423682103.png" group-title="TV OPCION 4",TNT Series
 http://gotv.vip:8880/Jaime/Jaime123/365
@@ -1054,8 +1014,6 @@ http://gotv.vip:8880/Jaime/Jaime123/65640
 http://gotv.vip:8880/Jaime/Jaime123/65641
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="TV OPCION 4",LATINA FHD
 http://gotv.vip:8880/Jaime/Jaime123/66347
-
-
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 4",A ESTRENAR FHD
 http://gotv.vip:8880/Jaime/Jaime123/36734
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 4",NETFLIX LATINO 1 HD
@@ -1102,6 +1060,46 @@ http://gotv.vip:8880/Jaime/Jaime123/36758
 http://gotv.vip:8880/Jaime/Jaime123/36759
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 4",Cinema VIP 06 HD
 http://gotv.vip:8880/Jaime/Jaime123/36760
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 5", MILENIO HD 
+http://hdhd.tk:80/live/alice/alice2023/44094.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 5", DISTRITO COMEDIA
+http://1tv41.icu:8080/Py5zFZ/363334/57639
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 5", DISTRITO COMEDIA 2
+http://hdhd.tk:80/live/alice/alice2023/44066.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 5",TUDN
+http://hdhd.tk:80/alice/alice2023/28467
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Tudn+M%c3%a9xico&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 5",TUDN USA
+http://hdhd.tk:80/alice/alice2023/28748
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",CINEMA DINAMITA
+http://hdhd.tk:80/live/alice/alice2023/28876.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",DE PELICULA CLASICO
+http://hdhd.tk:80/alice/alice2023/28883
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",DE PELICULA
+http://hdhd.tk:80/alice/alice2023/28879
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",MEXICANAL
+http://hdhd.tk:80/live/alice/alice2023/28904.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TELEXITOS
+http://hdhd.tk:80/alice/alice2023/28927
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIMAS
+http://hdhd.tk:80/alice/alice2023/28967
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIVISION 41
+http://hdhd.tk:80/alice/alice2023/28964
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",HBO
+http://hdhd.tk:80/alice/alice2023/28896
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",FOX DEPORTES
+http://hdhd.tk:80/alice/alice2023/28892
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",FOX SPORTS
+http://hdhd.tk:80/alice/alice2023/44121
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TELEMETRO
+http://hdhd.tk:80/alice/alice2023/29152
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",RPC
+http://hdhd.tk:80/alice/alice2023/29150
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UNIVERSO
+http://hdhd.tk:80/alice/alice2023/39175
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", SPACE
+http://hdhd.tk:80/alice/alice2023/44106
 
 
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",A&E
