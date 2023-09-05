@@ -1118,7 +1118,7 @@ http://hdhd.tk:80/alice/alice2023/39175
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", SPACE
 http://hdhd.tk:80/alice/alice2023/44106
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kh8q8qRnJYw/X-nmfU7fFiI/AAAAAAAA64w/W_f5IHcn0UYOJzdd5XN9RVIhcH567FTGQCLcBGAsYHQ/s1080/afizzionados.png" group-title="TV OPCION 6", AFIZZIONADOS
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Vul02jwqVPuxi8LHJ9B0pgAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 6", AFIZZIONADOS
 #EXTINF:-1 group-title="TV OPCION 6", TUDN
 http://gotv.vip:8880/Jaime/Jaime123/69794
 #EXTINF:-1 group-title="TV OPCION 6",Zona Tudn
