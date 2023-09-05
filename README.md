@@ -1120,11 +1120,11 @@ http://hdhd.tk:80/alice/alice2023/44106
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kh8q8qRnJYw/X-nmfU7fFiI/AAAAAAAA64w/W_f5IHcn0UYOJzdd5XN9RVIhcH567FTGQCLcBGAsYHQ/s1080/afizzionados.png" group-title="TV OPCION 6", AFIZZIONADOS
 http://gotv.vip:8880/Jaime/Jaime123/15
-#EXTINF:-1 group-title="TV OPCION 6", TUDN
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-r3aYWwbRh_g/X-nmb0kK2eI/AAAAAAAA64U/sJiF0Turqhw2xP3itv6ze94JWxBJJ5hwQCLcBGAsYHQ/s1080/TUDN.png"group-title="TV OPCION 6", TUDN
 http://gotv.vip:8880/Jaime/Jaime123/69794
-#EXTINF:-1 group-title="TV OPCION 6",Zona Tudn
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-r3aYWwbRh_g/X-nmb0kK2eI/AAAAAAAA64U/sJiF0Turqhw2xP3itv6ze94JWxBJJ5hwQCLcBGAsYHQ/s1080/TUDN.png"group-title="TV OPCION 6", Zona Tudn
 http://gotv.vip:8880/Jaime/Jaime123/137224
-#EXTINF:-1 group-title="TV OPCION 6",ESPN 1 MX
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-44ccLOifo-0/X_d0Hf_qB6I/AAAAAAAA8Ys/pRDclZkdsXEbYquPN0aCRmNxAxt4KQJFwCLcBGAsYHQ/s1080/espn.png"group-title="TV OPCION 6",ESPN 1 MX
 http://gotv.vip:8880/Jaime/Jaime123/65639
 #EXTINF:-1 group-title="TV OPCION 6",ESPN 2 MX
 http://gotv.vip:8880/Jaime/Jaime123/65640
