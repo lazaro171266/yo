@@ -1118,194 +1118,115 @@ http://hdhd.tk:80/alice/alice2023/39175
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", SPACE
 http://hdhd.tk:80/alice/alice2023/44106
 
-
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",A&E
-http://faucontv.live:8080/@messie12/b5HS41z/12163
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",AMC
-http://faucontv.live:8080/@messie12/b5HS41z/12164
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",AMERICATEVE
-http://faucontv.live:8080/@messie12/b5HS41z/12086
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",ANIMAL PLANET.
-http://faucontv.live:8080/@messie12/b5HS41z/12151
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",ARTS
-http://faucontv.live:8080/@messie12/b5HS41z/12091
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",AXN
-http://faucontv.live:8080/@messie12/b5HS41z/12152
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",AZ MAS
-http://faucontv.live:8080/@messie12/b5HS41z/12158
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",AZ UNO
-http://faucontv.live:8080/@messie12/b5HS41z/12165
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",AZTECA 7
-http://faucontv.live:8080/@messie12/b5HS41z/12160
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",AZTECA CINEMA
-http://faucontv.live:8080/@messie12/b5HS41z/12161
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",AZTECA CLIC
-http://faucontv.live:8080/@messie12/b5HS41z/12159
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",AZTECA CORAZON
-http://faucontv.live:8080/@messie12/b5HS41z/12166
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",AZTECA MUNDO
-http://faucontv.live:8080/@messie12/b5HS41z/12162
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",BOOMERANG
-http://faucontv.live:8080/@messie12/b5HS41z/12153
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CANAL 11
-http://faucontv.live:8080/@messie12/b5HS41z/12154
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CANAL 5
-http://faucontv.live:8080/@messie12/b5HS41z/12155
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CANAL DE LAS ESTRELLAS.
-http://faucontv.live:8080/@messie12/b5HS41z/12156
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CARTOON NETWORK.
-http://faucontv.live:8080/@messie12/b5HS41z/12157
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CINE LATINO
-http://faucontv.live:8080/@messie12/b5HS41z/12114
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CINECANAL
-http://faucontv.live:8080/@messie12/b5HS41z/12142
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CINEMA DINAMITA
-http://faucontv.live:8080/@messie12/b5HS41z/12106
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CINEMAX
-http://faucontv.live:8080/@messie12/b5HS41z/12143
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CLARO CINEMA
-http://faucontv.live:8080/@messie12/b5HS41z/12084
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CLARO SPORT
-http://faucontv.live:8080/@messie12/b5HS41z/12085
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",CNN
-http://faucontv.live:8080/@messie12/b5HS41z/12092
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",COMEDY CENTRAL
-http://faucontv.live:8080/@messie12/b5HS41z/12144
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",DE PELICULA PLUS
-http://faucontv.live:8080/@messie12/b5HS41z/12093
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",DHE
-http://faucontv.live:8080/@messie12/b5HS41z/12087
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",DISCOVERY  HOME & HEALTH
-http://faucontv.live:8080/@messie12/b5HS41z/12145
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",DISCOVERY CHANNEL
-http://faucontv.live:8080/@messie12/b5HS41z/12146
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",DISCOVERY KIDS
-http://faucontv.live:8080/@messie12/b5HS41z/12147
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",DISCOVERY SCIENCE.
-http://faucontv.live:8080/@messie12/b5HS41z/12148
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",DISCOVERY TURBO.
-http://faucontv.live:8080/@messie12/b5HS41z/12150
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",DISNEY JR
-http://faucontv.live:8080/@messie12/b5HS41z/12136
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",DISNEY XD.
-http://faucontv.live:8080/@messie12/b5HS41z/12137
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",DISTRITO COMEDIA
-http://faucontv.live:8080/@messie12/b5HS41z/12088
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",E! ENTERTAINMENT
-http://faucontv.live:8080/@messie12/b5HS41z/12138
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",ESPN
-http://faucontv.live:8080/@messie12/b5HS41z/12139
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",ESPN 2.
-http://faucontv.live:8080/@messie12/b5HS41z/12140
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",ESPN 3
-http://faucontv.live:8080/@messie12/b5HS41z/12141
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",FORO TV
-http://faucontv.live:8080/@messie12/b5HS41z/12126
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",FOX ACTION
-http://faucontv.live:8080/@messie12/b5HS41z/12127
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",FOX CINEMA
-http://faucontv.live:8080/@messie12/b5HS41z/12128
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",FOX CLASSIC
-http://faucontv.live:8080/@messie12/b5HS41z/12129
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",FOX LIFE
-http://faucontv.live:8080/@messie12/b5HS41z/12130
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",FOX MOVIES
-http://faucontv.live:8080/@messie12/b5HS41z/12119
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",FOX SPORT
-http://faucontv.live:8080/@messie12/b5HS41z/12131
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",FOX SPORT 2
-http://faucontv.live:8080/@messie12/b5HS41z/12132
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",FOX.
-http://faucontv.live:8080/@messie12/b5HS41z/12120
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",FX
-http://faucontv.live:8080/@messie12/b5HS41z/12121
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",GALAVISION
-http://faucontv.live:8080/@messie12/b5HS41z/12122
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",GLITZ
-http://faucontv.live:8080/@messie12/b5HS41z/12089
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",GOLDEN
-http://faucontv.live:8080/@messie12/b5HS41z/12123
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",GOLDEN EDGE
-http://faucontv.live:8080/@messie12/b5HS41z/12124
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",GOLDEN PREMIER
-http://faucontv.live:8080/@messie12/b5HS41z/12090
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",H2
-http://faucontv.live:8080/@messie12/b5HS41z/12073
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",HBO ESTE
-http://faucontv.live:8080/@messie12/b5HS41z/12074
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",HISTORY
-http://faucontv.live:8080/@messie12/b5HS41z/12125
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",HOLA TV
-http://faucontv.live:8080/@messie12/b5HS41z/12113
-#EXTINF:-1 tvg-logo="s:1:/images/g-dotYH9xINHixEP8X_eCzseZYuTsF3uy83lR1HBu9FJi3PtuYTra1sK5JZLVQCKKbxtXwzJCPnM8-Yr0qjyIg.png" group-title="TV OPCION 6",INVESTIGATION DISCOVERY
-http://faucontv.live:8080/@messie12/b5HS41z/12115
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",LIFETIME
-http://faucontv.live:8080/@messie12/b5HS41z/12116
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",MAX PRIME
-http://faucontv.live:8080/@messie12/b5HS41z/12149
-#EXTINF:-1  tvg-logo="" group-title="TV OPCION 6",MILENIO TV
-http://faucontv.live:8080/@messie12/b5HS41z/12117
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",MTV.
-http://faucontv.live:8080/@messie12/b5HS41z/12105
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",MULTMEDIOS
-http://faucontv.live:8080/@messie12/b5HS41z/12075
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",MY TIME MOVIES 1
-http://faucontv.live:8080/@messie12/b5HS41z/12071
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",MY TIME MOVIES 2
-http://faucontv.live:8080/@messie12/b5HS41z/12072
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",NATGEO WILD
-http://faucontv.live:8080/@messie12/b5HS41z/12107
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",NATIONAL GEOGRAPHIC.
-http://faucontv.live:8080/@messie12/b5HS41z/12108
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",NICK JR
-http://faucontv.live:8080/@messie12/b5HS41z/12109
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",NICKELODEON
-http://faucontv.live:8080/@messie12/b5HS41z/12110
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",ONCE
-http://faucontv.live:8080/@messie12/b5HS41z/12076
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",PARAMOUNT
-http://faucontv.live:8080/@messie12/b5HS41z/12118
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",PARAMOUNT
-http://faucontv.live:8080/@messie12/b5HS41z/12133
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",SONY
-http://faucontv.live:8080/@messie12/b5HS41z/12111
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",SPACE
-http://faucontv.live:8080/@messie12/b5HS41z/12112
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",STUDIO UNIVERSAL
-http://faucontv.live:8080/@messie12/b5HS41z/12097
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",SYFY
-http://faucontv.live:8080/@messie12/b5HS41z/12098
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",TBS
-http://faucontv.live:8080/@messie12/b5HS41z/12077
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",TCM
-http://faucontv.live:8080/@messie12/b5HS41z/12099
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",TDN
-http://faucontv.live:8080/@messie12/b5HS41z/12078
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",TELEMUNDO
-http://faucontv.live:8080/@messie12/b5HS41z/12101
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",TELEMUNDO INTERNACIONAL
-http://faucontv.live:8080/@messie12/b5HS41z/12079
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",TLC
-http://faucontv.live:8080/@messie12/b5HS41z/12100
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",TNT
-http://faucontv.live:8080/@messie12/b5HS41z/12103
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",TNT SERIES
-http://faucontv.live:8080/@messie12/b5HS41z/12104
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",TRU TV
-http://faucontv.live:8080/@messie12/b5HS41z/12080
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",UNICABLE
-http://faucontv.live:8080/@messie12/b5HS41z/12094
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/unimas.png" group-title="TV OPCION 6",UNIMAS
-http://faucontv.live:8080/@messie12/b5HS41z/12081
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",UNIVERSAL CHANNEL
-http://faucontv.live:8080/@messie12/b5HS41z/12095
-#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo/univision.png" group-title="TV OPCION 6",UNIVISION
-http://faucontv.live:8080/@messie12/b5HS41z/12096
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",UNIVISION DEPORTES
-http://faucontv.live:8080/@messie12/b5HS41z/12064
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",UNIVISION TELENOVELAS
-http://faucontv.live:8080/@messie12/b5HS41z/12134
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",VH1
-http://faucontv.live:8080/@messie12/b5HS41z/12082
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 6",WARNER CHANNEL
-http://faucontv.live:8080/@messie12/b5HS41z/12083
+#EXTINF:-1 group-title="24/7", Cinema Acción Classics
+http://gotv.vip:8880/Jaime/Jaime123/136997
+#EXTINF:-1 group-title="24/7", Cinema Ciencia Ficción HD
+http://gotv.vip:8880/Jaime/Jaime123/136998
+#EXTINF:-1 group-title="24/7", Cinema DC Comics HD
+http://gotv.vip:8880/Jaime/Jaime123/136999
+#EXTINF:-1 group-title="24/7", Cinema DC Universe HD
+http://gotv.vip:8880/Jaime/Jaime123/137000
+#EXTINF:-1 group-title="24/7", Cinema Disney Family HD
+http://gotv.vip:8880/Jaime/Jaime123/137001
+#EXTINF:-1 group-title="24/7", Cinema Happy Madison HD
+http://gotv.vip:8880/Jaime/Jaime123/137002
+#EXTINF:-1 group-title="24/7", Cinema Marvel Studios HD
+http://gotv.vip:8880/Jaime/Jaime123/137003
+#EXTINF:-1 group-title="24/7", Cinema Lego Movies HD
+http://gotv.vip:8880/Jaime/Jaime123/137096
+#EXTINF:-1 group-title="24/7", Cinema Disney Pixar
+http://gotv.vip:8880/Jaime/Jaime123/137097
+#EXTINF:-1 group-title="24/7", Cinema Horror HD
+http://gotv.vip:8880/Jaime/Jaime123/137098
+#EXTINF:-1 group-title="24/7", The Walking Dead
+http://gotv.vip:8880/Jaime/Jaime123/137099
+#EXTINF:-1 group-title="24/7",24/7 LOS SIMPSON
+http://gotv.vip:8880/Jaime/Jaime123/157211
+#EXTINF:-1 group-title="24/7",24/7  BOB ESPONJA
+http://gotv.vip:8880/Jaime/Jaime123/157212
+#EXTINF:-1 group-title="24/7", CHAVO DEL OCHO
+http://gotv.vip:8880/Jaime/Jaime123/157216
+#EXTINF:-1 group-title="24/7", LA FAMILIA PELUCHE TEMPORADA 2 Y 3
+http://gotv.vip:8880/Jaime/Jaime123/157217
+#EXTINF:-1 group-title="24/7", CABALLERO DEL ZODIACO
+http://gotv.vip:8880/Jaime/Jaime123/157218
+#EXTINF:-1 group-title="24/7", MALCOM IN THE MIDDLE TEMPORADA 1 2 3
+http://gotv.vip:8880/Jaime/Jaime123/157219
+#EXTINF:-1 group-title="24/7", EL CHAVO DEL OCHO
+http://gotv.vip:8880/Jaime/Jaime123/157220
+#EXTINF:-1 group-title="24/7", LA FAMILIA PELUCHE TEMPORADA 1
+http://gotv.vip:8880/Jaime/Jaime123/157221
+#EXTINF:-1 group-title="24/7", BEN 10
+http://gotv.vip:8880/Jaime/Jaime123/157222
+#EXTINF:-1 group-title="24/7", CARICATURAS CLASICAS
+http://gotv.vip:8880/Jaime/Jaime123/157236
+#EXTINF:-1 group-title="24/7", MUCHA LUCHA
+http://gotv.vip:8880/Jaime/Jaime123/157237
+#EXTINF:-1 group-title="24/7",Snoopy 24/7
+http://gotv.vip:8880/Jaime/Jaime123/157238
+#EXTINF:-1 group-title="24/7", 50 Clasicos de Disney
+http://gotv.vip:8880/Jaime/Jaime123/157508
+#EXTINF:-1 group-title="24/7", Angry Birds
+http://gotv.vip:8880/Jaime/Jaime123/157509
+#EXTINF:-1 group-title="24/7", Art Atack
+http://gotv.vip:8880/Jaime/Jaime123/157510
+#EXTINF:-1 group-title="24/7", Barbie
+http://gotv.vip:8880/Jaime/Jaime123/157512
+#EXTINF:-1 group-title="24/7", Ben Y Holly (Castellano)
+http://gotv.vip:8880/Jaime/Jaime123/157514
+#EXTINF:-1 group-title="24/7", Candy Candy
+http://gotv.vip:8880/Jaime/Jaime123/157516
+#EXTINF:-1 group-title="24/7", Coraje el Perro Cobarde
+http://gotv.vip:8880/Jaime/Jaime123/157517
+#EXTINF:-1 group-title="24/7", Digimon
+http://gotv.vip:8880/Jaime/Jaime123/157518
+#EXTINF:-1 group-title="24/7", Don Gato y Su Pandilla
+http://gotv.vip:8880/Jaime/Jaime123/157521
+#EXTINF:-1 group-title="24/7", El Conde Pátula
+http://gotv.vip:8880/Jaime/Jaime123/157524
+#EXTINF:-1 group-title="24/7", Gasparin y Sus Amigos
+http://gotv.vip:8880/Jaime/Jaime123/157525
+#EXTINF:-1 group-title="24/7", Halcones Galacticos
+http://gotv.vip:8880/Jaime/Jaime123/157526
+#EXTINF:-1 group-title="24/7", Hey Arnold
+http://gotv.vip:8880/Jaime/Jaime123/157527
+#EXTINF:-1 group-title="24/7", Hombres de Negro
+http://gotv.vip:8880/Jaime/Jaime123/157528
+#EXTINF:-1 group-title="24/7", Johnny Bravo
+http://gotv.vip:8880/Jaime/Jaime123/157529
+#EXTINF:-1 group-title="24/7", Kenan & Kel
+http://gotv.vip:8880/Jaime/Jaime123/157530
+#EXTINF:-1 group-title="24/7", La Pantera Rosa
+http://gotv.vip:8880/Jaime/Jaime123/157532
+#EXTINF:-1 group-title="24/7", La Vaca y El Pollito
+http://gotv.vip:8880/Jaime/Jaime123/157533
+#EXTINF:-1 group-title="24/7", Las Chicas Superpoderosas
+http://gotv.vip:8880/Jaime/Jaime123/157534
+#EXTINF:-1 group-title="24/7", Los Castores Cascarrabias
+http://gotv.vip:8880/Jaime/Jaime123/157537
+#EXTINF:-1 group-title="24/7", Los Pequeños Picapiedras
+http://gotv.vip:8880/Jaime/Jaime123/157538
+#EXTINF:-1 group-title="24/7", Los Picapiedras
+http://gotv.vip:8880/Jaime/Jaime123/157539
+#EXTINF:-1 group-title="24/7", Los Pitufos
+http://gotv.vip:8880/Jaime/Jaime123/157540
+#EXTINF:-1 group-title="24/7", Masha y el oso
+http://gotv.vip:8880/Jaime/Jaime123/157541
+#EXTINF:-1 group-title="24/7", Pajaro Loco
+http://gotv.vip:8880/Jaime/Jaime123/157542
+#EXTINF:-1 group-title="24/7", Patrulla Canina
+http://gotv.vip:8880/Jaime/Jaime123/157543
+#EXTINF:-1 group-title="24/7", Pinguinos De Madagascar
+http://gotv.vip:8880/Jaime/Jaime123/157544
+#EXTINF:-1 group-title="24/7", Power Rangers
+http://gotv.vip:8880/Jaime/Jaime123/157546
+#EXTINF:-1 group-title="24/7", Scooby-Doo
+http://gotv.vip:8880/Jaime/Jaime123/157548
+#EXTINF:-1 group-title="24/7", Spiderman (1994)
+http://gotv.vip:8880/Jaime/Jaime123/157549
+#EXTINF:-1 group-title="24/7", Thundercats
+http://gotv.vip:8880/Jaime/Jaime123/157551
+#EXTINF:-1 group-title="24/7", Timon & Pumba
+http://gotv.vip:8880/Jaime/Jaime123/157552
+#EXTINF:-1 group-title="24/7", Toy Story
+http://gotv.vip:8880/Jaime/Jaime123/157554
