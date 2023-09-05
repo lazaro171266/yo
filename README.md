@@ -1258,7 +1258,7 @@ http://gotv.vip:8880/Jaime/Jaime123/54
 http://gotv.vip:8880/Jaime/Jaime123/55
 #EXTINF:-1 group-title="TV OPCION 6",DISNEY XD
 http://gotv.vip:8880/Jaime/Jaime123/56
-#EXTINF:-1 group-title="TV OPCION 6",DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IzOaP79D3qs/X-zKgm55PgI/AAAAAAAA7CQ/kKExis2PoqMYDHeI86NP76b2-O_uYIfwwCLcBGAsYHQ/s1080/dcc.png" group-title="TV OPCION 6", DISTRITO COMEDIA
 http://gotv.vip:8880/Jaime/Jaime123/57
 #EXTINF:-1 group-title="TV OPCION 6",E! Entertaiment
 http://gotv.vip:8880/Jaime/Jaime123/58
