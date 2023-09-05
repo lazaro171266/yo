@@ -1118,9 +1118,11 @@ http://hdhd.tk:80/alice/alice2023/39175
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", SPACE
 http://hdhd.tk:80/alice/alice2023/44106
 
-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kh8q8qRnJYw/X-nmfU7fFiI/AAAAAAAA64w/W_f5IHcn0UYOJzdd5XN9RVIhcH567FTGQCLcBGAsYHQ/s1080/afizzionados.png" group-title="TV OPCION 6",AFIZZIONADOS
 #EXTINF:-1 group-title="TV OPCION 6", TUDN
 http://gotv.vip:8880/Jaime/Jaime123/69794
+#EXTINF:-1 group-title="TV OPCION 6",Zona Tudn
+http://gotv.vip:8880/Jaime/Jaime123/137224
 #EXTINF:-1 group-title="TV OPCION 6",ESPN 1 MX
 http://gotv.vip:8880/Jaime/Jaime123/65639
 #EXTINF:-1 group-title="TV OPCION 6",ESPN 2 MX
@@ -1180,7 +1182,6 @@ http://gotv.vip:8880/Jaime/Jaime123/37954
 #EXTINF:-1 group-title="TV OPCION 6",ULTRA PUEBLA
 http://gotv.vip:8880/Jaime/Jaime123/37957
 
-#EXTINF:-1 group-title="TV OPCION 6",AFIZZIONADOS
 http://gotv.vip:8880/Jaime/Jaime123/15
 #EXTINF:-1 group-title="TV OPCION 6",AMC
 http://gotv.vip:8880/Jaime/Jaime123/16
@@ -1649,8 +1650,6 @@ http://gotv.vip:8880/Jaime/Jaime123/137101
 http://gotv.vip:8880/Jaime/Jaime123/137102
 #EXTINF:-1 group-title="TV OPCION 6",CANAL 26.
 http://gotv.vip:8880/Jaime/Jaime123/137103
-#EXTINF:-1 group-title="TV OPCION 6",Zona Tudn
-http://gotv.vip:8880/Jaime/Jaime123/137224
 #EXTINF:-1 group-title="TV OPCION 6",RITMOSON
 http://gotv.vip:8880/Jaime/Jaime123/137362
 #EXTINF:-1 group-title="TV OPCION 6",Canal 11.
