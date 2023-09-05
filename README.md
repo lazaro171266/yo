@@ -1658,45 +1658,45 @@ http://gotv.vip:8880/Jaime/Jaime123/137409
 http://gotv.vip:8880/Jaime/Jaime123/137410
 
 
-#EXTINF:-1,NETFLIX LATINO 1 HD
+#EXTINF:-1 group-title="24/7", NETFLIX 01 HD
 http://gotv.vip:8880/Jaime/Jaime123/36735
-#EXTINF:-1,Cinema VIP 01 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 01 HD
 http://gotv.vip:8880/Jaime/Jaime123/36737
-#EXTINF:-1,Cinema VIP 02 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 02 HD
 http://gotv.vip:8880/Jaime/Jaime123/36738
-#EXTINF:-1,Cinema VIP 05 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 05 HD
 http://gotv.vip:8880/Jaime/Jaime123/36739
-#EXTINF:-1,Cinema VIP 03 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 03 HD
 http://gotv.vip:8880/Jaime/Jaime123/36740
-#EXTINF:-1,Cinema VIP 04 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 04 HD
 http://gotv.vip:8880/Jaime/Jaime123/36741
-#EXTINF:-1,Cinema VIP 12 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 12 HD
 http://gotv.vip:8880/Jaime/Jaime123/36746
-#EXTINF:-1,Cinema VIP 11 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 11 HD
 http://gotv.vip:8880/Jaime/Jaime123/36747
-#EXTINF:-1,Cinema VIP 10 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 10 HD
 http://gotv.vip:8880/Jaime/Jaime123/36748
-#EXTINF:-1,Cinema VIP 09 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 09 HD
 http://gotv.vip:8880/Jaime/Jaime123/36750
-#EXTINF:-1,Cinema VIP 08 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 08 HD
 http://gotv.vip:8880/Jaime/Jaime123/36751
-#EXTINF:-1,NETFLIX LATINO 18 HD
+#EXTINF:-1 group-title="24/7",08 HD
 http://gotv.vip:8880/Jaime/Jaime123/36752
-#EXTINF:-1,Cinema VIP 07 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 07 HD
 http://gotv.vip:8880/Jaime/Jaime123/36753
-#EXTINF:-1,NETFLIX LATINO 20 HD
+#EXTINF:-1 group-title="24/7", NETFLIX LATINO 20 HD
 http://gotv.vip:8880/Jaime/Jaime123/36754
-#EXTINF:-1,NETFLIX LATINO 21 HD
+#EXTINF:-1 group-title="24/7", NETFLIX LATINO 21 HD
 http://gotv.vip:8880/Jaime/Jaime123/36755
-#EXTINF:-1,NETFLIX LATINO 22 HD
+#EXTINF:-1 group-title="24/7", NETFLIX LATINO 22 HD
 http://gotv.vip:8880/Jaime/Jaime123/36756
-#EXTINF:-1,NETFLIX LATINO 23 HD
+#EXTINF:-1 group-title="24/7", NETFLIX LATINO 23 HD
 http://gotv.vip:8880/Jaime/Jaime123/36757
-#EXTINF:-1,NETFLIX LATINO 24 HD
+#EXTINF:-1 group-title="24/7", NETFLIX LATINO 24 HD
 http://gotv.vip:8880/Jaime/Jaime123/36758
-#EXTINF:-1,NETFLIX LATINO 25 HD
+#EXTINF:-1 group-title="24/7", NETFLIX LATINO 25 HD
 http://gotv.vip:8880/Jaime/Jaime123/36759
-#EXTINF:-1,Cinema VIP 06 HD
+#EXTINF:-1 group-title="24/7", Cinema VIP 06 HD
 http://gotv.vip:8880/Jaime/Jaime123/36760
 #EXTINF:-1 group-title="24/7", Cinema Acción Classics
 http://gotv.vip:8880/Jaime/Jaime123/136997
