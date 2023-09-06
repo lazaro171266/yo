@@ -1118,6 +1118,16 @@ http://hdhd.tk:80/alice/alice2023/39175
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", SPACE
 http://hdhd.tk:80/alice/alice2023/44106
 
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MbRGItMCfzk/YMkrk8YTXYI/AAAAAAAA-AE/OW8GSe14lRwM-YQbPnvLs11XwVKW6zgYgCLcBGAsYHQ/s1080/milenio.png" group-title="TV OPCION 6",MILENIO TV
+http://gotv.vip:8880/Jaime/Jaime123/614
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Uxz9q5gDv5A/YMkrhIvFoeI/AAAAAAAA9_g/gEp1XZ3QPKgUcuqj5ntBz5aHnUmPH9VWQCLcBGAsYHQ/s1080/formula%2Btv.png" group-title="TV OPCION 6",TELEFORMULA
+http://gotv.vip:8880/Jaime/Jaime123/121
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XTNh7EesSDg/YMkrhluiAuI/AAAAAAAA9_k/c51Pcw8-qk0-yGhvgsZZ546_S0a9RRgXwCLcBGAsYHQ/s1080/foro%2Btv.png" group-title="TV OPCION 6",FORO TV
+http://gotv.vip:8880/Jaime/Jaime123/68
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/25b08b_5194a9f2a5b1438d8135d53c6ccc4e8b~mv2.png/v1/fill/w_448,h_448,al_c,lg_1/25b08b_5194a9f2a5b1438d8135d53c6ccc4e8b~mv2.png" group-title="TV OPCION 6",ADN 40
+http://gotv.vip:8880/Jaime/Jaime123/345
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kh8q8qRnJYw/X-nmfU7fFiI/AAAAAAAA64w/W_f5IHcn0UYOJzdd5XN9RVIhcH567FTGQCLcBGAsYHQ/s1080/afizzionados.png" group-title="TV OPCION 6", AFIZZIONADOS
 http://gotv.vip:8880/Jaime/Jaime123/15
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-r3aYWwbRh_g/X-nmb0kK2eI/AAAAAAAA64U/sJiF0Turqhw2xP3itv6ze94JWxBJJ5hwQCLcBGAsYHQ/s1080/TUDN.png"group-title="TV OPCION 6", TUDN
@@ -1172,8 +1182,7 @@ http://gotv.vip:8880/Jaime/Jaime123/37943
 http://gotv.vip:8880/Jaime/Jaime123/37947
 #EXTINF:-1 group-title="TV OPCION 6",RCG
 http://gotv.vip:8880/Jaime/Jaime123/37948
-#EXTINF:-1 group-title="TV OPCION 6",ADN40
-http://gotv.vip:8880/Jaime/Jaime123/345
+
 #EXTINF:-1 group-title="TV OPCION 6",CANAL 24 NRT
 http://gotv.vip:8880/Jaime/Jaime123/37952
 #EXTINF:-1 group-title="TV OPCION 6",TELEMAX
@@ -1270,8 +1279,7 @@ http://gotv.vip:8880/Jaime/Jaime123/60
 http://gotv.vip:8880/Jaime/Jaime123/66
 #EXTINF:-1 group-title="TV OPCION 6",FOOD NETWORK
 http://gotv.vip:8880/Jaime/Jaime123/67
-#EXTINF:-1 group-title="TV OPCION 6",FORO TV
-http://gotv.vip:8880/Jaime/Jaime123/68
+
 #EXTINF:-1 group-title="TV OPCION 6",FOX
 http://gotv.vip:8880/Jaime/Jaime123/69
 #EXTINF:-1 group-title="TV OPCION 6",UNIVERSAL CRIME
@@ -1366,8 +1374,7 @@ http://gotv.vip:8880/Jaime/Jaime123/118
 http://gotv.vip:8880/Jaime/Jaime123/119
 #EXTINF:-1 group-title="TV OPCION 6",TCM
 http://gotv.vip:8880/Jaime/Jaime123/120
-#EXTINF:-1 group-title="TV OPCION 6",TELEFORMULA
-http://gotv.vip:8880/Jaime/Jaime123/121
+
 #EXTINF:-1 group-title="TV OPCION 6",TELEHIT
 http://gotv.vip:8880/Jaime/Jaime123/122
 #EXTINF:-1 group-title="TV OPCION 6",A&E
@@ -1440,8 +1447,7 @@ http://gotv.vip:8880/Jaime/Jaime123/603
 http://gotv.vip:8880/Jaime/Jaime123/605
 #EXTINF:-1 group-title="TV OPCION 6",TELEVISA MONTEREY
 http://gotv.vip:8880/Jaime/Jaime123/613
-#EXTINF:-1 group-title="TV OPCION 6",MILENIO TV
-http://gotv.vip:8880/Jaime/Jaime123/614
+
 #EXTINF:-1 group-title="TV OPCION 6",Film And Arts
 http://gotv.vip:8880/Jaime/Jaime123/615
 #EXTINF:-1 group-title="TV OPCION 6",EXTREMA X
