@@ -377,8 +377,7 @@ https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 2", COMO DICE EL DICHO
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298052
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 2", MILENIO HD 
 http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/10620
 #EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png" group-title="TV OPCION 2", TELEFORMULA 
