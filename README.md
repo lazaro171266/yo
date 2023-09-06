@@ -1333,9 +1333,9 @@ http://gotv.vip:8880/Jaime/Jaime123/243
 http://gotv.vip:8880/Jaime/Jaime123/365
 #EXTINF:-1 group-title="TV OPCION 6",WARNER
 http://gotv.vip:8880/Jaime/Jaime123/366
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0bpFgOCTwIc/X_G_r1KbKaI/AAAAAAAA7P4/yCr_V8Z7bC0VtSLIxA6B9Mkg9EgHrb1NwCLcBGAsYHQ/s1080/goldpre.png" group-title="TV OPCION 6",GOLDEN
+#EXTINF:-1 group-title="TV OPCION 6",GOLDEN
 http://gotv.vip:8880/Jaime/Jaime123/244
-#EXTINF:-1 group-title="TV OPCION 6",GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0bpFgOCTwIc/X_G_r1KbKaI/AAAAAAAA7P4/yCr_V8Z7bC0VtSLIxA6B9Mkg9EgHrb1NwCLcBGAsYHQ/s1080/goldpre.png" group-title="TV OPCION 6",GOLDEN PREMIER
 http://gotv.vip:8880/Jaime/Jaime123/245
 #EXTINF:-1 group-title="TV OPCION 6",GOLDEN PREMIER 2
 http://gotv.vip:8880/Jaime/Jaime123/140041
