@@ -1375,7 +1375,7 @@ http://gotv.vip:8880/Jaime/Jaime123/250
 http://gotv.vip:8880/Jaime/Jaime123/251
 #EXTINF:-1 group-title="TV OPCION 6",FILMS ART
 http://gotv.vip:8880/Jaime/Jaime123/252
-#EXTINF:-1 group-title="TV OPCION 6",LIFETIME
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2h686zfEQ9U/X-p6jN82gAI/AAAAAAAA69A/1zX7UgoY214j556HgoKJJG9t56rM86PrwCLcBGAsYHQ/s1080/LT.png" group-title="TV OPCION 6",LIFETIME
 http://gotv.vip:8880/Jaime/Jaime123/95
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/25b08b_497d75da6bfb491b9d01bfd860d9131c~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_497d75da6bfb491b9d01bfd860d9131c~mv2.png" group-title="TV OPCION 6",HBO FHD
@@ -1392,7 +1392,7 @@ http://gotv.vip:8880/Jaime/Jaime123/12275
 http://gotv.vip:8880/Jaime/Jaime123/12276
 #EXTINF:-1 group-title="TV OPCION 6",HBO XTREME FHD
 http://gotv.vip:8880/Jaime/Jaime123/12277
-#EXTINF:-1 group-title="TV OPCION 6",Universal Channel
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dIfGuoVc-RM/X_HaqVXEysI/AAAAAAAA7QU/Y8Jx-g6_awgxep9Dl_UelB3pVkYFaSnNwCLcBGAsYHQ/s1080/univr.png" group-title="TV OPCION 6",Universal Channel
 http://gotv.vip:8880/Jaime/Jaime123/248
 #EXTINF:-1 group-title="TV OPCION 6",UNIVERSAL COMEDY (STAR COMEDY)
 http://gotv.vip:8880/Jaime/Jaime123/12265
