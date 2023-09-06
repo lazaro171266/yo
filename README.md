@@ -1173,17 +1173,9 @@ http://gotv.vip:8880/Jaime/Jaime123/145959
 http://gotv.vip:8880/Jaime/Jaime123/145962
 
 
-#EXTINF:-1 group-title="TV OPCION 6",Canal Uno HD
-http://gotv.vip:8880/Jaime/Jaime123/146018
-#EXTINF:-1 group-title="TV OPCION 6",CANAL ONCE
-http://gotv.vip:8880/Jaime/Jaime123/31
-#EXTINF:-1 group-title="TV OPCION 6",CARACOL
-http://gotv.vip:8880/Jaime/Jaime123/34
-#EXTINF:-1 group-title="TV OPCION 6",CANAL 5
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f1EhZrfX5yU/YMkrf2CQ2TI/AAAAAAAA9_M/MMzjEVDrXsgueXSKwiclg1TjmhilHM-xACLcBGAsYHQ/s1080/canal%2B5.png" group-title="TV OPCION 6",CANAL 5
 http://gotv.vip:8880/Jaime/Jaime123/32
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SQ9dQ5FX5Nc/YHduQkKXTxI/AAAAAAAA9LQ/qEfQkB51GTEf6nszrwkruwyoxOzSSvU5wCLcBGAsYHQ/s1080/ESTRELLATVVVV.png" group-title="TV OPCION 6",ESTRELLA TV
-http://gotv.vip:8880/Jaime/Jaime123/66
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SQ9dQ5FX5Nc/YHduQkKXTxI/AAAAAAAA9LQ/qEfQkB51GTEf6nszrwkruwyoxOzSSvU5wCLcBGAsYHQ/s1080/ESTRELLATVVVV.png" group-title="TV OPCION 6",ESTRELLA TV (2 Horas)
 http://gotv.vip:8880/Jaime/Jaime123/37941
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fMBOrcbqcSg/YHgIaFoIv4I/AAAAAAAA9Ok/dheOVxy4srEfvduVRRxB8-pw_yzYJB85ACLcBGAsYHQ/s1080/galavision.png" group-title="TV OPCION 6",GALAVISION
 http://gotv.vip:8880/Jaime/Jaime123/1525
@@ -1199,9 +1191,9 @@ http://gotv.vip:8880/Jaime/Jaime123/25
 http://gotv.vip:8880/Jaime/Jaime123/37940
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3xDHRI6R9Xs/YMkre1Cg_bI/AAAAAAAA9_E/gIH5qH6SmwUaUAv--KtNfD3ep8VKqJZMwCLcBGAsYHQ/s1080/azteca%2B7.png" group-title="TV OPCION 6",AZTECA 7
 http://gotv.vip:8880/Jaime/Jaime123/26
-#EXTINF:-1 group-title="TV OPCION 6",AZ CINEMA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/25b08b_a815588ea7ae4e87948215221a73754c~mv2.png/v1/fill/w_1124,h_1124,al_c,usm_0.66_1.00_0.01/25b08b_a815588ea7ae4e87948215221a73754c~mv2.png" group-title="TV OPCION 6",AZ CINEMA
 http://gotv.vip:8880/Jaime/Jaime123/22
-#EXTINF:-1 group-title="TV OPCION 6",AZ CORAZON
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DAr4-V0vreA/YMkreRiWnCI/AAAAAAAA9-8/BivPpMlGk1MvzIcR2a_WqwCzwRISDl-RwCLcBGAsYHQ/s1080/az%2Bcorazon.png" group-title="TV OPCION 6",AZ CORAZON
 http://gotv.vip:8880/Jaime/Jaime123/23
 #EXTINF:-1 group-title="TV OPCION 6",AZ MUNDO
 http://gotv.vip:8880/Jaime/Jaime123/24
@@ -1256,13 +1248,16 @@ http://gotv.vip:8880/Jaime/Jaime123/622
 #EXTINF:-1 group-title="TV OPCION 6",INGENIO TV
 http://gotv.vip:8880/Jaime/Jaime123/623
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IzOaP79D3qs/X-zKgm55PgI/AAAAAAAA7CQ/kKExis2PoqMYDHeI86NP76b2-O_uYIfwwCLcBGAsYHQ/s1080/dcc.png" group-title="TV OPCION 6", DISTRITO COMEDIA
 http://gotv.vip:8880/Jaime/Jaime123/15
+#EXTINF:-1 group-title="TV OPCION 6",ANTENA 3
+http://gotv.vip:8880/Jaime/Jaime123/18
+
 #EXTINF:-1 group-title="TV OPCION 6",AMC
 http://gotv.vip:8880/Jaime/Jaime123/16
 #EXTINF:-1 group-title="TV OPCION 6",ANIMAL PLANET
 http://gotv.vip:8880/Jaime/Jaime123/17
-#EXTINF:-1 group-title="TV OPCION 6",ANTENA 3
-http://gotv.vip:8880/Jaime/Jaime123/18
+
 #EXTINF:-1 group-title="TV OPCION 6",AXN
 http://gotv.vip:8880/Jaime/Jaime123/19
 #EXTINF:-1 group-title="TV OPCION 6",AXN WHITE
@@ -1280,8 +1275,7 @@ http://gotv.vip:8880/Jaime/Jaime123/37
 #EXTINF:-1 group-title="TV OPCION 6", CINEMAX
 http://gotv.vip:8880/Jaime/Jaime123/38
 
-#EXTINF:-1 group-title="TV OPCION 6",COMEDY CENTRAL
-http://gotv.vip:8880/Jaime/Jaime123/40
+
 #EXTINF:-1 group-title="TV OPCION 6",DE PELICULA
 http://gotv.vip:8880/Jaime/Jaime123/41
 #EXTINF:-1 group-title="TV OPCION 6",DISCOVERY CHANNEL
@@ -1310,10 +1304,18 @@ http://gotv.vip:8880/Jaime/Jaime123/54
 http://gotv.vip:8880/Jaime/Jaime123/55
 #EXTINF:-1 group-title="TV OPCION 6",DISNEY XD
 http://gotv.vip:8880/Jaime/Jaime123/56
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IzOaP79D3qs/X-zKgm55PgI/AAAAAAAA7CQ/kKExis2PoqMYDHeI86NP76b2-O_uYIfwwCLcBGAsYHQ/s1080/dcc.png" group-title="TV OPCION 6", DISTRITO COMEDIA
+
 http://gotv.vip:8880/Jaime/Jaime123/57
+#EXTINF:-1 group-title="TV OPCION 6",COMEDY CENTRAL
+http://gotv.vip:8880/Jaime/Jaime123/40
 #EXTINF:-1 group-title="TV OPCION 6",E! Entertaiment
 http://gotv.vip:8880/Jaime/Jaime123/58
+#EXTINF:-1 group-title="TV OPCION 6",TruTV
+http://gotv.vip:8880/Jaime/Jaime123/367
+#EXTINF:-1 group-title="TV OPCION 6",Unicable
+http://gotv.vip:8880/Jaime/Jaime123/368
+#EXTINF:-1 group-title="TV OPCION 6",TLnovelas
+http://gotv.vip:8880/Jaime/Jaime123/370
 #EXTINF:-1 group-title="TV OPCION 6",EL GARAGE
 http://gotv.vip:8880/Jaime/Jaime123/59
 #EXTINF:-1 group-title="TV OPCION 6",EL GOURMET
@@ -1441,13 +1443,6 @@ http://gotv.vip:8880/Jaime/Jaime123/254
 http://gotv.vip:8880/Jaime/Jaime123/365
 #EXTINF:-1 group-title="TV OPCION 6",WARNER
 http://gotv.vip:8880/Jaime/Jaime123/366
-#EXTINF:-1 group-title="TV OPCION 6",TruTV
-http://gotv.vip:8880/Jaime/Jaime123/367
-#EXTINF:-1 group-title="TV OPCION 6",Unicable
-http://gotv.vip:8880/Jaime/Jaime123/368
-#EXTINF:-1 group-title="TV OPCION 6",TLnovelas
-http://gotv.vip:8880/Jaime/Jaime123/370
-
 #EXTINF:-1 group-title="TV OPCION 6",Tooncast
 http://gotv.vip:8880/Jaime/Jaime123/376
 #EXTINF:-1 group-title="TV OPCION 6",BABY FIRTS
