@@ -1355,7 +1355,7 @@ http://gotv.vip:8880/Jaime/Jaime123/36
 http://gotv.vip:8880/Jaime/Jaime123/38
 #EXTINF:-1 group-title="TV OPCION 6",HBO
 http://gotv.vip:8880/Jaime/Jaime123/87
-#EXTINF:-1 group-title="TV OPCION 6",HBO LATINO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/25b08b_497d75da6bfb491b9d01bfd860d9131c~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_497d75da6bfb491b9d01bfd860d9131c~mv2.png" group-title="TV OPCION 6",HBO LATINO
 http://gotv.vip:8880/Jaime/Jaime123/140042
 #EXTINF:-1 group-title="TV OPCION 6",HBO 2
 http://gotv.vip:8880/Jaime/Jaime123/88
@@ -1378,7 +1378,7 @@ http://gotv.vip:8880/Jaime/Jaime123/252
 #EXTINF:-1 group-title="TV OPCION 6",LIFETIME
 http://gotv.vip:8880/Jaime/Jaime123/95
 
-#EXTINF:-1 group-title="TV OPCION 6",HBO FHD
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/25b08b_497d75da6bfb491b9d01bfd860d9131c~mv2.png/v1/fill/w_504,h_504,al_c,usm_0.66_1.00_0.01/25b08b_497d75da6bfb491b9d01bfd860d9131c~mv2.png" group-title="TV OPCION 6",HBO FHD
 http://gotv.vip:8880/Jaime/Jaime123/12271
 #EXTINF:-1 group-title="TV OPCION 6",HBO FAMILY FHD
 http://gotv.vip:8880/Jaime/Jaime123/12272
