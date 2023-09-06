@@ -1205,8 +1205,7 @@ http://gotv.vip:8880/Jaime/Jaime123/26
 http://gotv.vip:8880/Jaime/Jaime123/22
 #EXTINF:-1 group-title="TV OPCION 6",CINELATINO
 http://gotv.vip:8880/Jaime/Jaime123/37
-#EXTINF:-1 group-title="TV OPCION 6",DE PELICULA
-http://gotv.vip:8880/Jaime/Jaime123/41
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DAr4-V0vreA/YMkreRiWnCI/AAAAAAAA9-8/BivPpMlGk1MvzIcR2a_WqwCzwRISDl-RwCLcBGAsYHQ/s1080/az%2Bcorazon.png" group-title="TV OPCION 6",AZ CORAZON
 http://gotv.vip:8880/Jaime/Jaime123/23
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.TjnBcqKWpJt_wlxbEUKfLwHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 6",AZTECA INTERNACIONAL
@@ -1308,6 +1307,8 @@ http://gotv.vip:8880/Jaime/Jaime123/96
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/25b08b_fa6a8e0a2bc146cca7443f1786a4be9d~mv2.png/v1/fill/w_320,h_320,al_c/25b08b_fa6a8e0a2bc146cca7443f1786a4be9d~mv2.png" group-title="TV OPCION 6",DE PELICULA CLASICO
 http://gotv.vip:8880/Jaime/Jaime123/140039
+#EXTINF:-1 group-title="TV OPCION 6",DE PELICULA
+http://gotv.vip:8880/Jaime/Jaime123/41
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/25b08b_99a0f043942f4c8e94c2a5c3aa65c33f~mv2.png/v1/fill/w_320,h_320,al_c/25b08b_99a0f043942f4c8e94c2a5c3aa65c33f~mv2.png" group-title="TV OPCION 6",DE PELICULA PLUS
 http://gotv.vip:8880/Jaime/Jaime123/140040
 #EXTINF:-1 group-title="TV OPCION 6",CINEMAX
@@ -1332,15 +1333,15 @@ http://gotv.vip:8880/Jaime/Jaime123/243
 http://gotv.vip:8880/Jaime/Jaime123/365
 #EXTINF:-1 group-title="TV OPCION 6",WARNER
 http://gotv.vip:8880/Jaime/Jaime123/366
-#EXTINF:-1 group-title="TV OPCION 6",GOLDEN
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0bpFgOCTwIc/X_G_r1KbKaI/AAAAAAAA7P4/yCr_V8Z7bC0VtSLIxA6B9Mkg9EgHrb1NwCLcBGAsYHQ/s1080/goldpre.png" group-title="TV OPCION 6",GOLDEN
 http://gotv.vip:8880/Jaime/Jaime123/244
 #EXTINF:-1 group-title="TV OPCION 6",GOLDEN PREMIER
 http://gotv.vip:8880/Jaime/Jaime123/245
 #EXTINF:-1 group-title="TV OPCION 6",GOLDEN PREMIER 2
 http://gotv.vip:8880/Jaime/Jaime123/140041
-#EXTINF:-1 group-title="TV OPCION 6",GOLDEN EDGE
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T3vbFposYFM/X_Gzgeg7uUI/AAAAAAAA7M4/7NbP1m_enxEGy4WMAFYbxCUCi-2ahT3ZgCLcBGAsYHQ/s1080/GE.png" group-title="TV OPCION 6",GOLDEN EDGE
 http://gotv.vip:8880/Jaime/Jaime123/85
-#EXTINF:-1 group-title="TV OPCION 6",GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3oG3tnIPsIw/X_GzsY0_3zI/AAAAAAAA7Os/pOO2Jz286YEgT6YWqBzyq1FW1MIe1KNewCLcBGAsYHQ/s1080/gp.png" group-title="TV OPCION 6",GOLDEN PLUS
 http://gotv.vip:8880/Jaime/Jaime123/86
 #EXTINF:-1 group-title="TV OPCION 6",AMC
 http://gotv.vip:8880/Jaime/Jaime123/16
