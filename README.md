@@ -1633,157 +1633,269 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
 
+#EXTINF:-1,24/7 | 40 y 20
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/228967.ts
+#EXTINF:-1,24/7 |  9-1-1
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/242424.ts
+#EXTINF:-1,24/7 1000 maneras de morir
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/195239.ts
+#EXTINF:-1,24/7 | Acapulco Shore
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138082.ts
+#EXTINF:-1,24/7 | Acapulco Shore FHD
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136590.ts
+#EXTINF:-1,24/7 Al Derecho y al Derbez
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/226113.ts
+#EXTINF:-1,24/7 | Alegrijes Y Rebujos
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/137081.ts
+#EXTINF:-1,24/7 | Alerta Aeropuerto
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136588.ts
+#EXTINF:-1,24/7 | Alf | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136620.ts
+#EXTINF:-1,24/7 | Aprendiendo a vivir
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/226029.ts
+#EXTINF:-1,24/7 Art Attack
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/217402.ts
+#EXTINF:-1,24/7 | BADABUN EXPONIENDO INFIELES
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/217731.ts
+#EXTINF:-1,24/7 Black Mirror
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/195447.ts
+#EXTINF:-1,24/7 | BoJack Horseman
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/226030.ts
+#EXTINF:-1,24/7 Cheaters - Infieles
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/216986.ts
+#EXTINF:-1,24/7 | Caso Cerrado
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136580.ts
+#EXTINF:-1,24/7 | Casos de la Dra. Polo
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138119.ts
+#EXTINF:-1,24/7 | Chespirito | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136609.ts
+#EXTINF:-1,24/7 | CSI en Español
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138170.ts
+#EXTINF:-1,24/7 | CSI: Miami en Español
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138172.ts
+#EXTINF:-1,24/7 | CSI: NY en Español
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138174.ts
+#EXTINF:-1,24/7 | Datos curiosos
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/217419.ts
+#EXTINF:-1,24/7 | Dinosaurios | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136621.ts
+#EXTINF:-1,24/7 | Dog el cazarrecompensas
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171953.ts
+#EXTINF:-1,24/7 | DON GATO Y SU PANDILLA | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136622.ts
+#EXTINF:-1,24/7 | Dr. House
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136592.ts
+#EXTINF:-1,24/7 | Dragon Ball
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136593.ts
+#EXTINF:-1,24/7 | Dragon Ball Freezer
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136581.ts
+#EXTINF:-1,24/7 | Dragon Ball Super 1
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136594.ts
+#EXTINF:-1,24/7 | Dragon Ball Z Saga Cell
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136595.ts
+#EXTINF:-1,24/7 | Durmiendo con mi Jefe
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/137099.ts
+#EXTINF:-1,24/7 El Señor de los Cielos
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/195448.ts
+#EXTINF:-1,24/7 | El Chapulin Colorado | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136623.ts
+#EXTINF:-1,24/7 | El Chavo del 8
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136624.ts
+#EXTINF:-1,24/7 | El Encantador de Perros
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171963.ts
+#EXTINF:-1,24/7 | El Gallo Claudio | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136610.ts
+#EXTINF:-1,24/7 | El Mariachi
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171920.ts
+#EXTINF:-1,24/7 | El Mentalista
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184761.ts
+#EXTINF:-1,24/7 | El Pacificador
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184742.ts
+#EXTINF:-1,24/7 | El Principe del Rap
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136596.ts
+#EXTINF:-1,24/7 | Emergencia 911
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138185.ts
+#EXTINF:-1,24/7 | Empeños a lo bestia
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171952.ts
+#EXTINF:-1,24/7 | Entre nosotras
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138186.ts
+#EXTINF:-1,24/7 | Extranormal
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136597.ts
+#EXTINF:-1,24/7 | Franco Escamilla
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/226087.ts
+#EXTINF:-1,24/7 | Friends
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136582.ts
+#EXTINF:-1,24/7 | Futurama
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136598.ts
+#EXTINF:-1,24/7 | Game of Thrones
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136583.ts
+#EXTINF:-1,24/7 | Gasparin y sus Amigos | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136614.ts
+#EXTINF:-1,24/7 | Gran Hermano en vivo
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171925.ts
+#EXTINF:-1,24/7 | Grandes Parejas
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/137113.ts
+#EXTINF:-1,24/7 | Grey Anatomy - Temporada 1
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184744.ts
+#EXTINF:-1,24/7 | Guerra de Chistes
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/226080.ts
+#EXTINF:-1,24/7 | He man | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136633.ts
+#EXTINF:-1,24/7 | Hechizada | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171913.ts
+#EXTINF:-1,24/7 | Hechizada | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136625.ts
+#EXTINF:-1,24/7 | Heidi | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136616.ts
+#EXTINF:-1,24/7 Humor es los comediantes
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/195262.ts
+#EXTINF:-1,24/7 | Hell's Kitchen en español
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138219.ts
+#EXTINF:-1,24/7 | Historias de Ultratumba
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171956.ts
+#EXTINF:-1,24/7 | Hormiga Atomica | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136617.ts
+#EXTINF:-1,24/7 | Incognito con Facundo
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/226027.ts
+#EXTINF:-1,24/7 | Jajaja
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/137115.ts
+#EXTINF:-1,24/7 La Carabina De Ambrosio
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/217228.ts
+#EXTINF:-1,24/7 La ley y el orden
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/195240.ts
+#EXTINF:-1,24/7 |  La Leyenda del Tesoro Perdido
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184749.ts
+#EXTINF:-1,24/7 | La Familia P. Luche
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136584.ts
+#EXTINF:-1,24/7 | La Familia Peluche
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136599.ts
+#EXTINF:-1,24/7 | La Hora Pico
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136600.ts
+#EXTINF:-1,24/7 | La Ninera | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136626.ts
+#EXTINF:-1,24/7 | La Pantera Rosa | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136627.ts
+#EXTINF:-1,24/7 | La Promesa
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/137119.ts
+#EXTINF:-1,24/7 | La Rosa de Guadalupe
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136601.ts
+#EXTINF:-1,24/7 | La Rosa de Guadalupe
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/137120.ts
+#EXTINF:-1,24/7 La reina del Sur
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/195449.ts
+#EXTINF:-1,24/7 | Los Locos Addams | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136634.ts
+#EXTINF:-1,24/7 | Los Picapiedra | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136628.ts
+#EXTINF:-1,24/7 | Los Simpson HD
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136602.ts
+#EXTINF:-1,24/7 | Los Simpsons Casitas del Horror
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136603.ts
+#EXTINF:-1,24/7 | Los Thundercats | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136629.ts
+#EXTINF:-1,24/7 | Los Tres Chiflados | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171914.ts
+#EXTINF:-1,24/7 | Los Winchesters
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184741.ts
+#EXTINF:-1,24/7 MasterChef México
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/229016.ts
+#EXTINF:-1,24/7 | Maestros de la Ilusión
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171954.ts
+#EXTINF:-1,24/7 | Malcolm
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136607.ts
+#EXTINF:-1,24/7 | Mazinger Z | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136635.ts
+#EXTINF:-1,24/7 | Mi Bella Genio | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136630.ts
+#EXTINF:-1,24/7 | Mi Gorda Bella
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/137131.ts
+#EXTINF:-1,24/7 | Mi obsesión favorita
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138252.ts
+#EXTINF:-1,24/7 | Minuto Para Ganar
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171943.ts
+#EXTINF:-1,24/7 | Misterios Medicos
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171957.ts
+#EXTINF:-1,24/7 | Mr Bean | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136631.ts
+#EXTINF:-1,24/7 | MTV Catfish
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171934.ts
+#EXTINF:-1,24/7 | MTV Con Mi Ex
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171931.ts
+#EXTINF:-1,24/7 | MTV Shore
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171930.ts
+#EXTINF:-1,24/7 | Nickelodeon iCarly
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171938.ts
+#EXTINF:-1,24/7 | Otro Rollo
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/226026.ts
+#EXTINF:-1,24/7 | Parodiando
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/217403.ts
+#EXTINF:-1,24/7 | Pluto TV Mi Obsesión Favorita
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171958.ts
+#EXTINF:-1,24/7 | Pluto TV Retro Cartoons | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171915.ts
+#EXTINF:-1,24/7  | Pluto TV Series Retro | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171912.ts
+#EXTINF:-1,24/7 | Pluto TV Series
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171910.ts
+#EXTINF:-1,24/7 | POLO POLO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/226078.ts
+#EXTINF:-1,24/7 | Portlandia
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184784.ts
+#EXTINF:-1,24/7 | Reign
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184743.ts
+#EXTINF:-1,24/7 | Rick y Morty
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136604.ts
+#EXTINF:-1,24/7 | Rock Story
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171921.ts
+#EXTINF:-1,24/7 | Se rentan cuartos
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/226114.ts
+#EXTINF:-1,24/7 | Series con Ñ
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138348.ts
+#EXTINF:-1,24/7 | Señorita Pólvora
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171919.ts
+#EXTINF:-1,24/7 | Shark Thank
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136586.ts
+#EXTINF:-1,24/7 | Sin Tetas No Hay Paraíso
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/171923.ts
+#EXTINF:-1,24/7 | Sobrenatural
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/230652.ts
+#EXTINF:-1,24/7 | South Park
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136605.ts
+#EXTINF:-1,24/7 | South Park
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184753.ts
+#EXTINF:-1,24/7 | Spiderman | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136636.ts
+#EXTINF:-1,24/7 | Stranger Things
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184759.ts
+#EXTINF:-1,24/7 | Super Agente 86
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136587.ts
+#EXTINF:-1,24/7 | Super campeones | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136637.ts
+#EXTINF:-1,24/7 | Superman Animated
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184748.ts
+#EXTINF:-1,24/7 | Survivor México
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/229017.ts
+#EXTINF:-1,24/7 | The Big Bang Theory
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184760.ts
+#EXTINF:-1,24/7 | The Mandalorian
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/184740.ts
+#EXTINF:-1,24/7 | The Walking Dead en español
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138390.ts
+#EXTINF:-1,24/7 | TokuSHOUTsu
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138397.ts
+#EXTINF:-1,24/7 | Top Gear en español
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138398.ts
+#EXTINF:-1,24/7 | Una Familia de Diez
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/137165.ts
+#EXTINF:-1,24/7 | Vecinos
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136589.ts
+#EXTINF:-1,24/7 | XHDRBZ
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/226112.ts
+#EXTINF:-1,24/7 | Xmen | RETRO
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/136632.ts
+#EXTINF:-1,P | Mission Impossible | 24/7
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/138255.ts
+#EXTINF:-1,24/7 Me caigo de risa
+http://legendstv.com.mx:80/Daniel2023/Daniel2023/234706.ts
 
 
-#EXTINF:-1 group-title="24/7", NETFLIX 01 HD
-http://gotv.vip:8880/Jaime/Jaime123/36735
-#EXTINF:-1 group-title="24/7", Cinema VIP 01 HD
-http://gotv.vip:8880/Jaime/Jaime123/36737
-#EXTINF:-1 group-title="24/7", Cinema VIP 02 HD
-http://gotv.vip:8880/Jaime/Jaime123/36738
-#EXTINF:-1 group-title="24/7", Cinema VIP 05 HD
-http://gotv.vip:8880/Jaime/Jaime123/36739
-#EXTINF:-1 group-title="24/7", Cinema VIP 03 HD
-http://gotv.vip:8880/Jaime/Jaime123/36740
-#EXTINF:-1 group-title="24/7", Cinema VIP 04 HD
-http://gotv.vip:8880/Jaime/Jaime123/36741
-#EXTINF:-1 group-title="24/7", Cinema VIP 12 HD
-http://gotv.vip:8880/Jaime/Jaime123/36746
-#EXTINF:-1 group-title="24/7", Cinema VIP 11 HD
-http://gotv.vip:8880/Jaime/Jaime123/36747
-#EXTINF:-1 group-title="24/7", Cinema VIP 10 HD
-http://gotv.vip:8880/Jaime/Jaime123/36748
-#EXTINF:-1 group-title="24/7", Cinema VIP 09 HD
-http://gotv.vip:8880/Jaime/Jaime123/36750
-#EXTINF:-1 group-title="24/7", Cinema VIP 08 HD
-http://gotv.vip:8880/Jaime/Jaime123/36751
-#EXTINF:-1 group-title="24/7",08 HD
-http://gotv.vip:8880/Jaime/Jaime123/36752
-#EXTINF:-1 group-title="24/7", Cinema VIP 07 HD
-http://gotv.vip:8880/Jaime/Jaime123/36753
-#EXTINF:-1 group-title="24/7", NETFLIX LATINO 20 HD
-http://gotv.vip:8880/Jaime/Jaime123/36754
-#EXTINF:-1 group-title="24/7", NETFLIX LATINO 21 HD
-http://gotv.vip:8880/Jaime/Jaime123/36755
-#EXTINF:-1 group-title="24/7", NETFLIX LATINO 22 HD
-http://gotv.vip:8880/Jaime/Jaime123/36756
-#EXTINF:-1 group-title="24/7", NETFLIX LATINO 23 HD
-http://gotv.vip:8880/Jaime/Jaime123/36757
-#EXTINF:-1 group-title="24/7", NETFLIX LATINO 24 HD
-http://gotv.vip:8880/Jaime/Jaime123/36758
-#EXTINF:-1 group-title="24/7", NETFLIX LATINO 25 HD
-http://gotv.vip:8880/Jaime/Jaime123/36759
-#EXTINF:-1 group-title="24/7", Cinema VIP 06 HD
-http://gotv.vip:8880/Jaime/Jaime123/36760
-#EXTINF:-1 group-title="24/7", Cinema Acción Classics
-http://gotv.vip:8880/Jaime/Jaime123/136997
-#EXTINF:-1 group-title="24/7", Cinema Ciencia Ficción HD
-http://gotv.vip:8880/Jaime/Jaime123/136998
-#EXTINF:-1 group-title="24/7", Cinema DC Comics HD
-http://gotv.vip:8880/Jaime/Jaime123/136999
-#EXTINF:-1 group-title="24/7", Cinema DC Universe HD
-http://gotv.vip:8880/Jaime/Jaime123/137000
-#EXTINF:-1 group-title="24/7", Cinema Disney Family HD
-http://gotv.vip:8880/Jaime/Jaime123/137001
-#EXTINF:-1 group-title="24/7", Cinema Happy Madison HD
-http://gotv.vip:8880/Jaime/Jaime123/137002
-#EXTINF:-1 group-title="24/7", Cinema Marvel Studios HD
-http://gotv.vip:8880/Jaime/Jaime123/137003
-#EXTINF:-1 group-title="24/7", Cinema Lego Movies HD
-http://gotv.vip:8880/Jaime/Jaime123/137096
-#EXTINF:-1 group-title="24/7", Cinema Disney Pixar
-http://gotv.vip:8880/Jaime/Jaime123/137097
-#EXTINF:-1 group-title="24/7", Cinema Horror HD
-http://gotv.vip:8880/Jaime/Jaime123/137098
-#EXTINF:-1 group-title="24/7", The Walking Dead
-http://gotv.vip:8880/Jaime/Jaime123/137099
-#EXTINF:-1 group-title="24/7",24/7 LOS SIMPSON
-http://gotv.vip:8880/Jaime/Jaime123/157211
-#EXTINF:-1 group-title="24/7",24/7  BOB ESPONJA
-http://gotv.vip:8880/Jaime/Jaime123/157212
-#EXTINF:-1 group-title="24/7", CHAVO DEL OCHO
-http://gotv.vip:8880/Jaime/Jaime123/157216
-#EXTINF:-1 group-title="24/7", LA FAMILIA PELUCHE TEMPORADA 2 Y 3
-http://gotv.vip:8880/Jaime/Jaime123/157217
-#EXTINF:-1 group-title="24/7", CABALLERO DEL ZODIACO
-http://gotv.vip:8880/Jaime/Jaime123/157218
-#EXTINF:-1 group-title="24/7", MALCOM IN THE MIDDLE TEMPORADA 1 2 3
-http://gotv.vip:8880/Jaime/Jaime123/157219
-#EXTINF:-1 group-title="24/7", EL CHAVO DEL OCHO
-http://gotv.vip:8880/Jaime/Jaime123/157220
-#EXTINF:-1 group-title="24/7", LA FAMILIA PELUCHE TEMPORADA 1
-http://gotv.vip:8880/Jaime/Jaime123/157221
-#EXTINF:-1 group-title="24/7", BEN 10
-http://gotv.vip:8880/Jaime/Jaime123/157222
-#EXTINF:-1 group-title="24/7", CARICATURAS CLASICAS
-http://gotv.vip:8880/Jaime/Jaime123/157236
-#EXTINF:-1 group-title="24/7", MUCHA LUCHA
-http://gotv.vip:8880/Jaime/Jaime123/157237
-#EXTINF:-1 group-title="24/7",Snoopy 24/7
-http://gotv.vip:8880/Jaime/Jaime123/157238
-#EXTINF:-1 group-title="24/7", 50 Clasicos de Disney
-http://gotv.vip:8880/Jaime/Jaime123/157508
-#EXTINF:-1 group-title="24/7", Angry Birds
-http://gotv.vip:8880/Jaime/Jaime123/157509
-#EXTINF:-1 group-title="24/7", Art Atack
-http://gotv.vip:8880/Jaime/Jaime123/157510
-#EXTINF:-1 group-title="24/7", Barbie
-http://gotv.vip:8880/Jaime/Jaime123/157512
-#EXTINF:-1 group-title="24/7", Ben Y Holly (Castellano)
-http://gotv.vip:8880/Jaime/Jaime123/157514
-#EXTINF:-1 group-title="24/7", Candy Candy
-http://gotv.vip:8880/Jaime/Jaime123/157516
-#EXTINF:-1 group-title="24/7", Coraje el Perro Cobarde
-http://gotv.vip:8880/Jaime/Jaime123/157517
-#EXTINF:-1 group-title="24/7", Digimon
-http://gotv.vip:8880/Jaime/Jaime123/157518
-#EXTINF:-1 group-title="24/7", Don Gato y Su Pandilla
-http://gotv.vip:8880/Jaime/Jaime123/157521
-#EXTINF:-1 group-title="24/7", El Conde Pátula
-http://gotv.vip:8880/Jaime/Jaime123/157524
-#EXTINF:-1 group-title="24/7", Gasparin y Sus Amigos
-http://gotv.vip:8880/Jaime/Jaime123/157525
-#EXTINF:-1 group-title="24/7", Halcones Galacticos
-http://gotv.vip:8880/Jaime/Jaime123/157526
-#EXTINF:-1 group-title="24/7", Hey Arnold
-http://gotv.vip:8880/Jaime/Jaime123/157527
-#EXTINF:-1 group-title="24/7", Hombres de Negro
-http://gotv.vip:8880/Jaime/Jaime123/157528
-#EXTINF:-1 group-title="24/7", Johnny Bravo
-http://gotv.vip:8880/Jaime/Jaime123/157529
-#EXTINF:-1 group-title="24/7", Kenan & Kel
-http://gotv.vip:8880/Jaime/Jaime123/157530
-#EXTINF:-1 group-title="24/7", La Pantera Rosa
-http://gotv.vip:8880/Jaime/Jaime123/157532
-#EXTINF:-1 group-title="24/7", La Vaca y El Pollito
-http://gotv.vip:8880/Jaime/Jaime123/157533
-#EXTINF:-1 group-title="24/7", Las Chicas Superpoderosas
-http://gotv.vip:8880/Jaime/Jaime123/157534
-#EXTINF:-1 group-title="24/7", Los Castores Cascarrabias
-http://gotv.vip:8880/Jaime/Jaime123/157537
-#EXTINF:-1 group-title="24/7", Los Pequeños Picapiedras
-http://gotv.vip:8880/Jaime/Jaime123/157538
-#EXTINF:-1 group-title="24/7", Los Picapiedras
-http://gotv.vip:8880/Jaime/Jaime123/157539
-#EXTINF:-1 group-title="24/7", Los Pitufos
-http://gotv.vip:8880/Jaime/Jaime123/157540
-#EXTINF:-1 group-title="24/7", Masha y el oso
-http://gotv.vip:8880/Jaime/Jaime123/157541
-#EXTINF:-1 group-title="24/7", Pajaro Loco
-http://gotv.vip:8880/Jaime/Jaime123/157542
-#EXTINF:-1 group-title="24/7", Patrulla Canina
-http://gotv.vip:8880/Jaime/Jaime123/157543
-#EXTINF:-1 group-title="24/7", Pinguinos De Madagascar
-http://gotv.vip:8880/Jaime/Jaime123/157544
-#EXTINF:-1 group-title="24/7", Power Rangers
-http://gotv.vip:8880/Jaime/Jaime123/157546
-#EXTINF:-1 group-title="24/7", Scooby-Doo
-http://gotv.vip:8880/Jaime/Jaime123/157548
-#EXTINF:-1 group-title="24/7", Spiderman (1994)
-http://gotv.vip:8880/Jaime/Jaime123/157549
-#EXTINF:-1 group-title="24/7", Thundercats
-http://gotv.vip:8880/Jaime/Jaime123/157551
-#EXTINF:-1 group-title="24/7", Timon & Pumba
-http://gotv.vip:8880/Jaime/Jaime123/157552
-#EXTINF:-1 group-title="24/7", Toy Story
-http://gotv.vip:8880/Jaime/Jaime123/157554
