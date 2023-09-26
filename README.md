@@ -168,7 +168,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro PELIS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="TV OPCION 1",Retro PELIS
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",ACCION MEXICANAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
@@ -1658,269 +1658,272 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
 
-#EXTINF:-1,24/7 | 40 y 20
+#EXTINF:-1 group-title="CANALES 24/7", 40 y 20
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/228967.ts
-#EXTINF:-1,24/7 |  9-1-1
+#EXTINF:-1 group-title="CANALES 24/7",  9-1-1
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/242424.ts
-#EXTINF:-1,24/7 1000 maneras de morir
+#EXTINF:-1 group-title="CANALES 24/7", 1000 maneras de morir
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/195239.ts
-#EXTINF:-1,24/7 | Acapulco Shore
+#EXTINF:-1 group-title="CANALES 24/7", Acapulco Shore
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138082.ts
-#EXTINF:-1,24/7 | Acapulco Shore FHD
+#EXTINF:-1 group-title="CANALES 24/7", Acapulco Shore FHD
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136590.ts
-#EXTINF:-1,24/7 Al Derecho y al Derbez
+#EXTINF:-1 group-title="CANALES 24/7", Al Derecho y al Derbez
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/226113.ts
-#EXTINF:-1,24/7 | Alegrijes Y Rebujos
+#EXTINF:-1 group-title="CANALES 24/7", Alegrijes Y Rebujos
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/137081.ts
-#EXTINF:-1,24/7 | Alerta Aeropuerto
+#EXTINF:-1 group-title="CANALES 24/7", Alerta Aeropuerto
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136588.ts
-#EXTINF:-1,24/7 | Alf | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Alf | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136620.ts
-#EXTINF:-1,24/7 | Aprendiendo a vivir
+#EXTINF:-1 group-title="CANALES 24/7", Aprendiendo a vivir
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/226029.ts
-#EXTINF:-1,24/7 Art Attack
+#EXTINF:-1 group-title="CANALES 24/7", Art Attack
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/217402.ts
-#EXTINF:-1,24/7 | BADABUN EXPONIENDO INFIELES
+#EXTINF:-1 group-title="CANALES 24/7", BADABUN EXPONIENDO INFIELES
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/217731.ts
-#EXTINF:-1,24/7 Black Mirror
+#EXTINF:-1 group-title="CANALES 24/7", Black Mirror
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/195447.ts
-#EXTINF:-1,24/7 | BoJack Horseman
+#EXTINF:-1 group-title="CANALES 24/7", BoJack Horseman
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/226030.ts
-#EXTINF:-1,24/7 Cheaters - Infieles
+#EXTINF:-1 group-title="CANALES 24/7", Cheaters - Infieles
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/216986.ts
-#EXTINF:-1,24/7 | Caso Cerrado
+#EXTINF:-1 group-title="CANALES 24/7", Caso Cerrado
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136580.ts
-#EXTINF:-1,24/7 | Casos de la Dra. Polo
+#EXTINF:-1 group-title="CANALES 24/7", Casos de la Dra. Polo
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138119.ts
-#EXTINF:-1,24/7 | Chespirito | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Chespirito | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136609.ts
-#EXTINF:-1,24/7 | CSI en Español
+#EXTINF:-1 group-title="CANALES 24/7", CSI en Español
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138170.ts
-#EXTINF:-1,24/7 | CSI: Miami en Español
+#EXTINF:-1 group-title="CANALES 24/7", CSI: Miami en Español
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138172.ts
-#EXTINF:-1,24/7 | CSI: NY en Español
+#EXTINF:-1 group-title="CANALES 24/7", CSI: NY en Español
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138174.ts
-#EXTINF:-1,24/7 | Datos curiosos
+#EXTINF:-1 group-title="CANALES 24/7", Datos curiosos
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/217419.ts
-#EXTINF:-1,24/7 | Dinosaurios | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Dinosaurios | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136621.ts
-#EXTINF:-1,24/7 | Dog el cazarrecompensas
+#EXTINF:-1 group-title="CANALES 24/7", Dog el cazarrecompensas
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171953.ts
-#EXTINF:-1,24/7 | DON GATO Y SU PANDILLA | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", DON GATO Y SU PANDILLA 
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136622.ts
-#EXTINF:-1,24/7 | Dr. House
+#EXTINF:-1 group-title="CANALES 24/7", Dr. House
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136592.ts
-#EXTINF:-1,24/7 | Dragon Ball
+#EXTINF:-1 group-title="CANALES 24/7", Dragon Ball
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136593.ts
-#EXTINF:-1,24/7 | Dragon Ball Freezer
+#EXTINF:-1 group-title="CANALES 24/7", Dragon Ball Freezer
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136581.ts
-#EXTINF:-1,24/7 | Dragon Ball Super 1
+#EXTINF:-1 group-title="CANALES 24/7", Dragon Ball Super 1
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136594.ts
-#EXTINF:-1,24/7 | Dragon Ball Z Saga Cell
+#EXTINF:-1 group-title="CANALES 24/7", Dragon Ball Z Saga Cell
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136595.ts
-#EXTINF:-1,24/7 | Durmiendo con mi Jefe
+#EXTINF:-1 group-title="CANALES 24/7", Durmiendo con mi Jefe
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/137099.ts
-#EXTINF:-1,24/7 El Señor de los Cielos
+#EXTINF:-1 group-title="CANALES 24/7", El Señor de los Cielos
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/195448.ts
-#EXTINF:-1,24/7 | El Chapulin Colorado | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", El Chapulin Colorado 
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136623.ts
-#EXTINF:-1,24/7 | El Chavo del 8
+#EXTINF:-1 group-title="CANALES 24/7", El Chavo del 8
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136624.ts
-#EXTINF:-1,24/7 | El Encantador de Perros
+#EXTINF:-1 group-title="CANALES 24/7", El Encantador de Perros
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171963.ts
-#EXTINF:-1,24/7 | El Gallo Claudio | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", El Gallo Claudio 
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136610.ts
-#EXTINF:-1,24/7 | El Mariachi
+#EXTINF:-1 group-title="CANALES 24/7", El Mariachi
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171920.ts
-#EXTINF:-1,24/7 | El Mentalista
+#EXTINF:-1 group-title="CANALES 24/7", El Mentalista
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184761.ts
-#EXTINF:-1,24/7 | El Pacificador
+#EXTINF:-1 group-title="CANALES 24/7", El Pacificador
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184742.ts
-#EXTINF:-1,24/7 | El Principe del Rap
+#EXTINF:-1 group-title="CANALES 24/7", El Principe del Rap
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136596.ts
-#EXTINF:-1,24/7 | Emergencia 911
+#EXTINF:-1 group-title="CANALES 24/7", Emergencia 911
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138185.ts
-#EXTINF:-1,24/7 | Empeños a lo bestia
+#EXTINF:-1 group-title="CANALES 24/7", Empeños a lo bestia
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171952.ts
-#EXTINF:-1,24/7 | Entre nosotras
+#EXTINF:-1 group-title="CANALES 24/7", Entre nosotras
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138186.ts
-#EXTINF:-1,24/7 | Extranormal
+#EXTINF:-1 group-title="CANALES 24/7", Extranormal
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136597.ts
-#EXTINF:-1,24/7 | Franco Escamilla
+#EXTINF:-1 group-title="CANALES 24/7", Franco Escamilla
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/226087.ts
-#EXTINF:-1,24/7 | Friends
+#EXTINF:-1 group-title="CANALES 24/7", Friends
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136582.ts
-#EXTINF:-1,24/7 | Futurama
+#EXTINF:-1 group-title="CANALES 24/7", Futurama
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136598.ts
-#EXTINF:-1,24/7 | Game of Thrones
+#EXTINF:-1 group-title="CANALES 24/7", Game of Thrones
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136583.ts
-#EXTINF:-1,24/7 | Gasparin y sus Amigos | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Gasparin y sus Amigos | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136614.ts
-#EXTINF:-1,24/7 | Gran Hermano en vivo
+#EXTINF:-1 group-title="CANALES 24/7", Gran Hermano en vivo
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171925.ts
-#EXTINF:-1,24/7 | Grandes Parejas
+#EXTINF:-1 group-title="CANALES 24/7", Grandes Parejas
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/137113.ts
-#EXTINF:-1,24/7 | Grey Anatomy - Temporada 1
+#EXTINF:-1 group-title="CANALES 24/7", Grey Anatomy - Temporada 1
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184744.ts
-#EXTINF:-1,24/7 | Guerra de Chistes
+#EXTINF:-1 group-title="CANALES 24/7", Guerra de Chistes
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/226080.ts
-#EXTINF:-1,24/7 | He man | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", He man | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136633.ts
-#EXTINF:-1,24/7 | Hechizada | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Hechizada | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171913.ts
-#EXTINF:-1,24/7 | Hechizada | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Hechizada | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136625.ts
-#EXTINF:-1,24/7 | Heidi | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Heidi | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136616.ts
-#EXTINF:-1,24/7 Humor es los comediantes
+#EXTINF:-1 group-title="CANALES 24/7", Humor es los comediantes
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/195262.ts
-#EXTINF:-1,24/7 | Hell's Kitchen en español
+#EXTINF:-1 group-title="CANALES 24/7", Hell's Kitchen en español
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138219.ts
-#EXTINF:-1,24/7 | Historias de Ultratumba
+#EXTINF:-1 group-title="CANALES 24/7", Historias de Ultratumba
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171956.ts
-#EXTINF:-1,24/7 | Hormiga Atomica | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Hormiga Atomica | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136617.ts
-#EXTINF:-1,24/7 | Incognito con Facundo
+#EXTINF:-1 group-title="CANALES 24/7", Incognito con Facundo
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/226027.ts
-#EXTINF:-1,24/7 | Jajaja
+#EXTINF:-1 group-title="CANALES 24/7", Jajaja
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/137115.ts
-#EXTINF:-1,24/7 La Carabina De Ambrosio
+#EXTINF:-1 group-title="CANALES 24/7", La Carabina De Ambrosio
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/217228.ts
-#EXTINF:-1,24/7 La ley y el orden
+#EXTINF:-1 group-title="CANALES 24/7", La ley y el orden
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/195240.ts
-#EXTINF:-1,24/7 |  La Leyenda del Tesoro Perdido
+#EXTINF:-1 group-title="CANALES 24/7",  La Leyenda del Tesoro Perdido
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184749.ts
-#EXTINF:-1,24/7 | La Familia P. Luche
+#EXTINF:-1 group-title="CANALES 24/7", La Familia P. Luche
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136584.ts
-#EXTINF:-1,24/7 | La Familia Peluche
+#EXTINF:-1 group-title="CANALES 24/7", La Familia Peluche
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136599.ts
-#EXTINF:-1,24/7 | La Hora Pico
+#EXTINF:-1 group-title="CANALES 24/7", La Hora Pico
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136600.ts
-#EXTINF:-1,24/7 | La Ninera | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", La Ninera | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136626.ts
-#EXTINF:-1,24/7 | La Pantera Rosa | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", La Pantera Rosa | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136627.ts
-#EXTINF:-1,24/7 | La Promesa
+#EXTINF:-1 group-title="CANALES 24/7", La Promesa
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/137119.ts
-#EXTINF:-1,24/7 | La Rosa de Guadalupe
+#EXTINF:-1 group-title="CANALES 24/7", La Rosa de Guadalupe
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136601.ts
-#EXTINF:-1,24/7 | La Rosa de Guadalupe
+#EXTINF:-1 group-title="CANALES 24/7", La Rosa de Guadalupe
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/137120.ts
-#EXTINF:-1,24/7 La reina del Sur
+#EXTINF:-1 group-title="CANALES 24/7", La reina del Sur
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/195449.ts
-#EXTINF:-1,24/7 | Los Locos Addams | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Los Locos Addams | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136634.ts
-#EXTINF:-1,24/7 | Los Picapiedra | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Los Picapiedra | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136628.ts
-#EXTINF:-1,24/7 | Los Simpson HD
+#EXTINF:-1 group-title="CANALES 24/7", Los Simpson HD
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136602.ts
-#EXTINF:-1,24/7 | Los Simpsons Casitas del Horror
+#EXTINF:-1 group-title="CANALES 24/7", Los Simpsons Casitas del Horror
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136603.ts
-#EXTINF:-1,24/7 | Los Thundercats | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Los Thundercats | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136629.ts
-#EXTINF:-1,24/7 | Los Tres Chiflados | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Los Tres Chiflados | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171914.ts
-#EXTINF:-1,24/7 | Los Winchesters
+#EXTINF:-1 group-title="CANALES 24/7", Los Winchesters
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184741.ts
-#EXTINF:-1,24/7 MasterChef México
+#EXTINF:-1 group-title="CANALES 24/7", MasterChef México
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/229016.ts
-#EXTINF:-1,24/7 | Maestros de la Ilusión
+#EXTINF:-1 group-title="CANALES 24/7", Maestros de la Ilusión
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171954.ts
-#EXTINF:-1,24/7 | Malcolm
+#EXTINF:-1 group-title="CANALES 24/7", Malcolm
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136607.ts
-#EXTINF:-1,24/7 | Mazinger Z | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Mazinger Z | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136635.ts
-#EXTINF:-1,24/7 | Mi Bella Genio | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Mi Bella Genio | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136630.ts
-#EXTINF:-1,24/7 | Mi Gorda Bella
+#EXTINF:-1 group-title="CANALES 24/7", Mi Gorda Bella
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/137131.ts
-#EXTINF:-1,24/7 | Mi obsesión favorita
+#EXTINF:-1 group-title="CANALES 24/7", Mi obsesión favorita
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138252.ts
-#EXTINF:-1,24/7 | Minuto Para Ganar
+#EXTINF:-1 group-title="CANALES 24/7", Minuto Para Ganar
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171943.ts
-#EXTINF:-1,24/7 | Misterios Medicos
+#EXTINF:-1 group-title="CANALES 24/7", Misterios Medicos
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171957.ts
-#EXTINF:-1,24/7 | Mr Bean | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Mr Bean | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136631.ts
-#EXTINF:-1,24/7 | MTV Catfish
+#EXTINF:-1 group-title="CANALES 24/7", MTV Catfish
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171934.ts
-#EXTINF:-1,24/7 | MTV Con Mi Ex
+#EXTINF:-1 group-title="CANALES 24/7", MTV Con Mi Ex
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171931.ts
-#EXTINF:-1,24/7 | MTV Shore
+#EXTINF:-1 group-title="CANALES 24/7", MTV Shore
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171930.ts
-#EXTINF:-1,24/7 | Nickelodeon iCarly
+#EXTINF:-1 group-title="CANALES 24/7", Nickelodeon iCarly
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171938.ts
-#EXTINF:-1,24/7 | Otro Rollo
+#EXTINF:-1 group-title="CANALES 24/7", Otro Rollo
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/226026.ts
-#EXTINF:-1,24/7 | Parodiando
+#EXTINF:-1 group-title="CANALES 24/7", Parodiando
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/217403.ts
-#EXTINF:-1,24/7 | Pluto TV Mi Obsesión Favorita
+#EXTINF:-1 group-title="CANALES 24/7", Pluto TV Mi Obsesión Favorita
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171958.ts
-#EXTINF:-1,24/7 | Pluto TV Retro Cartoons | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Pluto TV Retro Cartoons  
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171915.ts
-#EXTINF:-1,24/7  | Pluto TV Series Retro | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Pluto TV Series Retro 
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171912.ts
-#EXTINF:-1,24/7 | Pluto TV Series
+#EXTINF:-1 group-title="CANALES 24/7", Pluto TV Series
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171910.ts
-#EXTINF:-1,24/7 | POLO POLO
+#EXTINF:-1 group-title="CANALES 24/7", POLO POLO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/226078.ts
-#EXTINF:-1,24/7 | Portlandia
+#EXTINF:-1 group-title="CANALES 24/7", Portlandia
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184784.ts
-#EXTINF:-1,24/7 | Reign
+#EXTINF:-1 group-title="CANALES 24/7", Reign
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184743.ts
-#EXTINF:-1,24/7 | Rick y Morty
+#EXTINF:-1 group-title="CANALES 24/7", Rick y Morty
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136604.ts
-#EXTINF:-1,24/7 | Rock Story
+#EXTINF:-1 group-title="CANALES 24/7", Rock Story
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171921.ts
-#EXTINF:-1,24/7 | Se rentan cuartos
+#EXTINF:-1 group-title="CANALES 24/7", Se rentan cuartos
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/226114.ts
-#EXTINF:-1,24/7 | Series con Ñ
+#EXTINF:-1 group-title="CANALES 24/7", Series con Ñ
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138348.ts
-#EXTINF:-1,24/7 | Señorita Pólvora
+#EXTINF:-1 group-title="CANALES 24/7", Señorita Pólvora
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171919.ts
-#EXTINF:-1,24/7 | Shark Thank
+#EXTINF:-1 group-title="CANALES 24/7", Shark Thank
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136586.ts
-#EXTINF:-1,24/7 | Sin Tetas No Hay Paraíso
+#EXTINF:-1 group-title="CANALES 24/7", Sin Tetas No Hay Paraíso
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/171923.ts
-#EXTINF:-1,24/7 | Sobrenatural
+#EXTINF:-1 group-title="CANALES 24/7", Sobrenatural
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/230652.ts
-#EXTINF:-1,24/7 | South Park
+#EXTINF:-1 group-title="CANALES 24/7", South Park
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136605.ts
-#EXTINF:-1,24/7 | South Park
+#EXTINF:-1 group-title="CANALES 24/7", South Park
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184753.ts
-#EXTINF:-1,24/7 | Spiderman | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Spiderman | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136636.ts
-#EXTINF:-1,24/7 | Stranger Things
+#EXTINF:-1 group-title="CANALES 24/7", Stranger Things
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184759.ts
-#EXTINF:-1,24/7 | Super Agente 86
+#EXTINF:-1 group-title="CANALES 24/7", Super Agente 86
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136587.ts
-#EXTINF:-1,24/7 | Super campeones | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Super campeones | RETRO
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136637.ts
-#EXTINF:-1,24/7 | Superman Animated
+#EXTINF:-1 group-title="CANALES 24/7", Superman Animated
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184748.ts
-#EXTINF:-1,24/7 | Survivor México
+#EXTINF:-1 group-title="CANALES 24/7", Survivor México
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/229017.ts
-#EXTINF:-1,24/7 | The Big Bang Theory
+#EXTINF:-1 group-title="CANALES 24/7", The Big Bang Theory
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184760.ts
-#EXTINF:-1,24/7 | The Mandalorian
+#EXTINF:-1 group-title="CANALES 24/7", The Mandalorian
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/184740.ts
-#EXTINF:-1,24/7 | The Walking Dead en español
+#EXTINF:-1 group-title="CANALES 24/7", The Walking Dead en español
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138390.ts
-#EXTINF:-1,24/7 | TokuSHOUTsu
+#EXTINF:-1 group-title="CANALES 24/7", TokuSHOUTsu
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138397.ts
-#EXTINF:-1,24/7 | Top Gear en español
+#EXTINF:-1 group-title="CANALES 24/7", Top Gear en español
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138398.ts
-#EXTINF:-1,24/7 | Una Familia de Diez
+#EXTINF:-1 group-title="CANALES 24/7", Una Familia de Diez
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/137165.ts
-#EXTINF:-1,24/7 | Vecinos
+#EXTINF:-1 group-title="CANALES 24/7", Vecinos
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136589.ts
-#EXTINF:-1,24/7 | XHDRBZ
+#EXTINF:-1 group-title="CANALES 24/7", XHDRBZ
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/226112.ts
-#EXTINF:-1,24/7 | Xmen | RETRO
+#EXTINF:-1 group-title="CANALES 24/7", Xmen  
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/136632.ts
-#EXTINF:-1,P | Mission Impossible | 24/7
+#EXTINF:-1 group-title="CANALES 24/7", Mission Impossible 
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/138255.ts
-#EXTINF:-1,24/7 Me caigo de risa
+#EXTINF:-1 group-title="CANALES 24/7", Me caigo de risa
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/234706.ts
+
+
+
 
 
