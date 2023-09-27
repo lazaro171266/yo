@@ -25,6 +25,9 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Cine_Estelar.png/revision/latest?cb=20100622201645" group-title="TV OPCION 1", Cine Estelar
+http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuWct8.png" group-title="TV OPCION 1",Famili Channel
 https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
