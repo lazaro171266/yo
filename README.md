@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, luther, cae la noche
-https://tvinnov.online/PELICULAS%2060%20FPS/LUTHER%20CAE%20LA%20NOCHE/LUTHER%20THE%20FALLEN%20SUN.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TeleFórmula
@@ -225,8 +223,29 @@ http://204.199.120.34:16123/play/ch49
 http://204.199.120.34:16123/play/ch52
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE HISPANO
 http://204.199.120.34:16123/play/ch51
+#EXTINF:-1 group-title="TV OPCION 1", MX Family HD
+http://45.160.15.130:2909/play/120
+#EXTINF:-1 group-title="TV OPCION 1", MX Classic HD
+http://45.160.15.130:2909/play/121
+#EXTINF:-1 group-title="TV OPCION 1", MX Prime HD
+http://45.160.15.130:2909/play/122
+#EXTINF:-1 group-title="TV OPCION 1", MX Old HD
+http://45.160.15.130:2909/play/123
+#EXTINF:-1 group-title="TV OPCION 1", MX SERIES
+http://45.160.15.130:2909/play/a172
+#EXTINF:-1 group-title="TV OPCION 1", FMH FAMILY
+http://45.160.15.130:2909/play/a169
+#EXTINF:-1 group-title="TV OPCION 1", FMH MOVIES
+http://45.160.15.130:2909/play/a16b
+#EXTINF:-1 group-title="TV OPCION 1", FMH REWIND
+http://45.160.15.130:2909/play/a16c
+#EXTINF:-1 group-title="TV OPCION 1", FMH KIDS
+http://45.160.15.130:2909/play/003
+#EXTINF:-1 group-title="TV OPCION 1", LOVE NATURE HD
+http://45.160.15.130:2909/play/a16v
 
-
+#EXTINF:-1 group-title="TV OPCION 1", Old Music HD
+http://45.160.15.130:2909/play/137
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDs0Ty_KJ1j-5-nkaIunEWGk_oZ-qfxbWAA&usqp=CAU" group-title="TV OPCION 1",RETRO MUSIC BALADAS
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
