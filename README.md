@@ -1946,6 +1946,46 @@ http://legendstv.com.mx:80/Daniel2023/Daniel2023/138255.ts
 #EXTINF:-1 group-title="CANALES 24/7", Me caigo de risa
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/234706.ts
 
+#EXTINF:-1 group-title="PELICULAS", APOCALYPTO
+https://tvinnov.online/4KL/apocalypto%204K/Apcalpto%20(1).mp4
+#EXTINF:-1 group-title="PELICULAS", GRAN TURISMO
+https://tvinnov.online/PELICULAS%2060%20FPS/Gran%20Turismo%2060%20fps/Gran%20Turismo%20De%20jugador%20a%20corredor%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mkv
+#EXTINF:-1 group-title="PELICULAS", BUSQUEDA IPLACABLE
+https://tvinnov.online/Peliculas/Busqueda%20Impecable/Busqueda%20Implacable%201080p%20.www.compucalitv.com.mkv
+#EXTINF:-1 group-title="PELICULAS", TITANIC
+https://tvinnov.online/Peliculas/Titanic.1997.HD720p.Dual.Latino-Ingles.Sub.mp4
+#EXTINF:-1 group-title="PELICULAS", VIAJEROS
+https://tvinnov.online/Peliculas/Voyagers%20(2021)/Voyagers%20(2021)LAT.mp4
+#EXTINF:-1 group-title="PELICULAS", PEDRO NAVAJAS
+https://tvinnov.online/Peliculas/PedroNavaja.mp4
+#EXTINF:-1 group-title="PELICULAS", EL BAILE DE LOS 41
+https://tvinnov.online/Peliculas/el.baile.de.los.41.2020.hdrip.720p.latino.mp4
+#EXTINF:-1 group-title="PELICULAS", DURO DE MATAR
+https://tvinnov.online/Peliculas/Die%20Hard%20(Duro%20de%20matar)%20(1988)/
+#EXTINF:-1 group-title="PELICULAS", DURO DE MATAR 2
+https://tvinnov.online/Peliculas/Die%20Hard%202%20(Duro%20de%20matar%202)%20(1990)/
+#EXTINF:-1 group-title="PELICULAS", DURO DE MATAR 3
+https://tvinnov.online/Peliculas/Die%20Hard%20With%20a%20Vengeance%20(Duro%20de%20matar%203)%20(1995)/
+#EXTINF:-1 group-title="PELICULAS", GREMLINS
+https://tvinnov.online/Peliculas/GREMLINS%201.mkv
+#EXTINF:-1 group-title="PELICULAS", INTERESTELAR
+https://tvinnov.online/Peliculas/Interstellar%20(2014)%201080p%20BluRay%20x265%20HEVC%20English%20AC3%205.1%20-%20MeGUiL.mkv
+#EXTINF:-1 group-title="PELICULAS", JEEPERS CREEPER
+https://tvinnov.online/Peliculas/Jeepers.creepers.2001.1080p-dl-lat.mp4
+#EXTINF:-1 group-title="PELICULAS", JEEPERS CREEPER 2
+https://tvinnov.online/Peliculas/JeepersCreepers2.mp4
+#EXTINF:-1 group-title="PELICULAS", LIMITE VERTICAL
+https://tvinnov.online/Peliculas/Limite%20vertical%20(2000).720.BDRip.lat.mp4
+#EXTINF:-1 group-title="PELICULAS", QUE CULPA TIENE EL NIÑO
+https://tvinnov.online/Peliculas/Que%20Culpa%20Tiene%20El%20NiNo%20LAT%201080.mkv
+#EXTINF:-1 group-title="PELICULAS", LA LAGUNA AZUL
+https://tvinnov.online/CLASICAST/La%20Laguna%20Azul%20LAT/
+#EXTINF:-1 group-title="PELICULAS", LOS DIOSES DEBEN ESTER LOCOS
+https://tvinnov.online/CLASICAST/Los%20Dioses%20Deben%20Estar%20Locos%20LAT/
+
+
+
+
 
 
 
