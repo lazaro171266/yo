@@ -217,6 +217,29 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image44808078930.jpg" group-title="TV OPCION 1", RETRO TV PALMARES
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", VISION TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/59
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", AURORA MEDIA FILMS
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/104
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TV GLOBO
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/95
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CANAL 100
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/106
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", NIM TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/134
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CANAL 5
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/141
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", SOL TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/160
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", GTV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/173
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", JUTV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/174
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", MAS TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/175
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", PROCESIA TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
+
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE PREMIUM
 http://204.199.120.34:16123/play/ch49
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE FAMILIAR
@@ -244,6 +267,10 @@ http://45.160.15.130:2909/play/003
 #EXTINF:-1 group-title="TV OPCION 1", LOVE NATURE HD
 http://45.160.15.130:2909/play/a16v
 
+#EXTINF:-1 group-title="TV OPCION 1", E MUSIC
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/155
+#EXTINF:-1 group-title="TV OPCION 1", COMO ANTES TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/171
 #EXTINF:-1 group-title="TV OPCION 1", Old Music HD
 http://45.160.15.130:2909/play/137
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDs0Ty_KJ1j-5-nkaIunEWGk_oZ-qfxbWAA&usqp=CAU" group-title="TV OPCION 1",RETRO MUSIC BALADAS
