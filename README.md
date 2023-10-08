@@ -240,6 +240,15 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/175
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", PROCESIA TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
 
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINEMA ESTELAR
+http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE ESTRELLA TV
+https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772352.ts
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", NUESTRO CINE
+https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772408.ts
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", VEVO REGIONAL MEXICANO
+https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772434.ts
+
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE PREMIUM
 http://204.199.120.34:16123/play/ch49
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE FAMILIAR
