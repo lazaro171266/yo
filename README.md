@@ -1982,10 +1982,13 @@ http://legendstv.com.mx:80/Daniel2023/Daniel2023/138255.ts
 #EXTINF:-1 group-title="CANALES 24/7", Me caigo de risa
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/234706.ts
 
-#EXTINF:-1 group-title="PELICULAS", APOCALYPTO
-https://tvinnov.online/4KL/apocalypto%204K/Apcalpto%20(1).mp4
-#EXTINF:-1 group-title="PELICULAS", GRAN TURISMO
-https://tvinnov.online/PELICULAS%2060%20FPS/Gran%20Turismo%2060%20fps/Gran%20Turismo%20De%20jugador%20a%20corredor%20(2023)%201080p%2060FPS%20WEB-DL%20Latino.mkv
+
+#EXTINF:-1 group-title="PELICULAS", 2 LOCOS EN PATRULLA
+https://tvinnov.online/Peliculas/Dos%20Locos%20en%20Patrulla.720p.latino.mp4
+#EXTINF:-1 group-title="PELICULAS", EL IMPERIO DEL SOL
+https://tvinnov.online/CLASICAST/El%20Imperio%20Del%20Sol%201987/El%20Imperio%20Del%20Sol%201987.mp4
+#EXTINF:-1 group-title="PELICULAS", DONDE ESTAN LAS RUBIAS
+https://tvinnov.online/Peliculas/Donde%20estan%20las%20rubias/White%20Chicks%20LATINO.mp4
 #EXTINF:-1 group-title="PELICULAS", BUSQUEDA IPLACABLE
 https://tvinnov.online/Peliculas/Busqueda%20Impecable/Busqueda%20Implacable%201080p%20.www.compucalitv.com.mkv
 #EXTINF:-1 group-title="PELICULAS", TITANIC
@@ -1997,11 +2000,11 @@ https://tvinnov.online/Peliculas/PedroNavaja.mp4
 #EXTINF:-1 group-title="PELICULAS", EL BAILE DE LOS 41
 https://tvinnov.online/Peliculas/el.baile.de.los.41.2020.hdrip.720p.latino.mp4
 #EXTINF:-1 group-title="PELICULAS", DURO DE MATAR
-https://tvinnov.online/Peliculas/Die%20Hard%20(Duro%20de%20matar)%20(1988)/
+https://tvinnov.online/Peliculas/Die%20Hard%20(Duro%20de%20matar)%20(1988)/Die%20Hard%20(Duro%20de%20matar)%20(1988)LAT.mp4
 #EXTINF:-1 group-title="PELICULAS", DURO DE MATAR 2
-https://tvinnov.online/Peliculas/Die%20Hard%202%20(Duro%20de%20matar%202)%20(1990)/
+https://tvinnov.online/Peliculas/Die%20Hard%202%20(Duro%20de%20matar%202)%20(1990)/Die%20Hard%202%20(Duro%20de%20matar%202)%20(1990)LAT.mp4
 #EXTINF:-1 group-title="PELICULAS", DURO DE MATAR 3
-https://tvinnov.online/Peliculas/Die%20Hard%20With%20a%20Vengeance%20(Duro%20de%20matar%203)%20(1995)/
+https://tvinnov.online/Peliculas/Die%20Hard%20With%20a%20Vengeance%20(Duro%20de%20matar%203)%20(1995)/Die%20Hard%20With%20a%20Vengeance%20(Duro%20de%20matar%203)%20(1995)LAT.mp4
 #EXTINF:-1 group-title="PELICULAS", GREMLINS
 https://tvinnov.online/Peliculas/GREMLINS%201.mkv
 #EXTINF:-1 group-title="PELICULAS", INTERESTELAR
@@ -2015,10 +2018,13 @@ https://tvinnov.online/Peliculas/Limite%20vertical%20(2000).720.BDRip.lat.mp4
 #EXTINF:-1 group-title="PELICULAS", QUE CULPA TIENE EL NIÑO
 https://tvinnov.online/Peliculas/Que%20Culpa%20Tiene%20El%20NiNo%20LAT%201080.mkv
 #EXTINF:-1 group-title="PELICULAS", LA LAGUNA AZUL
-https://tvinnov.online/CLASICAST/La%20Laguna%20Azul%20LAT/
+https://tvinnov.online/CLASICAST/La%20Laguna%20Azul%20LAT/La%20Laguna%20azul%20lat.mp4
 #EXTINF:-1 group-title="PELICULAS", LOS DIOSES DEBEN ESTER LOCOS
-https://tvinnov.online/CLASICAST/Los%20Dioses%20Deben%20Estar%20Locos%20LAT/
-
+https://tvinnov.online/CLASICAST/Los%20Dioses%20Deben%20Estar%20Locos%20LAT/Los%20Dioses%20Deben%20Estar%20Locos%20LAT.mp4
+#EXTINF:-1 group-title="PELICULAS", EL DIA DESPUES DE MAÑANA
+https://tvinnov.online/Peliculas/El%20D%c3%ada%20Despu%c3%a9s%20de%20Ma%c3%b1ana%20SUB/El%20D%c3%ada%20Despu%c3%a9s%20de%20Ma%c3%b1ana.mp4
+#EXTINF:-1 group-title="PELICULAS", JURASSIC WORLD KINGDOM OF FALLEN
+https://tvinnov.online/Peliculas/jur4ss1c.w0rl.th3.f4ll3n.k1ngd0m.2018.latino.mp4
 
 
 
