@@ -460,14 +460,14 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8?PlaylistM3UCL
 
 
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 2", FILMEX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/146598
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 2", MILENIO HD 
-http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/10620
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/130025
 #EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png" group-title="TV OPCION 2", TELEFORMULA 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 2", AZTECA UNO 
-
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3801
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png" group-title="TV OPCION 2", AZTECA 7 
 
 #EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="TV OPCION 2", AZ MUNDO
@@ -477,13 +477,13 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302604
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FoP883UjFoijLtMspFK776a5Cf8JeNggTFexxGFFuixfF2g17-g8Ke-SwEmCUL-Kx2U&usqp=CAU" group-title="TV OPCION 2", AZ CORAZON
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/43602
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV OPCION 2", LAS ESTRELLAS
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59488
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129048
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 2", CANAL 5 
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302619
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3719
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-32yi_Q97h20/YRqmU2uGmlI/AAAAAAAAQEI/PpTQiDvbuEEih8uf05K_vqLybdRkv0FqQCLcBGAsYHQ/s210/Televisa%2BQuer%25C3%25A9taro%2Ben%2Bvivo.png" group-title="TV OPCION 2", EL NU9VE 
 http://live.budtvlight.com:25461/Luna001/18dabf00/26836
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV OPCION 2", IMAGEN TV 
-http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59627
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Unicable2018.png/revision/latest/scale-to-width-down/220?cb=20181023001628" group-title="TV OPCION 2", UNICABLE 
 http://premiumultra.xyz:8080/playlife2023@/YdVeDMSMYLXU/59472
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="TV OPCION 2", E! ENTERTAINMENT
@@ -499,7 +499,7 @@ http://sdmx.vip:8080/F4PLAYDF/YtzYQLkNBZaSP/148721
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAf8PZb6tdtui8fSVYRPWhRob43FCDEVWncg&usqp=CAU" group-title="TV OPCION 2", TELEMUNDO INTERNACIONAL 
 http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302728
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20210811041956%21Estrella_TV_-_2020_logo.png" group-title="TV OPCION 2", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/154741
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="TV OPCION 2", GALAVISION
 http://live.budtvlight.com:25461/Luna001/18dabf00/9514
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/340px-Logo_UniM%C3%A1s.svg.png" group-title="TV OPCION 2", UNIMAS
