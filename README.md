@@ -230,11 +230,11 @@ https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772408
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772434
 
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE PREMIUM
-http://204.199.120.34:16123/play/ch49
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/270566
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE FAMILIAR
-http://204.199.120.34:16123/play/ch52
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/270569
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE HISPANO
-http://204.199.120.34:16123/play/ch51
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/270568
 #EXTINF:-1 group-title="TV OPCION 1", MX Family HD
 http://45.160.15.130:2909/play/120
 #EXTINF:-1 group-title="TV OPCION 1", MX Classic HD
@@ -278,6 +278,12 @@ https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="TV OPCION 1",Master Show TV (360p)
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="TV OPCION 1",70-80 TV (1080P)
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/316681
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="MUSIC",Power Love (1080p)
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/316939
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="MUSIC",Vevo 80s (720p)
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/317088
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png" group-title="TV OPCION 1", RECUERDOS RETRO
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2022/09/Retro-Music-TV-Chequia.png" group-title="TV OPCION 1", RETRO MUSIC TV
