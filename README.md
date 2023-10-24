@@ -1,15 +1,17 @@
 #EXTM3U
+#EXTINF:-1 group-title="TV OPCION 1", retrox tv
+https://channelstore.roku.com/es-cr/details/52032baba5562beb21361985e4b4be44/retrox-tv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TeleFórmula
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TELEFORMULA
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/IMG_20160821_232615.jpg.83d93a335d6cf14ed3e8de950a1173b8.jpg" group-title="TV OPCION 1", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="TV OPCION 1", ADN40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",Excélsior TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",EXCELSIOR  TV 
 https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV OPCION 1",Multimedios Monterrey
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV OPCION 1",MULTIMEDIOS MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iP0LL9R.png" group-title="TV OPCION 1",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -26,7 +28,7 @@ https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Cine_Estelar.png/revision/latest?cb=20100622201645" group-title="TV OPCION 1", Cine Estelar
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Cine_Estelar.png/revision/latest?cb=20100622201645" group-title="TV OPCION 1", CINE ESTELAR
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuWct8.png" group-title="TV OPCION 1",Famili Channel
 https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
@@ -218,7 +220,7 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/175
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", PROCESIA TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 2", FILMEX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", FILMEX
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/146598
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINEMA ESTELAR
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
@@ -280,9 +282,9 @@ https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="TV OPCION 1",70-80 TV (1080P)
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/316681
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="MUSIC",Power Love (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RzUswR.png" group-title="TV OPCION 1",Power Love (1080p)
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/316939
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="MUSIC",Vevo 80s (720p)
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="TV OPCION 1",Vevo 80s (720p)
 http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/317088
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png" group-title="TV OPCION 1", RECUERDOS RETRO
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
