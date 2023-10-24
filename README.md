@@ -289,7 +289,7 @@ http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/317088
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6.png" group-title="TV OPCION 1", RECUERDOS RETRO
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://teleonline.org/wp-content/uploads/2022/09/Retro-Music-TV-Chequia.png" group-title="TV OPCION 1", RETRO MUSIC TV
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRituMHc-XA99p7O3cfLDimxM__TWI_yAJ9KQlmHk62U26dNDk6dunk6dL6UEShh2GfpuI&usqp=CAU" group-title="TV OPCION 1", CLASSICS TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.kcGi7J_aHhgLus9NQo1x3AHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", RETR0 PLUS
