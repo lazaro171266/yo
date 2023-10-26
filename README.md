@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV OPCION 1", retrox tv
-https://channelstore.roku.com/es-cr/details/52032baba5562beb21361985e4b4be44/retrox-tv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TELEFORMULA
@@ -1637,14 +1635,16 @@ http://gotv.vip:8880/Jaime/Jaime123/73786
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140844
 #EXTINF:-1 group-title="CANALES 24/7", EL CHAVO ANIMADO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131452
-#EXTINF:-1 group-title="CANALES 24/7", 1000 maneras de morir
-http://legendstv.com.mx:80/Daniel2023/Daniel2023/195239.ts
-#EXTINF:-1 group-title="CANALES 24/7", Acapulco Shore
-http://legendstv.com.mx:80/Daniel2023/Daniel2023/138082.ts
-#EXTINF:-1 group-title="CANALES 24/7", Acapulco Shore FHD
-http://legendstv.com.mx:80/Daniel2023/Daniel2023/136590.ts
-#EXTINF:-1 group-title="CANALES 24/7", Al Derecho y al Derbez
-http://legendstv.com.mx:80/Daniel2023/Daniel2023/226113.ts
+#EXTINF:-1 group-title="CANALES 24/7", LOS PICAPIEDRA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129349
+#EXTINF:-1 group-title="CANALES 24/7", LA PANTERA ROSA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129347
+#EXTINF:-1 group-title="CANALES 24/7", SCOOBY DOO
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3385
+#EXTINF:-1 group-title="CANALES 24/7", CINE RETRO HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2555
+#EXTINF:-1 group-title="CANALES 24/7", CINE INFANTIL
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2554
 #EXTINF:-1 group-title="CANALES 24/7", Alegrijes Y Rebujos
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/137081.ts
 #EXTINF:-1 group-title="CANALES 24/7", Alerta Aeropuerto
