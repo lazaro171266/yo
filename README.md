@@ -68,8 +68,8 @@ https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="TV OPCION 1",Ciudad Mágica
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVe8j4y.png" group-title="TV OPCION 1",Canal Blu (720p)
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FTeleamazonasTV&psig=AOvVaw2M3cGQwQTyZYagHA10NCz-&ust=1698379999833000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjOpq3gkoIDFQAAAAAdAAAAABAE" group-title="TV OPCION 1",TELA AMAZONAS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148881
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="TV OPCION 1",CANAL TDC 
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" group-title="TV OPCION 1", PLAY TV
@@ -220,10 +220,22 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/175
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", PROCESIA TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
 
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CLARO CINEMA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/135782
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE LATINO
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7974
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", AZ CINEMA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3706
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DE PELICULA CLASICO
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131274
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DE PELICULA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138187
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINEMA DINAMITA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/155201
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", FILMEX
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/146598
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINEMA ESTELAR
-http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/153565
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE ESTRELLA TV
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772352
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", NUESTRO CINE
@@ -258,6 +270,10 @@ http://45.160.15.130:2909/play/003
 #EXTINF:-1 group-title="TV OPCION 1", LOVE NATURE HD
 http://45.160.15.130:2909/play/a16v
 
+#EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FCumbiasMixx%2F&psig=AOvVaw1riIdBAeCEpM76Yxu40AJz&ust=1698378756283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiwzdzbkoIDFQAAAAAdAAAAABAj" group-title="TV OPCION 1",CUMBIA DRIVE MIX 2023
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/161033
+#EXTINF:-1 group-title="TV OPCION 1", DJ SOL (REGGAETÓN Y CUMBIA)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148242
 #EXTINF:-1 group-title="TV OPCION 1", E MUSIC
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/155
 #EXTINF:-1 group-title="TV OPCION 1", COMO ANTES TV
@@ -1617,10 +1633,10 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
 
-#EXTINF:-1 group-title="CANALES 24/7", 40 y 20
-http://legendstv.com.mx:80/Daniel2023/Daniel2023/228967.ts
-#EXTINF:-1 group-title="CANALES 24/7",  9-1-1
-http://legendstv.com.mx:80/Daniel2023/Daniel2023/242424.ts
+#EXTINF:-1 group-title="CANALES 24/7", BIRDMAN
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/140844
+#EXTINF:-1 group-title="CANALES 24/7", EL CHAVO ANIMADO
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131452
 #EXTINF:-1 group-title="CANALES 24/7", 1000 maneras de morir
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/195239.ts
 #EXTINF:-1 group-title="CANALES 24/7", Acapulco Shore
