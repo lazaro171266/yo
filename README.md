@@ -25,9 +25,6 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Cine_Estelar.png/revision/latest?cb=20100622201645" group-title="TV OPCION 1", CINE ESTELAR
-http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuWct8.png" group-title="TV OPCION 1",Famili Channel
 https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
@@ -114,14 +111,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9BjpfT/Canal-CNC-HITS-Channel-tvtolive-com.jpg" group-title="TV OPCION 1",Hits Channel (1024p)
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg" group-title="TV OPCION 1",Sentimiento Vallenato (720p)
-https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YT9Lc0P/Soncorazonlogo.png" group-title="TV OPCION 1",Son Corazón (720p)
-https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg" group-title="TV OPCION 1",Son Latino (1080p)
-https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MBQyccq/Canal-CNC-Son-Popular-tvtolive-com.jpg" group-title="TV OPCION 1",Son Popular (720p)
-https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hFlGHNZ.png" group-title="TV OPCION 1",Huila TV (720p)
 https://plataformavideo.com:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQghjMA.png" group-title="TV OPCION 1",Telered (720p)
@@ -218,6 +207,10 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/175
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", PROCESIA TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Cine_Estelar.png/revision/latest?cb=20100622201645" group-title="TV OPCION 1", CINE ESTELAR
+http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
+#EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Cine-Mexicano-Logo.png" group-title="TV OPCION 1",CINE MEXICANO
+http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHZ1asUn6FUNIBRKfvam3NVY/ts
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CLARO CINEMA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/135782
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE LATINO
@@ -232,41 +225,12 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/138187
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/155201
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", FILMEX
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/146598
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINEMA ESTELAR
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/153565
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE ESTRELLA TV
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772352
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", NUESTRO CINE
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772408
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", VEVO REGIONAL MEXICANO
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772434
-
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE PREMIUM
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/270566
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE FAMILIAR
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/270569
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE HISPANO
-http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/270568
-#EXTINF:-1 group-title="TV OPCION 1", MX Family HD
-http://45.160.15.130:2909/play/120
-#EXTINF:-1 group-title="TV OPCION 1", MX Classic HD
-http://45.160.15.130:2909/play/121
-#EXTINF:-1 group-title="TV OPCION 1", MX Prime HD
-http://45.160.15.130:2909/play/122
-#EXTINF:-1 group-title="TV OPCION 1", MX Old HD
-http://45.160.15.130:2909/play/123
-#EXTINF:-1 group-title="TV OPCION 1", MX SERIES
-http://45.160.15.130:2909/play/a172
-#EXTINF:-1 group-title="TV OPCION 1", FMH FAMILY
-http://45.160.15.130:2909/play/a169
-#EXTINF:-1 group-title="TV OPCION 1", FMH MOVIES
-http://45.160.15.130:2909/play/a16b
-#EXTINF:-1 group-title="TV OPCION 1", FMH REWIND
-http://45.160.15.130:2909/play/a16c
-#EXTINF:-1 group-title="TV OPCION 1", FMH KIDS
-http://45.160.15.130:2909/play/003
-#EXTINF:-1 group-title="TV OPCION 1", LOVE NATURE HD
-http://45.160.15.130:2909/play/a16v
 
 #EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FCumbiasMixx%2F&psig=AOvVaw1riIdBAeCEpM76Yxu40AJz&ust=1698378756283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiwzdzbkoIDFQAAAAAdAAAAABAj" group-title="TV OPCION 1",CUMBIA DRIVE MIX 2023
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/161033
