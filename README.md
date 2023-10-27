@@ -160,16 +160,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="TV OPCION 1",Retro PELIS
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",ACCION MEXICANAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/11/mx-nuestro-cine-donde-ver-canal-cine-mexicano.jpg" group-title="TV OPCION 1",PELICULAS CINE DE ORO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1015291157860020230/NAY2iXam_400x400.jpg" group-title="TV OPCION 1",MEGACINE HD 
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,FRECUENCIA MUSICAL TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 vg-logo="https://play-lh.googleusercontent.com/HRjPHj19xl5RhKWrMD56ccOYCej8XfEUALCi8smkGTLUcPwij8ZvIwftw8puzBAj3w" group-title="TV OPCION 1", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1",MyTime movie network Mexico
@@ -182,8 +178,13 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQbU5L8feakFXv1ZHK8PpALBG3RENjhhyV7gOKq=s176-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", TERROR TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="TV OPCION 1",La Rosa de Guadalupe
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,FRECUENCIA MUSICAL TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="TV OPCION 1",Retro PELIS
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ztZHh7pQ9Ac8agXQ8mDTywHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", RETRO X
+http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHbKiZyAi-w4ZpsUeYyWyHDU/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr21JUm7clwHSrF87TPe1QRkRfM8JuAd_CQ&usqp=CAU" group-title="TV OPCION 1", CLASSIC CHANNEL
 https://paneltv.online:1936/8046/8046/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0e32f5659bb8ef7fa85b9e8cc0992808?rik=uZKDR9moyWC3%2bA&riu=http%3a%2f%2fteleclasica.com%2fwp-content%2fuploads%2f2022%2f06%2fNaranja.jpg&ehk=%2foDgcLh1nehIHp5CYj7g0lnEpndDWo6JiB1EP1osc0A%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", TELECLASICA
@@ -247,8 +248,6 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/148242
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/155
 #EXTINF:-1 group-title="TV OPCION 1", COMO ANTES TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/171
-#EXTINF:-1 group-title="TV OPCION 1", Old Music HD
-http://45.160.15.130:2909/play/137
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDs0Ty_KJ1j-5-nkaIunEWGk_oZ-qfxbWAA&usqp=CAU" group-title="TV OPCION 1",RETRO MUSIC BALADAS
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
