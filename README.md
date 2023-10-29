@@ -176,6 +176,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCHHpH0BxWQ54E-4Mbh5sprA&psig=AOvVaw1ZMHNrk_lk056eF7UC-Xf-&ust=1698709273940000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiOkoGrnIIDFQAAAAAdAAAAABAR" group-title="TV OPCION 1", CINEMUNDO
+http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=cinemundo_plus
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,PELICULAS MANIA
+http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=peliculas_mania
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,PELICULAS HD
+http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=beto_7hd
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , NETFLIX HD
+http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=a_neflix01
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , CHELE HD
+http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=cheli_cooper
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQbU5L8feakFXv1ZHK8PpALBG3RENjhhyV7gOKq=s176-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", TERROR TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
