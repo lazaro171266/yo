@@ -176,7 +176,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCHHpH0BxWQ54E-4Mbh5sprA&psig=AOvVaw1ZMHNrk_lk056eF7UC-Xf-&ust=1698709273940000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiOkoGrnIIDFQAAAAAdAAAAABAR" group-title="TV OPCION 1", CINEMUNDO
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINEMUNDO
 http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=cinemundo_plus
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,PELICULAS MANIA
 http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=peliculas_mania
@@ -1878,7 +1878,8 @@ http://legendstv.com.mx:80/Daniel2023/Daniel2023/138255.ts
 #EXTINF:-1 group-title="CANALES 24/7", Me caigo de risa
 http://legendstv.com.mx:80/Daniel2023/Daniel2023/234706.ts
 
-
+#EXTINF:-1 group-title="PELICULAS", JUNGLE CRUISE
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zM4E_d6Eitu6tH2Q-Hm0FV5coEv7aXmVCuVZlO8JK6-p
 #EXTINF:-1 group-title="PELICULAS", 2 LOCOS EN PATRULLA
 https://tvinnov.online/Peliculas/Dos%20Locos%20en%20Patrulla.720p.latino.mp4
 #EXTINF:-1 group-title="PELICULAS", EL IMPERIO DEL SOL
