@@ -160,13 +160,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",ACCION MEXICANAS
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8b3018c8d528155d9d5dd615797d6ca5.webp" group-title="TV OPCION 1",ACCION MEXICANAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/11/mx-nuestro-cine-donde-ver-canal-cine-mexicano.jpg" group-title="TV OPCION 1",PELICULAS CINE DE ORO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RIGRCcPMikA/maxresdefault.jpg" group-title="TV OPCION 1",CINE DE ORO MEXICANO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1015291157860020230/NAY2iXam_400x400.jpg" group-title="TV OPCION 1",MEGACINE HD 
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1 vg-logo="https://play-lh.googleusercontent.com/HRjPHj19xl5RhKWrMD56ccOYCej8XfEUALCi8smkGTLUcPwij8ZvIwftw8puzBAj3w" group-title="TV OPCION 1", ORBIT TV
+#EXTINF:-1 vg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/orbit-tv.jpg?itok=C3qDW8zT" group-title="TV OPCION 1", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1",MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -189,7 +189,7 @@ http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=cheli_cooper
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQbU5L8feakFXv1ZHK8PpALBG3RENjhhyV7gOKq=s176-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", TERROR TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,FRECUENCIA MUSICAL TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yT22aG5TnjY/XxE7ri-XgKI/AAAAAAAAB_o/yRmzQT8Wm8Eq8OxtHuyElQr2PONDRrHVgCLcBGAsYHQ/w640-h480/frecuenciamusicaltv_logoroku.jpg" group-title="TV OPCION 1" ,FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="TV OPCION 1",Retro PELIS
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
@@ -245,7 +245,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/155201
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/146598
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE ESTRELLA TV
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772352
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", NUESTRO CINE
+#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/11/mx-nuestro-cine-donde-ver-canal-cine-mexicano.jpg" group-title="TV OPCION 1", MX NUESTRO CINE
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772408
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", VEVO REGIONAL MEXICANO
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772434
