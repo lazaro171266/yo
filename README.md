@@ -176,13 +176,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINEMUNDO
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9bee320c3818dbc2ddc14975a99e84a5?rik=zCyWwiA65QPS1g&pid=ImgRaw&r=0" group-title="TV OPCION 1", CINEMUNDO
 http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=cinemundo_plus
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,PELICULAS MANIA
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxqoELTnWJTmGdc8N0XyQ88BgQZh3uYB0fzP_NT=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1" ,PELICULAS MANIA
 http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=peliculas_mania
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,PELICULAS HD
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.8Dhk8K_u_Kt6d4R1D2gakgHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1" ,CINE HD
 http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=beto_7hd
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , NETFLIX HD
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.UmOGXRBt3Di3iO994My2TwHaE8?w=226&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1" , NETFLIX HD
 http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=a_neflix01
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , CHELE HD
 http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=cheli_cooper
