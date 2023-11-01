@@ -229,11 +229,11 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
 #EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Cine-Mexicano-Logo.png" group-title="TV OPCION 1",CINE MEXICANO
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHZ1asUn6FUNIBRKfvam3NVY/ts
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CLARO CINEMA
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.15aH24SzfT5bNLwLdPfNrwAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", CLARO CINEMA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/135782
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE LATINO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="TV OPCION 1", CINE LATINO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/7974
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", AZ CINEMA
+#EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2022/05/azcinema-1.jpg" group-title="TV OPCION 1", AZ CINEMA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3706
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DE PELICULA CLASICO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131274
