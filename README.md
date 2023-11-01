@@ -11,7 +11,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV OPCION 1",MULTIMEDIOS MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iP0LL9R.png" group-title="TV OPCION 1",MVS TV
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43258c4c5167991940231" group-title="TV OPCION 1",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logod.png?t=1" group-title="TV OPCION 1", ESTRELLA NOTICIAS
 https://estrellanews-plex.amagi.tv/playlist.m3u8
@@ -70,7 +70,7 @@ https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fcd782e9daa041902b003d38e11ed4bc.png" group-title="TV OPCION 1",Ciudad Mágica
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FTeleamazonasTV&psig=AOvVaw2M3cGQwQTyZYagHA10NCz-&ust=1698379999833000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjOpq3gkoIDFQAAAAAdAAAAABAE" group-title="TV OPCION 1",TELA AMAZONAS
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.yo0kWN_FWyEmoolA3zT0UAHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1",TELE AMAZONAS
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/148881
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="TV OPCION 1",CANAL TDC 
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
@@ -132,11 +132,11 @@ https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="TV OPCION 1",Estrella News (720p)
 https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kTh2jgF.png" group-title="TV OPCION 1", NOVELISIMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTh2jgF.png" group-title="TV OPCION 1", AZTECA VALLE
 https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Hits
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d9cac25d4bc156b4dd356b16bdc42ac6?rik=VwXIkM2%2fJT9L5Q&pid=ImgRaw&r=0" group-title="TV OPCION 1",CANELA HITS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/oUBTdrr4vTl59MVkrl3m8P-sNDQXXivQlrF8XU2oMD-_lgcilF26ajv-4uL3yXCouW8" group-title="TV OPCION 1",CANELA KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Music Presents
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
