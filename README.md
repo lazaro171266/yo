@@ -3,7 +3,7 @@
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TELEFORMULA
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/IMG_20160821_232615.jpg.83d93a335d6cf14ed3e8de950a1173b8.jpg" group-title="TV OPCION 1", FORO TV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.o5uPYkA73Ny8WcNydPnETAAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="TV OPCION 1", ADN40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
