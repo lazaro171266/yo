@@ -202,9 +202,9 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image44808078930.jpg" group-title="TV OPCION 1", RETRO TV PALMARES
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", VISION TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizB-90T0A-X12T-6bG8XtczPDqDJXr0RdxKJc5Q5lq1UyBTKzpqX-GpMmk4hTCq-DW1vEq_TYnHr-V2uJi_kF2qtuSHT7YS-vq4Qn5QouIxQp119l8ta7cHRweEUUJPsPhpQu25DTyheRiIFxkw1atCaN9bh4Q6Qy2t9-rK2QRxpnCi2dqBVXYiJ7p/s540/vision-tv-logoroku.png" group-title="TV OPCION 1", VISION TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/59
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", AURORA MEDIA FILMS
+#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="TV OPCION 1", AURORA MEDIA FILMS
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/104
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TV GLOBO
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/95
@@ -235,15 +235,15 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/135782
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/7974
 #EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2022/05/azcinema-1.jpg" group-title="TV OPCION 1", AZ CINEMA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3706
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DE PELICULA CLASICO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="TV OPCION 1", DE PELICULA CLASICO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131274
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DE PELICULA
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/359-3598349_logopedia10-de-pelicula-clasico-hd-png-download.png" group-title="TV OPCION 1", DE PELICULA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/138187
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINEMA DINAMITA
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="TV OPCION 1", CINEMA DINAMITA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/155201
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", FILMEX
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/146598
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE ESTRELLA TV
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="TV OPCION 1", CINE ESTRELLA TV
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772352
 #EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/11/mx-nuestro-cine-donde-ver-canal-cine-mexicano.jpg" group-title="TV OPCION 1", MX NUESTRO CINE
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772408
