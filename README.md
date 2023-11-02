@@ -1628,22 +1628,49 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/2554
 
 
 
-#EXTINF:-1 group-title="PELICULAS", NORBIT
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81z3kb3TRpL._AC_UF1000,1000_QL80_.jpg" group-title="PELICULAS", NORBIT
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zCOikuf8GqPVmgERDTOQqgkO-BrBv6agAg5K-RGGgKAF
-#EXTINF:-1 group-title="PELICULAS", LOS DIOSES DEBEN ESTAR  LOCOS
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/198/21019828_20130716124830723.jpg" group-title="PELICULAS", LOS DIOSES DEBEN ESTAR  LOCOS
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zMwpk7uEEOOuxdNubQp6OrRRLiGGrW3r74h1_Wlg9cvz
-#EXTINF:-1 group-title="PELICULAS", LOS DIOSES DEBEN ESTAR  LOCOS 2
+#EXTINF:-1 tvg-logo="https://dicpelis.com/wp-content/uploads/2021/07/The_Gods_Must_Be_Crazy_2_poster_espaol.jpg" group-title="PELICULAS", LOS DIOSES DEBEN ESTAR  LOCOS 2
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zPlribiV49AVqd4-gYetqFZcJs7vLKGwNo89qgLxgNql
-#EXTINF:-1 group-title="PELICULAS", GHOST - LA SOMBRA DEL AMOR
+#EXTINF:-1 tvg-logo="https://comoacaba.com/wp-content/uploads/2019/10/16FbE4pn39AZuTDnCxUgYFQB9gQ.jpg" group-title="PELICULAS", GHOST - LA SOMBRA DEL AMOR
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zMrk-HN6Aa0HxhNldIupFKai0CDlEAmlZhVWWckpHP2J
-#EXTINF:-1 group-title="PELICULAS", PHILADELPHIA
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zIpA6esnyWKFtDHK182-D1uhNHQM-PPOQ0bGSODSSoxf
-#EXTINF:-1 group-title="PELICULAS", EL ESPECIALISTA
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/5900/5977/001_m.jpg" group-title="PELICULAS", EL ESPECIALISTA
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLo-x0ZYKwzcypCQagFRkPkH5wePUmbhcZlCwDaBI4fb
-#EXTINF:-1 group-title="PELICULAS", HACHIKO - SIEMPRE A TU LADO
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Siempre_a_tu_lado_Hachiko-386676685-large.jpg" group-title="PELICULAS", HACHIKO - SIEMPRE A TU LADO
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zK4InZfkYp9SB2HNEzl6juhsbOtVTeSww1bOtKPR02FL
-#EXTINF:-1 group-title="PELICULAS", MUJER BONITA
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/18/06/20/03/55/3237983.jpg" group-title="PELICULAS", MUJER BONITA
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zFS2VxO3fS4iKR_DSmH-s4_a99zp1SztAog5uPoMz5u7
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/23/10/36/0134677.jpg" group-title="PELICULAS", RASCACIELOS
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zBQwc3o3AYvYTbradU81g3w-99IImDrntIH653W-1cdf
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Los_aAngeles_de_Charlie-321085855-large.jpg" group-title="PELICULAS", LOS ANGELES DE CHARLIE
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLINESZxb8_Nm0DbytRpG80KZ0gHILl57R3j8CPCwLhb
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/04/11/17/316520.jpg" group-title="PELICULAS", CONTRACARA
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zKcZogoW_9wZMWqrmmBqW9VhkrQkRlQPSRlJHb84fYU_
+#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/e1491900-0000-0000-0000-000000000002/504/image.jpg?w=720" group-title="PELICULAS", RAMBO
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLl04xZTahjt3kHQR8xdgzJdLWH1yqj3bga3ICeJw7JP
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91N1a3EH2PL._AC_UF1000,1000_QL80_.jpg" group-title="PELICULAS", ACERO PURO
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zO713YyVomGNFLBIpyk45qaMVrPHv66Rx1gMwrpeBlXW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfe5Y9wRpCKvLbo4S0zAeZTGG7J1mNcO0UAJK8FvTaRTnT8Uc3TBZWHfph_158hU8QCM&usqp=CAU" group-title="PELICULAS", SANGRE POR SANGRE
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zAnWfMdy34V0YAaFZiQmUlPsAgnAzlT_jTUp74PKJi2C
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dee437de11d2ff4718bd2b8c0cbfcfab8f31445c12063441f03fbde9ff82bbd4.jpg" group-title="PELICULAS", APOCALYPTO
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zGqi7PFrssVOuQem0sirif5uqy38EABSCPvOkjWKZJxW
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Jurassic_World_Dominion-228831206-large.jpg" group-title="PELICULAS", JURASSIC WORLD DOMINION
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zD8FnueDs3B8zzGOfG_vEXJZ4rP5PfwIPn7Ts-BKFiH1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNiYTVmMzMtYjBmNC00OGQyLTg2MmItODIzYTczNmFjMTQ2XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg" group-title="PELICULAS", HEARTH OF STONE
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zOf_aGQU0P99ia3uYY8jDyHn6kzHEnW10CpKuKhbCVF0
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0d/Buscando-justicia.jpg/revision/latest?cb=20191211235044&path-prefix=es" group-title="PELICULAS", BUSCANDO JUSTICIA
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zKcAnwwy1VclnwzTKk8MsETjvElsRkghD2ZJ2zDUZniL
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/45bDQsezasfg4nXkrYeZPVtdKu4=/206x305/v2/https://resizing.flixster.com/QnfH8KhP2GcTThpVE4jqYUAxo3I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RmMjYyMTIyLWVlYjUtNDU1Mi1iYjc0LTRlODg1MTg0NmU1Zi5qcGc=" group-title="PELICULAS", RIP 2
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zAhq0_YDOQ8Biaiu_DSMwKFKD9MbFO7A8DvojqMMUQnD
+#EXTINF:-1 tvg-logo="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/MoviePosters/AllMADPhotos/10450373/10450373_v5_cmd1.jpg" group-title="PELICULAS", EXODUS DIOSES Y REYES
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zETovlD254R5xS05yuEVTaAYbpoqPkjpMKo2IwGuQ1o1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/05/Cartel_La_lista_de_Schindler.jpg/revision/latest?cb=20220301142651&path-prefix=es" group-title="PELICULAS", LA LISTA DE SCHINDLER
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJEC8IWn-fxMJXyT9OESELyIKP8m-ymTxxlFBvkXwME5
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/61/66/20098979.jpg" group-title="PELICULAS", LA VIDA ES BELLA
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zGEKemxa2wfl9MsHInk6ixZUJKc166ghIYHDBwUtfSxI
+
 #EXTINF:-1 group-title="PELICULAS", JUNGLE CRUISE
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zM4E_d6Eitu6tH2Q-Hm0FV5coEv7aXmVCuVZlO8JK6-p
 #EXTINF:-1 group-title="PELICULAS", 2 LOCOS EN PATRULLA
@@ -1682,8 +1709,6 @@ https://tvinnov.online/Peliculas/Limite%20vertical%20(2000).720.BDRip.lat.mp4
 https://tvinnov.online/Peliculas/Que%20Culpa%20Tiene%20El%20NiNo%20LAT%201080.mkv
 #EXTINF:-1 group-title="PELICULAS", LA LAGUNA AZUL
 https://tvinnov.online/CLASICAST/La%20Laguna%20Azul%20LAT/La%20Laguna%20azul%20lat.mp4
-#EXTINF:-1 group-title="PELICULAS", LOS DIOSES DEBEN ESTER LOCOS
-https://tvinnov.online/CLASICAST/Los%20Dioses%20Deben%20Estar%20Locos%20LAT/Los%20Dioses%20Deben%20Estar%20Locos%20LAT.mp4
 #EXTINF:-1 group-title="PELICULAS", EL DIA DESPUES DE MAÑANA
 https://tvinnov.online/Peliculas/El%20D%c3%ada%20Despu%c3%a9s%20de%20Ma%c3%b1ana%20SUB/El%20D%c3%ada%20Despu%c3%a9s%20de%20Ma%c3%b1ana.mp4
 #EXTINF:-1 group-title="PELICULAS", JURASSIC WORLD KINGDOM OF FALLEN
