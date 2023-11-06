@@ -76,18 +76,6 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/148881
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" group-title="TV OPCION 1", PLAY TV
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="TV OPCION 1",RCN Más 
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="TV OPCION 1",SEO TV  Novelas (1080p)
-https://live.seo.tv.bo/live/3SEO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="TV OPCION 1",SEO TV Películas (1080p)
-https://live.seo.tv.bo/live/4SEO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="TV OPCION 1",SEO TV (1080p)
-https://live.seo.tv.bo/live/6SEO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="TV OPCION 1",SEO TV 7 (1080p)
-https://live.seo.tv.bo/live/7SEO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="TV OPCION 1",Solive TV (720p)
-https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="TV OPCION 1",Tastemade en Español (1080p)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="TV OPCION 1",Xtrema Cartoons (360p)
@@ -130,8 +118,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="TV OPCION 1",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="TV OPCION 1",Estrella News (720p)
-https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTh2jgF.png" group-title="TV OPCION 1", AZTECA VALLE
 https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d9cac25d4bc156b4dd356b16bdc42ac6?rik=VwXIkM2%2fJT9L5Q&pid=ImgRaw&r=0" group-title="TV OPCION 1",CANELA HITS
@@ -1670,53 +1656,13 @@ http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zETovlD254R5xS05yuEVTaAYbpoqPk
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJEC8IWn-fxMJXyT9OESELyIKP8m-ymTxxlFBvkXwME5
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/61/66/20098979.jpg" group-title="PELICULAS", LA VIDA ES BELLA
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zGEKemxa2wfl9MsHInk6ixZUJKc166ghIYHDBwUtfSxI
-
-#EXTINF:-1 group-title="PELICULAS", JUNGLE CRUISE
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_junglecruise_21740_v2_bb7f0ae4.jpeg?region=0%2C0%2C540%2C810" group-title="PELICULAS", JUNGLE CRUISE
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zM4E_d6Eitu6tH2Q-Hm0FV5coEv7aXmVCuVZlO8JK6-p
-#EXTINF:-1 group-title="PELICULAS", 2 LOCOS EN PATRULLA
-https://tvinnov.online/Peliculas/Dos%20Locos%20en%20Patrulla.720p.latino.mp4
-#EXTINF:-1 group-title="PELICULAS", EL IMPERIO DEL SOL
-https://tvinnov.online/CLASICAST/El%20Imperio%20Del%20Sol%201987/El%20Imperio%20Del%20Sol%201987.mp4
-#EXTINF:-1 group-title="PELICULAS", DONDE ESTAN LAS RUBIAS
-https://tvinnov.online/Peliculas/Donde%20estan%20las%20rubias/White%20Chicks%20LATINO.mp4
-#EXTINF:-1 group-title="PELICULAS", BUSQUEDA IPLACABLE
-https://tvinnov.online/Peliculas/Busqueda%20Impecable/Busqueda%20Implacable%201080p%20.www.compucalitv.com.mkv
-#EXTINF:-1 group-title="PELICULAS", TITANIC
-https://tvinnov.online/Peliculas/Titanic.1997.HD720p.Dual.Latino-Ingles.Sub.mp4
-#EXTINF:-1 group-title="PELICULAS", VIAJEROS
-https://tvinnov.online/Peliculas/Voyagers%20(2021)/Voyagers%20(2021)LAT.mp4
-#EXTINF:-1 group-title="PELICULAS", PEDRO NAVAJAS
-https://tvinnov.online/Peliculas/PedroNavaja.mp4
-#EXTINF:-1 group-title="PELICULAS", EL BAILE DE LOS 41
-https://tvinnov.online/Peliculas/el.baile.de.los.41.2020.hdrip.720p.latino.mp4
-#EXTINF:-1 group-title="PELICULAS", DURO DE MATAR
-https://tvinnov.online/Peliculas/Die%20Hard%20(Duro%20de%20matar)%20(1988)/Die%20Hard%20(Duro%20de%20matar)%20(1988)LAT.mp4
-#EXTINF:-1 group-title="PELICULAS", DURO DE MATAR 2
-https://tvinnov.online/Peliculas/Die%20Hard%202%20(Duro%20de%20matar%202)%20(1990)/Die%20Hard%202%20(Duro%20de%20matar%202)%20(1990)LAT.mp4
-#EXTINF:-1 group-title="PELICULAS", DURO DE MATAR 3
-https://tvinnov.online/Peliculas/Die%20Hard%20With%20a%20Vengeance%20(Duro%20de%20matar%203)%20(1995)/Die%20Hard%20With%20a%20Vengeance%20(Duro%20de%20matar%203)%20(1995)LAT.mp4
-#EXTINF:-1 group-title="PELICULAS", GREMLINS
-https://tvinnov.online/Peliculas/GREMLINS%201.mkv
-#EXTINF:-1 group-title="PELICULAS", INTERESTELAR
-https://tvinnov.online/Peliculas/Interstellar%20(2014)%201080p%20BluRay%20x265%20HEVC%20English%20AC3%205.1%20-%20MeGUiL.mkv
-#EXTINF:-1 group-title="PELICULAS", JEEPERS CREEPER
-https://tvinnov.online/Peliculas/Jeepers.creepers.2001.1080p-dl-lat.mp4
-#EXTINF:-1 group-title="PELICULAS", JEEPERS CREEPER 2
-https://tvinnov.online/Peliculas/JeepersCreepers2.mp4
-#EXTINF:-1 group-title="PELICULAS", LIMITE VERTICAL
-https://tvinnov.online/Peliculas/Limite%20vertical%20(2000).720.BDRip.lat.mp4
-#EXTINF:-1 group-title="PELICULAS", QUE CULPA TIENE EL NIÑO
-https://tvinnov.online/Peliculas/Que%20Culpa%20Tiene%20El%20NiNo%20LAT%201080.mkv
-#EXTINF:-1 group-title="PELICULAS", LA LAGUNA AZUL
-https://tvinnov.online/CLASICAST/La%20Laguna%20Azul%20LAT/La%20Laguna%20azul%20lat.mp4
-#EXTINF:-1 group-title="PELICULAS", EL DIA DESPUES DE MAÑANA
-https://tvinnov.online/Peliculas/El%20D%c3%ada%20Despu%c3%a9s%20de%20Ma%c3%b1ana%20SUB/El%20D%c3%ada%20Despu%c3%a9s%20de%20Ma%c3%b1ana.mp4
-#EXTINF:-1 group-title="PELICULAS", JURASSIC WORLD KINGDOM OF FALLEN
-https://tvinnov.online/Peliculas/jur4ss1c.w0rl.th3.f4ll3n.k1ngd0m.2018.latino.mp4
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_866875-MLM31476839093_072019-O.webp" group-title="PELICULAS", PERFUME HISTORIA DE UN ASESINO
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zIFDmqo_Hlk2o5MkxCLwNsXNB4IzMRc2I3Qx0A9_38GQ
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L5JOVCx0baAn39g2_m45URKiaexhpDt5N1m_eD6jKn_4GW6LFQ398rM5fJBO7RqYR_XH" group-title="PELICULAS", EL PATRIOTA
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zB6Jx7TGZIJ6Ef7JjfwKHDVUoRyNoa8ZywOcin_yIq2r
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3f/7b/7f/3f7b7fa7913a40606674fc0bf3268b99.jpg" group-title="PELICULAS", EL REGALO PROMETIDO
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zF0WNZPVKudwbALYkkKQwurxLjj9vna_Df9G7YXDbn7h
+#EXTINF:-1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs2.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F003%2F740%2Fcon-air-1.jpg&nuevoancho=683&medio=abc" group-title="PELICULAS", CON AIR
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zOLFzJU-D_vysDqSxvvkZviAnlDTjwycYMUK0rFCGcOp
