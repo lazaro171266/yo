@@ -166,6 +166,8 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV OPCION 1" ,Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,WILD WEST
+https://linear-213.frequency.stream/dist/vix/213/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.imagenpoblana.mx/medios/diario/20160402/89082.jpg" group-title="TV OPCION 1" ,GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 1" ,GOLDEN PLUS
