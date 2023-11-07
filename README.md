@@ -144,7 +144,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",TVC ECUADOR
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",MULTIPREMIER
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/31/68/303168ac72ed212e263324e9c3d7d88b.png" group-title="TV OPCION 1",MULTIPREMIER
 http://177.234.230.226:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="TV OPCION 1",Top Cine (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
@@ -164,7 +164,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV OPCION 1" ,Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV OPCION 1" ,GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 1" ,GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
