@@ -182,6 +182,10 @@ https://linear-318.frequency.stream/dist/vix/318/hls/master/playlist.m3u8
 https://linear-312.frequency.stream/dist/vix/312/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LAS ESTRELLAS
 https://linear-339.frequency.stream/dist/vix/339/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LA PROMESA
+https://linear-343.frequency.stream/dist/vix/343/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LA ROSA
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.imagenpoblana.mx/medios/diario/20160402/89082.jpg" group-title="TV OPCION 1" ,GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 1" ,GOLDEN PLUS
