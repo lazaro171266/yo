@@ -1995,3 +1995,20 @@ http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zB6Jx7TGZIJ6Ef7JjfwKHDVUoRyNoa
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zF0WNZPVKudwbALYkkKQwurxLjj9vna_Df9G7YXDbn7h
 #EXTINF:-1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs2.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F003%2F740%2Fcon-air-1.jpg&nuevoancho=683&medio=abc" group-title="PELICULAS", CON AIR
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zOLFzJU-D_vysDqSxvvkZviAnlDTjwycYMUK0rFCGcOp
+#EXTINF:-1 tvg-logo="https://www.sonyvideo.com.mx/media/packshots/url/el_justiciero_2_digital.jpg" group-title="PELICULAS", EL JUSTICIERO 2
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zN8NmkGfYpyBVyQxUAzdSFNjjl538s-anw_76D1gpWOz
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Por_una_razaon_de_ser-723479909-large.jpg" group-title="PELICULAS", POR UNA RAZON DE SER
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zEPsewdBEXtfThNN8xy-3ltdJCeDfEIzAc1s8p3AHCIc
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NP32Nattl8hqTOIqnAihTM4PFjMmJVzwdsSazo3N-ERL3QFfRcKt7sVpYt1wPIbJ2NNi" group-title="PELICULAS", REPLICAS
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zM58Qf-rfKk5H-fzOZZHGIyvMOswLKgVnaZOH4Fqa7zk
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71NSHpAO6ZL._AC_UF894,1000_QL80_.jpg" group-title="PELICULAS", PHILADELPHIA
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zAH4stqHAH5xCO2m01FhzzGqrILjiHxPC9Kzmp9Z9ZqR
+#EXTINF:-1 tvg-logo="https://www.peliculasmexicanas.com/wp-content/uploads/sites/12/2017/11/EL-INFIERNO-DMX-F-.jpg" group-title="PELICULAS", EL INFIERNO
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJYu8US_dyDmU7tAPDr8EkbNBEQIpi-EFLgVyxvkJ7NW
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFiNTI1NTctMTc3Ny00ZThlLTkyNTItMWEyYTYxMjFmOGMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS", 3 MEXICANOS ARDIENTES
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zDWDQoqU5D8eJ3bkWb7ULRSBFXj4H4HqLqHNMzWG1Qoo
+
+
+
+
+
