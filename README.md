@@ -2007,6 +2007,30 @@ http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zAH4stqHAH5xCO2m01FhzzGqrILjiH
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJYu8US_dyDmU7tAPDr8EkbNBEQIpi-EFLgVyxvkJ7NW
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFiNTI1NTctMTc3Ny00ZThlLTkyNTItMWEyYTYxMjFmOGMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS", 3 MEXICANOS ARDIENTES
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zDWDQoqU5D8eJ3bkWb7ULRSBFXj4H4HqLqHNMzWG1Qoo
+#EXTINF:-1 tvg-logo="https://beersandpolitics.com/wp-content/uploads/2019/01/leydeherodes.jpg" group-title="PELICULAS", LA LEY DE HERODES
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zP_7qtxKvtm2WT9Xc6YnXhDQKUZv8Hko8Nqz_1ranWgZ
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/16/09/23/18/43/135977.jpg" group-title="PELICULAS", EL JEREMIAS
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zEavreTz0gnRWoz5Wxx_qkq19sZQjRGpBPMwHS8jelH6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e4/El_Rescate_%282011%29.jpg/revision/latest/thumbnail/width/360/height/450?cb=20130203134233&path-prefix=es" group-title="PELICULAS", EL RESCATE
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zEoGWC4K4_5wCX4sY4KqQbYmAEpM9tq0R46HkiZ15a64
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/cc/2b/12cc2b59c59b1680929c17ad5ba5541a.jpg" group-title="PELICULAS", BUSQUEDA IMPLACABLE 2
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zPltFWj1iASJK6cm4cWld0xoG6w5LxgEszW5lZkySfiw
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Legado_de_sangre-346205226-large.jpg" group-title="PELICULAS", LEGADO DE SANGRE 
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJFahLdfNr30nUh_mYb1goqt63JWTsarIS3TQ1nyvs7-
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_piloto-759873939-large.jpg" group-title="PELICULAS", EL PILOTO
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLdy6XtW19vIE0w1q-rU31l4I8BywpQFtq6y2NZ3e3Jk
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/28/15/15/1936881.jpg" group-title="PELICULAS", EL PROTECTOR
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zHhaAnK2Q1vyBCgUbYqf1_nMjQ-daBXqR0bnXsc2NZlW
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODkyZjcyOGMtZWVhYy00ZWEyLWJlZDItZDA2OTBhNGZmMjBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="PELICULAS", BLUE BEETLE
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJa6a098QUf1PpDKqLJB6q6Z9-xa-ujst7F23bpBgth5
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.themoviedb.org/t/p/w185/mhLYcyxuhb82ttYDEU5DM8b3Hy3.jpg" group-title="PELICULAS", CONTRARELOJ
+http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zGw9MNV9PUy6yu3P8qJzxnHZi_D3sw5BIYyx_-crdKAf
+
+
+
+
+
+
 
 
 
