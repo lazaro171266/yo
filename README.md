@@ -1970,7 +1970,7 @@ http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zO713YyVomGNFLBIpyk45qaMVrPHv6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfe5Y9wRpCKvLbo4S0zAeZTGG7J1mNcO0UAJK8FvTaRTnT8Uc3TBZWHfph_158hU8QCM&usqp=CAU" group-title="PELICULAS", SANGRE POR SANGRE
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zAnWfMdy34V0YAaFZiQmUlPsAgnAzlT_jTUp74PKJi2C
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dee437de11d2ff4718bd2b8c0cbfcfab8f31445c12063441f03fbde9ff82bbd4.jpg" group-title="PELICULAS", APOCALYPTO
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zGqi7PFrssVOuQem0sirif5uqy38EABSCPvOkjWKZJxW
+http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Jurassic_World_Dominion-228831206-large.jpg" group-title="PELICULAS", JURASSIC WORLD DOMINION
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zD8FnueDs3B8zzGOfG_vEXJZ4rP5PfwIPn7Ts-BKFiH1
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNiYTVmMzMtYjBmNC00OGQyLTg2MmItODIzYTczNmFjMTQ2XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg" group-title="PELICULAS", HEARTH OF STONE
@@ -2025,9 +2025,45 @@ http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zHhaAnK2Q1vyBCgUbYqf1_nMjQ-daB
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJa6a098QUf1PpDKqLJB6q6Z9-xa-ujst7F23bpBgth5
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.themoviedb.org/t/p/w185/mhLYcyxuhb82ttYDEU5DM8b3Hy3.jpg" group-title="PELICULAS", CONTRARELOJ
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zGw9MNV9PUy6yu3P8qJzxnHZi_D3sw5BIYyx_-crdKAf
-#EXTINF:-1, MI GRADUACION
+#EXTINF:-1,EL DIA DE MI GRADUACION
 http://vod.tuxchannel.mx/peliculas/720/senior%20year%202022.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BOYKA INDISPUTED 
+http://vod.tuxchannel.mx/peliculas4k/boyka%20undisputed%20iv.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",PATRULLA MOTORIZADA
+http://vod.tuxchannel.mx/peliculas4k/chips.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",COMPADRES
+http://vod.tuxchannel.mx/peliculas4k/compadres.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATRAPADA EN LAS PROFUNDIDADES
+http://vod.tuxchannel.mx/peliculas/720/breaking%20surface%202020.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",EL PROTECTOR
+http://vod.tuxchannel.mx/peliculas/720/the%20marksman%202021.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SIN RASTRO
+http://vod.tuxchannel.mx/peliculas/720/the%20vanished%202020.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",LA RAZON DE ESTAR CONTIGO 2
+http://vod.tuxchannel.mx/peliculas/720/a%20dogs%20journey%202019.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMERICAN PIE GIRLS RULES
+http://vod.tuxchannel.mx/peliculas/720/american%20pie%20presents%20girls%20rules%202020.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",LA LAGUNA AZUL
+http://vod.tuxchannel.mx/peliculas/720/el%20lago%20azul.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANACONDAS 2
+http://vod.tuxchannel.mx/peliculas/720/anacondas%20the%20hunt%20for%20the%20blood%20orchid%202004.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ACCION POLICIAL
+http://vod.tuxchannel.mx/peliculas/720/police%20story.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CAOS
+http://vod.tuxchannel.mx/peliculas/720/chaos.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
 
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
 
 
 
