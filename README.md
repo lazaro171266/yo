@@ -1635,296 +1635,6 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
 
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975442",Azteca uno
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=132194&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=981086",Las Estrellas
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=111836&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=981101",ImagenTV
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=132298&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=980606",Canal 5
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=111838&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=981291",Azteca 7
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=151832&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975449",Nueve
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=011840&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975372" group-title="TV MEXICO",A+
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=142278&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4451",Foro TV
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=142242&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=497864",ADN40
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=12184&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1083442",Corazon
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1370&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1083564",Clic
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=132293&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975373",El Financiero
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=112167&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4469",Teleformula
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1232&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=272345",Ingenio
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=020401&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975452" group-title="TV MEXICO",Mexiquense Nacional
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=010044&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=820367",Canal 6
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=151253&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975388",Star Channel
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1546&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1095173",Sony
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1448&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975427",Warner
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1152&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4496",Universal TV
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1257&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975436",FX
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1160&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975437",A and E
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1462&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975360",AXN
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1164&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=88447",TruTV
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1479&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975438",Comedy Central
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=13340&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975439",Unicable
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=151499&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=91482",Hola TV
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=121734&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=110347",Mas Chic
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=141842&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=269754",Food Networks
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=152145&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975477",Discovery ID
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=132376&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975356",E! Entertainment
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1155&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1102344",USA-syfy
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1159&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4517",TNT Series
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1271&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1083440",Gourmet
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1574&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1094345",El Garage TV
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1475&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4526",Glitz
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1476&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975353",Distrito Comedia
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1578&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1086229",TNT Novelas
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=053891&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1083580",Tlnovelas
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1183&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975351",Telemundo
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1185&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1000768",Universal Premiere
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=013709&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1000793",Universal Cinema
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=023710&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1000792",Universal Comedy
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=033711&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1000775",Universal Crime
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=043712&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1000762",Universal Reality
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=053713&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=274006",Baby TV
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15116&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4428",Discovery Kids
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=13109&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4320",Disney Jr.
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=12118&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=178683",Baby First
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=121984&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4317",Nick Jr.
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=11117&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4440",Disney Channel
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=14113&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=512688",Nick Music
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=141708&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1096973",Nick
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=12331&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=518687",Teen Nick
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=122147&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975348",Cartoon Network
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=13112&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975347",Cartoonito
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15115&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975346",bitMe
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=152591&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=88456",Tooncast
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=14108&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1052255",Fuel TV
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=152587&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975345",Discovery Theater
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1295&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975344",History Channel
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1289&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975343",National Geographic
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=121650&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4422",Discovery World
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15101&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975341",Animal Planet
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=132378&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975340",Discovery Turbo
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=112379&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975339",HGTV
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=153105&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1004419",TLC
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=152380&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975485",H2
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=141702&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975484",Discovery Channel
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1486&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=992408",Discovery H&H
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1296&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975335",Lifetime
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1194&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975479",Curiosity
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=112594&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975476",Discovery Science
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=1298&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975475",Wobi
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=12102&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1083584",Cinema
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=131787&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975466",Paramount
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=141726&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975456",Cinecanal
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=12149&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975455",TNT
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=14126&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975454",Golden Plus
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=13122&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975451",De pelicula Plus
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=13121&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4256",AMC
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15328&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975448",Space
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15129&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=440129",A3 Cine
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=153112&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=995751",Sony Movies
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=043779&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975445",Morbido
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=11140&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=440592",Cinemax
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15158&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975441",Golden
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=13123&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975428",Golden Edge
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=14124&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975424",De Pelicula
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15335&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975403",Studio Universal
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15132&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=272354",Europa Europa
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=11136&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975319",Film and Arts
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=11137&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=88468",Isat
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=11135&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4341",TCM
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=12128&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1016579",DHE
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=023835&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=85864",Golf Channel
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=12179&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975318",TUDN
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=11174&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=864609",NBA
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=011712&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975317",VSIN
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=153343&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1079557",Hi Sports
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=143735&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975312",Claro Sports
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=132564&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1085168",Azteca Deportes
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=043895&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975311",PX Sports
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=13950&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975310",Adrenalina Sports
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=121799&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=982309",U-Beat
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=033335&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975308",ESPN 2
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=14168&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975307",ESPN
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=14169&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=979212" group-title="TV MEXICO",Fox Sports Premium
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=123766&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4299",Fox Sports
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=12170&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4302",Fox Sports 2
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15172&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=89668",Fox Sports 3
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=13178&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=269820",TVC Deportes
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=142157&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975306",AyM Sports
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15180&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=272360",LAS
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=112089&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=274021",FIBA
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=122090&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975305",WWB
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=113594&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975371",Milenio
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=111252&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=274030",Fox News
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=030188&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=274036",RT Noticias
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=030999&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975303",RT Latino
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=012091&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=274531",CNN Internacional
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=020186&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=274537",CNN Esp
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=020187&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975304",CNN USA
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=010185&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975296",France 24
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=132402&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975302",Mega Noticias MX
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=133322&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975301",Bloomberg
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=14190&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=1083439",BBC World News
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=020191&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=274060",Aljazeera
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=010192&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975300",NTN 24
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=020194&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975299",HLN
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=020197&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975298",TVE
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15198&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=4311",Antena 3
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=11199&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=272381",DW Latino
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=11203&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975297",Atres Series
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=132113&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=270471",Star
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=122375&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=909292",NHK
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=113593&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975366",MTV Live
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=14211&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975367",Telehit Musica Plus
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15220&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975242",Telehit Musica
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=15218&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975368",MTV 00S
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=11334&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975369",MTV
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=12212&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975370",MTV Hits
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=13213&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=527060",MTV 80S
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=14214&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-#EXTINF:-1 group-title="TV MEXICO" tvg-logo="https://totalgo.totalplay.com.mx:444/KAN-MOBILEWeb/MasterImage?mimId=975240",Bandamax
-http://rehsirk.ignorelist.com:8081/ml3.php?tp=11221&usuario=geomexico&token=630m3x1c0b8fd33a932a1e31572f0a0284f95a4630&f=playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="CANALES 24/7", BIRDMAN
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140844
@@ -1950,7 +1660,9 @@ http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zMwpk7uEEOOuxdNubQp6OrRRLiGGrW
 #EXTINF:-1 tvg-logo="https://dicpelis.com/wp-content/uploads/2021/07/The_Gods_Must_Be_Crazy_2_poster_espaol.jpg" group-title="PELICULAS", LOS DIOSES DEBEN ESTAR  LOCOS 2
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zPlribiV49AVqd4-gYetqFZcJs7vLKGwNo89qgLxgNql
 #EXTINF:-1 tvg-logo="https://comoacaba.com/wp-content/uploads/2019/10/16FbE4pn39AZuTDnCxUgYFQB9gQ.jpg" group-title="PELICULAS", GHOST - LA SOMBRA DEL AMOR
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zMrk-HN6Aa0HxhNldIupFKai0CDlEAmlZhVWWckpHP2J
+https://16sv2wk3zyw2.sw-cdnstream.com/hls2/01/00502/7tsbjmoo5mjg_x/master.m3u8?t=78WFf2Wxl8tZJgqI6mETpnky3rBaL7EZ5-fLr2-gx08&s=1699935604&e=129600&f=2514829&srv=hckwyaosxjmw&i=0.4&sp=500&p1=hckwyaosxjmw&p2=hckwyaosxjmw&asn=8151
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",HOMBRE EN LLAMAS
+https://vd196.mycdn.me/?expires=1700023081709&srcIp=201.97.152.134&pr=10&srcAg=CHROME_ANDROID&ms=45.136.22.4&type=3&sig=vSm-GSc3Toc&ct=0&urls=185.226.53.5&clientType=0&id=255705746054
 #EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/5900/5977/001_m.jpg" group-title="PELICULAS", EL ESPECIALISTA
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLo-x0ZYKwzcypCQagFRkPkH5wePUmbhcZlCwDaBI4fb
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Siempre_a_tu_lado_Hachiko-386676685-large.jpg" group-title="PELICULAS", HACHIKO - SIEMPRE A TU LADO
@@ -2002,7 +1714,7 @@ http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zEPsewdBEXtfThNN8xy-3ltdJCeDfE
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NP32Nattl8hqTOIqnAihTM4PFjMmJVzwdsSazo3N-ERL3QFfRcKt7sVpYt1wPIbJ2NNi" group-title="PELICULAS", REPLICAS
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zM58Qf-rfKk5H-fzOZZHGIyvMOswLKgVnaZOH4Fqa7zk
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71NSHpAO6ZL._AC_UF894,1000_QL80_.jpg" group-title="PELICULAS", PHILADELPHIA
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zAH4stqHAH5xCO2m01FhzzGqrILjiHxPC9Kzmp9Z9ZqR
+https://s1.oneupload.to/hls2/01/00011/q1crvbg1m9jb_l/master.m3u8?t=ne3zQmjO9KqHWlvUTXpKkQ1789SIrKTkhIfL8iIzRLA&s=1699934260&e=28800&f=59826&i=0.0&sp=0
 #EXTINF:-1 tvg-logo="https://www.peliculasmexicanas.com/wp-content/uploads/sites/12/2017/11/EL-INFIERNO-DMX-F-.jpg" group-title="PELICULAS", EL INFIERNO
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJYu8US_dyDmU7tAPDr8EkbNBEQIpi-EFLgVyxvkJ7NW
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFiNTI1NTctMTc3Ny00ZThlLTkyNTItMWEyYTYxMjFmOGMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS", 3 MEXICANOS ARDIENTES
@@ -2051,6 +1763,14 @@ http://vod.tuxchannel.mx/peliculas/720/anacondas%20the%20hunt%20for%20the%20bloo
 http://vod.tuxchannel.mx/peliculas/720/police%20story.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",CAOS
 http://vod.tuxchannel.mx/peliculas/720/chaos.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",PRESAS
+http://vod.tuxchannel.mx/peliculas/720/prey%202021.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMERICAN PIE 5
+http://vod.tuxchannel.mx/peliculas/720/american%20pie%20presents%20the%20naked%20mile.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",COMO SER UN LATIN LOVER
+http://vod.tuxchannel.mx/peliculas4k/how%20to%20be%20a%20latin%20lover.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BUSCANDO A DORY
+http://vod.tuxchannel.mx/peliculas4k/finding%20dory.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",
@@ -2065,6 +1785,21 @@ http://vod.tuxchannel.mx/peliculas/720/chaos.mkv
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",
 
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
 
 
 
