@@ -1676,7 +1676,7 @@ http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLINESZxb8_Nm0DbytRpG80KZ0gHIL
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/04/11/17/316520.jpg" group-title="PELICULAS", CONTRACARA
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zKcZogoW_9wZMWqrmmBqW9VhkrQkRlQPSRlJHb84fYU_
 #EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/e1491900-0000-0000-0000-000000000002/504/image.jpg?w=720" group-title="PELICULAS", RAMBO
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLl04xZTahjt3kHQR8xdgzJdLWH1yqj3bga3ICeJw7JP
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91N1a3EH2PL._AC_UF1000,1000_QL80_.jpg" group-title="PELICULAS", ACERO PURO
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zO713YyVomGNFLBIpyk45qaMVrPHv66Rx1gMwrpeBlXW
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfe5Y9wRpCKvLbo4S0zAeZTGG7J1mNcO0UAJK8FvTaRTnT8Uc3TBZWHfph_158hU8QCM&usqp=CAU" group-title="PELICULAS", SANGRE POR SANGRE
@@ -1731,12 +1731,10 @@ http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zPltFWj1iASJK6cm4cWld0xoG6w5Lx
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJFahLdfNr30nUh_mYb1goqt63JWTsarIS3TQ1nyvs7-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_piloto-759873939-large.jpg" group-title="PELICULAS", EL PILOTO
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLdy6XtW19vIE0w1q-rU31l4I8BywpQFtq6y2NZ3e3Jk
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/10/28/15/15/1936881.jpg" group-title="PELICULAS", EL PROTECTOR
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zHhaAnK2Q1vyBCgUbYqf1_nMjQ-daBXqR0bnXsc2NZlW
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODkyZjcyOGMtZWVhYy00ZWEyLWJlZDItZDA2OTBhNGZmMjBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="PELICULAS", BLUE BEETLE
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJa6a098QUf1PpDKqLJB6q6Z9-xa-ujst7F23bpBgth5
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.themoviedb.org/t/p/w185/mhLYcyxuhb82ttYDEU5DM8b3Hy3.jpg" group-title="PELICULAS", CONTRARELOJ
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zGw9MNV9PUy6yu3P8qJzxnHZi_D3sw5BIYyx_-crdKAf
+https://eeswjkjkhroe.sw-cdnstream.com/hls2/01/01303/3nvp3qln9awh_x/master.m3u8?t=zWbLBH082emlV1WMNbU5XSLP9lkxjgwLIv8nAXMFyAs&s=1699971216&e=129600&f=6638645&srv=hamivewpoere&i=0.4&sp=500&p1=hamivewpoere&p2=hamivewpoere&asn=8151
 #EXTINF:-1,EL DIA DE MI GRADUACION
 http://vod.tuxchannel.mx/peliculas/720/senior%20year%202022.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BOYKA INDISPUTED 
@@ -1783,6 +1781,48 @@ https://hozzcpxvnjk2.lions-vidcdn.com/hls2/01/00217/0nft7l8cnmj8_o/master.m3u8?t
 https://vd420.mycdn.me/?expires=1700022368595&srcIp=201.97.152.134&pr=10&srcAg=CHROME_ANDROID&ms=45.136.20.65&type=5&sig=i87_GURqoYM&ct=0&urls=45.136.22.4&clientType=0&id=396553357977
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",FREDYS NIGHT FIVE
 https://s1.oneupload.to/hls2/05/00011/17tycftsnlpt_,l,h,.urlset/master.m3u8?t=KUJz0AnmtnWKT7QYxJ1u8nhWsefIGy5qyLYMgpgXDL0&s=1699942478&e=28800&f=55333&i=0.0&sp=0
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMBULANCIA PLAN DE HUIDA
+http://vod.tuxchannel.mx/peliculas/720/ambulance%202022.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",QUE DESPADRE
+http://vod.tuxchannel.mx/peliculas/720/que_despadre_2022.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",PERDONA NUESTRAS OFENSAS
+http://vod.tuxchannel.mx/peliculas/720/forgive%20us%20our%20trespasses%202022.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",LA MASACRE DE TEXAS
+http://vod.tuxchannel.mx/peliculas/720/texas%20chainsaw%20massacre%202022.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DISPARO AL CORAZON
+http://vod.tuxchannel.mx/peliculas/720/heart%20shot%202022.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SCREAM 5
+http://vod.tuxchannel.mx/peliculas/720/scream%202022.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DURO DE CUIDAR 2
+http://vod.tuxchannel.mx/peliculas/720/the%20hitmans%20wifes%20bodyguard%202021.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",007 SPECTRE
+http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALIADOS
+http://vod.tuxchannel.mx/peliculas4k/allied.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALIEN COVENANT
+http://vod.tuxchannel.mx/peliculas4k/alien%20covenant.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SUPER POLICIAS
+http://vod.tuxchannel.mx/peliculas4k/hot%20fuzz.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS", ACADEMIA DE ESPIAS
+http://vod.tuxchannel.mx/peliculas4k/barely%20lethal.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BATTLE SHIP
+http://vod.tuxchannel.mx/peliculas4k/battleship.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",GUARDIANES DE LA BAHIA
+http://vod.tuxchannel.mx/peliculas4k/baywatch.mkv
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TRANSFORMERS EL DESPERTAR DE LAS BESTIAS
+https://ffa036f4c3be709afadf20e5017d4dfd4bbf4a22f045103ed2942fa-apidata.googleusercontent.com/download/storage/v1/b/zzttv2/o/cmc%2F189364--fb5ecb43-e430-44d9-b705-bd27a40d6948--scjv--1465109-google_storage?jk=AQHBpxzzEyjIv-84uYW6CaXLq17ISWbeP2_NQ8cgomV77kb6ALR55JZOoC3lvkR5fwcFhBeZE2jRuAtqwuSccwV93W13RcjXRQ7A1cVeVR35wYnbHa0J5vWJNLXOMh7HmnGa9BVU1ATrH20Vd6ArfxKcTUwr4ao2gmCZPCpkwf5GAwbzukvXWRBWsWitttmR8apvpqmhpUUgoz66DwD5Qd8KuhY7bt4XxOp7_ubYc6cjv2ycIG-nEuJhHmXk9cTBdAvpfMw1b1uA-jfHM3jfjUi1ssfnc7YQQAFu7hP7p5ACsGGSk1hRzdjMZIv71CynR_xLNCvvKerDpZ1QOLSgiAn4amfmzXG0BHpp2cFn1Rw31tNIn7WZN-wI0hwa6T8mWd3yfdKYRNCG2UqjSn6uRXnE1ZQ5BnDEBKMHXe1XvUiw2hdqvflODiNYDI9Tgl9HHbREzouWM_JNiI7nSACw9NuXDpPBeOiVUXCMOle8U48w69-I1wh8ajWhlTj_tYL_W4i3DZ-1YDPdZBYoHHCHjaF0AWy7EPSq0ICsnq8HlYYwyH6oSR13Q_0GRSYNP7N-CYC632a8QJMdoEVDzpZxbSpUOVNTrY6NsZvxjFBWTE5iPepv4mTgNU_Flh568ulptTsuL0weH3mPsa-BFlZn42iWLuhBS354Z_nq-LkzcTzPoT3pVmkr0Sw9gDh_PesW07MPG5wOTaHwW6B8uQstjlSDCdneDpLkjgfbWjFk0PSy1MwNcYGlfplFGEzc2YUb8Opz81rwmsbiVGYGJSMVNV0UeXlK2gJ0T05nmhf07YKw1qgXpqJCnZ6hfBEKH_Be5SVH5Dfw0O0oHaS3YUKDLXfDaTHagfL1WlyVQEN4JOdikgJrQt1nfKYgQb6-AHPkaGPzfZVAOHROcPHfzRxpWr208yhsABgGhauMUMEHchLWojbUaD_1qu-89cig5ngSmcu3aJkbiBCJ0cOJLtYQM6dk36-l2Ha1fzKLpYW9dHp-od1WgrZEvwzLRLDIA3aMsJTjpq61KKz8ivMC9SzT72FVMwL86xecchrgcknreSNpDNj5rv9CKhy38vPDheO6-XsEL_hGOnqmAWQ9Z2q7ypSnOwHj58nEpz6PgF_2wMU8e6wY1m-c9o9QcvjdEIg2VNvaz38NbUkykuLZofvwNh613FaFhISduef2EjhiEbbefrv2u2qoK8Wi0t-cVLe58F8GkheicAOsGfak92OZjHgjd7hXGCIQ7ATti2XfR9mypp0_n8rYVuQ5z9yK4r43kEwRNN_9&isca=1
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",QUE HAGO AQUI?
+https://s1.oneupload.to/hls2/01/00009/1w6qdz9mkiep_,l,h,.urlset/master.m3u8?t=quvxpDU-d5wlz_Tt1mLs3VikotAXd8FeJQ2kyNWdRPU&s=1699972313&e=28800&f=45197&i=0.0&sp=0
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TERROR EN LA PRADERA
+https://tl9clmrn.sw-cdnstream.com/hls2/01/01856/501ltruy0g1s_,n,h,x,.urlset/master.m3u8?t=f_fiG1iImco2GALbdL8V-oA6uAunMEhfNqldTfDI2tE&s=1699972021&e=129600&f=9282982&srv=cqjopqtdozuz&i=0.4&sp=500&p1=cqjopqtdozuz&p2=cqjopqtdozuz&asn=8151
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",RITUALES MORTALES
+https://cv9fqnu812.sw-cdnstream.com/hls2/01/01939/i9ba0rmr2jlj_,n,h,x,.urlset/master.m3u8?t=012ACGJSD_pDEyL1q4iMu4tEMbrbcd-qzw8p9lvO9-M&s=1699971831&e=129600&f=9699570&srv=tszfjzanyeke&i=0.4&sp=500&p1=tszfjzanyeke&p2=tszfjzanyeke&asn=8151
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",TREN NOCTURNO
+https://jigd4wsqcucx.sw-cdnstream.com/hls2/01/02125/kq6bzffid63l_x/master.m3u8?t=WMvDY65C3XWPM6KoSC3LYnU4CLhR0JJA4pb56IFC7fc&s=1699971480&e=129600&f=10628000&srv=lrphxnueqxzy&i=0.4&sp=500&p1=lrphxnueqxzy&p2=lrphxnueqxzy&asn=8151
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",LOS MERCENARIOS 4
+https://s1.oneupload.to/hls2/04/00010/6ngcvlh90znm_,l,h,.urlset/master.m3u8?t=RrFq5yjBOBL9WIgqrzDpU_dc3PfBVw_CvoCij0RXY6c&s=1699971334&e=28800&f=50767&i=0.0&sp=0
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",MISION IMPOSIBLE 2023
+https://vdgfzxrytoql.sw-cdnstream.com/hls2/01/01896/s1wva4o3a4eq_,n,h,.urlset/master.m3u8?t=Z-uk1S-fKOKY4-hSFloBSu9pg0BiJW6N0KjHjW3Umlg&s=1699971015&e=129600&f=9483792&srv=vUVabH8vnOTA&i=0.4&sp=500&p1=vUVabH8vnOTA&p2=vUVabH8vnOTA&asn=8151
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",
@@ -1792,17 +1832,6 @@ https://s1.oneupload.to/hls2/05/00011/17tycftsnlpt_,l,h,.urlset/master.m3u8?t=KU
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-
-
-
-
 
 
 
