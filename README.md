@@ -1771,20 +1771,18 @@ http://vod.tuxchannel.mx/peliculas/720/american%20pie%20presents%20the%20naked%2
 http://vod.tuxchannel.mx/peliculas4k/how%20to%20be%20a%20latin%20lover.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BUSCANDO A DORY
 http://vod.tuxchannel.mx/peliculas4k/finding%20dory.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",EL DURO
+https://a-delivery46.mxdcontent.net/v/36b4d1a7c422ed44d02449606ccffbc1.mp4?s=pyrY54Ts4Xvj9Erg-RrNQQ&e=1699962688
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",EL CIELO SE EQUIVOCO
+https://s1.oneupload.to/hls2/02/00010/n91mdw6h31pb_,l,h,.urlset/master.m3u8?t=85I7R2jjtexqMYpEfgEE-Swqd0qlRCBsLg-EgZ9FShQ&s=1699941237&e=28800&f=54783&i=0.0&sp=0
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",FURIA CIEGA
+https://iehocc64h5yn.lions-vidcdn.com/hls2/01/00354/g1h8a2kgoci3_o/master.m3u8?t=iunXCVnziFAVn7q22R_yULpQ9eq_c06dFMkMcCtxic8&s=1699941699&e=129600&f=1773791&srv=NcUZeBvUl3Va&i=0.4&sp=1500&p1=NcUZeBvUl3Va&p2=NcUZeBvUl3Va&asn=8151
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",RETROCEDER NUNCA RENDIRSE JAMAS 2
+https://hozzcpxvnjk2.lions-vidcdn.com/hls2/01/00217/0nft7l8cnmj8_o/master.m3u8?t=0tJqDizT1avKeq0Usg9hcUF0shivxSnmdtZvWhNMR9I&s=1699942144&e=129600&f=1087824&srv=pcX2v2I50UR9&i=0.4&sp=1500&p1=pcX2v2I50UR9&p2=pcX2v2I50UR9&asn=8151
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",RETROCEDER NUNCA RENDIRSE JAMAS 3
+https://vd420.mycdn.me/?expires=1700022368595&srcIp=201.97.152.134&pr=10&srcAg=CHROME_ANDROID&ms=45.136.20.65&type=5&sig=i87_GURqoYM&ct=0&urls=45.136.22.4&clientType=0&id=396553357977
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",FREDYS NIGHT FIVE
+https://s1.oneupload.to/hls2/05/00011/17tycftsnlpt_,l,h,.urlset/master.m3u8?t=KUJz0AnmtnWKT7QYxJ1u8nhWsefIGy5qyLYMgpgXDL0&s=1699942478&e=28800&f=55333&i=0.0&sp=0
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",
 
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",
