@@ -1810,7 +1810,7 @@ http://vod.tuxchannel.mx/peliculas4k/battleship.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",GUARDIANES DE LA BAHIA
 http://vod.tuxchannel.mx/peliculas4k/baywatch.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TRANSFORMERS EL DESPERTAR DE LAS BESTIAS
-https://ffa036f4c3be709afadf20e5017d4dfd4bbf4a22f045103ed2942fa-apidata.googleusercontent.com/download/storage/v1/b/zzttv2/o/cmc%2F189364--fb5ecb43-e430-44d9-b705-bd27a40d6948--scjv--1465109-google_storage?jk=AQHBpxzzEyjIv-84uYW6CaXLq17ISWbeP2_NQ8cgomV77kb6ALR55JZOoC3lvkR5fwcFhBeZE2jRuAtqwuSccwV93W13RcjXRQ7A1cVeVR35wYnbHa0J5vWJNLXOMh7HmnGa9BVU1ATrH20Vd6ArfxKcTUwr4ao2gmCZPCpkwf5GAwbzukvXWRBWsWitttmR8apvpqmhpUUgoz66DwD5Qd8KuhY7bt4XxOp7_ubYc6cjv2ycIG-nEuJhHmXk9cTBdAvpfMw1b1uA-jfHM3jfjUi1ssfnc7YQQAFu7hP7p5ACsGGSk1hRzdjMZIv71CynR_xLNCvvKerDpZ1QOLSgiAn4amfmzXG0BHpp2cFn1Rw31tNIn7WZN-wI0hwa6T8mWd3yfdKYRNCG2UqjSn6uRXnE1ZQ5BnDEBKMHXe1XvUiw2hdqvflODiNYDI9Tgl9HHbREzouWM_JNiI7nSACw9NuXDpPBeOiVUXCMOle8U48w69-I1wh8ajWhlTj_tYL_W4i3DZ-1YDPdZBYoHHCHjaF0AWy7EPSq0ICsnq8HlYYwyH6oSR13Q_0GRSYNP7N-CYC632a8QJMdoEVDzpZxbSpUOVNTrY6NsZvxjFBWTE5iPepv4mTgNU_Flh568ulptTsuL0weH3mPsa-BFlZn42iWLuhBS354Z_nq-LkzcTzPoT3pVmkr0Sw9gDh_PesW07MPG5wOTaHwW6B8uQstjlSDCdneDpLkjgfbWjFk0PSy1MwNcYGlfplFGEzc2YUb8Opz81rwmsbiVGYGJSMVNV0UeXlK2gJ0T05nmhf07YKw1qgXpqJCnZ6hfBEKH_Be5SVH5Dfw0O0oHaS3YUKDLXfDaTHagfL1WlyVQEN4JOdikgJrQt1nfKYgQb6-AHPkaGPzfZVAOHROcPHfzRxpWr208yhsABgGhauMUMEHchLWojbUaD_1qu-89cig5ngSmcu3aJkbiBCJ0cOJLtYQM6dk36-l2Ha1fzKLpYW9dHp-od1WgrZEvwzLRLDIA3aMsJTjpq61KKz8ivMC9SzT72FVMwL86xecchrgcknreSNpDNj5rv9CKhy38vPDheO6-XsEL_hGOnqmAWQ9Z2q7ypSnOwHj58nEpz6PgF_2wMU8e6wY1m-c9o9QcvjdEIg2VNvaz38NbUkykuLZofvwNh613FaFhISduef2EjhiEbbefrv2u2qoK8Wi0t-cVLe58F8GkheicAOsGfak92OZjHgjd7hXGCIQ7ATti2XfR9mypp0_n8rYVuQ5z9yK4r43kEwRNN_9&isca=1
+
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",QUE HAGO AQUI?
 https://s1.oneupload.to/hls2/01/00009/1w6qdz9mkiep_,l,h,.urlset/master.m3u8?t=quvxpDU-d5wlz_Tt1mLs3VikotAXd8FeJQ2kyNWdRPU&s=1699972313&e=28800&f=45197&i=0.0&sp=0
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",TERROR EN LA PRADERA
@@ -1823,14 +1823,14 @@ https://jigd4wsqcucx.sw-cdnstream.com/hls2/01/02125/kq6bzffid63l_x/master.m3u8?t
 https://s1.oneupload.to/hls2/04/00010/6ngcvlh90znm_,l,h,.urlset/master.m3u8?t=RrFq5yjBOBL9WIgqrzDpU_dc3PfBVw_CvoCij0RXY6c&s=1699971334&e=28800&f=50767&i=0.0&sp=0
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",MISION IMPOSIBLE 2023
 https://vdgfzxrytoql.sw-cdnstream.com/hls2/01/01896/s1wva4o3a4eq_,n,h,.urlset/master.m3u8?t=Z-uk1S-fKOKY4-hSFloBSu9pg0BiJW6N0KjHjW3Umlg&s=1699971015&e=129600&f=9483792&srv=vUVabH8vnOTA&i=0.4&sp=500&p1=vUVabH8vnOTA&p2=vUVabH8vnOTA&asn=8151
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
-
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",HAZME EL FAVOR
+https://febnnbxdiaed.sw-cdnstream.com/hls2/01/01128/jafta896co51_n/master.m3u8?t=sia4WR2c52NjefoFkmv_DjI32FMbbqoJcu_fQQOMZg8&s=1700056683&e=129600&f=5643229&srv=yq03l8bsm8te&i=0.4&sp=500&p1=yq03l8bsm8te&p2=yq03l8bsm8te&asn=8151
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS", EL CODIGO
+https://s1.oneupload.to/hls2/02/00012/7gc8j358326l_l/master.m3u8?t=zrSxLx5o8CMk1INvRg-31cropiEcF6y8jVcfqC7vUjg&s=1700114037&e=28800&f=63226&i=0.0&sp=0
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",PICO DE DANTE
+https://s1.oneupload.to/hls2/02/00009/q7ivq7qkdbf5_,l,h,.urlset/master.m3u8?t=769pz3FjSw79zdcakNtM8UVl12Jp6Z2J-ZYaGXRDDQM&s=1700114214&e=28800&f=47505&i=0.0&sp=0
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS",EL LAGO AZUL
+https://ds7xkoqsmef8.sw-cdnstream.com/hls2/01/00515/4ucybx5qoyfo_x/master.m3u8?t=rW3IDkhlZ03GMWIrOVqWv_UUkBdyf-nDg5I0i0I0DtU&s=1700114745&e=129600&f=2575185&srv=pyradpcbsdns&i=0.4&sp=500&p1=pyradpcbsdns&p2=pyradpcbsdns&asn=8151
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",
 
 
