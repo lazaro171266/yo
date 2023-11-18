@@ -1652,6 +1652,662 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/2555
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2554
 
 
+http://iptvstream.xyz:8080/Dooby/66754f23/2067
+#EXTINF:-1 tvg-id="" tvg-name="LA: 3ABN Latino" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/a59c5c16488bbdceabff9b53d686c471.png" group-title="Latino",LA: 3ABN Latino
+http://iptvstream.xyz:8080/Dooby/66754f23/286060
+#EXTINF:-1 tvg-id="" tvg-name="LA: A Estrenar" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: A Estrenar
+http://iptvstream.xyz:8080/Dooby/66754f23/295645
+#EXTINF:-1 tvg-id="" tvg-name="LA: A&E" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/35930f7c0284e5ec49d271911405a5da.png" group-title="Latino",LA: A&E
+http://iptvstream.xyz:8080/Dooby/66754f23/5759
+#EXTINF:-1 tvg-id="" tvg-name="LA: Aliento Vision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/d771a83b62cac2dc9dffff4062283d81.png" group-title="Latino",LA: Aliento Vision
+http://iptvstream.xyz:8080/Dooby/66754f23/295646
+#EXTINF:-1 tvg-id="" tvg-name="LA: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad58529eb9a545d2b1fd0893d7eaf417.png" group-title="Latino",LA: AMC
+http://iptvstream.xyz:8080/Dooby/66754f23/2996
+#EXTINF:-1 tvg-id="" tvg-name="LA: America Teve" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/2860c7b8887341b3562511ee36e49f21.jpeg" group-title="Latino",LA: America Teve
+http://iptvstream.xyz:8080/Dooby/66754f23/297034
+#EXTINF:-1 tvg-id="" tvg-name="LA: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fb90e5e84997d9ec15153c5670024ac5.png" group-title="Latino",LA: ANIMAL PLANET
+http://iptvstream.xyz:8080/Dooby/66754f23/2997
+#EXTINF:-1 tvg-id="" tvg-name="LA: Animax Revival" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: Animax Revival
+http://iptvstream.xyz:8080/Dooby/66754f23/300022
+#EXTINF:-1 tvg-id="" tvg-name="LA: AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d70c71401b7d4da7d10e56ce4cdb85dd.png" group-title="Latino",LA: AXN
+http://iptvstream.xyz:8080/Dooby/66754f23/2998
+#EXTINF:-1 tvg-id="" tvg-name="LA: Baby TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e1178c8812d991c7d5c2e6b7da4cd949.png" group-title="Latino",LA: Baby TV
+http://iptvstream.xyz:8080/Dooby/66754f23/3001
+#EXTINF:-1 tvg-id="" tvg-name="LA: BabyFirst TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/e620a2355e3980b7a21df9ac338f1789.jpg" group-title="Latino",LA: BabyFirst TV
+http://iptvstream.xyz:8080/Dooby/66754f23/285097
+#EXTINF:-1 tvg-id="" tvg-name="LA: beIN Sports n" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/aea02a4b267193542fd66b9923f73861.png" group-title="Latino",LA: beIN Sports n
+http://iptvstream.xyz:8080/Dooby/66754f23/299731
+#EXTINF:-1 tvg-id="" tvg-name="LA: Bloomberg TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7094f593037f91cf19b48829152f7412.png" group-title="Latino",LA: Bloomberg TV
+http://iptvstream.xyz:8080/Dooby/66754f23/71867
+#EXTINF:-1 tvg-id="" tvg-name="LA: Boing" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/b6dd86d55ecf2e4caa1b3242a2a0be00.jpg" group-title="Latino",LA: Boing
+http://iptvstream.xyz:8080/Dooby/66754f23/298149
+#EXTINF:-1 tvg-id="" tvg-name="LA: Boomerang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/04249b2b53774c473e57a399f8d6228f.jpg" group-title="Latino",LA: Boomerang
+http://iptvstream.xyz:8080/Dooby/66754f23/298151
+#EXTINF:-1 tvg-id="" tvg-name="LA: Canal Informativo Inter" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: Canal Informativo Inter
+http://iptvstream.xyz:8080/Dooby/66754f23/299304
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/24c5abcd3b88a3d9382fd2df13623209.png" group-title="Latino",LA: Cartoon Network
+http://iptvstream.xyz:8080/Dooby/66754f23/3007
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cartoonito" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3d3757301f7e47323f66ac455f88dea2.png" group-title="Latino",LA: Cartoonito
+http://iptvstream.xyz:8080/Dooby/66754f23/3004
+#EXTINF:-1 tvg-id="" tvg-name="LA: CBN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/eb46683e4bee177863b80fb0efb815c9.png" group-title="Latino",LA: CBN
+http://iptvstream.xyz:8080/Dooby/66754f23/298634
+#EXTINF:-1 tvg-id="" tvg-name="LA: Chiquilines" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: Chiquilines
+http://iptvstream.xyz:8080/Dooby/66754f23/298154
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cinecanal" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/5c30980f4a80009facd4e4cc3c7c70d8.png" group-title="Latino",LA: Cinecanal
+http://iptvstream.xyz:8080/Dooby/66754f23/49452
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cinema Dinamita" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/0da408e1ce31beda60e5ae859b8f8ac5.jpg" group-title="Latino",LA: Cinema Dinamita
+http://iptvstream.xyz:8080/Dooby/66754f23/3010
+#EXTINF:-1 tvg-id="" tvg-name="LA: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/08ba2b079383d5cceb0234f4820879b2.png" group-title="Latino",LA: Cinemax
+http://iptvstream.xyz:8080/Dooby/66754f23/5770
+#EXTINF:-1 tvg-id="" tvg-name="LA: Clover Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/59ccd74d59df49b579b67e37ec1cc01f.png" group-title="Latino",LA: Clover Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/299305
+#EXTINF:-1 tvg-id="" tvg-name="LA: Comedy Central" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3bfb9a1b6690135b0a81639e7d1bbdc7.png" group-title="Latino",LA: Comedy Central
+http://iptvstream.xyz:8080/Dooby/66754f23/3015
+#EXTINF:-1 tvg-id="" tvg-name="LA: Concert Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/188475ffb4a2ba53742721797c9b5b09.png" group-title="Latino",LA: Concert Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/8701
+#EXTINF:-1 tvg-id="" tvg-name="LA: DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/490c0209efdc5ecd7dfea8c5b1402279.png" group-title="Latino",LA: DAZN 1
+http://iptvstream.xyz:8080/Dooby/66754f23/76336
+#EXTINF:-1 tvg-id="" tvg-name="LA: Del mercado al plato VIX+" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: Del mercado al plato VIX+
+http://iptvstream.xyz:8080/Dooby/66754f23/298652
+#EXTINF:-1 tvg-id="" tvg-name="LA: Dios Te Ve Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/1ad24ef5c1322fdf16a5a6072f065c5a.png" group-title="Latino",LA: Dios Te Ve Kids
+http://iptvstream.xyz:8080/Dooby/66754f23/295819
+#EXTINF:-1 tvg-id="" tvg-name="LA: DirecTV Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/be2180be71921c8ec968979aaeda69d5.png" group-title="Latino",LA: DirecTV Sports
+http://iptvstream.xyz:8080/Dooby/66754f23/298357
+#EXTINF:-1 tvg-id="" tvg-name="LA: DirecTV Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac7477d84c2e10055979e887cc8c854e.png" group-title="Latino",LA: DirecTV Sports 2
+http://iptvstream.xyz:8080/Dooby/66754f23/298358
+#EXTINF:-1 tvg-id="" tvg-name="LA: DirecTV Sports plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/91b4bfe0f3db3d3b452b846b242242c1.png" group-title="Latino",LA: DirecTV Sports plus
+http://iptvstream.xyz:8080/Dooby/66754f23/298697
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/170f470424e5b9c40404492047bcab2d.png" group-title="Latino",LA: Discovery Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/281050
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Familia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/d38b9e0b2c7f464da439e211bbd89642.png" group-title="Latino",LA: Discovery Familia
+http://iptvstream.xyz:8080/Dooby/66754f23/147657
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery H&H" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/ff6bcb77307f08998262ff246c6b8c28.png" group-title="Latino",LA: Discovery H&H
+http://iptvstream.xyz:8080/Dooby/66754f23/5774
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5d8a6d0bd0c1237d56625cb92cdde342.png" group-title="Latino",LA: Discovery Kids
+http://iptvstream.xyz:8080/Dooby/66754f23/3020
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Science" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cac3f9679cec1213b995216d207a4c44.png" group-title="Latino",LA: Discovery Science
+http://iptvstream.xyz:8080/Dooby/66754f23/3021
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Theater" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d4cf41989812d63a1b5bc1e488ad447e.png" group-title="Latino",LA: Discovery Theater
+http://iptvstream.xyz:8080/Dooby/66754f23/3022
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery Turbo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fb8e49ac28ac142eb2f1585fdb3f701e.png" group-title="Latino",LA: Discovery Turbo
+http://iptvstream.xyz:8080/Dooby/66754f23/3023
+#EXTINF:-1 tvg-id="" tvg-name="LA: Discovery World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/10b90e0ce95b100cf9a6fbff0208bf4a.png" group-title="Latino",LA: Discovery World
+http://iptvstream.xyz:8080/Dooby/66754f23/8894
+#EXTINF:-1 tvg-id="" tvg-name="LA: Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eeb06c226acc25e1495ef0f80d0533f4.png" group-title="Latino",LA: Disney Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/3025
+#EXTINF:-1 tvg-id="" tvg-name="LA: Disney Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cf8964d602d9e1b26bab23889ee6677a.png" group-title="Latino",LA: Disney Junior
+http://iptvstream.xyz:8080/Dooby/66754f23/3026
+#EXTINF:-1 tvg-id="" tvg-name="LA: Disney XD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/a1a2f8a179737017e074ce21003a5100.png" group-title="Latino",LA: Disney XD
+http://iptvstream.xyz:8080/Dooby/66754f23/285172
+#EXTINF:-1 tvg-id="" tvg-name="LA: E!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/318758f8d26d3b300080e8ff794e1a45.png" group-title="Latino",LA: E!
+http://iptvstream.xyz:8080/Dooby/66754f23/3029
+#EXTINF:-1 tvg-id="" tvg-name="LA: EnerGeek" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: EnerGeek
+http://iptvstream.xyz:8080/Dooby/66754f23/298822
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/cc414b3ef4f65c8c4e1bacf8fb9e0278.png" group-title="Latino",LA: ESPN
+http://iptvstream.xyz:8080/Dooby/66754f23/5779
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/cc3120d8b6dd47f682035e748793b59f.png" group-title="Latino",LA: ESPN 2
+http://iptvstream.xyz:8080/Dooby/66754f23/3031
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/3d85d5481dc8eb5bf70bd0d82e5f6e44.png" group-title="Latino",LA: ESPN 3
+http://iptvstream.xyz:8080/Dooby/66754f23/3032
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/94c0ada67643d32a6df44618486e5e89.jpg" group-title="Latino",LA: ESPN 4
+http://iptvstream.xyz:8080/Dooby/66754f23/295304
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="LA: ESPN Deportes" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/539a05a3d37b2362763c4779fd461efc.png" group-title="Latino",LA: ESPN Deportes
+http://iptvstream.xyz:8080/Dooby/66754f23/6446
+#EXTINF:-1 tvg-id="" tvg-name="LA: ESPN Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/55f937782e1eff60fd0d2ed936aa5ce7.png" group-title="Latino",LA: ESPN Extra
+http://iptvstream.xyz:8080/Dooby/66754f23/285105
+#EXTINF:-1 tvg-id="" tvg-name="LA: euronews" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/360936a1cb06bb32c5ab1a7592c34b3b.png" group-title="Latino",LA: euronews
+http://iptvstream.xyz:8080/Dooby/66754f23/299308
+#EXTINF:-1 tvg-id="" tvg-name="LA: Eurosport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/d961ab72b0b18daff2d982b6b7856f8d.jpg" group-title="Latino",LA: Eurosport 2
+http://iptvstream.xyz:8080/Dooby/66754f23/298159
+#EXTINF:-1 tvg-id="" tvg-name="LA: Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/da241cc841ed484ab111df681cfdaf8e.png" group-title="Latino",LA: Food Network
+http://iptvstream.xyz:8080/Dooby/66754f23/187033
+#EXTINF:-1 tvg-id="" tvg-name="LA: FOX Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b2da659c16bc64a81f7fde756fc5850b.png" group-title="Latino",LA: FOX Sports
+http://iptvstream.xyz:8080/Dooby/66754f23/40839
+#EXTINF:-1 tvg-id="" tvg-name="LA: FOX Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/03e0ed6e4c2d09e631fe0605a370a872.png" group-title="Latino",LA: FOX Sports 1
+http://iptvstream.xyz:8080/Dooby/66754f23/54432
+#EXTINF:-1 tvg-id="" tvg-name="LA: FOX Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/380799e8f8cd7549abef0a92601254bb.png" group-title="Latino",LA: FOX Sports 2
+http://iptvstream.xyz:8080/Dooby/66754f23/40840
+#EXTINF:-1 tvg-id="" tvg-name="LA: FOX Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/14abd21acf87b4acf252690eda33dc6b.png" group-title="Latino",LA: FOX Sports 3
+http://iptvstream.xyz:8080/Dooby/66754f23/3042
+#EXTINF:-1 tvg-id="" tvg-name="LA: FX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/10e3a77e5bf512f0b2235de814a343e2.png" group-title="Latino",LA: FX
+http://iptvstream.xyz:8080/Dooby/66754f23/34561
+#EXTINF:-1 tvg-id="" tvg-name="LA: Galavision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a7abccfac5e61cd02194cb5171ee1c8a.png" group-title="Latino",LA: Galavision
+http://iptvstream.xyz:8080/Dooby/66754f23/71860
+#EXTINF:-1 tvg-id="" tvg-name="LA: Glitz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/24771832e613cad63322d45334cd4699.png" group-title="Latino",LA: Glitz
+http://iptvstream.xyz:8080/Dooby/66754f23/45626
+#EXTINF:-1 tvg-id="" tvg-name="LA: Gol TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/90279307d56a41bf8edda4bd3f2e6a50.png" group-title="Latino",LA: Gol TV
+http://iptvstream.xyz:8080/Dooby/66754f23/60971
+#EXTINF:-1 tvg-id="" tvg-name="LA: Golf Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2f7cf34df9b0ceec221e79a887171cf9.png" group-title="Latino",LA: Golf Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/76257
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3df19bd34cea691ef713fa7c91186231.png" group-title="Latino",LA: HBO
+http://iptvstream.xyz:8080/Dooby/66754f23/3055
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/04924eab6449cf5f9481477a02538529.png" group-title="Latino",LA: HBO 2
+http://iptvstream.xyz:8080/Dooby/66754f23/3056
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bcb5ce199d5817bc957ff6dc510577d2.png" group-title="Latino",LA: HBO Family
+http://iptvstream.xyz:8080/Dooby/66754f23/3057
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Mundi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png" group-title="Latino",LA: HBO Mundi
+http://iptvstream.xyz:8080/Dooby/66754f23/226015
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Pop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b59523ce06a7f337e3ec3644f2fbefbd.png" group-title="Latino",LA: HBO Pop
+http://iptvstream.xyz:8080/Dooby/66754f23/3069
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Signature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/565affd407eda3b8d7f7055d62a8461f.png" group-title="Latino",LA: HBO Signature
+http://iptvstream.xyz:8080/Dooby/66754f23/3059
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO Xtreme" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/ac32c2f03f910fd6359c90e0436cebef.png" group-title="Latino",LA: HBO Xtreme
+http://iptvstream.xyz:8080/Dooby/66754f23/148927
+#EXTINF:-1 tvg-id="" tvg-name="LA: HBO+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cf9a927cee9c2258c2a735e42a940ebc.png" group-title="Latino",LA: HBO+
+http://iptvstream.xyz:8080/Dooby/66754f23/3058
+#EXTINF:-1 tvg-id="" tvg-name="LA: HGTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ac1daea6eb45fe266d5c41238721a237.png" group-title="Latino",LA: HGTV
+http://iptvstream.xyz:8080/Dooby/66754f23/187008
+#EXTINF:-1 tvg-id="" tvg-name="LA: Hispan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/bd0d2390d955c4eee87b444264ea2ca0.png" group-title="Latino",LA: Hispan TV
+http://iptvstream.xyz:8080/Dooby/66754f23/187027
+#EXTINF:-1 tvg-id="" tvg-name="LA: History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/68f41e0e8b015d7d74e0d0f1e3180427.png" group-title="Latino",LA: History
+http://iptvstream.xyz:8080/Dooby/66754f23/3060
+#EXTINF:-1 tvg-id="" tvg-name="LA: Hola TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/01407721fe0bc6698b7528bb74a2e8da.png" group-title="Latino",LA: Hola TV
+http://iptvstream.xyz:8080/Dooby/66754f23/298058
+#EXTINF:-1 tvg-id="" tvg-name="LA: HTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e189b22966d3c1667dd3d70eab12bb26.png" group-title="Latino",LA: HTV
+http://iptvstream.xyz:8080/Dooby/66754f23/3062
+#EXTINF:-1 tvg-id="" tvg-name="LA: Investigation Discovery" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fa736a0d75e817b038e3df45c3c46e81.png" group-title="Latino",LA: Investigation Discovery
+http://iptvstream.xyz:8080/Dooby/66754f23/3063
+#EXTINF:-1 tvg-id="" tvg-name="LA: Junior Tecnologia TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: Junior Tecnologia TV
+http://iptvstream.xyz:8080/Dooby/66754f23/298825
+#EXTINF:-1 tvg-id="" tvg-name="LA: Kanal D Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/278659b1caa1917b6669050604078d8f.png" group-title="Latino",LA: Kanal D Drama
+http://iptvstream.xyz:8080/Dooby/66754f23/299311
+#EXTINF:-1 tvg-id="" tvg-name="LA: levelUp" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/f539dbbbd67e1cb609c5560a78338883.jpeg" group-title="Latino",LA: levelUp
+http://iptvstream.xyz:8080/Dooby/66754f23/294677
+#EXTINF:-1 tvg-id="" tvg-name="LA: Lifetime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2bafbfd0d059dc1b372611d3465a8063.png" group-title="Latino",LA: Lifetime
+http://iptvstream.xyz:8080/Dooby/66754f23/3066
+#EXTINF:-1 tvg-id="" tvg-name="LA: Mas Chic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f77e98038afdc8aabd10e1d675f4eb07.png" group-title="Latino",LA: Mas Chic
+http://iptvstream.xyz:8080/Dooby/66754f23/3067
+#EXTINF:-1 tvg-id="" tvg-name="LA: Mega TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/46b0516f0076f1d6b76adf4f6eab6fa7.png" group-title="Latino",LA: Mega TV
+http://iptvstream.xyz:8080/Dooby/66754f23/295841
+#EXTINF:-1 tvg-id="" tvg-name="LA: MTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c34a5b676610864fdc6ff17aedc599ee.png" group-title="Latino",LA: MTV
+http://iptvstream.xyz:8080/Dooby/66754f23/299314
+#EXTINF:-1 tvg-id="" tvg-name="LA: MTV 00s" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/2cb6212de04cd4a5ddd751297bc9cc36.png" group-title="Latino",LA: MTV 00s
+http://iptvstream.xyz:8080/Dooby/66754f23/299313
+#EXTINF:-1 tvg-id="" tvg-name="LA: MTV Live" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/a0507e5e292fe195d99f86b0eb85121f.svg" group-title="Latino",LA: MTV Live
+http://iptvstream.xyz:8080/Dooby/66754f23/299315
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/04e8a37535a0c55f5ca45ab0a15854a7.png" group-title="Latino",LA: NAT GEO
+http://iptvstream.xyz:8080/Dooby/66754f23/3073
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO Mundo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b6c489ce95abda2c6ed7c4fd52ec311e.png" group-title="Latino",LA: NAT GEO Mundo
+http://iptvstream.xyz:8080/Dooby/66754f23/267311
+#EXTINF:-1 tvg-id="" tvg-name="LA: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6571f8f4e51ded8b78e6028593640aee.png" group-title="Latino",LA: NAT GEO Wild
+http://iptvstream.xyz:8080/Dooby/66754f23/8745
+#EXTINF:-1 tvg-id="" tvg-name="LA: NBC Universo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/b8d2a6a7d0c3588f50ccc190b3f6a40d.png" group-title="Latino",LA: NBC Universo
+http://iptvstream.xyz:8080/Dooby/66754f23/90120
+#EXTINF:-1 tvg-id="" tvg-name="LA: Nick Jr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ee33bd11cd243384f5a340f8e12e189d.png" group-title="Latino",LA: Nick Jr
+http://iptvstream.xyz:8080/Dooby/66754f23/3075
+#EXTINF:-1 tvg-id="" tvg-name="LA: Nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/4f2ba976aa4e755a5050bb4966037d34.png" group-title="Latino",LA: Nickelodeon
+http://iptvstream.xyz:8080/Dooby/66754f23/3076
+#EXTINF:-1 tvg-id="" tvg-name="LA: Nuestra Vision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/0758f64cb8edaeef73fc5c6400b4f3f1.png" group-title="Latino",LA: Nuestra Vision
+http://iptvstream.xyz:8080/Dooby/66754f23/298979
+#EXTINF:-1 tvg-id="" tvg-name="LA: Paramount Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b52b3dd7436f99747482bce29accec55.png" group-title="Latino",LA: Paramount Network
+http://iptvstream.xyz:8080/Dooby/66754f23/3077
+#EXTINF:-1 tvg-id="" tvg-name="LA: Pasiones" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f920b2c34d8ffbb9cd6a1d6669d858c3.png" group-title="Latino",LA: Pasiones
+http://iptvstream.xyz:8080/Dooby/66754f23/3078
+#EXTINF:-1 tvg-id="" tvg-name="LA: Rebelde VIX+" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: Rebelde VIX+
+http://iptvstream.xyz:8080/Dooby/66754f23/298661
+#EXTINF:-1 tvg-id="" tvg-name="LA: Sony Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c80659865fa29bfb3dc08fda6624fb05.png" group-title="Latino",LA: Sony Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/3081
+#EXTINF:-1 tvg-id="" tvg-name="LA: Sortilegio VIX+" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: Sortilegio VIX+
+http://iptvstream.xyz:8080/Dooby/66754f23/298662
+#EXTINF:-1 tvg-id="" tvg-name="LA: Space" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/9c4519426178edb0561ef4d9a4f1aea2.jpg" group-title="Latino",LA: Space
+http://iptvstream.xyz:8080/Dooby/66754f23/299325
+#EXTINF:-1 tvg-id="" tvg-name="LA: Star Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/9db2145ad118d169f5b425e50e3af268.png" group-title="Latino",LA: Star Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/5785
+#EXTINF:-1 tvg-id="" tvg-name="LA: Studio Universal" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eb8d1f010d2ba2c6bfb2578fcd38145f.png" group-title="Latino",LA: Studio Universal
+http://iptvstream.xyz:8080/Dooby/66754f23/3083
+#EXTINF:-1 tvg-id="" tvg-name="LA: SYFI" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: SYFI
+http://iptvstream.xyz:8080/Dooby/66754f23/299977
+#EXTINF:-1 tvg-id="" tvg-name="LA: SYFY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dcde2b71dfb7bdc38b26d30bc9b26245.png" group-title="Latino",LA: SYFY
+http://iptvstream.xyz:8080/Dooby/66754f23/5802
+#EXTINF:-1 tvg-id="" tvg-name="LA: Tastemade" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/1da8771398daa5a2ccdc8ff59445162c.svg" group-title="Latino",LA: Tastemade
+http://iptvstream.xyz:8080/Dooby/66754f23/295852
+#EXTINF:-1 tvg-id="" tvg-name="LA: TBS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f74e57eff971eb2eaaa6d01ad24a9dcf.png" group-title="Latino",LA: TBS
+http://iptvstream.xyz:8080/Dooby/66754f23/5803
+#EXTINF:-1 tvg-id="" tvg-name="LA: TCM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/00a262435a780f4b14d76f76d8a2ecac.png" group-title="Latino",LA: TCM
+http://iptvstream.xyz:8080/Dooby/66754f23/3085
+#EXTINF:-1 tvg-id="" tvg-name="LA: TeenNick" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d8f3f8fab7a148070f445082d74be654.png" group-title="Latino",LA: TeenNick
+http://iptvstream.xyz:8080/Dooby/66754f23/5796
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo 52" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: Telemundo 52
+http://iptvstream.xyz:8080/Dooby/66754f23/300575
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo 60 San Antonio KVDA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/b6fb1669aed8149db22987c4372f5847.png" group-title="Latino",LA: Telemundo 60 San Antonio KVDA TV
+http://iptvstream.xyz:8080/Dooby/66754f23/3120
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Boston" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: Telemundo Boston
+http://iptvstream.xyz:8080/Dooby/66754f23/298828
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Chicago Illinois WSNS TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/8b883e2bedc24aa76efbb60d12050412.png" group-title="Latino",LA: Telemundo Chicago Illinois WSNS TV
+http://iptvstream.xyz:8080/Dooby/66754f23/290482
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Corona California KVEA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/987b8a7cae79e89c058ac6e93174280f.png" group-title="Latino",LA: Telemundo Corona California KVEA TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172620
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Dallas Texas KXTX TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/d0a20bf41854d6f50b8d431cf97d5f64.jpg" group-title="Latino",LA: Telemundo Dallas Texas KXTX TV
+http://iptvstream.xyz:8080/Dooby/66754f23/3113
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Denver Colorado KDEN TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/418088a71e20124df76370fec7ccdb5e.png" group-title="Latino",LA: Telemundo Denver Colorado KDEN TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172614
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Fort Myers Florida WWDT CD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/ab8aca39ca1f115454c29b734e8281be.png" group-title="Latino",LA: Telemundo Fort Myers Florida WWDT CD
+http://iptvstream.xyz:8080/Dooby/66754f23/295847
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Hartford Connecticut WRDM CD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/43c323a47a8745c3264931463e07c4a5.png" group-title="Latino",LA: Telemundo Hartford Connecticut WRDM CD
+http://iptvstream.xyz:8080/Dooby/66754f23/299111
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Houston Texas KTMD TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/0c9658460ee0c781eadacbf444472762.png" group-title="Latino",LA: Telemundo Houston Texas KTMD TV
+http://iptvstream.xyz:8080/Dooby/66754f23/3116
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Internacional" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/9f3521fdd170eae38a97c6925b45fbc4.png" group-title="Latino",LA: Telemundo Internacional
+http://iptvstream.xyz:8080/Dooby/66754f23/49318
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Las Cruces New Mexico KTDO TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/459c7b39aabd9440183b9905b6faecda.png" group-title="Latino",LA: Telemundo Las Cruces New Mexico KTDO TV
+http://iptvstream.xyz:8080/Dooby/66754f23/299110
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Merced California KNSO TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/fd802691a1c1ebc09d795d5d85022786.png" group-title="Latino",LA: Telemundo Merced California KNSO TV
+http://iptvstream.xyz:8080/Dooby/66754f23/3115
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Miami Florida WSCV TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9b000aec8d9a13e7c53b1d09504bc118.png" group-title="Latino",LA: Telemundo Miami Florida WSCV TV
+http://iptvstream.xyz:8080/Dooby/66754f23/3117
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Newark New Jersey WNJU TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/23c4db6563a8063335e102bcdbbb7d5a.png" group-title="Latino",LA: Telemundo Newark New Jersey WNJU TV
+http://iptvstream.xyz:8080/Dooby/66754f23/3118
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Paradise Nevada KBLR TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bf8119974a6e1b4e910910af137951ed.png" group-title="Latino",LA: Telemundo Paradise Nevada KBLR TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172619
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Phoenix Arizona KTAZ TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fe16cddd7c4cc762245b737efec180d6.png" group-title="Latino",LA: Telemundo Phoenix Arizona KTAZ TV
+http://iptvstream.xyz:8080/Dooby/66754f23/3123
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Providence WYCN LD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/427bedd149bf420884d16e1f963db856.jpg" group-title="Latino",LA: Telemundo Providence WYCN LD
+http://iptvstream.xyz:8080/Dooby/66754f23/198326
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Sacramento California KCSO LD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/24fc066af6d29868e0e2d13f2674e1b8.png" group-title="Latino",LA: Telemundo Sacramento California KCSO LD
+http://iptvstream.xyz:8080/Dooby/66754f23/299114
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo San Jose California KSTS TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/8f28bc4454581e1de778acdf3d0a38b5.png" group-title="Latino",LA: Telemundo San Jose California KSTS TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172630
+#EXTINF:-1 tvg-id="" tvg-name="LA: Telemundo Tucson Arizona KHRR TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/443faee72dfb56f73eabedd933fdb9d8.png" group-title="Latino",LA: Telemundo Tucson Arizona KHRR TV
+http://iptvstream.xyz:8080/Dooby/66754f23/3122
+#EXTINF:-1 tvg-id="" tvg-name="LA: Television Del Este" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/6333e7f9945f280876de0a5535d532d8.jpg" group-title="Latino",LA: Television Del Este
+http://iptvstream.xyz:8080/Dooby/66754f23/148724
+#EXTINF:-1 tvg-id="" tvg-name="LA: TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ad1da9c0ba3fcacfb946aacf931344e3.png" group-title="Latino",LA: TLC
+http://iptvstream.xyz:8080/Dooby/66754f23/3107
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e1c784499290e4dbff27fcead96e314d.png" group-title="Latino",LA: TNT
+http://iptvstream.xyz:8080/Dooby/66754f23/3089
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT Series" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/f271d835769593137772c34a9853f739.png" group-title="Latino",LA: TNT Series
+http://iptvstream.xyz:8080/Dooby/66754f23/285147
+#EXTINF:-1 tvg-id="" tvg-name="LA: TNT Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/1f392bb0f495628af2609a2def01a745.png" group-title="Latino",LA: TNT Sports
+http://iptvstream.xyz:8080/Dooby/66754f23/285164
+#EXTINF:-1 tvg-id="" tvg-name="LA: Tooncast" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/38b1672943094043c0753f80d1e87b25.png" group-title="Latino",LA: Tooncast
+http://iptvstream.xyz:8080/Dooby/66754f23/3091
+#EXTINF:-1 tvg-id="" tvg-name="LA: Travelxp" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: Travelxp
+http://iptvstream.xyz:8080/Dooby/66754f23/299330
+#EXTINF:-1 tvg-id="" tvg-name="LA: tru TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/71e1db48bca40a49540888ded096b9f0.png" group-title="Latino",LA: tru TV
+http://iptvstream.xyz:8080/Dooby/66754f23/284515
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 1
+http://iptvstream.xyz:8080/Dooby/66754f23/298903
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 2
+http://iptvstream.xyz:8080/Dooby/66754f23/298904
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 3
+http://iptvstream.xyz:8080/Dooby/66754f23/298905
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 4
+http://iptvstream.xyz:8080/Dooby/66754f23/298906
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 5
+http://iptvstream.xyz:8080/Dooby/66754f23/298907
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 6" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 6
+http://iptvstream.xyz:8080/Dooby/66754f23/298908
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 7" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 7
+http://iptvstream.xyz:8080/Dooby/66754f23/298909
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 8" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 8
+http://iptvstream.xyz:8080/Dooby/66754f23/298910
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 9" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 9
+http://iptvstream.xyz:8080/Dooby/66754f23/298911
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 10" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 10
+http://iptvstream.xyz:8080/Dooby/66754f23/298912
+#EXTINF:-1 tvg-id="" tvg-name="LA: TUDN XTRA 11" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: TUDN XTRA 11
+http://iptvstream.xyz:8080/Dooby/66754f23/196611
+#EXTINF:-1 tvg-id="" tvg-name="LA: TV direct 13 Papiamento" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/9f27968e255390b707d7a8ed25ff00d3.jpg" group-title="Latino",LA: TV direct 13 Papiamento
+http://iptvstream.xyz:8080/Dooby/66754f23/299543
+#EXTINF:-1 tvg-id="" tvg-name="LA: UniMas" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/82efa03f500c5297dec84b49876c9248.png" group-title="Latino",LA: UniMas
+http://iptvstream.xyz:8080/Dooby/66754f23/147654
+#EXTINF:-1 tvg-id="" tvg-name="LA: UniMas Newark New Jersey WFUT TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/8beb5fecdbe7cf722554c610e1631b53.png" group-title="Latino",LA: UniMas Newark New Jersey WFUT TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172679
+#EXTINF:-1 tvg-id="" tvg-name="LA: Universal Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/9ce3ad4fe0deeba87d3a7583381436e4.png" group-title="Latino",LA: Universal Cinema
+http://iptvstream.xyz:8080/Dooby/66754f23/291225
+#EXTINF:-1 tvg-id="" tvg-name="LA: Universal Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/b6b1b534dd994d28aee685eb2f7d6347.png" group-title="Latino",LA: Universal Comedy
+http://iptvstream.xyz:8080/Dooby/66754f23/291224
+#EXTINF:-1 tvg-id="" tvg-name="LA: Universal Crime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/0e6994985c32c700d463eadc0506161f.png" group-title="Latino",LA: Universal Crime
+http://iptvstream.xyz:8080/Dooby/66754f23/291222
+#EXTINF:-1 tvg-id="" tvg-name="LA: Universal Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/4a2cca1adffe8d858711998148546ea1.png" group-title="Latino",LA: Universal Kids
+http://iptvstream.xyz:8080/Dooby/66754f23/198068
+#EXTINF:-1 tvg-id="" tvg-name="LA: Universal Premiere" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/e73a219ec196c9bb4ce328f9b79be7f8.png" group-title="Latino",LA: Universal Premiere
+http://iptvstream.xyz:8080/Dooby/66754f23/298831
+#EXTINF:-1 tvg-id="" tvg-name="LA: Universal Reality" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/2e67a715926cb3b55108e791a1209c36.png" group-title="Latino",LA: Universal Reality
+http://iptvstream.xyz:8080/Dooby/66754f23/291217
+#EXTINF:-1 tvg-id="" tvg-name="LA: Universal TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/6baa63b2a504eb00db7c0752bbce4272.png" group-title="Latino",LA: Universal TV
+http://iptvstream.xyz:8080/Dooby/66754f23/3036
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Athens Georgia WUVG TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/7660c3017d1c020dc751862eca987003.png" group-title="Latino",LA: Univision Athens Georgia WUVG TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172645
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Cleveland Ohio WQHS DT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/abed5b68de9560a1f7a5f0598beb592a.png" group-title="Latino",LA: Univision Cleveland Ohio WQHS DT
+http://iptvstream.xyz:8080/Dooby/66754f23/172647
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Dallas Texas KUVN TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/88d69186e84dc4ddcdbce801fb124653.png" group-title="Latino",LA: Univision Dallas Texas KUVN TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172641
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Hanford California KFTV DT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/fc94a122e06cbe5b11657d88b2f158f4.png" group-title="Latino",LA: Univision Hanford California KFTV DT
+http://iptvstream.xyz:8080/Dooby/66754f23/299119
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Houston Texas KXLN TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/ab5798b081efac7d7a4db2b7f7deefca.png" group-title="Latino",LA: Univision Houston Texas KXLN TV
+http://iptvstream.xyz:8080/Dooby/66754f23/299118
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Joliet Indiana WGBO TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/30f94eb634e649d8be8aa3ab72b4d332.png" group-title="Latino",LA: Univision Joliet Indiana WGBO TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172654
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Los Angeles California KMEX TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/db82b1ee37f49e8fbfcb28326657f8e9.png" group-title="Latino",LA: Univision Los Angeles California KMEX TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172659
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Miami Florida WLTV TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/a68d82d84821f9cc5918c5b5860c4db4.png" group-title="Latino",LA: Univision Miami Florida WLTV TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172655
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Modesto California KUVS TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/bd4b931f25a6bae354bd2f75491e6144.png" group-title="Latino",LA: Univision Modesto California KUVS TV
+http://iptvstream.xyz:8080/Dooby/66754f23/299120
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision North Carolina WUVC DT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/59c3e3a80a3fc8f374424467522ab99e.png" group-title="Latino",LA: Univision North Carolina WUVC DT
+http://iptvstream.xyz:8080/Dooby/66754f23/172652
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Paterson New Jersey WXTV DT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9193806b59e3d2b27e48457fcaafa0a0.png" group-title="Latino",LA: Univision Paterson New Jersey WXTV DT
+http://iptvstream.xyz:8080/Dooby/66754f23/299121
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Phoenix Arizona KTVW TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/68e5c116d54e4c827b8640b219e10fda.png" group-title="Latino",LA: Univision Phoenix Arizona KTVW TV
+http://iptvstream.xyz:8080/Dooby/66754f23/295844
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Puerto Rico" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/b88a562e482921801320519b8de9f234.png" group-title="Latino",LA: Univision Puerto Rico
+http://iptvstream.xyz:8080/Dooby/66754f23/172662
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision San Antonio Texas KWEX DT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/98fba16f15b9ef12f1bac1c58b4d9c59.png" group-title="Latino",LA: Univision San Antonio Texas KWEX DT
+http://iptvstream.xyz:8080/Dooby/66754f23/298914
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision San Francisco California KDTV TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/d234e3c38a4ae88fc68d29a034e011ad.png" group-title="Latino",LA: Univision San Francisco California KDTV TV
+http://iptvstream.xyz:8080/Dooby/66754f23/299123
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Tucson Arizona KUVE TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/5d9bfe289a82066f43360b36e102b7f2.png" group-title="Latino",LA: Univision Tucson Arizona KUVE TV
+http://iptvstream.xyz:8080/Dooby/66754f23/295345
+#EXTINF:-1 tvg-id="" tvg-name="LA: Univision Vineland New Jersey WUVP TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a612a651d0adf53c9f02d17e1e5082ab.png" group-title="Latino",LA: Univision Vineland New Jersey WUVP TV
+http://iptvstream.xyz:8080/Dooby/66754f23/172660
+#EXTINF:-1 tvg-id="" tvg-name="LA: Urbano TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/2c11eacab3e5ef20c09a79ce6d80cd10.png" group-title="Latino",LA: Urbano TV
+http://iptvstream.xyz:8080/Dooby/66754f23/299331
+#EXTINF:-1 tvg-id="" tvg-name="LA: Vallevision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/6ca6d4147dd0a2c89118363a0faaee90.jpg" group-title="Latino",LA: Vallevision
+http://iptvstream.xyz:8080/Dooby/66754f23/148714
+#EXTINF:-1 tvg-id="" tvg-name="LA: ViwixAccion" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: ViwixAccion
+http://iptvstream.xyz:8080/Dooby/66754f23/298643
+#EXTINF:-1 tvg-id="" tvg-name="LA: ViwixMusic" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: ViwixMusic
+http://iptvstream.xyz:8080/Dooby/66754f23/298644
+#EXTINF:-1 tvg-id="" tvg-name="LA: ViwixSeries" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: ViwixSeries
+http://iptvstream.xyz:8080/Dooby/66754f23/298645
+#EXTINF:-1 tvg-id="" tvg-name="LA: ViwixTerror" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Latino",LA: ViwixTerror
+http://iptvstream.xyz:8080/Dooby/66754f23/298646
+#EXTINF:-1 tvg-id="" tvg-name="LA: Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0ae6c8e6f33c73c453f6fbcbd6addfe4.png" group-title="Latino",LA: Warner TV
+http://iptvstream.xyz:8080/Dooby/66754f23/60006
+#EXTINF:-1 tvg-id="" tvg-name="MX: A&E" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1f1abd2161e471de993e94f3bb131977.png" group-title="Mexico ➾ Documentary",MX: A&E
+http://iptvstream.xyz:8080/Dooby/66754f23/9117
+#EXTINF:-1 tvg-id="" tvg-name="MX: A3 Series" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/80ae5519ae42c245b5822a589a517668.png" group-title="Mexico",MX: A3 Series
+http://iptvstream.xyz:8080/Dooby/66754f23/280390
+#EXTINF:-1 tvg-id="" tvg-name="MX: ADN 40" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8916a14d4e2a1c7a5f093901bf95d258.png" group-title="Mexico ➾ LifeStyle",MX: ADN 40
+http://iptvstream.xyz:8080/Dooby/66754f23/5799
+#EXTINF:-1 tvg-id="" tvg-name="MX: Adrenalina Sports Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/4f748645727fa437970fe429a24bda07.png" group-title="Mexico ➾ Sports",MX: Adrenalina Sports Network
+http://iptvstream.xyz:8080/Dooby/66754f23/290478
+#EXTINF:-1 tvg-id="" tvg-name="MX: Afizzionados" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/831e6c12f6dc82dc7c001e936745a6e2.png" group-title="Mexico ➾ Football",MX: Afizzionados
+http://iptvstream.xyz:8080/Dooby/66754f23/298042
+#EXTINF:-1 tvg-id="" tvg-name="MX: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/db7232f349d96b8ed9fae2fcacaaa50e.png" group-title="Mexico ➾ Movie",MX: AMC
+http://iptvstream.xyz:8080/Dooby/66754f23/9083
+#EXTINF:-1 tvg-id="" tvg-name="MX: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/47f1cf72c40b5586ef84fbd78dc4bb9b.svg" group-title="Mexico ➾ Nature",MX: ANIMAL PLANET
+http://iptvstream.xyz:8080/Dooby/66754f23/298043
+#EXTINF:-1 tvg-id="" tvg-name="MX: AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2cca840e4f54f73b09a45657f2595507.png" group-title="Mexico ➾ Movie",MX: AXN
+http://iptvstream.xyz:8080/Dooby/66754f23/9138
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dae89e688e6ba755b1e478acffb54190.png" group-title="Mexico ➾ Movie",MX: Az Cinema
+http://iptvstream.xyz:8080/Dooby/66754f23/9108
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Clic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/3b72f6a605d555147d432cb35ebbf80a.png" group-title="Mexico ➾ LifeStyle",MX: Az Clic
+http://iptvstream.xyz:8080/Dooby/66754f23/9035
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Corazon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3d0d9608fb753badbadd6a8dbc1496e8.png" group-title="Mexico ➾ LifeStyle",MX: Az Corazon
+http://iptvstream.xyz:8080/Dooby/66754f23/2999
+#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/72ffa19b20708ee5d84c6f01c202ba9a.png" group-title="Mexico ➾ LifeStyle",MX: AZTECA 7
+http://iptvstream.xyz:8080/Dooby/66754f23/9026
+#EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA Uno" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/40ffc9b6f229e4f18593b68daeb65d87.png" group-title="Mexico ➾ LifeStyle",MX: AZTECA Uno
+http://iptvstream.xyz:8080/Dooby/66754f23/9025
+#EXTINF:-1 tvg-id="" tvg-name="MX: Baby TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/f8d40f74278e6f8f95816ac240a9a504.png" group-title="Mexico ➾ Kids",MX: Baby TV
+http://iptvstream.xyz:8080/Dooby/66754f23/295150
+#EXTINF:-1 tvg-id="" tvg-name="MX: BabyFirst TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4efc3a6d1898e531c086c8b58fdb0efd.png" group-title="Mexico ➾ Kids",MX: BabyFirst TV
+http://iptvstream.xyz:8080/Dooby/66754f23/8673
+#EXTINF:-1 tvg-id="" tvg-name="MX: Bandamax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5b1638d003ea8a742796ed86a2c29c77.png" group-title="Mexico ➾ Music",MX: Bandamax
+http://iptvstream.xyz:8080/Dooby/66754f23/9122
+#EXTINF:-1 tvg-id="" tvg-name="MX: BitMe" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d09e68cd4fec58ea4c23bc22e4047b26.png" group-title="Mexico ➾ Movie",MX: BitMe
+http://iptvstream.xyz:8080/Dooby/66754f23/47946
+#EXTINF:-1 tvg-id="" tvg-name="MX: Bloomberg" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico",MX: Bloomberg
+http://iptvstream.xyz:8080/Dooby/66754f23/9091
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7cd1ffc3c61749c8415cbb128068c8a5.jpg" group-title="Mexico ➾ Documentary",MX: Canal 4
+http://iptvstream.xyz:8080/Dooby/66754f23/7044
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/77a6c741aaea77417a1d6cbc5fcd18c2.png" group-title="Mexico ➾ LifeStyle",MX: Canal 5
+http://iptvstream.xyz:8080/Dooby/66754f23/9024
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 6 Monterrey" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/6e52287c9a1a4338e630b38de0320322.png" group-title="Mexico ➾ News",MX: Canal 6 Monterrey
+http://iptvstream.xyz:8080/Dooby/66754f23/267340
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 6 Saltillo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d03e153671d7e94d75f2256a3eae491.png" group-title="Mexico",MX: Canal 6 Saltillo
+http://iptvstream.xyz:8080/Dooby/66754f23/7045
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 8 Costa Rica" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a5ca82cd6d404f8d2dd52177fee09745.png" group-title="Mexico",MX: Canal 8 Costa Rica
+http://iptvstream.xyz:8080/Dooby/66754f23/31756
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 10 Cancun" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/acaaac076bc2325488fbdbe92a2b7b9a.png" group-title="Mexico ➾ LifeStyle",MX: Canal 10 Cancun
+http://iptvstream.xyz:8080/Dooby/66754f23/147894
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 26" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/51f6f3715ac39c8be632fc605f80acc2.png" group-title="Mexico ➾ LifeStyle",MX: Canal 26
+http://iptvstream.xyz:8080/Dooby/66754f23/7043
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal Catorce" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/7d08c7bdd34fd3069e7103139975544e.svg" group-title="Mexico ➾ News",MX: Canal Catorce
+http://iptvstream.xyz:8080/Dooby/66754f23/287630
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal Internacional" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3ee08d730b060292340953a8d2a61516.png" group-title="Mexico",MX: Canal Internacional
+http://iptvstream.xyz:8080/Dooby/66754f23/296519
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal Mundo+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/18229eb1c949b0ef7e9709846c413b72.png" group-title="Mexico ➾ LifeStyle",MX: Canal Mundo+
+http://iptvstream.xyz:8080/Dooby/66754f23/287631
+#EXTINF:-1 tvg-id="" tvg-name="MX: Capital 21" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/6ed38ab728c2dde98bbf5cfd70d923b5.png" group-title="Mexico",MX: Capital 21
+http://iptvstream.xyz:8080/Dooby/66754f23/287632
+#EXTINF:-1 tvg-id="" tvg-name="MX: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3f51c3bc985994d3ea01824291571f2f.png" group-title="Mexico ➾ Kids",MX: Cartoon Network
+http://iptvstream.xyz:8080/Dooby/66754f23/9043
+#EXTINF:-1 tvg-id="" tvg-name="MX: Cartoonito" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/75177024c75f9ad492713c51fec9502d.png" group-title="Mexico ➾ Kids",MX: Cartoonito
+http://iptvstream.xyz:8080/Dooby/66754f23/9088
+#EXTINF:-1 tvg-id="" tvg-name="MX: CineLatino" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/bea7ce4cfd849c58422cd24a5588fa0e.png" group-title="Mexico ➾ Movie",MX: CineLatino
+http://iptvstream.xyz:8080/Dooby/66754f23/167062
+#EXTINF:-1 tvg-id="" tvg-name="MX: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0625bacc899385658081029dbad58bea.png" group-title="Mexico ➾ Movie",MX: Cinemax
+http://iptvstream.xyz:8080/Dooby/66754f23/9080
+#EXTINF:-1 tvg-id="" tvg-name="MX: Claro Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e1dfd6f5ef14ff570838c7117824342c.png" group-title="Mexico ➾ Movie",MX: Claro Cinema
+http://iptvstream.xyz:8080/Dooby/66754f23/8706
+#EXTINF:-1 tvg-id="" tvg-name="MX: Claro Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/160fa147d986ff95034f7199b1510080.png" group-title="Mexico ➾ Sports",MX: Claro Sports
+http://iptvstream.xyz:8080/Dooby/66754f23/3012
+#EXTINF:-1 tvg-id="" tvg-name="MX: Claro Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/f02c6be4bf9e85830ab781cd70f00d02.png" group-title="Mexico ➾ Sports",MX: Claro Sports 2
+http://iptvstream.xyz:8080/Dooby/66754f23/297205
+#EXTINF:-1 tvg-id="" tvg-name="MX: Comedy Central" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9f09982c9fc7f833cb4f14c6f1e0e8f4.png" group-title="Mexico ➾ Movie",MX: Comedy Central
+http://iptvstream.xyz:8080/Dooby/66754f23/9106
+#EXTINF:-1 tvg-id="" tvg-name="MX: Como Dice El Dicho" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico",MX: Como Dice El Dicho
+http://iptvstream.xyz:8080/Dooby/66754f23/298052
+#EXTINF:-1 tvg-id="" tvg-name="MX: Cor TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/3dc367510db1c8ae09d0127e2116ef01.png" group-title="Mexico",MX: Cor TV
+http://iptvstream.xyz:8080/Dooby/66754f23/287634
+#EXTINF:-1 tvg-id="" tvg-name="MX: Corazon del la Capital" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2ee376d302ecd30ed4f248cedaf7924b.png" group-title="Mexico",MX: Corazon del la Capital
+http://iptvstream.xyz:8080/Dooby/66754f23/296635
+#EXTINF:-1 tvg-id="" tvg-name="MX: De Pelicula" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/0c7cbb69876963d368d6d8249aef2409.png" group-title="Mexico ➾ Movie",MX: De Pelicula
+http://iptvstream.xyz:8080/Dooby/66754f23/31740
+#EXTINF:-1 tvg-id="" tvg-name="MX: De Pelicula Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/b76d977127fb10199c25aa2a91c7b10e.png" group-title="Mexico ➾ Movie",MX: De Pelicula Plus
+http://iptvstream.xyz:8080/Dooby/66754f23/298053
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/0a450252d347db19443aa8e04ae2d03d.png" group-title="Mexico ➾ Documentary",MX: Discovery Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/280388
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery H&H" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/e1131d9d1ec94f7e88e34842801790d5.png" group-title="Mexico ➾ Documentary",MX: Discovery H&H
+http://iptvstream.xyz:8080/Dooby/66754f23/9110
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/14efc3962a7c656763a5cd0185333238.png" group-title="Mexico ➾ Kids",MX: Discovery Kids
+http://iptvstream.xyz:8080/Dooby/66754f23/9060
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Science" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/5f470d3d6be213306838028887def939.png" group-title="Mexico ➾ Documentary",MX: Discovery Science
+http://iptvstream.xyz:8080/Dooby/66754f23/9059
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Theater" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7d2ab682780c26660017668636579c6f.png" group-title="Mexico ➾ Movie",MX: Discovery Theater
+http://iptvstream.xyz:8080/Dooby/66754f23/9151
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4b4d1da27cf0705e9a72d4f7d392d3e.png" group-title="Mexico ➾ Documentary",MX: Discovery TLC
+http://iptvstream.xyz:8080/Dooby/66754f23/9062
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery Turbo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/37847bf1f1780679d6b96f9fac8a4d17.png" group-title="Mexico ➾ Motor Sports",MX: Discovery Turbo
+http://iptvstream.xyz:8080/Dooby/66754f23/9058
+#EXTINF:-1 tvg-id="" tvg-name="MX: Discovery World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b9aa3947397c52a219b1e6ef24a653ef.png" group-title="Mexico ➾ Documentary",MX: Discovery World
+http://iptvstream.xyz:8080/Dooby/66754f23/9061
+#EXTINF:-1 tvg-id="" tvg-name="MX: Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" group-title="Mexico ➾ Kids",MX: Disney Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/9086
+#EXTINF:-1 tvg-id="" tvg-name="MX: Disney Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b5069c173bae240c9ed582b2cc41caf7.png" group-title="Mexico ➾ Kids",MX: Disney Junior
+http://iptvstream.xyz:8080/Dooby/66754f23/9042
+#EXTINF:-1 tvg-id="" tvg-name="MX: Disney XD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/694b6ceb7f5f81a512dbb7436923464a.png" group-title="Mexico ➾ Kids",MX: Disney XD
+http://iptvstream.xyz:8080/Dooby/66754f23/3027
+#EXTINF:-1 tvg-id="" tvg-name="MX: Distrito Comedia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/9571a3fe48be02335097c60e890617a4.png" group-title="Mexico",MX: Distrito Comedia
+http://iptvstream.xyz:8080/Dooby/66754f23/9126
+#EXTINF:-1 tvg-id="" tvg-name="MX: Dream Works" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/b441fd5efd49be12668154dd7dfd66a9.svg" group-title="Mexico ➾ Kids",MX: Dream Works
+http://iptvstream.xyz:8080/Dooby/66754f23/298055
+#EXTINF:-1 tvg-id="" tvg-name="MX: E!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/b36abca5f5ebaae7f44a8eaeca72c0ee.png" group-title="Mexico ➾ LifeStyle",MX: E!
+http://iptvstream.xyz:8080/Dooby/66754f23/31760
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="Mexico ➾ Sports",MX: ESPN
+http://iptvstream.xyz:8080/Dooby/66754f23/9070
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/64516b5abe7608f85db2b125d4ed9166.svg" group-title="Mexico ➾ Sports",MX: ESPN 2
+http://iptvstream.xyz:8080/Dooby/66754f23/298057
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" group-title="Mexico ➾ Sports",MX: ESPN 3
+http://iptvstream.xyz:8080/Dooby/66754f23/38603
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN Dos" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/669589f86e5d9edc472f75011f9c1055.png" group-title="Mexico ➾ Sports",MX: ESPN Dos
+http://iptvstream.xyz:8080/Dooby/66754f23/9068
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png" group-title="Mexico ➾ Sports",MX: ESPN Extra
+http://iptvstream.xyz:8080/Dooby/66754f23/38607
+#EXTINF:-1 tvg-id="estrella.us" tvg-name="MX: Estrella News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/b5b2487fb5c5ed76cf033c576203f037.png" group-title="Mexico ➾ News",MX: Estrella News
+http://iptvstream.xyz:8080/Dooby/66754f23/284052
+#EXTINF:-1 tvg-id="" tvg-name="MX: Estrella TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/50b0c4852749c9fe37f2d541f24ab3a3.png" group-title="Mexico ➾ LifeStyle",MX: Estrella TV
+http://iptvstream.xyz:8080/Dooby/66754f23/167064
+#EXTINF:-1 tvg-id="" tvg-name="MX: Europa Europa" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7d8a7af6396e12a8262d492c16939a5b.png" group-title="Mexico ➾ Sports",MX: Europa Europa
+http://iptvstream.xyz:8080/Dooby/66754f23/9130
+#EXTINF:-1 tvg-id="" tvg-name="MX: Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/fd2c05efebd64c92001182c697ae7b98.png" group-title="Mexico ➾ Food",MX: Food Network
+http://iptvstream.xyz:8080/Dooby/66754f23/9116
+#EXTINF:-1 tvg-id="" tvg-name="MX: Foro TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/e9418c38f57580606fda9fa0028a3531.png" group-title="Mexico",MX: Foro TV
+http://iptvstream.xyz:8080/Dooby/66754f23/5782
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c57450114a42c0d62ab0e938d40cf0b2.jpg" group-title="Mexico",MX: FOX SPORTS
+http://iptvstream.xyz:8080/Dooby/66754f23/10925
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4860d5094856c80be9a0e80d4e3ea61b.jpg" group-title="Mexico",MX: FOX SPORTS 2
+http://iptvstream.xyz:8080/Dooby/66754f23/3043
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/1a4f7efe2244027b516ad0c5bb0319a0.png" group-title="Mexico",MX: FOX SPORTS 3
+http://iptvstream.xyz:8080/Dooby/66754f23/3044
+#EXTINF:-1 tvg-id="" tvg-name="MX: FX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/de3051d403186b770791395b44c9bd74.png" group-title="Mexico ➾ Movie",MX: FX
+http://iptvstream.xyz:8080/Dooby/66754f23/9105
+#EXTINF:-1 tvg-id="" tvg-name="MX: FXM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c0024cd2cc878f1c83018c0d076a90aa.png" group-title="Mexico",MX: FXM
+http://iptvstream.xyz:8080/Dooby/66754f23/9079
+#EXTINF:-1 tvg-id="" tvg-name="MX: Glitz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8ae7fc579a89a3e135c34e8d968fdf59.png" group-title="Mexico",MX: Glitz
+http://iptvstream.xyz:8080/Dooby/66754f23/9125
+#EXTINF:-1 tvg-id="" tvg-name="MX: Golden" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/9d4e2a9fe5bfba70bdbfdaec4166df16.png" group-title="Mexico",MX: Golden
+http://iptvstream.xyz:8080/Dooby/66754f23/5793
+#EXTINF:-1 tvg-id="" tvg-name="MX: Golden Edge" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/31627ce18ed4c1315831d876d8fb84d7.png" group-title="Mexico",MX: Golden Edge
+http://iptvstream.xyz:8080/Dooby/66754f23/9076
+#EXTINF:-1 tvg-id="" tvg-name="MX: Golden Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a08cc6163e53b2569acec7eb03e05271.png" group-title="Mexico ➾ Movie",MX: Golden Plus
+http://iptvstream.xyz:8080/Dooby/66754f23/3051
+#EXTINF:-1 tvg-id="" tvg-name="MX: Golden Premier" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3259e1f443c20457eaa5e0c34852d23c.png" group-title="Mexico",MX: Golden Premier
+http://iptvstream.xyz:8080/Dooby/66754f23/3052
+#EXTINF:-1 tvg-id="" tvg-name="MX: Golf Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/0f3ec53e3a88942f81f84686e3f90ef8.png" group-title="Mexico",MX: Golf Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/49383
+#EXTINF:-1 tvg-id="" tvg-name="MX: HGTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/7510a9b10984936053e620479b391ff5.png" group-title="Mexico ➾ LifeStyle",MX: HGTV
+http://iptvstream.xyz:8080/Dooby/66754f23/187048
+#EXTINF:-1 tvg-id="" tvg-name="MX: History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e534aac3780d012e249532ed727cfa26.png" group-title="Mexico ➾ Documentary",MX: History
+http://iptvstream.xyz:8080/Dooby/66754f23/9050
+#EXTINF:-1 tvg-id="" tvg-name="MX: History 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/e47706932f7babf4a9dfdb77d9d7043d.png" group-title="Mexico ➾ Documentary",MX: History 2
+http://iptvstream.xyz:8080/Dooby/66754f23/273073
+#EXTINF:-1 tvg-id="" tvg-name="MX: ILCE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/8dcceeaeeadfa30845f4ad276674c3bf.png" group-title="Mexico",MX: ILCE
+http://iptvstream.xyz:8080/Dooby/66754f23/296518
+#EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9ee680172973be02359002c5b3a44ec3.png" group-title="Mexico",MX: Imagen TV
+http://iptvstream.xyz:8080/Dooby/66754f23/9039
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ingenio TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/0b87363d98d74005e7a5cc8bd8b897e4.png" group-title="Mexico",MX: Ingenio TV
+http://iptvstream.xyz:8080/Dooby/66754f23/9147
+#EXTINF:-1 tvg-id="" tvg-name="MX: Investigation Discovery" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d572680055d9dd1912fd85f3a92d6ae.png" group-title="Mexico ➾ Documentary",MX: Investigation Discovery
+http://iptvstream.xyz:8080/Dooby/66754f23/9056
+#EXTINF:-1 tvg-id="" tvg-name="MX: Jalisco TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/43af95dbb50e3d398d3d1ec5a8283937.png" group-title="Mexico",MX: Jalisco TV
+http://iptvstream.xyz:8080/Dooby/66754f23/287636
+#EXTINF:-1 tvg-id="" tvg-name="MX: Justicia TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/70b8ace2be2bcc1f79aeca12fcfb76d7.png" group-title="Mexico",MX: Justicia TV
+http://iptvstream.xyz:8080/Dooby/66754f23/7050
+#EXTINF:-1 tvg-id="" tvg-name="MX: La Rosa De Guadalupe" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico",MX: La Rosa De Guadalupe
+http://iptvstream.xyz:8080/Dooby/66754f23/298059
+#EXTINF:-1 tvg-id="" tvg-name="MX: Las Estrella Games" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/e16f0eb609f99e65c69e704087b78974.png" group-title="Mexico ➾ LifeStyle",MX: Las Estrella Games
+http://iptvstream.xyz:8080/Dooby/66754f23/298336
+#EXTINF:-1 tvg-id="" tvg-name="MX: Las Estrellas" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/be65fcb335b137f9bbcf867472dafea9.png" group-title="Mexico ➾ Movie",MX: Las Estrellas
+http://iptvstream.xyz:8080/Dooby/66754f23/3005
+#EXTINF:-1 tvg-id="" tvg-name="MX: Maria+Vision" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ef1c95874a83ad90fc037dafbaea536f.png" group-title="Mexico",MX: Maria+Vision
+http://iptvstream.xyz:8080/Dooby/66754f23/163056
+#EXTINF:-1 tvg-id="" tvg-name="MX: Maria+Vision Medjugorje" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/0b7c0a00810d9afb22e2f62b187dd77e.png" group-title="Mexico",MX: Maria+Vision Medjugorje
+http://iptvstream.xyz:8080/Dooby/66754f23/296514
+#EXTINF:-1 tvg-id="" tvg-name="MX: Mexico Travel Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/9cfd347d763feaa02df28b5ce26b819d.png" group-title="Mexico ➾ Documentary",MX: Mexico Travel Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/163049
+#EXTINF:-1 tvg-id="" tvg-name="MX: Milenio TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6a873a99ddc126b9074d6c7757d9b6fe.png" group-title="Mexico",MX: Milenio TV
+http://iptvstream.xyz:8080/Dooby/66754f23/7067
+#EXTINF:-1 tvg-id="" tvg-name="MX: Morbido TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/52cd8bc0ebc97b48ca09202a5fd9f80d.png" group-title="Mexico",MX: Morbido TV
+http://iptvstream.xyz:8080/Dooby/66754f23/198054
+#EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios Guadalajara" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico",MX: Multimedios Guadalajara
+http://iptvstream.xyz:8080/Dooby/66754f23/298061
+#EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios Laguna" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/fd9b3f82ec5b4410afe898ffe157f867.jpg" group-title="Mexico",MX: Multimedios Laguna
+http://iptvstream.xyz:8080/Dooby/66754f23/287639
+#EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios Plus" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico",MX: Multimedios Plus
+http://iptvstream.xyz:8080/Dooby/66754f23/298918
+#EXTINF:-1 tvg-id="" tvg-name="MX: MultiPremier" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/58e4581a40a3b807881bd40fece7d26e.png" group-title="Mexico",MX: MultiPremier
+http://iptvstream.xyz:8080/Dooby/66754f23/298164
+#EXTINF:-1 tvg-id="" tvg-name="MX: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ec252b9c1be69a68011aa7653391d25c.png" group-title="Mexico",MX: NAT GEO
+http://iptvstream.xyz:8080/Dooby/66754f23/8725
+#EXTINF:-1 tvg-id="" tvg-name="MX: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/c9a82319842abff334dec0a59ef9c3c1.png" group-title="Mexico",MX: NAT GEO Wild
+http://iptvstream.xyz:8080/Dooby/66754f23/9072
+#EXTINF:-1 tvg-id="" tvg-name="MX: Nick Jr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a201883ac1db791786d61ce8ad0a3c88.png" group-title="Mexico",MX: Nick Jr
+http://iptvstream.xyz:8080/Dooby/66754f23/31745
+#EXTINF:-1 tvg-id="" tvg-name="MX: nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ffe70df63cfe2611a5b1b5fa96984394.png" group-title="Mexico",MX: nickelodeon
+http://iptvstream.xyz:8080/Dooby/66754f23/9085
+#EXTINF:-1 tvg-id="" tvg-name="MX: NickToons" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/3b6d4c38abd626043f90f16a64517291.png" group-title="Mexico",MX: NickToons
+http://iptvstream.xyz:8080/Dooby/66754f23/298064
+#EXTINF:-1 tvg-id="" tvg-name="MX: Nmas" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/f473e822852163f299e1b80147732d0c.jpeg" group-title="Mexico",MX: Nmas
+http://iptvstream.xyz:8080/Dooby/66754f23/296521
+#EXTINF:-1 tvg-id="" tvg-name="MX: NRT Mexico" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/dd04fc3fc7dedc9cc1df64992101eead.jpg" group-title="Mexico",MX: NRT Mexico
+http://iptvstream.xyz:8080/Dooby/66754f23/299535
+#EXTINF:-1 tvg-id="" tvg-name="MX: Nu9ve" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/70da05f73134c48ae26622e9cfa4acad.png" group-title="Mexico ➾ LifeStyle",MX: Nu9ve
+http://iptvstream.xyz:8080/Dooby/66754f23/298919
+#EXTINF:-1 tvg-id="" tvg-name="MX: Paramount Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8fd6d2dff8d7a18160e0b6823dec6e54.jpg" group-title="Mexico",MX: Paramount Network
+http://iptvstream.xyz:8080/Dooby/66754f23/9146
+#EXTINF:-1 tvg-id="" tvg-name="MX: PX Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/b55e5ff61cd9b2c2cbbe1bd7534ce97c.png" group-title="Mexico",MX: PX Sports
+http://iptvstream.xyz:8080/Dooby/66754f23/267264
+#EXTINF:-1 tvg-id="" tvg-name="MX: RCG TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/500027ad173d08a327be172e7f5e7c2a.png" group-title="Mexico",MX: RCG TV
+http://iptvstream.xyz:8080/Dooby/66754f23/163053
+#EXTINF:-1 tvg-id="" tvg-name="MX: RTQ Queretaro" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/86353ce637c9cbcd4e08478da108db80.jpg" group-title="Mexico",MX: RTQ Queretaro
+http://iptvstream.xyz:8080/Dooby/66754f23/147900
+#EXTINF:-1 tvg-id="" tvg-name="MX: SET Television Canal 26" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/d2def6c11e52df87d4cd8798e81a4477.jpg" group-title="Mexico",MX: SET Television Canal 26
+http://iptvstream.xyz:8080/Dooby/66754f23/287645
+#EXTINF:-1 tvg-id="" tvg-name="MX: Sistema Michoacano de TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/adf9d65fa840d424ba8213cb38f90bb6.png" group-title="Mexico",MX: Sistema Michoacano de TV
+http://iptvstream.xyz:8080/Dooby/66754f23/296509
+#EXTINF:-1 tvg-id="" tvg-name="MX: Sizart Canal 24 Zacatecas" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico",MX: Sizart Canal 24 Zacatecas
+http://iptvstream.xyz:8080/Dooby/66754f23/298920
+#EXTINF:-1 tvg-id="" tvg-name="MX: Sony Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/681d83765d2daf11d1138045141f9d5a.png" group-title="Mexico ➾ Movie",MX: Sony Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/9115
+#EXTINF:-1 tvg-id="" tvg-name="MX: Space" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/549b218ccc0286cc02c95fb60ec9b9c6.jpg" group-title="Mexico ➾ Movie",MX: Space
+http://iptvstream.xyz:8080/Dooby/66754f23/9136
+#EXTINF:-1 tvg-id="" tvg-name="MX: Sqcs" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/ed7aa4c2d78aedb774bbb8709b149526.png" group-title="Mexico",MX: Sqcs
+http://iptvstream.xyz:8080/Dooby/66754f23/297030
+#EXTINF:-1 tvg-id="" tvg-name="MX: Star Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/229b1dcec790fc438218d1dfeade4e45.png" group-title="Mexico ➾ Movie",MX: Star Channel
+http://iptvstream.xyz:8080/Dooby/66754f23/280386
+#EXTINF:-1 tvg-id="" tvg-name="MX: Studio Universal" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c535ec7844849371e43f872e6337a472.png" group-title="Mexico ➾ Movie",MX: Studio Universal
+http://iptvstream.xyz:8080/Dooby/66754f23/9071
+#EXTINF:-1 tvg-id="" tvg-name="MX: TCM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1b950d84f4cca742c18c7b61128e44d7.png" group-title="Mexico",MX: TCM
+http://iptvstream.xyz:8080/Dooby/66754f23/9131
+#EXTINF:-1 tvg-id="" tvg-name="MX: TeleFormula" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/780c261784ae89d7b34e72c907ff1c80.png" group-title="Mexico",MX: TeleFormula
+http://iptvstream.xyz:8080/Dooby/66754f23/31746
+#EXTINF:-1 tvg-id="" tvg-name="MX: Telehit Musica" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ddd07a323bd82e3c8ce03f30dba9c97f.png" group-title="Mexico ➾ Music",MX: Telehit Musica
+http://iptvstream.xyz:8080/Dooby/66754f23/31785
+#EXTINF:-1 tvg-id="" tvg-name="MX: Telehit Musica Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7a86299a2fe3a0d595ee1a1721c000b3.png" group-title="Mexico ➾ Music",MX: Telehit Musica Plus
+http://iptvstream.xyz:8080/Dooby/66754f23/298067
+#EXTINF:-1 tvg-id="" tvg-name="MX: Telemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/43d3a5159d8a3fd3efc3a151adf8475e.png" group-title="Mexico",MX: Telemax
+http://iptvstream.xyz:8080/Dooby/66754f23/7080
+#EXTINF:-1 tvg-id="" tvg-name="MX: Teleritmo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/655850066c36955259a174c81dcf7f14.png" group-title="Mexico",MX: Teleritmo
+http://iptvstream.xyz:8080/Dooby/66754f23/9066
+#EXTINF:-1 tvg-id="" tvg-name="MX: Tlaxcala TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/02cdc8384a01fbc4e92ccca5f579e54a.png" group-title="Mexico",MX: Tlaxcala TV
+http://iptvstream.xyz:8080/Dooby/66754f23/296507
+#EXTINF:-1 tvg-id="" tvg-name="MX: Tlnovelas" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a5aab5cf9b5929219698bc9486baa80c.png" group-title="Mexico ➾ Movie",MX: Tlnovelas
+http://iptvstream.xyz:8080/Dooby/66754f23/9141
+#EXTINF:-1 tvg-id="" tvg-name="MX: TNT" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/12c052a1527c26e805fb1d9167eb9216.png" group-title="Mexico",MX: TNT
+http://iptvstream.xyz:8080/Dooby/66754f23/9140
+#EXTINF:-1 tvg-id="" tvg-name="MX: TNT Series" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/2d31036601046a0b55481cce7da5f81d.png" group-title="Mexico ➾ Movie",MX: TNT Series
+http://iptvstream.xyz:8080/Dooby/66754f23/9139
+#EXTINF:-1 tvg-id="" tvg-name="MX: TUDN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b861cb6a74cbb1ff2b70855e9f56a24.png" group-title="Mexico",MX: TUDN
+http://iptvstream.xyz:8080/Dooby/66754f23/31784
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Mas" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3a6fba7a1a0c19dd68d52d09c4d81c32.png" group-title="Mexico",MX: TV Mas
+http://iptvstream.xyz:8080/Dooby/66754f23/9097
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Mexiquense" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4ae84b977b110d16af3ad499dcd835d3.png" group-title="Mexico",MX: TV Mexiquense
+http://iptvstream.xyz:8080/Dooby/66754f23/9104
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Nuevo Leon 28" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e22749492b204c5592668eedf44f6966.png" group-title="Mexico",MX: TV Nuevo Leon 28
+http://iptvstream.xyz:8080/Dooby/66754f23/296506
+#EXTINF:-1 tvg-id="" tvg-name="MX: TVC Deportes" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c96a64148f8d48eafdc5ab59f824a20e.png" group-title="Mexico",MX: TVC Deportes
+http://iptvstream.xyz:8080/Dooby/66754f23/9075
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ubeat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/89f051244a717beb36ac008c24d2a761.png" group-title="Mexico",MX: Ubeat
+http://iptvstream.xyz:8080/Dooby/66754f23/286768
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Cine" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico ➾ Movie",MX: Ultra Cine
+http://iptvstream.xyz:8080/Dooby/66754f23/167077
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Clasico" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico ➾ Movie",MX: Ultra Clasico
+http://iptvstream.xyz:8080/Dooby/66754f23/167076
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Docu" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico ➾ Movie",MX: Ultra Docu
+http://iptvstream.xyz:8080/Dooby/66754f23/298069
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Familia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico ➾ Movie",MX: Ultra Familia
+http://iptvstream.xyz:8080/Dooby/66754f23/167075
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Fiesta" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico ➾ Movie",MX: Ultra Fiesta
+http://iptvstream.xyz:8080/Dooby/66754f23/167078
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Kidz" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico ➾ Kids",MX: Ultra Kidz
+http://iptvstream.xyz:8080/Dooby/66754f23/167080
+#EXTINF:-1 tvg-id="" tvg-name="MX: Ultra Mex" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Mexico ➾ Movie",MX: Ultra Mex
+http://iptvstream.xyz:8080/Dooby/66754f23/3160
+#EXTINF:-1 tvg-id="" tvg-name="MX: Unicable" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0c936060ef7611689676c2134171fb61.png" group-title="Mexico",MX: Unicable
+http://iptvstream.xyz:8080/Dooby/66754f23/5804
+#EXTINF:-1 tvg-id="" tvg-name="MX: Univision Tlnovelas" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/25e49e001349cf074bd0a3206f0a2605.png" group-title="Mexico",MX: Univision Tlnovelas
+http://iptvstream.xyz:8080/Dooby/66754f23/196608
+#EXTINF:-1 tvg-id="" tvg-name="MX: Video Rola" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/71a7875c91fc852e28a1c5f016604239.png" group-title="Mexico",MX: Video Rola
+http://iptvstream.xyz:8080/Dooby/66754f23/290484
+#EXTINF:-1 tvg-id="" tvg-name="MX: Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a82db4330339db82492965b7c1988734.png" group-title="Mexico",MX: Warner TV
+http://iptvstream.xyz:8080/Dooby/66754f23/9142
+
+
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81z3kb3TRpL._AC_UF1000,1000_QL80_.jpg" group-title="PELICULAS", NORBIT
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zCOikuf8GqPVmgERDTOQqgkO-BrBv6agAg5K-RGGgKAF
