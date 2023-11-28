@@ -757,7 +757,7 @@ http://sdmx.vip:8080/China02/china93/2145668
 http://sdmx.vip:8080/China02/china93/2145669
 #EXTINF:-1 tvg-id="" tvg-name="M | Canal 4 Guajuato HD" tvg-logo="http://ceoapps.org/logos/tvcuatro.png" group-title="TV OPCION 3", Canal 4 Guajuato HD
 http://sdmx.vip:8080/China02/china93/2145674
-#EXTINF:-1 tvg-id="" tvg-name="M| Mexiquense" tvg-logo="http://ceoapps.org/logos/mexiquense.png" group-title="TV | Mexico", Mexiquense
+#EXTINF:-1 tvg-id="" tvg-name="M| Mexiquense" tvg-logo="http://ceoapps.org/logos/mexiquense.png" group-title="TV OPCION 3", Mexiquense
 http://sdmx.vip:8080/China02/china93/2145707
 #EXTINF:-1 tvg-id="" tvg-name="M | TVP Culiacan" tvg-logo="http://ceoapps.org/logos/tvp.png" group-title="TV OPCION 3", TVP Culiacan
 http://sdmx.vip:8080/China02/china93/2145787
