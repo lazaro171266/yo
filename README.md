@@ -33,6 +33,10 @@ https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , LAS ESTRELLAS -OP2
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,UNIVISION
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisaEstado.mx" tvg-logo="https://i.imgur.com/BT2ci5E.png" group-title="TV OPCION 1",Televisa EDO MEX 
 https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="TV OPCION 1",Once Mexico 
@@ -140,20 +144,16 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Ritmos Inolvidables
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",POP DEL AYER
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Tierra De Amor Y Venganza
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",TVC ECUADOR
-https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/31/68/303168ac72ed212e263324e9c3d7d88b.png" group-title="TV OPCION 1",MULTIPREMIER
 http://177.234.230.226:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="TV OPCION 1",Top Cine (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8b3018c8d528155d9d5dd615797d6ca5.webp" group-title="TV OPCION 1",ACCION MEXICANAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RIGRCcPMikA/maxresdefault.jpg" group-title="TV OPCION 1",CINE DE ORO MEXICANO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1015291157860020230/NAY2iXam_400x400.jpg" group-title="TV OPCION 1",MEGACINE HD 
@@ -166,8 +166,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV OPCION 1" ,Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,WILD WEST
-https://linear-213.frequency.stream/dist/vix/213/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,ATV+
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,MY TIME NETWORK
@@ -192,11 +190,6 @@ https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.imagenpoblana.mx/medios/diario/20160402/89082.jpg" group-title="TV OPCION 1" ,GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,ESTRELLAS
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,UNIVISION
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
@@ -217,6 +210,8 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="TV OPCION 1",Retro PELIS
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 group-title="TV OPCION 1", COMO ANTES TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/171
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ztZHh7pQ9Ac8agXQ8mDTywHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", RETRO X
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHbKiZyAi-w4ZpsUeYyWyHDU/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr21JUm7clwHSrF87TPe1QRkRfM8JuAd_CQ&usqp=CAU" group-title="TV OPCION 1", CLASSIC CHANNEL
@@ -249,8 +244,26 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/175
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", PROCESIA TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8b3018c8d528155d9d5dd615797d6ca5.webp" group-title="TV OPCION 1",ACCION MEXICANAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Cine_Estelar.png/revision/latest?cb=20100622201645" group-title="TV OPCION 1", CINE ESTELAR
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
+#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Clasico" tvg-logo="http://ceoapps.org/logos/ultraclasico.png" group-title="TV OPCION 1", Ultra Clasico
+http://sdmx.vip:8080/China02/china93/2157599
+#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Cine" tvg-logo="http://ceoapps.org/logos/ultracine.png" group-title="TV OPCION 1", Ultra Cine
+http://sdmx.vip:8080/China02/china93/2157469
+#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Documental" tvg-logo="http://ceoapps.org/logos/ultradocu.png" group-title="TV OPCION 1", Ultra Documental
+http://sdmx.vip:8080/China02/china93/2157470
+#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Macho" tvg-logo="http://ceoapps.org/logos/ultramacho.png" group-title="TV OPCION 1", Ultra Macho
+http://sdmx.vip:8080/China02/china93/2157594
+#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Mex" tvg-logo="http://ceoapps.org/logos/ultramex.png" group-title="TV OPCION 1", Ultra Mex
+http://sdmx.vip:8080/China02/china93/2157595
+#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Fiesta" tvg-logo="http://ceoapps.org/logos/ultrafiesta.png" group-title="TV OPCION 1", Ultra Fiesta
+http://sdmx.vip:8080/China02/china93/2157596
+#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Familia" tvg-logo="http://ceoapps.org/logos/ultrafamilia.png" group-title="TV OPCION 1", Ultra Familia
+http://sdmx.vip:8080/China02/china93/2157597
+#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Kids" tvg-logo="http://ceoapps.org/logos/ultrakidz.png" group-title="TV OPCION 1", Ultra Kids
+http://sdmx.vip:8080/China02/china93/2157598
 #EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Cine-Mexicano-Logo.png" group-title="TV OPCION 1",CINE MEXICANO
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHZ1asUn6FUNIBRKfvam3NVY/ts
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.15aH24SzfT5bNLwLdPfNrwAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", CLARO CINEMA
@@ -271,8 +284,6 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/146598
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772352
 #EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/11/mx-nuestro-cine-donde-ver-canal-cine-mexicano.jpg" group-title="TV OPCION 1", MX NUESTRO CINE
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772408
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", VEVO REGIONAL MEXICANO
-https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772434
 
 #EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FCumbiasMixx%2F&psig=AOvVaw1riIdBAeCEpM76Yxu40AJz&ust=1698378756283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiwzdzbkoIDFQAAAAAdAAAAABAj" group-title="TV OPCION 1",CUMBIA DRIVE MIX 2023
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/161033
@@ -280,8 +291,6 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/161033
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/148242
 #EXTINF:-1 group-title="TV OPCION 1", E MUSIC
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/155
-#EXTINF:-1 group-title="TV OPCION 1", COMO ANTES TV
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/171
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDs0Ty_KJ1j-5-nkaIunEWGk_oZ-qfxbWAA&usqp=CAU" group-title="TV OPCION 1",RETRO MUSIC BALADAS
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
@@ -330,6 +339,8 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="TV OPCION 1",La Despechada TV (720p)
 https://servidordevideo.com:3077/live/despechadalive.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", VEVO REGIONAL MEXICANO
+https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772434
 #EXTINF:-1 tvg-logo="https://i.etsystatic.com/22315426/r/il/aed121/3129516360/il_1588xN.3129516360_lql8.jpg" group-title="TV OPCION 1",REGIONAL MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.SXZ4NuhBrBpZU78XW_OGdQAAAA?w=154&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", MMC
@@ -391,7 +402,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/3801
 #EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/azmundo.jpg" group-title="TV OPCION 2", AZ MUNDO
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgUc4QHpE2QCHeAQVm2HprLawGM1RlPmRWQ&usqp=CAU" group-title="TV OPCION 2", A+ 
-http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/302604
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0FoP883UjFoijLtMspFK776a5Cf8JeNggTFexxGFFuixfF2g17-g8Ke-SwEmCUL-Kx2U&usqp=CAU" group-title="TV OPCION 2", AZ CORAZON
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TV OPCION 2", LAS ESTRELLAS
@@ -580,47 +591,216 @@ http://hplay.xyz:80/NbuuHuMf/bHxuwp0R/313039
 
 
 
+#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="M | TV MAS FHD" tvg-logo="http://ceoapps.org/logos/tvmas.png" group-title="TV OPCION 3", TV MAS FHD
+http://sdmx.vip:8080/China02/china93/10829
+#EXTINF:-1 tvg-id="" tvg-name="M | TeleVer" tvg-logo="http://ceoapps.org/logos/telever.png" group-title="TV OPCION 3", TeleVer
+http://sdmx.vip:8080/China02/china93/10832
+#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="M | Nu9ve FHD" tvg-logo="http://ceoapps.org/logos/nu9ve.png" group-title="TV OPCION 3", Nu9ve FHD
+http://sdmx.vip:8080/China02/china93/10837
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="M | Canal 5 FHD" tvg-logo="http://ceoapps.org/logos/canal5.png" group-title="TV OPCION 3", Canal 5 FHD
+http://sdmx.vip:8080/China02/china93/27472
+#EXTINF:-1 tvg-id="canalmonterreyxefb.mx" tvg-name="M | Televisa Monterrey FHD" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Monterrey FHD
+http://sdmx.vip:8080/China02/china93/27495
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="M | Azteca Corazon FHD" tvg-logo="http://ceoapps.org/logos/azcorazon.png" group-title="TV OPCION 3", Azteca Corazon FHD
+http://sdmx.vip:8080/China02/china93/75649
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="M | Canal Once FHD" tvg-logo="http://ceoapps.org/logos/canalonce.png" group-title="TV OPCION 3", Canal Once FHD
+http://sdmx.vip:8080/China02/china93/84527
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="M | Azteca Mundo FHD" tvg-logo="http://ceoapps.org/logos/azmundo.png" group-title="TV OPCION 3", Azteca Mundo FHD
+http://sdmx.vip:8080/China02/china93/101312
+#EXTINF:-1 tvg-id="amastv.mx" tvg-name="M | A+ FHD" tvg-logo="http://ceoapps.org/logos/amas.png" group-title="TV OPCION 3", A+ FHD
+http://sdmx.vip:8080/China02/china93/154117
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="M | Azteca 7 FHD" tvg-logo="http://ceoapps.org/logos/azteca7.png" group-title="TV OPCION 3", Azteca 7 FHD
+http://sdmx.vip:8080/China02/china93/154123
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="M | Imagen TV FHD" tvg-logo="http://ceoapps.org/logos/imagentelevision.png" group-title="TV OPCION 3", Imagen TV FHD
+http://sdmx.vip:8080/China02/china93/155181
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="M | Multimedios FHD" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Multimedios FHD
+http://sdmx.vip:8080/China02/china93/155188
+#EXTINF:-1 tvg-id="" tvg-name="M | N+" tvg-logo="http://ceoapps.org/logos/nmas.png" group-title="TV OPCION 3", N+
+http://sdmx.vip:8080/China02/china93/2113879
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="M | Azteca Uno FHD" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV OPCION 3", Azteca Uno FHD
+http://sdmx.vip:8080/China02/china93/10816
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="M | Azteca Uno HD" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV OPCION 3", Azteca Uno HD
+http://sdmx.vip:8080/China02/china93/203184
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="M | Azteca Uno" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV OPCION 3", Azteca Uno
+http://sdmx.vip:8080/China02/china93/10835
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="M | Azteca Uno -2 Horas" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV OPCION 3", Azteca Uno -2 Horas
+http://sdmx.vip:8080/China02/china93/2055627
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="M | Azteca Mundo" tvg-logo="http://ceoapps.org/logos/azmundo.png" group-title="TV OPCION 3", Azteca Mundo
+http://sdmx.vip:8080/China02/china93/10800
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="M | Azteca Mundo HQ" tvg-logo="http://ceoapps.org/logos/azmundo.png" group-title="TV OPCION 3", Azteca Mundo HQ
+http://sdmx.vip:8080/China02/china93/154114
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="M | Azteca 7 HD" tvg-logo="http://ceoapps.org/logos/azteca7.png" group-title="TV OPCION 3", Azteca 7 HD
+http://sdmx.vip:8080/China02/china93/10814
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="M | Azteca 7" tvg-logo="http://ceoapps.org/logos/azteca7.png" group-title="TV OPCION 3", Azteca 7
+http://sdmx.vip:8080/China02/china93/154122
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="M | Azteca HD" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV OPCION 3", Azteca HD
+http://sdmx.vip:8080/China02/china93/199505
+#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="M | Azteca Clic" tvg-logo="http://ceoapps.org/logos/clic.png" group-title="TV OPCION 3", Azteca Clic
+http://sdmx.vip:8080/China02/china93/197238
+#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="M | Nu9ve" tvg-logo="http://ceoapps.org/logos/nu9ve.png" group-title="TV OPCION 3", Nu9ve
+http://sdmx.vip:8080/China02/china93/154124
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="M | Imagen TV HD" tvg-logo="http://ceoapps.org/logos/imagentelevision.png" group-title="TV OPCION 3", Imagen TV HD
+http://sdmx.vip:8080/China02/china93/155182
+#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="M | Nu9ve TV HD" tvg-logo="http://ceoapps.org/logos/nu9ve.png" group-title="TV OPCION 3", Nu9ve TV HD
+http://sdmx.vip:8080/China02/china93/155183
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="M | Azteca Uno HQ" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV OPCION 3", Azteca Uno HQ
+http://sdmx.vip:8080/China02/china93/155185
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="M | Canal 5 HD" tvg-logo="http://ceoapps.org/logos/canal5.png" group-title="TV OPCION 3", Canal 5 HD
+http://sdmx.vip:8080/China02/china93/155186
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="M | Azteca Corazon HD" tvg-logo="http://ceoapps.org/logos/azcorazon.png" group-title="TV OPCION 3", Azteca Corazon HD
+http://sdmx.vip:8080/China02/china93/75648
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="M | Azteca Corazon" tvg-logo="http://ceoapps.org/logos/azcorazon.png" group-title="TV OPCION 3", Azteca Corazon
+http://sdmx.vip:8080/China02/china93/154119
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="M | Canal 5" tvg-logo="http://ceoapps.org/logos/canal5.png" group-title="TV OPCION 3", Canal 5
+http://sdmx.vip:8080/China02/china93/10839
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="M | Las Estrellas FHD" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV OPCION 3", Las Estrellas FHD
+http://sdmx.vip:8080/China02/china93/27471
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="M | Las Estrellas HD" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV OPCION 3", Las Estrellas HD
+http://sdmx.vip:8080/China02/china93/10840
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="M | Las Estrellas" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV OPCION 3", Las Estrellas
+http://sdmx.vip:8080/China02/china93/154121
+#EXTINF:-1 tvg-id="" tvg-name="M | Las Estrellas -1 Hora" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV OPCION 3", Las Estrellas -1 Hora
+http://sdmx.vip:8080/China02/china93/2153486
+#EXTINF:-1 tvg-id="Estrella-2.Mx" tvg-name="M | Las Estrellas -2 Horas" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV OPCION 3", Las Estrellas -2 Horas
+http://sdmx.vip:8080/China02/china93/212817
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="M | Imagen TV" tvg-logo="http://ceoapps.org/logos/imagentelevision.png" group-title="TV OPCION 3", Imagen TV
+http://sdmx.vip:8080/China02/china93/10822
+#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="M | TV MAS" tvg-logo="http://ceoapps.org/logos/tvmas.png" group-title="TV OPCION 3", TV MAS
+http://sdmx.vip:8080/China02/china93/10817
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 8 - La Paz BCS" tvg-logo="http://ceoapps.org/logos/canal8lapaz.png" group-title="TV OPCION 3", Canal 8 - La Paz BCS
+http://sdmx.vip:8080/China02/china93/10820
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="M | Multimedios" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Multimedios
+http://sdmx.vip:8080/China02/china93/10821
+#EXTINF:-1 tvg-id="amastv.mx" tvg-name="M | A+" tvg-logo="http://ceoapps.org/logos/amas.png" group-title="TV OPCION 3", A+
+http://sdmx.vip:8080/China02/china93/76427
+#EXTINF:-1 tvg-id="amastv.mx" tvg-name="M | A+ HD" tvg-logo="http://ceoapps.org/logos/amas.png" group-title="TV OPCION 3", A+ HD
+http://sdmx.vip:8080/China02/china93/76504
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="M | Canal Once HD" tvg-logo="http://ceoapps.org/logos/canalonce.png" group-title="TV OPCION 3", Canal Once HD
+http://sdmx.vip:8080/China02/china93/154116
+#EXTINF:-1 tvg-id="once mx" tvg-name="M | Canal Once" tvg-logo="http://ceoapps.org/logos/canalonce.png" group-title="TV OPCION 3", Canal Once
+http://sdmx.vip:8080/China02/china93/10836
+#EXTINF:-1 tvg-id="" tvg-name="M | CANAL 26 Aguascalientes" tvg-logo="http://ceoapps.org/logos/canal26aguascalientes.png" group-title="TV OPCION 3", CANAL 26 Aguascalientes
+http://sdmx.vip:8080/China02/china93/10823
+#EXTINF:-1 tvg-id="hln.us" tvg-name="US | HLN" tvg-logo="http://sdmx.us:25461/images/bf81708ff203c6d0189a52ad6c471e65.png" group-title="TV OPCION 3", HLN
+http://sdmx.vip:8080/China02/china93/10830
+#EXTINF:-1 tvg-id="canaljudicial.mx" tvg-name="M | Canal Judicial HQ" tvg-logo="http://ceoapps.org/logos/canaljudicial.png" group-title="TV OPCION 3", Canal Judicial HQ
+http://sdmx.vip:8080/China02/china93/10831
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="M | Multimedios Plus" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Multimedios Plus
+http://sdmx.vip:8080/China02/china93/10834
+#EXTINF:-1 tvg-id="mvstv.mx" tvg-name="M | MVS TV" tvg-logo="http://ceoapps.org/logos/mvs.png" group-title="TV OPCION 3", MVS TV
+http://sdmx.vip:8080/China02/china93/76078
+#EXTINF:-1 tvg-id="xwwh.mx" tvg-name="M | Telemax" tvg-logo="http://ceoapps.org/logos/telemax.png" group-title="TV OPCION 3", Telemax
+http://sdmx.vip:8080/China02/china93/97293
+#EXTINF:-1 tvg-id="mvstv.mx" tvg-name="M | MVS TV HQ" tvg-logo="http://ceoapps.org/logos/mvs.png" group-title="TV OPCION 3", MVS TV HQ
+http://sdmx.vip:8080/China02/china93/154118
+#EXTINF:-1 tvg-id="canalmonterreyxefb.mx" tvg-name="M | Televisa Monterrey" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Monterrey
+http://sdmx.vip:8080/China02/china93/154120
+#EXTINF:-1 tvg-id="digital15" tvg-name="M | Canal 15 Fresnillo" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV OPCION 3", Canal 15 Fresnillo
+http://sdmx.vip:8080/China02/china93/165124
+#EXTINF:-1 tvg-id="canal4guadalajara.mx" tvg-name="M | Multimedios Guadalajara" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Multimedios Guadalajara
+http://sdmx.vip:8080/China02/china93/165126
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="M | Multimedios Laguna" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Multimedios Laguna
+http://sdmx.vip:8080/China02/china93/165127
+#EXTINF:-1 tvg-id="" tvg-name="M | MVM Noticias Oaxaca" tvg-logo="http://ceoapps.org/logos/mvnoax.png" group-title="TV OPCION 3", MVM Noticias Oaxaca
+http://sdmx.vip:8080/China02/china93/165129
+#EXTINF:-1 tvg-id="" tvg-name="M | CANAL 12 Tijuana" tvg-logo="http://ceoapps.org/logos/canal12.png" group-title="TV OPCION 3", CANAL 12 Tijuana
+http://sdmx.vip:8080/China02/china93/165131
+#EXTINF:-1 tvg-id="" tvg-name="M | RCG 3 Saltillo" tvg-logo="http://ceoapps.org/logos/rcg.png" group-title="TV OPCION 3", RCG 3 Saltillo
+http://sdmx.vip:8080/China02/china93/165132
+#EXTINF:-1 tvg-id="" tvg-name="M | RTQ Queretaro" tvg-logo="http://ceoapps.org/logos/rtq.png" group-title="TV OPCION 3", RTQ Queretaro
+http://sdmx.vip:8080/China02/china93/165133
+#EXTINF:-1 tvg-id="" tvg-name="M | Sipse TV Cancun" tvg-logo="http://ceoapps.org/logos/sipse.png" group-title="TV OPCION 3", Sipse TV Cancun
+http://sdmx.vip:8080/China02/china93/165134
+#EXTINF:-1 tvg-id="xwwh.mx" tvg-name="M | Telemax Hermosillo" tvg-logo="http://ceoapps.org/logos/telemax.png" group-title="TV OPCION 3", Telemax Hermosillo
+http://sdmx.vip:8080/China02/china93/165136
+#EXTINF:-1 tvg-id="azteca13.mx" tvg-name="M | TRC TV Campeche" tvg-logo="http://ceoapps.org/logos/trc.png" group-title="TV OPCION 3", TRC TV Campeche
+http://sdmx.vip:8080/China02/china93/165138
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="M | Multimedios HD" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Multimedios HD
+http://sdmx.vip:8080/China02/china93/199373
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="M | Multimedios Plus HD" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Multimedios Plus HD
+http://sdmx.vip:8080/China02/china93/202592
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="M | Canal 6.2 Multimedios Saltillo" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Canal 6.2 Multimedios Saltillo
+http://sdmx.vip:8080/China02/china93/212819
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 7 SLP" tvg-logo="http://ceoapps.org/logos/slpz.png" group-title="TV OPCION 3", Canal 7 SLP
+http://sdmx.vip:8080/China02/china93/216022
+#EXTINF:-1 tvg-id="" tvg-name="M | Jalisco TV" tvg-logo="http://ceoapps.org/logos/jaliscotv.png" group-title="TV OPCION 3", Jalisco TV
+http://sdmx.vip:8080/China02/china93/216023
+#EXTINF:-1 tvg-id="" tvg-name="M | SET Puebla" tvg-logo="http://ceoapps.org/logos/set.png" group-title="TV OPCION 3", SET Puebla
+http://sdmx.vip:8080/China02/china93/216024
+#EXTINF:-1 tvg-id="" tvg-name="M | Cortv Oaxaca" tvg-logo="http://ceoapps.org/logos/cortv.png" group-title="TV OPCION 3", Cortv Oaxaca
+http://sdmx.vip:8080/China02/china93/216025
+#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="M | Televisa Puebla" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Puebla
+http://sdmx.vip:8080/China02/china93/224164
+#EXTINF:-1 tvg-id="canal4guadalajara.mx" tvg-name="M | Canal 4 FHD" tvg-logo="http://ceoapps.org/logos/tvcuatro.png" group-title="TV OPCION 3", Canal 4 FHD
+http://sdmx.vip:8080/China02/china93/10826
+#EXTINF:-1 tvg-id="" tvg-name="M | Televisa (Leon) FHD" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa (Leon) FHD
+http://sdmx.vip:8080/China02/china93/10827
+#EXTINF:-1 tvg-id="" tvg-name="M | TVT Tabasco" tvg-logo="http://ceoapps.org/logos/tvt.png" group-title="TV OPCION 3", TVT Tabasco
+http://sdmx.vip:8080/China02/china93/2123294
+#EXTINF:-1 tvg-id="" tvg-name="M| Canal 4" tvg-logo="http://ceoapps.org/logos/tvcuatro.png" group-title="TV | Mexico",M| Canal 4
+http://sdmx.vip:8080/China02/china93/2123314
+#EXTINF:-1 tvg-id="" tvg-name="M| Canal 12 Tijuana" tvg-logo="http://ceoapps.org/logos/canal12.png" group-title="TV | Mexico",M| Canal 12 Tijuana
+http://sdmx.vip:8080/China02/china93/2123316
+#EXTINF:-1 tvg-id="" tvg-name="D | Zona TUDN MX" tvg-logo="http://ceoapps.org/logos/zonatudn2.png" group-title="TV | Deportes",D | Zona TUDN MX
+http://sdmx.vip:8080/China02/china93/2130323
+#EXTINF:-1 tvg-id="" tvg-name="C | Love Nature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="TV | Cultura",C | Love Nature
+http://sdmx.vip:8080/China02/china93/2139190
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal del Congreso" tvg-logo="http://ceoapps.org/logos/canaldelcongreso.png" group-title="TV OPCION 3", Canal del Congreso
+http://sdmx.vip:8080/China02/china93/2145514
+#EXTINF:-1 tvg-id="" tvg-name="M | Televisa Puebla HD" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Puebla HD
+http://sdmx.vip:8080/China02/china93/2145663
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="M | Justicia TV HD" tvg-logo="http://ceoapps.org/logos/justiciatv.png" group-title="TV OPCION 3", Justicia TV HD
+http://sdmx.vip:8080/China02/china93/2145666
+#EXTINF:-1 tvg-id="" tvg-name="M | MN Mega Noticias HD" tvg-logo="http://ceoapps.org/logos/mnmnoticias.png" group-title="TV OPCION 3", MN Mega Noticias HD
+http://sdmx.vip:8080/China02/china93/2145668
+#EXTINF:-1 tvg-id="" tvg-name="M | AMX Noticias" tvg-logo="http://ceoapps.org/logos/amx.png" group-title="TV OPCION 3", AMX Noticias
+http://sdmx.vip:8080/China02/china93/2145669
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 4 Guajuato HD" tvg-logo="http://ceoapps.org/logos/tvcuatro.png" group-title="TV OPCION 3", Canal 4 Guajuato HD
+http://sdmx.vip:8080/China02/china93/2145674
+#EXTINF:-1 tvg-id="" tvg-name="M| Mexiquense" tvg-logo="http://ceoapps.org/logos/mexiquense.png" group-title="TV | Mexico",M| Mexiquense
+http://sdmx.vip:8080/China02/china93/2145707
+#EXTINF:-1 tvg-id="" tvg-name="M | TVP Culiacan" tvg-logo="http://ceoapps.org/logos/tvp.png" group-title="TV OPCION 3", TVP Culiacan
+http://sdmx.vip:8080/China02/china93/2145787
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 13 Tabasco" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV OPCION 3", Canal 13 Tabasco
+http://sdmx.vip:8080/China02/china93/2158065
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 13 Michoacan" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV OPCION 3", Canal 13 Michoacan
+http://sdmx.vip:8080/China02/china93/2158066
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 13 Campeche" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV OPCION 3", Canal 13 Campeche
+http://sdmx.vip:8080/China02/china93/2158067
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 13 Chiapas" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV OPCION 3", Canal 13 Chiapas
+http://sdmx.vip:8080/China02/china93/2158068
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 13 Oaxaca" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV OPCION 3", Canal 13 Oaxaca
+http://sdmx.vip:8080/China02/china93/2158069
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 13 Yucatan" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV OPCION 3", Canal 13 Yucatan
+http://sdmx.vip:8080/China02/china93/2158070
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 13 Puebla" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV OPCION 3", Canal 13 Puebla
+http://sdmx.vip:8080/China02/china93/2158071
+#EXTINF:-1 tvg-id="" tvg-name="M | Televisa Guerrero" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Guerrero
+http://sdmx.vip:8080/China02/china93/2158072
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 66 Mexicali" tvg-logo="http://ceoapps.org/logos/canal66.png" group-title="TV OPCION 3", Canal 66 Mexicali
+http://sdmx.vip:8080/China02/china93/2159384
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 4 Guadalajara" tvg-logo="http://ceoapps.org/logos/canal_4_guadalajuara.png" group-title="TV OPCION 3", Canal 4 Guadalajara
+http://sdmx.vip:8080/China02/china93/2123315
+#EXTINF:-1 tvg-id="" tvg-name="M | Canal 10 Durango" tvg-logo="http://ceoapps.org/logos/canal10durango.png" group-title="TV OPCION 3", Canal 10 Durango
+http://sdmx.vip:8080/China02/china93/2165784
+#EXTINF:-1 tvg-id="" tvg-name="M | Vallevision" tvg-logo="https://pbs.twimg.com/profile_images/896117222854205440/MDRIj2u5_400x400.jpg" group-title="TV OPCION 3", Vallevision
+http://sdmx.vip:8080/China02/china93/2169170
+#EXTINF:-1 tvg-id="" tvg-name="M | Televisa Mexicali" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Mexicali
+http://sdmx.vip:8080/China02/china93/2169269
+#EXTINF:-1 tvg-id="" tvg-name="M | Televisa Durango" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Durango
+http://sdmx.vip:8080/China02/china93/2169270
+#EXTINF:-1 tvg-id="" tvg-name="M | Televisa Morelos" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Morelos
+http://sdmx.vip:8080/China02/china93/2169271
+#EXTINF:-1 tvg-id="" tvg-name="M | Televisa Yucatan" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Yucatan
+http://sdmx.vip:8080/China02/china93/2169272
+#EXTINF:-1 tvg-id="" tvg-name="M | Televisa Sonora" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Sonora
+http://sdmx.vip:8080/China02/china93/2169493
+#EXTINF:-1 tvg-id="xhudgcanal44.es" tvg-name="N | Canal 44 - El Canal de las Noticias" tvg-logo="http://ceoapps.org/logos/canal44.png" group-title="TV OPCION 3", Canal 44 - El Canal de las Noticias
+http://sdmx.vip:8080/China02/china93/200381
+#EXTINF:-1 tvg-id="" tvg-name="N | CP24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Cablepulse24.svg/1280px-Cablepulse24.svg.png" group-title="TV OPCION 3" CP24
+http://sdmx.vip:8080/China02/china93/212110
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 3", MILENIO HD 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78489.ts
-#EXTINF:-1 tvg-logo="https://formaparte.grupoformula.com.mx/images/brand2.png" group-title="TV OPCION 3", TELEFORMULA 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67419.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo_Azteca_7_1999.svg/1200px-Logo_Azteca_7_1999.svg.png" group-title="TV OPCION 3", AZTECA 7 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78352.ts
-#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67327.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="TV OPCION 3", CANAL 5 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/101363.ts
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/vzNy4ePj6P7YwFyNRvE8uCEG4H3wTmZH1-v40dZbaYG0CE100DiTrKm7oD7W2EgHFTfWGhsy=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 3", UNICABLE 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67440.ts
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.729936f5e9281d7a35929dd82ff86503?rik=H6sRbFmNSufuBw&riu=http%3a%2f%2fmedia.masslive.com%2fentertainment%2fphoto%2f11287290-large.jpg&ehk=Zn%2bTrTi2xGq%2fh4xsRUOoZDB9G5SoSqEo02QlHiRDc9U%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 3", A&E
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78333.ts
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGNPtUroUbz8Q/company-logo_200_200/0/1664215107963?e=2147483647&v=beta&t=xO8K2PHuuJJU1-khrYHU1pdrzdvQoSXyuzEt4Fr0SW0" group-title="TV OPCION 3", FX
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78455.ts
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.45b205f99d5a708d9f11bc372ea1422b?rik=Lo8mIlIQ0LYnIQ&pid=ImgRaw&r=0" group-title="TV OPCION 3", SONY
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78518.ts
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUbrhoUvR7irF__UOi0uxVVjhLKC0F_UIAdj1v-0g=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 3", UNIVERSAL CHANNEL 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67442.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_comedy-central-hd_m.png" group-title="TV OPCION 3", COMEDY CENTRAL 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78398.ts
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 3", DISTRITO COMEDIA 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78416.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/684061254353174529/wjSOKcvm_400x400.jpg" group-title="TV OPCION 3", ULTRA CLASICO
-http://budtvlight.com:25461/bud-185308/acbd5173b7/73896
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXeSlJpHoIHVibHcBj0-vH993DnouCkUb7Flp7k=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 3", ULTRA MEX
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78558.ts
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ddc36ac015e01fee6366fb10bf1f11ca?rik=dof5ZJfbLD48pg&pid=ImgRaw&r=0" group-title="TV OPCION 3", AMC
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78340.ts
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.92231216_GoldenPlus2020.png.d59a79a13d995edfc0dc2f0c02253cc5.png" group-title="TV OPCION 3", GOLDEN PLUS
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67380.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV OPCION 3", GOLDEN EDGE
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78461.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV OPCION 3", GOLDEN EDGE
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/67381.ts
-#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/space.jpg" group-title="TV OPCION 3", SPACE 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78519.ts
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="TV OPCION 3", STUDIO UNIVERSAL 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/78522.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.milenio.com/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="TV OPCION 4", LA ROSA DE GUADALUPE
