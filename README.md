@@ -737,13 +737,13 @@ http://sdmx.vip:8080/China02/china93/10826
 http://sdmx.vip:8080/China02/china93/10827
 #EXTINF:-1 tvg-id="" tvg-name="M | TVT Tabasco" tvg-logo="http://ceoapps.org/logos/tvt.png" group-title="TV OPCION 3", TVT Tabasco
 http://sdmx.vip:8080/China02/china93/2123294
-#EXTINF:-1 tvg-id="" tvg-name="M| Canal 4" tvg-logo="http://ceoapps.org/logos/tvcuatro.png" group-title="TV | Mexico",M| Canal 4
+#EXTINF:-1 tvg-id="" tvg-name="M| Canal 4" tvg-logo="http://ceoapps.org/logos/tvcuatro.png" group-title="TV OPCION 3", Canal 4
 http://sdmx.vip:8080/China02/china93/2123314
-#EXTINF:-1 tvg-id="" tvg-name="M| Canal 12 Tijuana" tvg-logo="http://ceoapps.org/logos/canal12.png" group-title="TV | Mexico",M| Canal 12 Tijuana
+#EXTINF:-1 tvg-id="" tvg-name="M| Canal 12 Tijuana" tvg-logo="http://ceoapps.org/logos/canal12.png" group-title="TV OPCION 3", Canal 12 Tijuana
 http://sdmx.vip:8080/China02/china93/2123316
-#EXTINF:-1 tvg-id="" tvg-name="D | Zona TUDN MX" tvg-logo="http://ceoapps.org/logos/zonatudn2.png" group-title="TV | Deportes",D | Zona TUDN MX
+#EXTINF:-1 tvg-id="" tvg-name="D | Zona TUDN MX" tvg-logo="http://ceoapps.org/logos/zonatudn2.png" group-title="TV OPCION 3", Zona TUDN MX
 http://sdmx.vip:8080/China02/china93/2130323
-#EXTINF:-1 tvg-id="" tvg-name="C | Love Nature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="TV | Cultura",C | Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="C | Love Nature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="TV OPCION 3", Love Nature
 http://sdmx.vip:8080/China02/china93/2139190
 #EXTINF:-1 tvg-id="" tvg-name="M | Canal del Congreso" tvg-logo="http://ceoapps.org/logos/canaldelcongreso.png" group-title="TV OPCION 3", Canal del Congreso
 http://sdmx.vip:8080/China02/china93/2145514
@@ -757,7 +757,7 @@ http://sdmx.vip:8080/China02/china93/2145668
 http://sdmx.vip:8080/China02/china93/2145669
 #EXTINF:-1 tvg-id="" tvg-name="M | Canal 4 Guajuato HD" tvg-logo="http://ceoapps.org/logos/tvcuatro.png" group-title="TV OPCION 3", Canal 4 Guajuato HD
 http://sdmx.vip:8080/China02/china93/2145674
-#EXTINF:-1 tvg-id="" tvg-name="M| Mexiquense" tvg-logo="http://ceoapps.org/logos/mexiquense.png" group-title="TV | Mexico",M| Mexiquense
+#EXTINF:-1 tvg-id="" tvg-name="M| Mexiquense" tvg-logo="http://ceoapps.org/logos/mexiquense.png" group-title="TV | Mexico", Mexiquense
 http://sdmx.vip:8080/China02/china93/2145707
 #EXTINF:-1 tvg-id="" tvg-name="M | TVP Culiacan" tvg-logo="http://ceoapps.org/logos/tvp.png" group-title="TV OPCION 3", TVP Culiacan
 http://sdmx.vip:8080/China02/china93/2145787
