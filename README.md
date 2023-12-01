@@ -9,6 +9,8 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",EXCELSIOR  TV 
 https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",EXCELSIOR  TV 2
+https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="TV OPCION 1",EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV OPCION 1",MULTIMEDIOS MONTERREY
@@ -35,12 +37,16 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , LAS ESTRELLAS -OP2
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , EL NUEVE AGSCAL
+https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,UNIVISION
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisaEstado.mx" tvg-logo="https://i.imgur.com/BT2ci5E.png" group-title="TV OPCION 1",Televisa EDO MEX 
 https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="TV OPCION 1",Once Mexico 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="TV OPCION 1" AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="TV OPCION 1",TV Azteca Noroeste (Monterrey) (720p)
@@ -49,6 +55,8 @@ https://live.info7.mx/info7/stream.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1", A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1",TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV (1080p)
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.92ed8577ecce7013b885cda85ae2e202?rik=F3YTp9r2knBZOQ&pid=ImgRaw&r=0" group-title="TV OPCION 1", GALAVISION
