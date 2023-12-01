@@ -106,6 +106,8 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="TV OPCION 1",Xtrema Series (360p)
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",LOVE NATURE
+https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772387.ts|User-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="TV OPCION 1",Pluto TV Love Nature (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="TV OPCION 1",PlanetaTV Movie (720p)
@@ -210,6 +212,10 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="TV OPCION 1",Retro PELIS
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1",OLD
+https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772410.ts|User-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
+#EXTINF:-1 group-title="TV OPCION 1", DREIKO TV
+https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772367.ts|User-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 group-title="TV OPCION 1", COMO ANTES TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/171
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ztZHh7pQ9Ac8agXQ8mDTywHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", RETRO X
