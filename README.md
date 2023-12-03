@@ -182,7 +182,7 @@ https://linear-343.frequency.stream/dist/vix/343/hls/master/playlist.m3u8
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.tvspacehd.com%2F2022%2F10%2Fgolden-plus.html&psig=AOvVaw3EG1RKX38sa1LknrU41Kdu&ust=1701724015076000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCzlqyX9IIDFQAAAAAdAAAAABAZ" group-title="TV OPCION 1" ,GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 1" ,GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
