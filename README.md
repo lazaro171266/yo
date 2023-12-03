@@ -154,7 +154,7 @@ http://177.234.230.226:8010/play/a00h/index.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RIGRCcPMikA/maxresdefault.jpg" group-title="TV OPCION 1",CINE DE ORO MEXICANO
+#EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t39.30808-6/300834146_456891763119975_7482949456401382255_n.png?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFHi9xDN_AHtFwbp9waarXNasA8nzMuuEJqwDyfMy64Qgm6-jYFDhkMtWC-UaBfAn2wJH7sBp0_Q9e8suf3PN7z&_nc_ohc=7aR1mJp28ZYAX_xFwtf&_nc_oc=AQmMsnbFLvJAg797doOLLBhyHEhLMw8lThcYWOnGaFA8Sp-xExUXa9wl12zd8aj4Xof9stnQMCAO_zFCH4YPbVLT&_nc_ht=scontent.fver2-1.fna&oh=00_AfA--7-SdT8GveBT_OmNYGJV44KqUDyGi-3O0Y1mpCP6vA&oe=65729FD4" group-title="TV OPCION 1",CINE DE ORO MEXICANO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1015291157860020230/NAY2iXam_400x400.jpg" group-title="TV OPCION 1",MEGACINE HD 
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
