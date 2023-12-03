@@ -45,7 +45,7 @@ https://live.info7.mx/info7/stream.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1", A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zF8urZrMb8DwBf6Y0JZZnk6lpr-0cONuaBm4Apc8LH9UKmx-vhfatrTlnZEn3ewVPyxg" group-title="TV OPCION 1",TELEMUNDO PR
+#EXTINF:-1 tvg-logo="https://imagenpoblana.com/medios/diario/20181029/160272.jpg" group-title="TV OPCION 1",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV (1080p)
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -196,8 +196,6 @@ http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=peliculas_mania
 http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=beto_7hd
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.UmOGXRBt3Di3iO994My2TwHaE8?w=226&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1" , NETFLIX HD
 http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=a_neflix01
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , CHELE HD
-http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=cheli_cooper
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQbU5L8feakFXv1ZHK8PpALBG3RENjhhyV7gOKq=s176-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", TERROR TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
@@ -207,10 +205,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1",OLD
 https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772410.ts|User-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 group-title="TV OPCION 1", DREIKO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPnTQ7RhWSPEsAtUSLF3Z9vYZCczSZhHpaQ&usqp=CAU" group-title="TV OPCION 1", DREIKO TV
 https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772367.ts|User-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
-#EXTINF:-1 group-title="TV OPCION 1", COMO ANTES TV
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/171
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ztZHh7pQ9Ac8agXQ8mDTywHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", RETRO X
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHbKiZyAi-w4ZpsUeYyWyHDU/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPr21JUm7clwHSrF87TPe1QRkRfM8JuAd_CQ&usqp=CAU" group-title="TV OPCION 1", CLASSIC CHANNEL
@@ -243,7 +239,7 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/175
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", PROCESIA TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8b3018c8d528155d9d5dd615797d6ca5.webp" group-title="TV OPCION 1",ACCION MEXICANAS
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnBlbGljdWxhc2VuZXNwYW5vbC5wZWxpY3VsYXNtZXhpY2FuYXNlcG9jYWRlb3JveWNpbmVtZXhpY2Fub19pY29uXzhpbWwydzk2/icon.png?fakeurl=1&h=240&type=webp" group-title="TV OPCION 1",ACCION MEXICANAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Cine_Estelar.png/revision/latest?cb=20100622201645" group-title="TV OPCION 1", CINE ESTELAR
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
