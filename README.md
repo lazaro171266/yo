@@ -8,8 +8,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="TV OPCION 1", ADN40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",EXCELSIOR  TV 
-https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",EXCELSIOR  TV 2
 https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="TV OPCION 1",EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
@@ -35,17 +33,9 @@ https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , LAS ESTRELLAS -OP2
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS 2
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , EL NUEVE AGSCAL
-https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,UNIVISION
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisaEstado.mx" tvg-logo="https://i.imgur.com/BT2ci5E.png" group-title="TV OPCION 1",Televisa EDO MEX 
-https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="TV OPCION 1",Once Mexico 
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0351vF.png" group-title="TV OPCION 1" AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.TjnBcqKWpJt_wlxbEUKfLwHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -114,7 +104,7 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="TV OPCION 1",Xtrema Series (360p)
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",LOVE NATURE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="TV OPCION 1",LOVE NATURE
 https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772387.ts|User-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="TV OPCION 1",Pluto TV Love Nature (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -194,13 +184,12 @@ https://linear-339.frequency.stream/dist/vix/339/hls/master/playlist.m3u8
 https://linear-343.frequency.stream/dist/vix/343/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LA ROSA
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.imagenpoblana.mx/medios/diario/20160402/89082.jpg" group-title="TV OPCION 1" ,GOLDEN
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 1" ,GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fwww.tvspacehd.com%2F2022%2F10%2Fgolden-plus.html&psig=AOvVaw3EG1RKX38sa1LknrU41Kdu&ust=1701724015076000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCzlqyX9IIDFQAAAAAdAAAAABAZ" group-title="TV OPCION 1" ,GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.imagenpoblana.mx/medios/diario/20160402/89082.jpg" group-title="TV OPCION 1" ,GOLDEN PREMIER
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9bee320c3818dbc2ddc14975a99e84a5?rik=zCyWwiA65QPS1g&pid=ImgRaw&r=0" group-title="TV OPCION 1", CINEMUNDO
