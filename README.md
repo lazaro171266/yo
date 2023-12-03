@@ -158,17 +158,13 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1015291157860020230/NAY2iXam_400x400.jpg" group-title="TV OPCION 1",MEGACINE HD 
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1 vg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/orbit-tv.jpg?itok=C3qDW8zT" group-title="TV OPCION 1", ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1",MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://press.upentertainment.com/wp-content/uploads/2021/09/cine-romantico-red-750x500-1.jpg" group-title="TV OPCION 1",Cine Romantico
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/resize/384x216/https%3A%2F%2Fimages.sr.roku.com%2FidType%2Froku%2Fcontext%2Ftrc%2Fid%2Faef5bddc6e8a5ff5bff016a525b2c5f5%2FrokuFeed%2Fassets%2Fc532e8de2c7a5d28bdf6bc7a967960d7.jpg%2Fmagic%2F384x0" group-title="TV OPCION 1",Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV OPCION 1" ,Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,ATV+
-https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,MY TIME NETWORK
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1" ,MY TIME NETWORK
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,NUESTRA VISION
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
