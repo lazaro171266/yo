@@ -45,7 +45,7 @@ https://live.info7.mx/info7/stream.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1", A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest?cb=20200308213727&path-prefix=es" group-title="TV OPCION 1",TELEMUNDO PR
+#EXTINF:-1 tvg-logo="https://media.telemundopr.com/2022/08/WKAQ-tvOS_App-Store-1280x768-3.png?fit=1280%2C768&quality=85&strip=all" group-title="TV OPCION 1",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV (1080p)
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
