@@ -1827,8 +1827,8 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/2555
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2554
 
 
-
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlYjZiMGEtZWQyMy00NTE5LWFmNmYtNjFjMjk1YjNiOGZmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS", ROBOCOP 3
+http://51.158.201.245:91/Uploads/Accion/Robocop-3-1993-lat.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81z3kb3TRpL._AC_UF1000,1000_QL80_.jpg" group-title="PELICULAS", NORBIT
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zCOikuf8GqPVmgERDTOQqgkO-BrBv6agAg5K-RGGgKAF
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/198/21019828_20130716124830723.jpg" group-title="PELICULAS", LOS DIOSES DEBEN ESTAR  LOCOS
