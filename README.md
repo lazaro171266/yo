@@ -130,21 +130,21 @@ https://stream.krgv.com/krgv-english/krgv-somos.smil/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/oUBTdrr4vTl59MVkrl3m8P-sNDQXXivQlrF8XU2oMD-_lgcilF26ajv-4uL3yXCouW8" group-title="TV OPCION 1",CANELA KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Music Presents
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdnandroid.com/item_images/1275004/imagen-canela-music-0ori.jpg" group-title="TV OPCION 1",Canela Music Presents
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV OPCION 1",Canela Telenovelas
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e504b6f1e6d30c13ae95fc2064376e26.webp" group-title="TV OPCION 1",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="TV OPCION 1",Canela TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hllkpk.png" group-title="TV OPCION 1",Canela TV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
 #EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="TV OPCION 1",Cine Sureño (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dgMZLC2.png" group-title="TV OPCION 1",Juntos (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Novelas Turcas
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SAO2gn9FixE/maxresdefault.jpg" group-title="TV OPCION 1",Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Novelisima
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_UxyN3kvZpoAYKdJqAauf73K4_eShG0gZNT_UHT2E1jkIabNL7x3bv7bEm2tyIQCUVEB" group-title="TV OPCION 1",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",POP DEL AYER
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-2KOzdT6p4Fry9WX3-VACyzQ-t500x500.jpg" group-title="TV OPCION 1",POP DEL AYER
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Tierra De Amor Y Venganza
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
