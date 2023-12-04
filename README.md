@@ -180,6 +180,8 @@ https://linear-339.frequency.stream/dist/vix/339/hls/master/playlist.m3u8
 https://linear-343.frequency.stream/dist/vix/343/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LA ROSA
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="TV OPCION 1" ,HBO
+http://45.238.21.84:8000/live/play/a07j.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 1" ,GOLDEN PLUS
@@ -274,7 +276,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/138187
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="TV OPCION 1", CINEMA DINAMITA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/155201
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX CLASICO
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/140821
+http://00322.xyz:8000/live/ntxplay3@/HBRH13DNXH/140821.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/146598
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="TV OPCION 1", CINE ESTRELLA TV
