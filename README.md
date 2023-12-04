@@ -35,6 +35,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="TV OPCION 1", CANAL 5
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS 2
@@ -55,10 +57,10 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/148708
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/148710
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es" group-title="TV OPCION 1",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV (1080p)
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/148789
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://paramountshop.com/cdn/shop/products/CC-Logo-ViacomCBS-ComedyCentral-NL6010-VintageBlack-RO_1445x.png?v=1673466499" group-title="TV OPCION 1",COMEDY CENTRAL
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150324
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IzOaP79D3qs/X-zKgm55PgI/AAAAAAAA7CQ/kKExis2PoqMYDHeI86NP76b2-O_uYIfwwCLcBGAsYHQ/s1080/dcc.png" group-title="TV OPCION 1", DISTRITO COMEDIA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/4783
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.92ed8577ecce7013b885cda85ae2e202?rik=F3YTp9r2knBZOQ&pid=ImgRaw&r=0" group-title="TV OPCION 1", GALAVISION
@@ -180,6 +182,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1" ,MY TIME NETWORK
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1610669424503046145/OZqWJKM5_400x400.jpg" group-title="TV OPCION 1", LIFETIME
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/154829
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_dhe_m.png" group-title="TV OPCION 1", DHE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/153595
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="TV OPCION 1", STAR CHANNEL
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/150088
 #EXTINF:-1 tvg-logo="https://amcnetworks.es/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png" group-title="TV OPCION 1", AMC
@@ -194,6 +200,21 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/150093
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/150108
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/E0wMD62SdE8NXSp5RCqFpJsaSdUa4ltUBoqfIWP4Tryu_5SodMCiHmidw8I5LRu4k9dq6bs6oxk=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", PARAMOUNT
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/150111
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV OPCION 1", SONY
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150112
+#EXTINF:-1 tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/TNT.jpg" group-title="TV OPCION 1", TNT
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150115
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="TV OPCION 1", FX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150121
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="TV OPCION 1", FX 2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150122
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909" group-title="TV OPCION 1", WARNER TV
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150107
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="TV OPCION 1", FILMS & ARTS
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150098
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="TV OPCION 1", HBO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2790
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="TV OPCION 1", HBO 2
