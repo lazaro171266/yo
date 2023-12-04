@@ -63,6 +63,8 @@ https://estrellatv-glewed.amagi.tv/playlist.m3u8
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/4783
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.92ed8577ecce7013b885cda85ae2e202?rik=F3YTp9r2knBZOQ&pid=ImgRaw&r=0" group-title="TV OPCION 1", GALAVISION
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHX1JpSqXxWrY4TEBNg_lSfA/ts
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.qCBDxwJKzDKsObp6WfxT2AHaHd?pid=ImgDet&w=207&h=208&c=7" group-title="TV OPCION 1",UNIMAS 720
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148709
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.qCBDxwJKzDKsObp6WfxT2AHaHd?pid=ImgDet&w=207&h=208&c=7" group-title="TV OPCION 1",UNIMAS
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHcKMQPLN7einqnWC-Lvq36Y/ts
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.77490d86b2b569eefd8b5f68fc9ca091?rik=zipDskgPHudUyA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-myjq_KmcsHI%2fTV0Npm5dCmI%2fAAAAAAAAAAk%2f8xUR43P4wQU%2fs1600%2funivision1.jpg&ehk=bekC0RPPYKH%2bQ%2f0KanfGDclGI1W3ETA2V09YgiDZauI%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1",UNIVISION
