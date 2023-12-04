@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="TV OPCION 1",LA ROSA DE GUADALUPE
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/138461
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehrksIEiTDV9n7O0OJ7Pn9yRUry8MLkj5BJMX581T5jy7zs-SVcuaiTI9H2YvisntLNs&usqp=CAU" group-title="TV OPCION 1",FOX SPORTS PREMIUM
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/146541
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="TV OPCION 1",TUDN USA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/146837
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TELEFORMULA
@@ -49,7 +49,9 @@ https://live.info7.mx/info7/stream.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1", A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="https://imagenpoblana.com/medios/diario/20181029/160272.jpg" group-title="TV OPCION 1",TELEMUNDO PR
+#EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t1.6435-9/40160003_1114206978733199_293414354433343488_n.png?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeETBtE6cFWJpulxStkyXp6TfaEFF9qceUB9oQUX2px5QDBFp-mpWoi3lxGr_A3HkvkSuZKMv2oD6VbDTE6-fQ2R&_nc_ohc=kONf4pIwlwYAX8h-sgE&_nc_ht=scontent.fver2-1.fna&oh=00_AfDEcx4mztK7JeDNBtcArznMGaTPTf0VXC-9sASwUopH2Q&oe=6594C1E6" group-title="TV OPCION 1",TELEMUNDO INTERNACIONAL
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148708
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es" group-title="TV OPCION 1",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV (1080p)
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
@@ -301,6 +303,10 @@ https://linear-339.frequency.stream/dist/vix/339/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LA PROMESA
 https://linear-343.frequency.stream/dist/vix/343/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , MTV CLASSIC
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/146537
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , SUPER DISCOTECA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/146524
 #EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FCumbiasMixx%2F&psig=AOvVaw1riIdBAeCEpM76Yxu40AJz&ust=1698378756283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiwzdzbkoIDFQAAAAAdAAAAABAj" group-title="TV OPCION 1",CUMBIA DRIVE MIX 2023
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/161033
 #EXTINF:-1 group-title="TV OPCION 1", DJ SOL (REGGAETÓN Y CUMBIA)
