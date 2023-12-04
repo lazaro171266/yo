@@ -166,21 +166,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1" ,MY TIME NETWORK
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,NUESTRA VISION
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,DISTRITO COMEDIA
-https://linear-310.frequency.stream/dist/vix/310/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,VIX NOVELAS
-https://linear-318.frequency.stream/dist/vix/318/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,VIX COMEDIA
-https://linear-312.frequency.stream/dist/vix/312/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LAS ESTRELLAS
-https://linear-339.frequency.stream/dist/vix/339/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LA PROMESA
-https://linear-343.frequency.stream/dist/vix/343/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LA ROSA
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="TV OPCION 1" HBO
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="TV OPCION 1", HBO
 http://magmas5.com:8000/live/goodserver/2C4X1EC7EW/2790.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
@@ -284,6 +270,17 @@ https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772352
 #EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/11/mx-nuestro-cine-donde-ver-canal-cine-mexicano.jpg" group-title="TV OPCION 1", MX NUESTRO CINE
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772408
 
+https:#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,DISTRITO COMEDIA
+https://linear-310.frequency.stream/dist/vix/310/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,VIX NOVELAS
+https://linear-318.frequency.stream/dist/vix/318/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,VIX COMEDIA
+https://linear-312.frequency.stream/dist/vix/312/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LAS ESTRELLAS
+https://linear-339.frequency.stream/dist/vix/339/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LA PROMESA
+https://linear-343.frequency.stream/dist/vix/343/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FCumbiasMixx%2F&psig=AOvVaw1riIdBAeCEpM76Yxu40AJz&ust=1698378756283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiwzdzbkoIDFQAAAAAdAAAAABAj" group-title="TV OPCION 1",CUMBIA DRIVE MIX 2023
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/161033
 #EXTINF:-1 group-title="TV OPCION 1", DJ SOL (REGGAETÓN Y CUMBIA)
@@ -291,7 +288,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/148242
 #EXTINF:-1 group-title="TV OPCION 1", E MUSIC
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/155
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDs0Ty_KJ1j-5-nkaIunEWGk_oZ-qfxbWAA&usqp=CAU" group-title="TV OPCION 1",RETRO MUSIC BALADAS
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8//video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rcoZX4bOwtLt6U07QYHqbwAAAA?pid=ImgDet&w=206&h=206&c=7" group-title="TV OPCION 1", MEMORIAS TV
