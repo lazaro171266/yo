@@ -37,7 +37,7 @@ https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://newsletters.worldscreen.com/tvcanales/img/2015-01-06-logounicable.gif" group-title="TV OPCION 1",UNICABLE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/156072
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg" group-title="TV OPCION 1",BITME
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="TV OPCION 1",BITME
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/155964
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV OPCION 1",IMAGEN TV
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
