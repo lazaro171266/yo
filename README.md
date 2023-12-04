@@ -190,6 +190,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1610669424503046145/OZqWJKM5_400x400.jpg" group-title="TV OPCION 1", LIFETIME
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/154829
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn.jpg" group-title="TV OPCION 1", AXN
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2801
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_dhe_m.png" group-title="TV OPCION 1", DHE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/153595
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="TV OPCION 1", STAR CHANNEL
