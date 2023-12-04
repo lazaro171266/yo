@@ -190,10 +190,10 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/150094
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/150095
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/49020282/Cinecanal_400x400.jpg" group-title="TV OPCION 1", CINECANAL
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/150093
-
-
-
-
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="TV OPCION 1", SPACE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150108
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/E0wMD62SdE8NXSp5RCqFpJsaSdUa4ltUBoqfIWP4Tryu_5SodMCiHmidw8I5LRu4k9dq6bs6oxk=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", PARAMOUNT
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150111
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="TV OPCION 1", HBO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2790
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="TV OPCION 1", HBO 2
