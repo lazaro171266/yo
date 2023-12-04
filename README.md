@@ -56,9 +56,9 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/148710
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es" group-title="TV OPCION 1",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV (1080p)
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/148789
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IzOaP79D3qs/X-zKgm55PgI/AAAAAAAA7CQ/kKExis2PoqMYDHeI86NP76b2-O_uYIfwwCLcBGAsYHQ/s1080/dcc.png" group-title="TV OPCION 1", DISTRITO COMEDIA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/4783
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.92ed8577ecce7013b885cda85ae2e202?rik=F3YTp9r2knBZOQ&pid=ImgRaw&r=0" group-title="TV OPCION 1", GALAVISION
