@@ -180,8 +180,24 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1" ,MY TIME NETWORK
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="TV OPCION 1", STAR CHANNEL
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150088
+#EXTINF:-1 tvg-logo="https://amcnetworks.es/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png" group-title="TV OPCION 1", AMC
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150090
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_nueva-franquicia-de-cinemax-se-posiciona-como-favorito.jpg" group-title="TV OPCION 1", CINEMAX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150094
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_nueva-franquicia-de-cinemax-se-posiciona-como-favorito.jpg" group-title="TV OPCION 1", CINEMAX 2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150095
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/49020282/Cinecanal_400x400.jpg" group-title="TV OPCION 1", CINECANAL
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150093
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="TV OPCION 1", HBO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2790
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="TV OPCION 1", HBO 2
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/150078
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/HBO_Family.svg/revision/latest/scale-to-width-down/250?cb=20230305154037&path-prefix=es" group-title="TV OPCION 1", HBO FAMILY
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/67
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Hbo_plus.png" group-title="TV OPCION 1", HBO +
