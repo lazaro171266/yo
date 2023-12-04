@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="TV OPCION 1",TUDN USA
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TELEFORMULA
@@ -264,7 +266,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/131274
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/359-3598349_logopedia10-de-pelicula-clasico-hd-png-download.png" group-title="TV OPCION 1", DE PELICULA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/150097
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="TV OPCION 1", CINEMA DINAMITA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/155201
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4806
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX CLASICO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140821
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX
