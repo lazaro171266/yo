@@ -190,6 +190,10 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1610669424503046145/OZqWJKM5_400x400.jpg" group-title="TV OPCION 1", LIFETIME
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/154829
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLoIs3CGZPXNXiSkqRdQfbiTdowlTo3RqGe0QasHDq0MhITOmwH-23a3m6Qc8QeSh5grY&usqp=CAU" group-title="TV OPCION 1", STUDIO UNIVERSAL
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3674
+#EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/universal-channel-3013.png" group-title="TV OPCION 1",UNIVERSAL CHANNEL
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4946
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn.jpg" group-title="TV OPCION 1", AXN
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2801
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_dhe_m.png" group-title="TV OPCION 1", DHE
