@@ -174,6 +174,16 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="TV OPCION 1", HBO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2790
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Hbo_plus.png" group-title="TV OPCION 1", HBO +
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7986
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="TV OPCION 1", HBO MUNDI
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7985
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" group-title="TV OPCION 1", HBO POP
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7969
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="TV OPCION 1", HBO EXTREME
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7971
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lCFv64gzhw8/hqdefault.jpg" group-title="TV OPCION 1", HBO SIGNATURE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/7970
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 1" ,GOLDEN PLUS
