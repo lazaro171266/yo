@@ -35,6 +35,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.eleconomista.com.mx/__export/1584472198786/sites/eleconomista/img/2020/03/17/imagen-tv.jpg_1902800913.jpg" group-title="TV OPCION 1",IMAGEN TV
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="TV OPCION 1", CANAL 5
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
@@ -231,6 +233,8 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/7969
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/7971
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lCFv64gzhw8/hqdefault.jpg" group-title="TV OPCION 1", HBO SIGNATURE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/7970
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN EDGE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3762
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 1" ,GOLDEN PLUS
