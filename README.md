@@ -337,7 +337,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/131274
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/359-3598349_logopedia10-de-pelicula-clasico-hd-png-download.png" group-title="TV OPCION 1", DE PELICULA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/150097
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="TV OPCION 1", CINEMA DINAMITA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/4806
+http://00322.xyz:8000/live/ntxplay3@/HBRH13DNXH/7995.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX CLASICO
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/140821
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX
