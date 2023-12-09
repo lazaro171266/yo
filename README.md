@@ -58,7 +58,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1", A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t1.6435-9/40160003_1114206978733199_293414354433343488_n.png?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeETBtE6cFWJpulxStkyXp6TfaEFF9qceUB9oQUX2px5QDBFp-mpWoi3lxGr_A3HkvkSuZKMv2oD6VbDTE6-fQ2R&_nc_ohc=kONf4pIwlwYAX8h-sgE&_nc_ht=scontent.fver2-1.fna&oh=00_AfDEcx4mztK7JeDNBtcArznMGaTPTf0VXC-9sASwUopH2Q&oe=6594C1E6" group-title="TV OPCION 1",TELEMUNDO INTERNACIONAL
-http://00322.xyz:8000/live/ntxplay3@/HBRH13DNXH/3024.m3u8
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3024
 #EXTINF:-1 tvg-logo="https://impactolatino.com/wp-content/uploads/2018/01/4-telemundo.jpg" group-title="TV OPCION 1",TELEMUNDO NY
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/148710
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es" group-title="TV OPCION 1",TELEMUNDO PR
@@ -337,9 +337,9 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/131274
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/359-3598349_logopedia10-de-pelicula-clasico-hd-png-download.png" group-title="TV OPCION 1", DE PELICULA
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/150097
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="TV OPCION 1", CINEMA DINAMITA
-http://00322.xyz:8000/live/ntxplay3@/HBRH13DNXH/7995.m3u8
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/7995
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX CLASICO
-http://00322.xyz:8000/live/ntxplay3@/HBRH13DNXH/140821.m3u8
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/140821
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/146598
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="TV OPCION 1", CINE ESTRELLA TV
