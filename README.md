@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTehrksIEiTDV9n7O0OJ7Pn9yRUry8MLkj5BJMX581T5jy7zs-SVcuaiTI9H2YvisntLNs&usqp=CAU" group-title="TV OPCION 1",FOX SPORTS PREMIUM
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/146541
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="TV OPCION 1",TUDN USA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/146837
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="TV OPCION 1",TUDN 
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TELEFORMULA
@@ -278,8 +277,12 @@ http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHbKiZyAi-w4ZpsUeYyWyHDU/ts
 https://paneltv.online:1936/8046/8046/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0e32f5659bb8ef7fa85b9e8cc0992808?rik=uZKDR9moyWC3%2bA&riu=http%3a%2f%2fteleclasica.com%2fwp-content%2fuploads%2f2022%2f06%2fNaranja.jpg&ehk=%2foDgcLh1nehIHp5CYj7g0lnEpndDWo6JiB1EP1osc0A%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", TELECLASICA
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_yqfx7DAsYFnlHZAQN3FefyHXtFMcNtO6hr_wk9TF4TsvkzmSoWOXzIHrG07bt3hakM=w240-h480-rw" group-title="TV OPCION 1", TELECOSTA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image44808078930.jpg" group-title="TV OPCION 1", RETRO TV PALMARES
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", MOVIES EGM
+https://paneltv.online:1936/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizB-90T0A-X12T-6bG8XtczPDqDJXr0RdxKJc5Q5lq1UyBTKzpqX-GpMmk4hTCq-DW1vEq_TYnHr-V2uJi_kF2qtuSHT7YS-vq4Qn5QouIxQp119l8ta7cHRweEUUJPsPhpQu25DTyheRiIFxkw1atCaN9bh4Q6Qy2t9-rK2QRxpnCi2dqBVXYiJ7p/s540/vision-tv-logoroku.png" group-title="TV OPCION 1", VISION TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/59
