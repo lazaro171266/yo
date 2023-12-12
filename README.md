@@ -412,6 +412,8 @@ https://stmv2.zcasthn.com.br/ferchile/ferchile/playlist.m3u8?PlaylistM3UCL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8ea5cb89be0e1535d39522f4aff9f998?rik=gck84SgpCjWGDg&pid=ImgRaw&r=0" group-title="TV OPCION 1", OLDIES HITS
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.80sclassical.co.uk/wp-content/uploads/2019/01/80s.png" group-title="TV OPCION 1", MEGA CLASSICS
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="TV OPCION 1",B15 
 https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="TV OPCION 1",La Despechada TV (720p)
