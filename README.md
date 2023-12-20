@@ -1904,22 +1904,1307 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 #EXTINF:-1 group-title="TV OPCION 6",TELEMUNDO HOUSTON HD
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1607142868473.png",A Mas HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/19653
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1607142868473.png",A Mas SD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37800
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1607142868473.png",A Mas SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2134
+#EXTINF:-1 group-title="Latinos",A&E E (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37982
+#EXTINF:-1 group-title="Latinos",A&E HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37973
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/A%26E.png",A&E HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30300
+#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/A%26E.png",A&E LQ
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16503
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606189925355.png",A&E SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/22698
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/40%20ADN.png",ADN 40 HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30301
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/40%20ADN.png",ADN 40 SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2146
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AMC.png",AMC HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30303
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AMC.png",AMC HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30304
+#EXTINF:-1 group-title="Latinos",AMC Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38454
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AMC.png",AMC SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3287
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ANIMAL%20PLANET.png",Animal Planet HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/34380
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1616528336475.png",Animal Planet Norte (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/44334
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ANIMAL%20PLANET.png",Animal Planet SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2478
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://www.freepngdesign.com/content/uploads/images/t_p-923-3-axn-logo-png-transparent-logo-527416966747.png",AXN HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/22697
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://www.freepngdesign.com/content/uploads/images/t_p-923-3-axn-logo-png-transparent-logo-527416966747.png",AXN HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3104
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://www.freepngdesign.com/content/uploads/images/t_p-923-3-axn-logo-png-transparent-logo-527416966747.png",AXN SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30305
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AYM%20SPORTS.png",AYM Sports SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1603
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%20CINEMA.png",AZ CINEMA SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/32143
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%20CLIC.png",Az Clic HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1504
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%20CLIC.png",Az Clic SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/34295
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%20CORAZON.png",AZ CORAZON HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30307
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1616717834521.png",AZ MUNDO HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30308
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1616717834521.png",Az Mundo SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/34241
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%207.png",AZTECA 7 HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30309
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1697669192389.png",Azteca Deportes HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37787
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057842585.png",Azteca 7 MTY (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/41240
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%207.png",Azteca 7 MTY SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2125
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%20CINEMA.png",Azteca Cinema (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/50414
+#EXTINF:-1 group-title="Latinos",Azteca Corazon (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37803
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%20CORAZON.png",Azteca Corazon SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3117
+#EXTINF:-1 group-title="Latinos",Azteca Mundo (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37804
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%20UNO.png",Azteca Uno
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2129
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%20UNO.png",AZTECA UNO (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12635
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AZTECA%20UNO.png",AZTECA UNO HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30310
+#EXTINF:-1 group-title="Latinos",BeIN Sports ESP. (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37846
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/BITME.png",BitME (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/114141
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/BITME.png",BITME HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30313
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/BITME.png",BITME SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/114140
+#EXTINF:-1 group-title="Latinos",Cable Noticias HD (CO) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38556
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CANAL%2014.png",Canal 14 HD (p).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2137
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CANAL%2022.png",Canal 22
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3482
+#EXTINF:-1 group-title="Latinos",Canal 22 mx HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37806
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1630339746345.png",Canal 28 NL (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/92279
+#EXTINF:-1 group-title="Latinos",Canal 44 Chihuahua
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/59342
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CANAL%205.png",CANAL 5 HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30315
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CANAL%205.png",Canal 5 SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2123
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1647363001301.png",Canal 66 (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51628
+#EXTINF:-1 group-title="Latinos",Canal Once (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/111510
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CANAL%2011.png",CANAL ONCE (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/19660
+#EXTINF:-1 group-title="Latinos",Cartoon Net (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/40841
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1642914373252.png",Cine Dinamita (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/44073
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1642914373252.png",Cine Dinamita (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/44072
+#EXTINF:-1 group-title="Latinos",CINE Juntos (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38460
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CINELATINO.png",Cine Latino SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1467
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1608235065172.png",Sony Movies HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/14690
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1608235065172.png",CINE Sony HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37961
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606167293525.png",CINECANAL HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3282
+#EXTINF:-1 group-title="Latinos",Cinecanal HD Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37995
+#EXTINF:-1 group-title="Latinos",Cinecanal Oeste E (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38457
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606167293525.png",CINECANAL SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/34309
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1642914373252.png",Cinema dinamita (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37740
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png",Cinemax Easte Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/81492
+#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png",CINEMAX LQ
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16526
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png",Cinemax SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3150
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CLARO%20SPORTS.png",Claro Sports FHD MX (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51388
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CLARO%20SPORTS.png",Claro Sports. SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3141
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CNN%20INTERNACIONAL.png",CNN International P
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3483
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/COMEDY%20CENTRAL.png",COMEDY CENTRAL HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30319
+#EXTINF:-1 group-title="Latinos",Comedy Central Latino FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37975
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/COMEDY%20CENTRAL.png",COMEDY CENTRAL  SD =
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3289
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DE%20PELICULA.png",De Pelicula + HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37960
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DE%20PELICULA.png",De Pelicula + HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3143
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DE%20PELICULA%20PLUS.png",De Pelicula + SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1470
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DE%20PELICULA.png",De Pelicula Classico (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91750
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DE%20PELICULA.png",De Pelicula HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3285
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DE%20PELICULA.png",De Pelicula SD  (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91751
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DE%20PELICULA%20CLASICO.png",De Pelicula SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1469
+#EXTINF:-1 group-title="Latinos",Discovery Channel FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/93948
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1616526988269.png",Discovery Channel HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/93947
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1616526988269.png",DISCOVERY CHANNEL HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3313
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20CHANNEL.png",DISCOVERY CHANNEL SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30321
+#EXTINF:-1 group-title="Latinos",Discovery Familia (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/93806
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png",DISCOVERY H&H  (COL) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/61209
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png",DISCOVERY H&H (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38469
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png",DISCOVERY H&H HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30322
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png",DISCOVERY H&H HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37994
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png",DISCOVERY H&H HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3314
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1635228776544.png",DISCOVERY H&H SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/34308
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1659058659465.png",Discovery ID HD E (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37970
+#EXTINF:-1 group-title="Latinos",Discovery ID Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38492
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20ID.png",Discovery ID SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1785
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20SCIENCE.png",Discovery Science SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1482
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20THEATER.png",DISCOVERY THEATER HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30324
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TLC.png",DISCOVERY TLC
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3786
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TLC.png",DISCOVERY TLC HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30325
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TLC.png",Discovery TLC SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2697
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TURBO.png",Discovery Turbo
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1494
+#EXTINF:-1 group-title="Latinos",Discovery Turbo Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38491
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20TURBO.png",DISCOVERY TURBO SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12208
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20WORLD.png",DISCOVERY WORLD HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30326
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20WORLD.png",DISCOVERY WORLD HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3309
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1616527382547.png",DISCOVERY WORLD SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/34389
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISTRITO%20COMEDIA.png",Distrito Comedia (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38472
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISTRITO%20COMEDIA.png",DISTRITO COMEDIA HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30330
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISTRITO%20COMEDIA.png",DISTRITO COMEDIA HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3284
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DW.png",DW
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11550
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/E%21.png",E! ENTERTAINMENT HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30360
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1635230854224.png",E! HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/22694
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/E%21.png",E! SD  (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3068
+#EXTINF:-1 group-title="Latinos",el chavo del 8  24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/35022
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GARAGE%20TV.png",El Garage SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1601
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EL%20GOURMET.png",EL GOURMET HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30331
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EL%20GOURMET.png",EL GOURMET HD i
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/50461
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EL%20GOURMET.png",El Gourmet  SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1490
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ESPN%202.png",ESPN 2 (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/7849
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ESPN%202.png",ESPN 2 HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3167
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1625187771291.png",ESPN 3 SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1648
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ESPN.png",ESPN EXTRA HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30333
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1625187931347.png",ESPN SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/32405
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/ESTRELLA%20TV.png",ESTRELLA TV SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/8611
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1648262033199.png",EuroChannel
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53040
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1648262033199.png",EuroChannel (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/52923
+#EXTINF:-1 group-title="Latinos",EUROPA EUROPA (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38447
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EUROPA.png",Europa Europa SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1493
+#EXTINF:-1 group-title="Latinos",FOX Sports 2 HD MX (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37826
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20SPORTS%202.png",FOX SPORTS 2 MX SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30336
+#EXTINF:-1 group-title="Latinos",FOX Sports 3 MX (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37827
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20SPORTS%203.png",FOX SPORTS 3 MX SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30337
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/ARGENTINA/FOX%20SPORTS%201.png",FOX Sports MX (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37825
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20SPORTS%201.png",FOX SPORTS MX HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30338
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOX%20SPORTS%201.png",FOX SPORTS MX SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3170
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1649093109303.png",Fox Sports Premium MX (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53540
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1648838500554.png",FRANCE 24
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53301
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FX.png",FX HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30339
+#EXTINF:-1 group-title="Latinos",FX HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37987
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/EXCELSIOR%20TV.png",Excelsior Tv (N)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/10790
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FILM%20%26%20ARTS.png",Film and Arts (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11914
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOOD%20NEWTORK.png",Food Network (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1484
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOOD%20NEWTORK.png",Food Network FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/90705
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FOOD%20NEWTORK.png",FOOD NETWORK HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/50462
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606784501511.png",Foro Tv
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/22687
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FORO%20TV.png",FORO TV HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30335
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FORO%20TV.png",Foro Tv SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2447
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/FX.png",FX SD  (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3102
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20ALBURQUEQUE.png",GALAVISION ALBUQUERQUE SANTA FE
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9500
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20ATLANTA.png",GALAVISION ATLANTA
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9496
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION.png",GALAVISION AUSTIN
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9497
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISI%C3%93N%20CLEVELAND.png",GALAVISION CLEVELAND
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9499
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISI%C3%93N%20DALLAS.png",GALAVISION DALLAS
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9501
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISI%C3%93N%20FRESNO.png",GALAVISION FRESNO
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9503
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1608257734259.png",GALAVISION HOUSTON
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9504
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20LOS%20ANGELES.png",GALAVISION LA
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9505
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20MAMI.png",GALAVISION MIAMI
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9507
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20PHILADELPHIA.png",GALAVISION PHILADELPHIA
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9509
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20PHOENIX.png",GALAVISION PHOENIX
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9510
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20RALEIGH.png",GALAVISION RALEIGH
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9511
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20SACRAMENTO.png",GALAVISION SACRAMENTO
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9512
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20SALT%20LAKE.png",GALAVISION SALT LAKE
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9513
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20SAN%20ANTONIO.png",GALAVISION SAN ANTONIO
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9516
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GALAVISION%20SAN%20FRANSICO.png",GALAVISION SAN FRANCISCO
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9514
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GLITZ.png",Glitz SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1491
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1608236982300.png",Golden (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/60356
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GOLDEN%20EDGE.png",Golden Edge HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/93203
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GOLDEN%20EDGE.png",Golden Edge Mx HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37965
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GOLDEN%20EDGE.png",Golden Edge SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3146
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643172275151.png",GOLDEN Plus (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38455
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GOLDEN%20PLUS.png",Golden Plus HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1473
+#EXTINF:-1 group-title="Latinos",Golden Premier 1 (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/50419
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1698192713128.png",Golden Premier 2 (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/67228
+#EXTINF:-1 group-title="Latinos",Golden Premier FHD (CO)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/47050
+#EXTINF:-1 group-title="Latinos",Golden Premier FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37968
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/GOLDEN%20PREMIERE.png",GOLDEN PREMIER HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30342
+#EXTINF:-1 group-title="Latinos",Golden Premier HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38005
+#EXTINF:-1 group-title="Latinos",H2 Latino UHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37978
+#EXTINF:-1 group-title="Latinos",HBO + HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37999
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20PLUS.png",HBO + HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30343
+#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20PLUS.png",HBO + LQ
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16557
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%202.png",HBO 2 HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30344
+#EXTINF:-1 group-title="Latinos",HBO 2 LATINO (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37985
+#EXTINF:-1 group-title="Latinos",HBO 2 Mexico (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37996
+#EXTINF:-1 group-title="Latinos",HBO 2 Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38448
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%202.png",HBO 2 SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3322
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643162552355.png",HBO Family HD(CO) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38564
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643162552355.png",HBO Family LATINO (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37984
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO.png",HBO HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30346
+#EXTINF:-1 group-title="Latinos",HBO HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37988
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1608237273517.png",HBO HD (i) op3
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/114458
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1608237273517.png",HBO HD (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/114457
+#EXTINF:-1 group-title="Latinos",HBO HD. (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37998
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20MUNDI.png",HBO Mundi
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3324
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20MUNDI.png",HBO MUNDI HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30347
+#EXTINF:-1 group-title="Latinos",HBO Mundi HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37979
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20PLUS.png",HBO Plus SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3321
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20POP.png",HBO POP HD (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30348
+#EXTINF:-1 group-title="Latinos",HBO Pop Latino E  (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38456
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20POP.png",HBO POP SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3159
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO.png",HBO SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3299
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20SIGNATURE.png",HBO SIGNATURE HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30349
+#EXTINF:-1 group-title="Latinos",HBO Signature HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37986
+#EXTINF:-1 group-title="Latinos",HBO Signature OEM (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38451
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20XTREME.png",HBO XTREME HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30350
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1643069059296.png",HBO XTREME HD E (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37993
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20XTREME.png",HBO Xtreme SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3326
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1669689035429.png",HGTV SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1487
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HISTORY%202.png",HISTORY 2
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30352
+#EXTINF:-1 group-title="Latinos",History 2 (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38467
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HISTORY%202.png",History 2 SD =
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3118
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HISTORY.png",HISTORY HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30353
+#EXTINF:-1 group-title="Latinos",Hola TV (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37798
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606783038224.png",HOLA TV HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3281
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HOLA%20TV.png",HOLA TV SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/32146
+#EXTINF:-1 group-title="Latinos",I Sat (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37808
+#EXTINF:-1 group-title="Latinos",I Sat Mexico (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38499
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1633399436250.png",I sat SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1496
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/PASIONES.png",Pasiones (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/61391
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1648838064221.png",RT ESPANOL (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53299
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AYM%20SPORTS.png",AYM Sports (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/81178
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1648838064221.png",RT Noticias (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53300
+#EXTINF:-1 group-title="Latinos",TVc Deportes (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53407
+#EXTINF:-1 group-title="Latinos",CINE Suregno (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38461
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png",Cinemax OEM Latino HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37967
+#EXTINF:-1 group-title="Latinos",Discovery Turbo HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37969
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISTRITO%20COMEDIA.png",Distrito Comedia HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37958
+#EXTINF:-1 group-title="Latinos",FOX Sports 2 (CL)(i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37834
+#EXTINF:-1 group-title="Latinos",FOX Sports 3 HD (CO)(i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38567
+#EXTINF:-1 group-title="Latinos",HBO Xtreme OEM Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38453
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/PARAMOUNT.png",Paramount Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37989
+#EXTINF:-1 group-title="Latinos",History Channel HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37971
+#EXTINF:-1 group-title="Latinos",History Channel Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38487
+#EXTINF:-1 group-title="Latinos",HORRORIFY Channel (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38462
+#EXTINF:-1 group-title="Latinos",Lifetime (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38475
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643565112465.png",NeT Flix Live 2 HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38686
+#EXTINF:-1 group-title="Latinos",Once TV (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38473
+#EXTINF:-1 group-title="Latinos",SyFy HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37974
+#EXTINF:-1 group-title="Latinos",TNT Series Latino America HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37966
+#EXTINF:-1 group-title="Latinos",TOP CINE Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38459
+#EXTINF:-1 group-title="Latinos",Universal Crime Hero HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38846
+#EXTINF:-1 group-title="Latinos",Universal Premiere Hero HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38845
+#EXTINF:-1 group-title="Latinos",Universal Reality Hero HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38844
+#EXTINF:-1 group-title="Latinos",Warner Channel HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37964
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/IMAGEN%20TV.png",ImagenTv HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30354
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/IMAGEN%20TV.png",ImagenTv SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/32403
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/IMAGEN%20TV.png",ImagenTv. (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91973
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/INGENIO%20TV.png",INGENIO TV
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1872
+#EXTINF:-1 group-title="Latinos",Ingenio TV (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37801
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20ID.png",INVESTIGATION DISCOVERY HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30355
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1669689035429.png",i| HGTV HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/88446
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/LAS%20ESTRELLAS%20-2%20.png",LAS ESTRELLAS -2 HORAS HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3310
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/LAS%20ESTRELLAS%20-2%20.png",LAS ESTRELLAS -2 HORAS SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30356
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas 102 XEW HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/52807
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/25306
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/LAS%20ESTRELLAS%20-2%20.png",Las Estrellas HD. (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37810
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/22670
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/LIFE%20TIME.png",LIFETIME HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30357
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/LIFE%20TIME.png",LifeTime SD =
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3116
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MAS%20CHIC%20.png",Mas Chic SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1488
+#EXTINF:-1 group-title="Musica",MC Mexicana (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38885
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1633480540147.png",Mexiquense
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1500
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MILENIO%20TV.png",MILENIO HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30358
+#EXTINF:-1 group-title="Latinos",MILENIO TV (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37795
+#EXTINF:-1 group-title="Latinos",Morbido TV (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38481
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MTV.png",MTV Club (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/120766
+#EXTINF:-1 group-title="Latinos",Mulltimedio TV FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37796
+#EXTINF:-1 group-title="Latinos",Multimedio Mexico (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/92558
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MULTIMEDIOS%20MTV.png",Multimedio Monterrey FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37807
+#EXTINF:-1 group-title="Latinos",Multimedio Monterrey HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/92556
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1626706958589.png",MULTIMEDIOS BAJIO SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/33405
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1626706958589.png",MULTIMEDIOS CD. JUAREZ SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/33406
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1626706958589.png",MULTIMEDIOS CDMX SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/33407
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1626706958589.png",MULTIMEDIOS COSTA RICA SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/33408
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MULTIMEDIOS%20MTV.png",Multimedios Guadalajara SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/10119
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MULTIMEDIOS%20MTV.png",MULTIMEDIOS HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30359
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MULTIMEDIOS%20MTV.png",MULTIMEDIOS HD.
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2105
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MULTIMEDIOS%20MTV.png",Multimedios Laguna SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/10086
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MULTIMEDIOS%20MTV.png",Multimedios Monterrey HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1866
+#EXTINF:-1 group-title="Latinos",Multimedios MTY XHTV (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/92557
+#EXTINF:-1 group-title="Latinos",Multipremier Mexico (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38498
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1629503578298.png",Mvstv SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12250
+#EXTINF:-1 group-title="Latinos",NAT GEO (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91979
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_mundo_us.png",NAT GEO (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53166
+#EXTINF:-1 group-title="Latinos",NAT GEO Channel HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91976
+#EXTINF:-1 group-title="Latinos",NAT GEO FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91977
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NAT%20GEO.png",NAT GEO HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30361
+#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NAT%20GEO.png",NAT GEO LQ
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16575
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NAT%20GEO.png",Nat Geo SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3122
+#EXTINF:-1 group-title="Latinos",Nat Geo Wild HD.
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91981
+#EXTINF:-1 group-title="Latinos",Nat geo Wild Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91983
+#EXTINF:-1 group-title="Latinos",NAT GEO. (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91980
+#EXTINF:-1 group-title="Latinos",NatGeo Wild FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91984
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1630533861296.png",National Geographic (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38486
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1611974213134.png",NBC Universo HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/40340
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://89.163.242.140/VoD-RR1/nxt.png",NeT Flix Action HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/76232
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://89.163.242.140/VoD-RR1/nxt.png",NeT Flix Adventure HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/76234
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://89.163.242.140/VoD-RR1/nxt.png",NeT Flix Cience HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/76235
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://89.163.242.140/VoD-RR1/nxt.png",NeT Flix CINEMAX Hits HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/76237
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://89.163.242.140/VoD-RR1/nxt.png",NeT Flix Horror HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/76239
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643565112465.png",NeT Flix Live 1 HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38685
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643565112465.png",NeT Flix Live 13 SUB-TIT AR FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/49775
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643565112465.png",NeT Flix Live 7 HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38691
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643565112465.png",NeT Flix Live 8 HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38692
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643565112465.png",NeT Flix Live 9 HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/41237
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://89.163.242.140/VoD-RR1/nxt.png",NeT Flix MAX HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/76236
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://89.163.242.140/VoD-RR1/nxt.png",NeT Flix SCI-FI HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/76233
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://noticiasnrt.com/wp-content/uploads/2020/12/NRT-Logotipo-022020-03.png",NRT MEXICO
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53315
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NU9EVE.png",Nu9ve HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/26836
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NU9EVE.png",Nu9ve SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2448
+#EXTINF:-1 group-title="Latinos",NUEVE (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/63805
+#EXTINF:-1 group-title="Latinos",once total
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/111778
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1628456849179.png",PANICO FHD Mexico (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/49777
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1628456849179.png",PANICO HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11868
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1628456849179.png",Panico Network HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/49778
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1635227873227.png",Paramount Channel HD (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37962
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/PARAMOUNT.png",PARAMOUNT HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30366
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/PASIONES.png",Pasiones
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1495
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1644167927508.png",Prime Live 1 FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/40834
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1644167927508.png",Prime Live 2 FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/41210
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1644606637310.png",Prime Live 3 Kids FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/41211
+#EXTINF:-1 group-title="Latinos",Prime TV Live 2 HD Amazon
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/42285
+#EXTINF:-1 group-title="Latinos",RCG
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/58432
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1648838064221.png",RT ESPANOL
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53297
+#EXTINF:-1 group-title="Latinos",SKY Premiere 1 | FELIZ NAVIDAD HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/114925
+#EXTINF:-1 group-title="Latinos",SKY Premiere 10 (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71327
+#EXTINF:-1 group-title="Latinos",SKY Premiere 11 (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71330
+#EXTINF:-1 group-title="Latinos",SKY Premiere 12 (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71329
+#EXTINF:-1 group-title="Latinos",SKY Premiere 14 (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71331
+#EXTINF:-1 group-title="Latinos",SKY Premiere 2 | El gato con botas el ultimo deseo
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71319
+#EXTINF:-1 group-title="Latinos",SKY Premiere 3 |  Vengeance HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71320
+#EXTINF:-1 group-title="Latinos",SKY Premiere 4 | Strange World HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71321
+#EXTINF:-1 group-title="Latinos",SKY Premiere 5 | Scream 6 HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71322
+#EXTINF:-1 group-title="Latinos",SKY Premiere 6 |  Super Mario Bros La pelicula HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71323
+#EXTINF:-1 group-title="Latinos",SKY Premiere 7 | TOP GUN: MAVERICK HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71324
+#EXTINF:-1 group-title="Latinos",SKY Premiere 8 | John Wick 4 HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71325
+#EXTINF:-1 group-title="Latinos",SKY Premiere 9 | A Su mare HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/71326
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1608235065172.png",Sony Channel HD Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38678
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1608235065172.png",SONY CINE HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37980
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/SONY%20CHANNEL.png",SONY HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30367
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643410307307.png",SONY HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/50464
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/SONY%20CHANNEL.png",SONY HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3327
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/SPACE.png",SPACE HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30368
+#EXTINF:-1 group-title="Latinos",Space HD (CO) Enc (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/94373
+#EXTINF:-1 group-title="Latinos",SPACE HD (CO) Encoder (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38557
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/SPACE.png",Space SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3151
+#EXTINF:-1 group-title="Latinos",SPACE SD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38458
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/Star%20Channel.png",Star Channel (p) DualAudio
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2449
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/Star%20Channel.png",STAR CHANNEL HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30369
+#EXTINF:-1 group-title="Latinos",Star Channel Mexico FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38000
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1625191526166.png",STAR CHANNEL SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/26287
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/STUDIO%20UNIVERSAL.png",STUDIO UNIVERSAL HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30376
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606275273460.png",Studio Universal HD i
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/23060
+#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/STUDIO%20UNIVERSAL.png",STUDIO UNIVERSAL LQ
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16591
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/STUDIO%20UNIVERSAL.png",Studio Universal SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3148
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/SYFY.png",SYFY HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30377
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/SYFY.png",SYFY SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/19677
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1616527672408.png",T-UDN MX HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3064
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1616527672408.png",T-UDN USA Network (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/50395
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TBS.png",TBS SD =
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3120
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs_east.png",TBS Very Fun
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/56587
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1643933453458.png",Teennick (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/78271
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606781459310.png",TELEFORMULA
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1865
+#EXTINF:-1 group-title="Latinos",Teleformula (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/36941
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606781459310.png",TELEFORMULA HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30379
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606780918545.png",Teleritmo SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3328
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1647364714452.png",TELEVISA 4 GUADALAJARA (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51631
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1635224411566.png",Televisa 4 GUADALAJARA SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11800
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1647363891296.png",Cd.Juarez (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38841
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1651631658513.png",TELEVISA GUANAJUATO
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/60674
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1647365495145.png",TELEVISA GUANAJUATO (TDT-XHCPAM) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51633
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1647364134389.png",TELEVISA MEXICALI (XHBC4-HD) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51630
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TELEVISA%20MTY.png",TELEVISA MONTERREY (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2178
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TELEVISA%20MTY.png",Televisa MTY (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/49763
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1647363693282.png",Televisa MTY (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51629
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1647365199435.png",TELEVISA PUEBLA (XHP-HD) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51632
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1616015958343.png",TELEVISA TIJUANA
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51626
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1616015958343.png",TELEVISA TIJUANA (XEWT12-HD) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51627
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TLNOVELAS.png",TLnovela Enc. (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38474
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TLNOVELAS.png",TLnovelas (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/88251
+#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TLNOVELAS.png",TLNOVELAS LQ
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16598
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TLNOVELAS.png",TLNOVELAS SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/15237
+#EXTINF:-1 group-title="Latinos",TNT Latino America (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37992
+#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TNT.png",TNT LQ
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16599
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TNT.png",TNT SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3149
+#EXTINF:-1 group-title="Latinos",TNT Series (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38480
+#EXTINF:-1 group-title="Latinos",TNT Series HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38004
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TNT%20SERIES.png",TNT Series HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3114
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TNT%20SERIES.png",TNT SERIES SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30381
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TRUTV.png",TruTv HD  (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3110
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TRUTV.png",TRUTV SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/19676
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606781615487.png",TV UNAM HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/22678
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TV%20UNAM.png",TV UNAM SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/19669
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TV%20UNAM.png",TV UNAM SD =
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2138
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TVC%20DEPORTES.png",TVC DEPORTES HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30384
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TVC.png",TVC SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1502
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1628706691387.png",TVMas
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/36937
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1628706691387.png",TVMAS SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11967
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1626742694272.png",TVP CULIACAN SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/19686
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1626742694272.png",TVP LOS MOCHIS SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/19687
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1626742694272.png",TVP MAZATLAN
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/32507
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1626742694272.png",TVP MAZATLAN (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/83619
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1626742694272.png",TVP OBREGON SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/19688
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1657305894362.png",Ultra Cine (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/73895
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasicoLogoBlack.png",Ultra Clásico (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/73896
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamiliaLogoBlack.png",Ultra Familia (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/73901
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamiliaLogoBlack.png",Ultra Familia (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/73897
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidzLogoBlack.png",Ultra Kidz (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/73898
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMachoLogoBlack.png",Ultra Macho (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/73899
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png",Ultra Mex (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/73900
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNICABLE.png",UNICABLE HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30385
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNICABLE.png",Unicable SD  (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3066
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20ALBURQUEQUE-SANTA%20FE.png",UNIMAS ALBUQUERQUE SANTA FE
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9481
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20AUSTIN.png",UNIMAS AUSTIN
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9492
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20CLEVELAND.png",UNIMAS CLEVELAND
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9487
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20FRESNO.png",UNIMAS FRESNO
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9483
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1608261259498.png",UNIMAS HOUSTON
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9493
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20LOS%20ANGELES.png",Unimas LA
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2100
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20LOS%20VEGAS.png",UNIMAS LAS VEGAS
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9490
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20MAMI.png",Unimas Miami (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2101
+#EXTINF:-1 group-title="Latinos",UNIMAS Newyork
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51652
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1608261370460.png",UNIMAS NY
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9494
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20PHOENIX.png",UNIMAS PHOENIX
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9485
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20RALEIGH.png",UNIMAS RALEIGH
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9484
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20SACRAMENTO.png",UNIMAS SACRAMENTO
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9486
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIMAS%20SAN%20ANTONIO.png",UNIMAS SAN ANTONIO
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9482
+#EXTINF:-1 group-title="Latinos",Universal Channel HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37981
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606268684372.png",UNIVERSAL CHANNEL HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30386
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606268684372.png",Universal Channel SD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3103
+#EXTINF:-1 group-title="Latinos",Universal Cinema
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/36358
+#EXTINF:-1 group-title="Latinos",Universal Cinema HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38848
+#EXTINF:-1 group-title="Latinos",Universal Comedia HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38847
+#EXTINF:-1 group-title="Latinos",Universal Comedy
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/36354
+#EXTINF:-1 group-title="Latinos",Universal Crime Este
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/36355
+#EXTINF:-1 group-title="Latinos",Universal Crime Este HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38843
+#EXTINF:-1 group-title="Latinos",Universal Crime Oeste
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/36359
+#EXTINF:-1 group-title="Latinos",Universal Premier Oeste
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/36360
+#EXTINF:-1 group-title="Latinos",Universal Premier Oeste HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38842
+#EXTINF:-1 group-title="Latinos",Universal Premiere
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/36356
+#EXTINF:-1 group-title="Latinos",Universal Reality
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/36357
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1611974213134.png",Universo US (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/40341
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20ATLANTA.png",UNIVISION ATLANTA
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9466
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1679543231382.png",Univision Chicago (WGBO) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/94133
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20MAMI.png",Univision Dallas (KUVN)(i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/120685
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20MAMI.png",Univision Dallas (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/21971
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1608262080152.png",UNIVISION HOUSTON (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9477
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20HOUSTON.png",Univision Houston (KXLN) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/52922
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1606331920417.png",Univision KFTV Fresno
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51646
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20LOS%20ANGELES.png",Univision LA (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51641
+#EXTINF:-1 group-title="Latinos",Univision LA (KMEX) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38528
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20LOS%20ANGELES.png",Univision LA KMEX-TV (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46985
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20MAMI.png",Univision Miami (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12209
+#EXTINF:-1 group-title="Latinos",Univision Miami (WLTV) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38559
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20PHOENIX.png",UNIVISION PHOENIX (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9470
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20SALT%20LAKE.png",UNIVISION SALT LAKE (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/9472
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISION.png",Univision SAN FRANCISCO (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/42509
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISION.png",Univision Tlnovelas (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/23714
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20MAMI.png",Univison 23 (KUVN Dallas Fort Worth) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/120686
+#EXTINF:-1 group-title="Latinos",Warner Channel HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37991
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/WARNER%20TV.png",WARNER SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30387
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643152457227.png",Telemundo Tampa (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/121842
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20MAMI.png",Univision Mcallen (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/21970
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1697669192389.png",Azteca Deportes (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/121852
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MTV.png",MTV HD Mexico (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/122662
+#EXTINF:-1 group-title="Deportes",BEIN SPORTS Ñ LQ (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/123399
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1648236570580.png",Telemundo Laredo (KGNS-TV) | TE (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/124109
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISION.png",Univision Las vegas (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125484
+#EXTINF:-1 group-title="Latinos",HBO 2 Mexico HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125499
+#EXTINF:-1 group-title="Latinos",Solidaria TV (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125696
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1611078156209.png",Univision Austin (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125895
+#EXTINF:-1 group-title="Latinos",Terror Tv
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125956
+#EXTINF:-1 group-title="Latinos",Morbido
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125957
+#EXTINF:-1 group-title="Latinos",NeT Flix Terror
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125958
+#EXTINF:-1 group-title="Latinos",Halloween Kids
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125959
+#EXTINF:-1 group-title="Latinos",Paramount Terror
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125960
+#EXTINF:-1 group-title="Latinos",Star+ Terror
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125961
+#EXTINF:-1 group-title="Latinos",Family Halloween
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125962
+#EXTINF:-1 group-title="Latinos",Cinema Horror
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125963
+#EXTINF:-1 group-title="Latinos",Panico
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125964
+#EXTINF:-1 group-title="Latinos",Cinema Horror Clasicos
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/125965
+#EXTINF:-1 group-title="Latinos",Telemundo San Antonio (KVDA) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126070
+#EXTINF:-1 group-title="Latinos",Telemundo Connecticut (WRDM) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126071
+#EXTINF:-1 group-title="Latinos",Telemundo 20 San Diego (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126072
+#EXTINF:-1 group-title="Latinos",Telemundo 44 Chicago (WSNS-TV) Op-2 (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126077
+#EXTINF:-1 group-title="Latinos",Telemundo HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126078
+#EXTINF:-1 group-title="Latinos",Univision 40 (WUVC Raleigh) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126122
+#EXTINF:-1 group-title="Latinos",Univision Las Vegas (p).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126173
+#EXTINF:-1 group-title="Latinos",Telemundo Sacramento (KCSO) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126073
+#EXTINF:-1 group-title="Latinos",Telemundo San Francisco (KSTS) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126074
+#EXTINF:-1 group-title="Latinos",Telemundo Denver (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126075
+#EXTINF:-1 group-title="Latinos",Telemundo Mexico . (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126076
+#EXTINF:-1 group-title="Latinos",Golden Plus +(i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126175
+#EXTINF:-1 group-title="Latinos",Golden HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126178
+#EXTINF:-1 group-title="Latinos",Azteca 7 FHD (R)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/126611
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas SD (R)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/127049
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas SD (R) op2
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/127050
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas HD (R)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/127051
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas (R)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/127052
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas FHD (R)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/127053
+#EXTINF:-1 group-title="Latinos",Panico (R)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/127364
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1616527940195.png",TNT HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128616
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/WARNER%20TV.png",Warner Tv HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128618
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png",CINEMAX HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128619
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png",CINEMAX HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128620
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1669689035429.png",HGTV LQ (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128621
+#EXTINF:-1 group-title="Latinos",TBS Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128623
+#EXTINF:-1 group-title="Latinos",CNN Espanol (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128625
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/CNN%20EN%20ESPA%C3%91OL.png",CNN Esp HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128626
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1645491416165.png",Discovery Ch (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128627
+#EXTINF:-1 group-title="Latinos",Cartoon Network (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128628
+#EXTINF:-1 group-title="Latinos",Animal planet Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128630
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1616528336475.png",Animal Planet FHD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128631
+#EXTINF:-1 group-title="Latinos",Discovery Theater Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128634
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1616526988269.png",Discovery Channel Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128635
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1616525788450.png",Discovery Familia (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128636
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20THEATER.png",DISCOVERY THEATRER HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128637
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/DISCOVERY%20THEATER.png",DISCOVERY THEATER SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128638
+#EXTINF:-1 group-title="Latinos",Discovery Science (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128639
+#EXTINF:-1 group-title="Latinos",HBO Mundi OEM Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128646
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643162552355.png",HBO Family Latino HD (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128647
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20SIGNATURE.png",HBO Signature SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128649
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20FAMILY.png",HBO Family SD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128650
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1643162552355.png",HBO Family OEM Latino (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128651
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20FAMILY.png",HBO FAMILY HD (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128652
+#EXTINF:-1 group-title="Latinos",HBO + OEM Latino America (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128653
+#EXTINF:-1 group-title="Latinos",hbo hd prueba
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128855
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/UNIVISON%20CHICAGO.png",UNI-SION CHICAGO
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/128886
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1625186432420.png",Canal 5 (R) op2
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/129329
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1625186432420.png",Canal 5 (R) op3
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/129330
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1625186432420.png",Canal 5 FHD (R) op4
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/129331
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://www.freepngdesign.com/content/uploads/images/t_p-923-3-axn-logo-png-transparent-logo-527416966747.png",AXN HD (i).
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/129499
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1698192713128.png",Golden Premier 2 (R)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/129515
 
 
-#EXTINF:-1 group-title="CANALES 24/7", BIRDMAN
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/140844
-#EXTINF:-1 group-title="CANALES 24/7", EL CHAVO ANIMADO
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/131452
-#EXTINF:-1 group-title="CANALES 24/7", LOS PICAPIEDRA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/129349
-#EXTINF:-1 group-title="CANALES 24/7", LA PANTERA ROSA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/129347
-#EXTINF:-1 group-title="CANALES 24/7", SCOOBY DOO
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3385
-#EXTINF:-1 group-title="CANALES 24/7", CINE RETRO HD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/2555
-#EXTINF:-1 group-title="CANALES 24/7", CINE INFANTIL
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/2554
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257400291.png",EL CHAVO ANIMADO 24-7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12023
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1652142286199.png",EL CHAVO DEL 8 -
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/35023
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1652142381389.png",El Chavo del Ocho Animado (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38712
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629256915312.png",Aaahhh!!! Monstruos 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12057
+#EXTINF:-1 group-title="24/7",Acapulco Shore
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38715
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257068326.png",Acapulco Shore 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12056
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1628813420241.png",Alf
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2321
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1628813457315.png",Animaniacs 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12038
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257105267.png",AVATAR 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12037
+#EXTINF:-1 group-title="24/7",Años Maravillos
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/40788
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257145393.png",BEYBLADE 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12035
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1628813536352.png",BOB ESPONJA 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12034
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257170488.png",Buzz Lightyear 24 7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11970
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1628813553389.png",Caballeros del Zodiaco
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2330
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1628813567199.png",Cantinflas
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38745
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1628813567199.png",Cantinflas ds
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/92512
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1628813567199.png",Cantinflas (DS)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/92511
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257182319.png",Castores Cascarravias 24-7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11975
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257202164.png",CAT DOG 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12032
+#EXTINF:-1 group-title="24/7",Chapulin Colorado
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38714
+#EXTINF:-1 group-title="24/7",La Familia Pelucha (i)..
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38839
+#EXTINF:-1 group-title="24/7",Cinema Accion Classics HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38699
+#EXTINF:-1 group-title="24/7",Cinema Ciencia Ficcion HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38698
+#EXTINF:-1 group-title="24/7",Cinema Dc Comics HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38693
+#EXTINF:-1 group-title="24/7",Cinema DC Universe HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38697
+#EXTINF:-1 group-title="24/7",Cinema Disney Family (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38702
+#EXTINF:-1 group-title="24/7",Cinema Disney Pixar HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38701
+#EXTINF:-1 group-title="24/7",Cinema Happy Madisson HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38696
+#EXTINF:-1 group-title="24/7",Cinema Horror HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38700
+#EXTINF:-1 group-title="24/7",Cinema Lego Movies HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38695
+#EXTINF:-1 group-title="24/7",Cinema Marvel Studio HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38694
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306476282.png",Coraje El Perro Cobarde
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11067
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257242150.png",CS1 MIAMI 1 24-7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11981
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306548323.png",Death Note
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11082
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257265326.png",Des encanto 24-7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11980
+#EXTINF:-1 group-title="24/7",Desafio Sobre Rueda HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38708
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257290545.png",Dexter labs 24-7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11978
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306602272.png",Digimon
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11085
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306614257.png",Dinosaurios
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11069
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257340176.png",DORA LA EXPLORADORA 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12028
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1629306733427.png",Dragon Ball
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2336
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1629306687352.png",Dragon ball super (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2338
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1629306701366.png",Dragon Ball Z - Saga Cell
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2339
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258336426.png",DTM Navidad
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12067
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258361351.png",DTM Pokemon
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12066
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257089272.png",DTV Anime
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12076
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257307336.png",DTV Dis-ney Live
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12075
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257388473.png",DTV Dream-Works
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12074
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://budtv-ultra.com/posters/1629257322210.png",DTV-Disney Princesas
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12073
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1629257376478.png",Dragonball Movies
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12072
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257933367.png",DTV-Happy madison
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12068
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258300472.png",DTV-Marvel
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12071
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076847527.png",DTV-Terror
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12069
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1646276838171.png",Edd y Eddy
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46972
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306756215.png",El Chapulin Colorado
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2343
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257434137.png",EL MUNDO DE BEAKMAN 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12021
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257816499.png",EL PAJARO LOCO 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12020
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306804404.png",El Principe del Rap
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2345
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257860408.png",En Familia con Chabelo 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11988
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257879482.png",Escandalosos 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11990
+#EXTINF:-1 group-title="24/7",Escobar: el patron del mal
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38703
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257905257.png",EXTRANORMAL 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12019
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258306569.png",MALCOM EL DE ENMEDIO 24/7 (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38716
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306847336.png",Futurama
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2347
+#EXTINF:-1 group-title="24/7",Futurama HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38718
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257926129.png",Grizzy y los lemmings 24-7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11973
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257955172.png",Hechizada 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12052
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257362301.png",House MD 2 24-7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11982
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306956268.png",iCarly
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2352
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257995270.png",J K Rowling
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12077
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257969587.png",jimmy neutron 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12015
+#EXTINF:-1 group-title="24/7",Johnny Bravo
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/40846
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258005507.png",LA CASA DE MICKEY MOUSE 24-7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11977
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076069232.png",La Familia P. Luche
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2360
+#EXTINF:-1 group-title="24/7",La Familia Peluche
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38713
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629308158394.png",La Hora Pico
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11101
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258033294.png",La ninera 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12051
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258061539.png",La Pantera rosa 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11989
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258160391.png",La Rosa De Guadalupe (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/82427
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258320491.png",La Vaca Y El Pollito
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46971
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1646277566567.png",Las sombrías aventuras de Billy y Mandy
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46975
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258181137.png",LE TEMES A LA OSCURIDAD 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12009
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306831462.png",Looney toons 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12008
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1646277074466.png",Los chicos del barrio
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46973
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258198267.png",Los gatos samurai 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12050
+#EXTINF:-1 group-title="24/7",Los Picapiedras
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38710
+#EXTINF:-1 group-title="24/7",Los Simpson New HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38706
+#EXTINF:-1 group-title="24/7",Los Simpsonps HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38722
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076336558.png",Los Thundercats
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2372
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257413542.png",Mentalista 3 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12048
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076446479.png",Mi Bella Genio
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2377
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258319584.png",Mikami la Cazafantasmas 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12046
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258168358.png",Miraculus Ladybug 24-7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11979
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076646146.png",Mr Bean
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11070
+#EXTINF:-1 group-title="24/7",Pedro Infante
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38711
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076875587.png",Peppa Pig
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2386
+#EXTINF:-1 group-title="24/7",Peppa Pig
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38717
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076895371.png",PHINEAS Y FERB 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12003
+#EXTINF:-1 group-title="24/7",Pokemon
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38719
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258387349.png",Power Rangers in Space 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12043
+#EXTINF:-1 group-title="24/7",Rapidos y Furioso HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38720
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258422360.png",Rick y Morty
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2392
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258786348.png",Sailor Moon Crystal
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2395
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258281267.png",Simpson Las casitas del horror 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11998
+#EXTINF:-1 group-title="24/7",South Park (ES) (i)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38840
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258636278.png",South Park 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12041
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258469285.png",Teen Titans Go
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11093
+#EXTINF:-1 group-title="24/7",The Walking Dead
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38704
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1646277372241.png",Tom and Jerry Show
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46974
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1650388475456.png",Two And a Half Men HD
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/57516
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258320491.png",Vaca y pollito 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11993
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257861286.png",YU GI OH 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11992
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257831587.png",ZOEY 101 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11991
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258306569.png",MALCOM EL DE ENMEDIO 24/7 (p)
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11974
+#EXTINF:-1 group-title="24/7",Friends (i) 24/7
+http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/94200
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlYjZiMGEtZWQyMy00NTE5LWFmNmYtNjFjMjk1YjNiOGZmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS", ROBOCOP 3
