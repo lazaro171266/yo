@@ -1284,7 +1284,7 @@ http://gotv.vip:8880/Jaime/Jaime123/22064
 http://gotv.vip:8880/Jaime/Jaime123/22065
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="TV OPCION 4",ESPN MX
 http://gotv.vip:8880/Jaime/Jaime123/22066
-#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" tvg-name="DEPORTES | FOX SPORTS 1 MX" tvg-logo="" group-title="TV OPCION 4",FOX SPORTS 1 MX
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 4",FOX SPORTS 1 MX
 http://gotv.vip:8880/Jaime/Jaime123/65656
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 4",FOX SPORTS 2 MX
 http://gotv.vip:8880/Jaime/Jaime123/65657
@@ -1916,7 +1916,7 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37982
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37973
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/A%26E.png",A&E HD (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30300
-#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/A%26E.png",A&E LQ
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/A%26E.png",A&E LQ
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16503
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606189925355.png",A&E SD (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/22698
@@ -2036,7 +2036,7 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/34309
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37740
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png",Cinemax Easte Latino (i)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/81492
-#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png",CINEMAX LQ
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png",CINEMAX LQ
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16526
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1606167373221.png",Cinemax SD
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3150
@@ -2264,7 +2264,7 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37978
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37999
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20PLUS.png",HBO + HD (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30343
-#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20PLUS.png",HBO + LQ
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%20PLUS.png",HBO + LQ
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16557
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/HBO%202.png",HBO 2 HD (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30344
@@ -2344,7 +2344,7 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1496
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/61391
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1648838064221.png",RT ESPANOL (i)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53299
-#EXTINF:-1 group-title="Deportes" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AYM%20SPORTS.png",AYM Sports (i)
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/AYM%20SPORTS.png",AYM Sports (i)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/81178
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://panel.budtv-ultra.com/posters/1648838064221.png",RT Noticias (i)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/53300
@@ -2424,7 +2424,7 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30357
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3116
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MAS%20CHIC%20.png",Mas Chic SD
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1488
-#EXTINF:-1 group-title="Musica",MC Mexicana (i)
+#EXTINF:-1 group-title="Latinos",MC Mexicana (i)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38885
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1633480540147.png",Mexiquense
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/1500
@@ -2478,7 +2478,7 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91976
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/91977
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NAT%20GEO.png",NAT GEO HD (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30361
-#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NAT%20GEO.png",NAT GEO LQ
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NAT%20GEO.png",NAT GEO LQ
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16575
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/NAT%20GEO.png",Nat Geo SD (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3122
@@ -2610,7 +2610,7 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/26287
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/30376
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1606275273460.png",Studio Universal HD i
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/23060
-#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/STUDIO%20UNIVERSAL.png",STUDIO UNIVERSAL LQ
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/STUDIO%20UNIVERSAL.png",STUDIO UNIVERSAL LQ
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16591
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/STUDIO%20UNIVERSAL.png",Studio Universal SD (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3148
@@ -2664,13 +2664,13 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/51627
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38474
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TLNOVELAS.png",TLnovelas (i)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/88251
-#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TLNOVELAS.png",TLNOVELAS LQ
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TLNOVELAS.png",TLNOVELAS LQ
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16598
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TLNOVELAS.png",TLNOVELAS SD (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/15237
 #EXTINF:-1 group-title="Latinos",TNT Latino America (i)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/37992
-#EXTINF:-1 group-title="Canales Menos 3 Mb" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TNT.png",TNT LQ
+#EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TNT.png",TNT LQ
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/16599
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/TNT.png",TNT SD (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/3149
@@ -2832,7 +2832,7 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/21970
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/121852
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://iconos.budtv-ultra.com/logos/GENERAL/MTV.png",MTV HD Mexico (i)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/122662
-#EXTINF:-1 group-title="Deportes",BEIN SPORTS Ñ LQ (p)
+#EXTINF:-1 group-title="Latinos",BEIN SPORTS Ñ LQ (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/123399
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1648236570580.png",Telemundo Laredo (KGNS-TV) | TE (i)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/124109
@@ -3066,7 +3066,7 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12076
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12075
 #EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257388473.png",DTV Dream-Works
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12074
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://budtv-ultra.com/posters/1629257322210.png",DTV-Disney Princesas
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1629257322210.png",DTV-Disney Princesas
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12073
 #EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1629257376478.png",Dragonball Movies
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12072
@@ -5320,7 +5320,6 @@ https://archive.org/download/01_20220818_20220818_1802/01.mp4
 https://archive.org/download/01_20210518_20210518_1349/01.mp4
 
 
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",
 
 
 
