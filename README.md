@@ -39,6 +39,12 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 http://cdn1host.online:2999/carlosleon/2469/21
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE LATINO
 http://cdn1host.online:2999/carlosleon/2469/303
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DE PELICULA
+http://cdn1host.online:2999/carlosleon/2469/85
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DE PELICULA PLUS
+http://cdn1host.online:2999/carlosleon/2469/1699
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CLARO CINEMA
+http://cdn1host.online:2999/carlosleon/2469/1720
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DISTRITO COMEDIA
 http://cdn1host.online:2999/carlosleon/2469/38
 #EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t1.6435-9/40160003_1114206978733199_293414354433343488_n.png?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeETBtE6cFWJpulxStkyXp6TfaEFF9qceUB9oQUX2px5QDBFp-mpWoi3lxGr_A3HkvkSuZKMv2oD6VbDTE6-fQ2R&_nc_ohc=kONf4pIwlwYAX8h-sgE&_nc_ht=scontent.fver2-1.fna&oh=00_AfDEcx4mztK7JeDNBtcArznMGaTPTf0VXC-9sASwUopH2Q&oe=6594C1E6" group-title="TV OPCION 1",TELEMUNDO INTERNACIONAL
