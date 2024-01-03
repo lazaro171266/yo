@@ -195,63 +195,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1" ,MY TIME NETWORK
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1610669424503046145/OZqWJKM5_400x400.jpg" group-title="TV OPCION 1", LIFETIME
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/154829
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLoIs3CGZPXNXiSkqRdQfbiTdowlTo3RqGe0QasHDq0MhITOmwH-23a3m6Qc8QeSh5grY&usqp=CAU" group-title="TV OPCION 1", STUDIO UNIVERSAL
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3674
-#EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/universal-channel-3013.png" group-title="TV OPCION 1",UNIVERSAL CHANNEL
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/4946
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CbSpRQ2WEAEErTn.jpg" group-title="TV OPCION 1", AXN
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/2801
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_dhe_m.png" group-title="TV OPCION 1", DHE
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/153595
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="TV OPCION 1", STAR CHANNEL
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150088
-#EXTINF:-1 tvg-logo="https://amcnetworks.es/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png" group-title="TV OPCION 1", AMC
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150090
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_nueva-franquicia-de-cinemax-se-posiciona-como-favorito.jpg" group-title="TV OPCION 1", CINEMAX
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150094
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_nueva-franquicia-de-cinemax-se-posiciona-como-favorito.jpg" group-title="TV OPCION 1", CINEMAX 2
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150095
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/49020282/Cinecanal_400x400.jpg" group-title="TV OPCION 1", CINECANAL
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150093
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ifCagZ77nfw/W6ls2LsJInI/AAAAAAAAAN0/_I_JmomLjTQi9WTGmoACu3q4mRNmJW03wCPcBGAYYCw/s1600/space.png" group-title="TV OPCION 1", SPACE
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150108
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/E0wMD62SdE8NXSp5RCqFpJsaSdUa4ltUBoqfIWP4Tryu_5SodMCiHmidw8I5LRu4k9dq6bs6oxk=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", PARAMOUNT
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150111
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV OPCION 1", SONY
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150112
-#EXTINF:-1 tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/TNT.jpg" group-title="TV OPCION 1", TNT
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150115
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="TV OPCION 1", FX
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150121
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="TV OPCION 1", FX 2
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150122
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Warner_TV.svg/revision/latest?cb=20191207183909" group-title="TV OPCION 1", WARNER TV
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150107
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="TV OPCION 1", FILMS & ARTS
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150098
 
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="TV OPCION 1", HBO
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/2790
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="TV OPCION 1", HBO 2
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150078
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/HBO_Family.svg/revision/latest/scale-to-width-down/250?cb=20230305154037&path-prefix=es" group-title="TV OPCION 1", HBO FAMILY
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/67
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Hbo_plus.png" group-title="TV OPCION 1", HBO +
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/7986
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="TV OPCION 1", HBO MUNDI
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/7985
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" group-title="TV OPCION 1", HBO POP
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/7969
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="TV OPCION 1", HBO EXTREME
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/7971
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lCFv64gzhw8/hqdefault.jpg" group-title="TV OPCION 1", HBO SIGNATURE
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/7970
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN EDGE
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3762
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 1" ,GOLDEN PLUS
@@ -291,6 +235,10 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", MOVIES EGM
 https://paneltv.online:1936/8186/8186/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", AXN
+http://cdn1host.online:2999/live/carlosleon/2469/21.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizB-90T0A-X12T-6bG8XtczPDqDJXr0RdxKJc5Q5lq1UyBTKzpqX-GpMmk4hTCq-DW1vEq_TYnHr-V2uJi_kF2qtuSHT7YS-vq4Qn5QouIxQp119l8ta7cHRweEUUJPsPhpQu25DTyheRiIFxkw1atCaN9bh4Q6Qy2t9-rK2QRxpnCi2dqBVXYiJ7p/s540/vision-tv-logoroku.png" group-title="TV OPCION 1", VISION TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/59
@@ -337,22 +285,10 @@ http://sdmx.vip:8080/China02/china93/2157597
 http://sdmx.vip:8080/China02/china93/2157598
 #EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Cine-Mexicano-Logo.png" group-title="TV OPCION 1",CINE MEXICANO
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHZ1asUn6FUNIBRKfvam3NVY/ts
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.15aH24SzfT5bNLwLdPfNrwAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", CLARO CINEMA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/135782
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="TV OPCION 1", CINE LATINO
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/7974
-#EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2022/05/azcinema-1.jpg" group-title="TV OPCION 1", AZ CINEMA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3706
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="TV OPCION 1", DE PELICULA CLASICO
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/131274
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/359-3598349_logopedia10-de-pelicula-clasico-hd-png-download.png" group-title="TV OPCION 1", DE PELICULA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150097
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="TV OPCION 1", CINEMA DINAMITA
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/7995
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX CLASICO
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/140821
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/146598
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="TV OPCION 1", CINE ESTRELLA TV
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772352
 #EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/11/mx-nuestro-cine-donde-ver-canal-cine-mexicano.jpg" group-title="TV OPCION 1", MX NUESTRO CINE
@@ -369,14 +305,6 @@ https://linear-339.frequency.stream/dist/vix/339/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" ,LA PROMESA
 https://linear-343.frequency.stream/dist/vix/343/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , MTV CLASSIC
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/146537
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1" , SUPER DISCOTECA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/146524
-#EXTINF:-1 tvg-logo="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2FCumbiasMixx%2F&psig=AOvVaw1riIdBAeCEpM76Yxu40AJz&ust=1698378756283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiwzdzbkoIDFQAAAAAdAAAAABAj" group-title="TV OPCION 1",CUMBIA DRIVE MIX 2023
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/161033
-#EXTINF:-1 group-title="TV OPCION 1", DJ SOL (REGGAETÓN Y CUMBIA)
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/148242
 #EXTINF:-1 group-title="TV OPCION 1", E MUSIC
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/155
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDs0Ty_KJ1j-5-nkaIunEWGk_oZ-qfxbWAA&usqp=CAU" group-title="TV OPCION 1",RETRO MUSIC BALADAS
