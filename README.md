@@ -242,7 +242,7 @@ http://cdn1host.online:2999/live/carlosleon/2469/21.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE LATINO
 http://cdn1host.online:2999/live/carlosleon/2469/303.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DISTRITO COMEDIA
-http://cdn1host.online:2999/live/carlosleon/2469/38.m3u8
+http://cdn1host.online:2999/carlosleon/2469/38
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizB-90T0A-X12T-6bG8XtczPDqDJXr0RdxKJc5Q5lq1UyBTKzpqX-GpMmk4hTCq-DW1vEq_TYnHr-V2uJi_kF2qtuSHT7YS-vq4Qn5QouIxQp119l8ta7cHRweEUUJPsPhpQu25DTyheRiIFxkw1atCaN9bh4Q6Qy2t9-rK2QRxpnCi2dqBVXYiJ7p/s540/vision-tv-logoroku.png" group-title="TV OPCION 1", VISION TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/59
