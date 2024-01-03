@@ -2,14 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="TV OPCION 1",TUDN 
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",ACCION
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",LA ROSA DE GUADALUPE
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",RAKUTEN TV
-https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",CINELIFE
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TELEFORMULA
@@ -42,14 +34,21 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", AXN
+http://cdn1host.online:2999/carlosleon/2469/21
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE LATINO
+http://cdn1host.online:2999/carlosleon/2469/303
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DISTRITO COMEDIA
+http://cdn1host.online:2999/carlosleon/2469/38
+#EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t1.6435-9/40160003_1114206978733199_293414354433343488_n.png?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeETBtE6cFWJpulxStkyXp6TfaEFF9qceUB9oQUX2px5QDBFp-mpWoi3lxGr_A3HkvkSuZKMv2oD6VbDTE6-fQ2R&_nc_ohc=kONf4pIwlwYAX8h-sgE&_nc_ht=scontent.fver2-1.fna&oh=00_AfDEcx4mztK7JeDNBtcArznMGaTPTf0VXC-9sASwUopH2Q&oe=6594C1E6" group-title="TV OPCION 1",TELEMUNDO INTERNACIONAL
+http://cdn1host.online:2999/carlosleon/2469/54
 #EXTINF:-1 tvg-logo="https://newsletters.worldscreen.com/tvcanales/img/2015-01-06-logounicable.gif" group-title="TV OPCION 1",UNICABLE
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/156072
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347112024925474817/FsTxCmRL_400x400.jpg" group-title="TV OPCION 1",BITME
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/155964
+http://cdn1host.online:2999/carlosleon/2469/24
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV OPCION 1",IMAGEN TV
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
+http://cdn1host.online:2999/carlosleon/2469/1695
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="TV OPCION 1", CANAL 5
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
+http://cdn1host.online:2999/carlosleon/2469/1457
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS 2
@@ -66,20 +65,12 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t1.6435-9/40160003_1114206978733199_293414354433343488_n.png?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeETBtE6cFWJpulxStkyXp6TfaEFF9qceUB9oQUX2px5QDBFp-mpWoi3lxGr_A3HkvkSuZKMv2oD6VbDTE6-fQ2R&_nc_ohc=kONf4pIwlwYAX8h-sgE&_nc_ht=scontent.fver2-1.fna&oh=00_AfDEcx4mztK7JeDNBtcArznMGaTPTf0VXC-9sASwUopH2Q&oe=6594C1E6" group-title="TV OPCION 1",TELEMUNDO INTERNACIONAL
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3024
-#EXTINF:-1 tvg-logo="https://impactolatino.com/wp-content/uploads/2018/01/4-telemundo.jpg" group-title="TV OPCION 1",TELEMUNDO NY
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/148710
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es" group-title="TV OPCION 1",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://paramountshop.com/cdn/shop/products/CC-Logo-ViacomCBS-ComedyCentral-NL6010-VintageBlack-RO_1445x.png?v=1673466499" group-title="TV OPCION 1",COMEDY CENTRAL
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/150324
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IzOaP79D3qs/X-zKgm55PgI/AAAAAAAA7CQ/kKExis2PoqMYDHeI86NP76b2-O_uYIfwwCLcBGAsYHQ/s1080/dcc.png" group-title="TV OPCION 1", DISTRITO COMEDIA
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/4783
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.92ed8577ecce7013b885cda85ae2e202?rik=F3YTp9r2knBZOQ&pid=ImgRaw&r=0" group-title="TV OPCION 1", GALAVISION
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHX1JpSqXxWrY4TEBNg_lSfA/ts
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.qCBDxwJKzDKsObp6WfxT2AHaHd?pid=ImgDet&w=207&h=208&c=7" group-title="TV OPCION 1",UNIMAS 720
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/148709
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.qCBDxwJKzDKsObp6WfxT2AHaHd?pid=ImgDet&w=207&h=208&c=7" group-title="TV OPCION 1",UNIMAS
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHcKMQPLN7einqnWC-Lvq36Y/ts
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.77490d86b2b569eefd8b5f68fc9ca091?rik=zipDskgPHudUyA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-myjq_KmcsHI%2fTV0Npm5dCmI%2fAAAAAAAAAAk%2f8xUR43P4wQU%2fs1600%2funivision1.jpg&ehk=bekC0RPPYKH%2bQ%2f0KanfGDclGI1W3ETA2V09YgiDZauI%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1",UNIVISION
@@ -235,19 +226,6 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", MOVIES EGM
 https://paneltv.online:1936/8186/8186/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", AXN
-http://cdn1host.online:2999/carlosleon/2469/21
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE LATINO
-http://cdn1host.online:2999/carlosleon/2469/303
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DISTRITO COMEDIA
-http://cdn1host.online:2999/carlosleon/2469/38
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", UNICABLE
-http://cdn1host.online:2999/carlosleon/2469/24
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TELEMUNDO INTERNACIONAL
-http://cdn1host.online:2999/carlosleon/2469/54
-
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizB-90T0A-X12T-6bG8XtczPDqDJXr0RdxKJc5Q5lq1UyBTKzpqX-GpMmk4hTCq-DW1vEq_TYnHr-V2uJi_kF2qtuSHT7YS-vq4Qn5QouIxQp119l8ta7cHRweEUUJPsPhpQu25DTyheRiIFxkw1atCaN9bh4Q6Qy2t9-rK2QRxpnCi2dqBVXYiJ7p/s540/vision-tv-logoroku.png" group-title="TV OPCION 1", VISION TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/59
