@@ -260,6 +260,8 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Cine_Estelar.png/revision/latest?cb=20100622201645" group-title="TV OPCION 1", CINE ESTELAR
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/vector-poster-retro-cinema-festival-260nw-1310044447.jpg" group-title="TV OPCION 1", RETRO CINEMA
+http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M| Ultra Clasico" tvg-logo="http://ceoapps.org/logos/ultraclasico.png" group-title="TV OPCION 1", Ultra Clasico
 http://sdmx.vip:8080/China02/china93/2157599
 #EXTINF:-1 tvg-id="" tvg-name="M| Ultra Cine" tvg-logo="http://ceoapps.org/logos/ultracine.png" group-title="TV OPCION 1", Ultra Cine
