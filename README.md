@@ -34,7 +34,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", MC
+http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", AXN
 http://cdn1host.online:2999/carlosleon/2469/21
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE LATINO
