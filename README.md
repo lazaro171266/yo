@@ -77,7 +77,7 @@ http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHaZzh-6djQKw1ZFFLqW3qRI/ts
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="TV OPCION 1",ECUAVISA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Ecuavisa_%282005%29.png/revision/latest/scale-to-width-down/200?cb=20200320233059" group-title="TV OPCION 1",ECUAVISA
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="TV OPCION 1",Televisa Veracruz 
 
