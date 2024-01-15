@@ -100,7 +100,7 @@ https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="TV OPCION 1",TVMÁS 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="TV OPCION 1",Televisa Puebla 
-https://ythls.onrender.com/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqq7tD9.png" group-title="TV OPCION 1",WAPA-DT1 (WAPA-TV) (1080p)
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="TV OPCION 1",Mexiquense TV (720p)
