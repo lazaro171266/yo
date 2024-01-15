@@ -213,7 +213,8 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/enriquegarciamusic.com/wp-content/uploads/2018/02/cropped-logo-EGM-2018.png?fit=512%2C512&ssl=1" group-title="TV OPCION 1", MOVIES EGM
 https://paneltv.online:1936/8186/8186/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", PANTALLA CLASICA
+https://rpn3.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizB-90T0A-X12T-6bG8XtczPDqDJXr0RdxKJc5Q5lq1UyBTKzpqX-GpMmk4hTCq-DW1vEq_TYnHr-V2uJi_kF2qtuSHT7YS-vq4Qn5QouIxQp119l8ta7cHRweEUUJPsPhpQu25DTyheRiIFxkw1atCaN9bh4Q6Qy2t9-rK2QRxpnCi2dqBVXYiJ7p/s540/vision-tv-logoroku.png" group-title="TV OPCION 1", VISION TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/59
 #EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="TV OPCION 1", AURORA MEDIA FILMS
