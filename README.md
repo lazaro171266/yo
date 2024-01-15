@@ -48,6 +48,10 @@ http://cdn1host.online:2999/carlosleon/2469/24
 http://cdn1host.online:2999/carlosleon/2469/1695
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="TV OPCION 1", CANAL 5
 http://cdn1host.online:2999/carlosleon/2469/1457
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="TV OPCION 1", CANAL 5 HD
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="TV OPCION 1", CANAL 5
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS 2
