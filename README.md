@@ -361,7 +361,7 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?Playli
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.80sclassical.co.uk/wp-content/uploads/2019/01/80s.png" group-title="TV OPCION 1", MEGA CLASSICS
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", GRUPERA TV
+#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/72/ae/120714/1/c300.png" group-title="TV OPCION 1", GRUPERA TV
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="TV OPCION 1",B15 
 https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
