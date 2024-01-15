@@ -64,11 +64,11 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS  -2
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS 2
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS OPCION 2
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.TjnBcqKWpJt_wlxbEUKfLwHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wQzH0S1HXqMMRRh1hdzsx0hAPv0qAy8Jfw&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO 
+#EXTINF:-1 tvg-logo="https://www.elgrafico.mx/sites/default/files/article/2023/03/20/tv_azteca_apuesta_por_lanzar_un_canal_especializado_en_musica_grupera.jpg" group-title="TV OPCION 1", AZTECA UNO 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="TV OPCION 1",TV Azteca Noroeste (Monterrey) (720p)
 https://live.info7.mx/info7/stream.m3u8
@@ -361,6 +361,8 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?Playli
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.80sclassical.co.uk/wp-content/uploads/2019/01/80s.png" group-title="TV OPCION 1", MEGA CLASSICS
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", GRUPERA TV
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="TV OPCION 1",B15 
 https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ladespechada.com/wp-content/uploads/2023/01/logo-despechada.png" group-title="TV OPCION 1",La Despechada TV (720p)
