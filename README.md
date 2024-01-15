@@ -223,6 +223,8 @@ http://notabasica.com/php/SR_REGIO_601032_/vs.php?key=SrRegio&c=a_neflix01
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQbU5L8feakFXv1ZHK8PpALBG3RENjhhyV7gOKq=s176-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", TERROR TV
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Telehit_logo_2014.png" group-title="TV OPCION 1", TELEHIT
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yT22aG5TnjY/XxE7ri-XgKI/AAAAAAAAB_o/yRmzQT8Wm8Eq8OxtHuyElQr2PONDRrHVgCLcBGAsYHQ/w640-h480/frecuenciamusicaltv_logoroku.jpg" group-title="TV OPCION 1" ,FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="TV OPCION 1",Retro PELIS
