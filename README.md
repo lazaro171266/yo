@@ -28,17 +28,17 @@ https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Multicinema2002.jpg/revision/latest?cb=20230304224648&path-prefix=es" group-title="TV OPCION 1", MC
 http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", AXN
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-21lC_5eSuZ8/W6llvwR8rmI/AAAAAAAAAB4/fvGKXLaV0CY9Z941D047IzDxYA2Nodc1ACPcBGAYYCw/s1600/axn.png" group-title="TV OPCION 1", AXN
 http://cdn1host.online:2999/carlosleon/2469/21
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CINE LATINO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/640px-Cinelatino_logo.png" group-title="TV OPCION 1", CINE LATINO
 http://cdn1host.online:2999/carlosleon/2469/303
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DE PELICULA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="TV OPCION 1", DE PELICULA
 http://cdn1host.online:2999/carlosleon/2469/85
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DE PELICULA PLUS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="TV OPCION 1", DE PELICULA PLUS
 http://cdn1host.online:2999/carlosleon/2469/1699
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CLARO CINEMA
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="TV OPCION 1", CLARO CINEMA
 http://cdn1host.online:2999/carlosleon/2469/1720
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="TV OPCION 1", DISTRITO COMEDIA
 http://cdn1host.online:2999/carlosleon/2469/38
 #EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t1.6435-9/40160003_1114206978733199_293414354433343488_n.png?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeETBtE6cFWJpulxStkyXp6TfaEFF9qceUB9oQUX2px5QDBFp-mpWoi3lxGr_A3HkvkSuZKMv2oD6VbDTE6-fQ2R&_nc_ohc=kONf4pIwlwYAX8h-sgE&_nc_ht=scontent.fver2-1.fna&oh=00_AfDEcx4mztK7JeDNBtcArznMGaTPTf0VXC-9sASwUopH2Q&oe=6594C1E6" group-title="TV OPCION 1",TELEMUNDO INTERNACIONAL
 http://cdn1host.online:2999/carlosleon/2469/54
