@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="TV OPCION 1",TUDN 
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TELEFORMULA
@@ -26,15 +24,9 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="TV OPCION 1",N+ DOCUMENTALES
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://radio-miami.org/wp-content/uploads/2016/12/RT-en-Espa%C3%B1ol.jpg" group-title="TV OPCION 1", RT ESPAÑOL
-https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuWct8.png" group-title="TV OPCION 1",Famili Channel
-https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", MC
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Multicinema2002.jpg/revision/latest?cb=20230304224648&path-prefix=es" group-title="TV OPCION 1", MC
 http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", AXN
 http://cdn1host.online:2999/carlosleon/2469/21
@@ -83,6 +75,8 @@ http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHcKMQPLN7einqnWC-Lvq36Y/ts
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.77490d86b2b569eefd8b5f68fc9ca091?rik=zipDskgPHudUyA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-myjq_KmcsHI%2fTV0Npm5dCmI%2fAAAAAAAAAAk%2f8xUR43P4wQU%2fs1600%2funivision1.jpg&ehk=bekC0RPPYKH%2bQ%2f0KanfGDclGI1W3ETA2V09YgiDZauI%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1",UNIVISION
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHaZzh-6djQKw1ZFFLqW3qRI/ts
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b6aMNRaiCtI/XxvMJxvKrwI/AAAAAAAACLg/L3t9WUIKQ2E4Mq0UgZVMf8Tt6-fa8mT2QCLcBGAsYHQ/s540/tvlobodurango_logoroku.jpg" group-title="TV OPCION 1", LOBO TV`
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="TV OPCION 1",Televisa Veracruz 
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="TV OPCION 1",TVMÁS 
@@ -402,7 +396,8 @@ https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8?PlaylistM3UCL
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="TV OPCION 1", MAS CUMBIA
 https://ca2.inka.net.pe/best-MasCum-0100210011/index.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="TV OPCION 1",TUDN 
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 group-title="TV OPCION 2" tvg-logo="https://budtv-ultra.com/posters/1607142868473.png",A Mas HD (p)
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/19653
