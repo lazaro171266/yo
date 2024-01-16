@@ -26,6 +26,18 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es" group-title="TV OPCION 1", A&E
+http://cdn1host.online:2999/carlosleon/2469/20
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/2013-10-17_1215.png?ssl=1" group-title="TV OPCION 1",UNIVERSAL TV
+http://cdn1host.online:2999/carlosleon/2469/18
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/09/14114739/Warner-TV.png" group-title="TV OPCION 1",WARNER TV
+http://cdn1host.online:2999/carlosleon/2469/17
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="TV OPCION 1",SONY TV
+http://cdn1host.online:2999/carlosleon/2469/16
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="TV OPCION 1",STAR CHANNEL
+http://cdn1host.online:2999/carlosleon/2469/15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV OPCION 1",CANAL 6
+http://cdn1host.online:2999/carlosleon/2469/14
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Multicinema2002.jpg/revision/latest?cb=20230304224648&path-prefix=es" group-title="TV OPCION 1", MC
 http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-21lC_5eSuZ8/W6llvwR8rmI/AAAAAAAAAB4/fvGKXLaV0CY9Z941D047IzDxYA2Nodc1ACPcBGAYYCw/s1600/axn.png" group-title="TV OPCION 1", AXN
@@ -38,6 +50,22 @@ http://cdn1host.online:2999/carlosleon/2469/85
 http://cdn1host.online:2999/carlosleon/2469/1699
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="TV OPCION 1", CLARO CINEMA
 http://cdn1host.online:2999/carlosleon/2469/1720
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="TV OPCION 1", E! ENTERTAINMENT
+http://cdn1host.online:2999/carlosleon/2469/30
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/b/b7/Azcoraz%C3%B3n.png/revision/latest/thumbnail/width/360/height/360?cb=20200402024001&path-prefix=es" group-title="TV OPCION 1", AZCORAZON
+http://cdn1host.online:2999/carlosleon/2469/41
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", USA
+http://cdn1host.online:2999/carlosleon/2469/31
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DISCOVERY ID
+http://cdn1host.online:2999/carlosleon/2469/32
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/e/ec/El_gourmet_2015.jpg/revision/latest?cb=20151227232158&path-prefix=es" group-title="TV OPCION 1", EL GOURMET
+http://cdn1host.online:2999/carlosleon/2469/34
+#EXTINF:-1 tvg-logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="TV OPCION 1", TNT NOVELAS
+http://cdn1host.online:2999/carlosleon/2469/39
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xZtRlCgTCq41ObAJEVqeBS-fPAXhSXj69YYfkky5CspHLMiB5sm-gPNCmN6S0_3CISU&usqp=CAU" group-title="TV OPCION 1", TL NOVELAS
+http://cdn1host.online:2999/carlosleon/2469/40
+
+
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="TV OPCION 1", DISTRITO COMEDIA
 http://cdn1host.online:2999/carlosleon/2469/38
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/41/36/d5/4136d5ec5153a2985d1f4c5faba1190c.jpg" group-title="TV OPCION 1",TELEMUNDO INTERNACIONAL
