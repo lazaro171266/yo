@@ -38,6 +38,8 @@ http://cdn1host.online:2999/carlosleon/2469/16
 http://cdn1host.online:2999/carlosleon/2469/15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV OPCION 1",CANAL 6
 http://cdn1host.online:2999/carlosleon/2469/14
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="TV OPCION 1",FX
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/40898
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Uyk1FcjES8X1nQAitR7JDjKk3VzmiKKMPQ&usqp=CAU" group-title="TV OPCION 1",CANAL CLARO
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/213631
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/78b7b977769119.Y3JvcCwxNDk3LDExNzEsNjU5LDk2.png" group-title="TV OPCION 1",HOLLYWOOD
@@ -294,6 +296,8 @@ http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
 http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M| Ultra Clasico" tvg-logo="http://ceoapps.org/logos/ultraclasico.png" group-title="TV OPCION 1", Ultra Clasico
 http://sdmx.vip:8080/China02/china93/2157599
+#EXTINF:-1 tvg-id="" tvg-name="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeiuZ7BTvThCrNbyAI6-2xqG92YXs64tpzQ&usqp=CAU" group-title="TV OPCION 1", CINE CLASICO
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/76865
 #EXTINF:-1 tvg-id="" tvg-name="M| Ultra Cine" tvg-logo="http://ceoapps.org/logos/ultracine.png" group-title="TV OPCION 1", Ultra Cine
 http://sdmx.vip:8080/China02/china93/2157469
 #EXTINF:-1 tvg-id="" tvg-name="M| Ultra Documental" tvg-logo="http://ceoapps.org/logos/ultradocu.png" group-title="TV OPCION 1", Ultra Documental
@@ -2725,8 +2729,8 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
 
-
-
+#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257400291.png",LA FAMILIA PELUCHE
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1450
 #EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257400291.png",EL CHAVO ANIMADO 24-7
 http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12023
 #EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1652142286199.png",EL CHAVO DEL 8 -
