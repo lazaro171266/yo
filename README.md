@@ -38,6 +38,10 @@ http://cdn1host.online:2999/carlosleon/2469/16
 http://cdn1host.online:2999/carlosleon/2469/15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV OPCION 1",CANAL 6
 http://cdn1host.online:2999/carlosleon/2469/14
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/31/68/303168ac72ed212e263324e9c3d7d88b.png" group-title="TV OPCION 1",MULTIPREMIER
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/168154
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Multicinema2002.jpg/revision/latest?cb=20230304224648&path-prefix=es" group-title="TV OPCION 1", MC
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/168155
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Multicinema2002.jpg/revision/latest?cb=20230304224648&path-prefix=es" group-title="TV OPCION 1", MC
 http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-21lC_5eSuZ8/W6llvwR8rmI/AAAAAAAAAB4/fvGKXLaV0CY9Z941D047IzDxYA2Nodc1ACPcBGAYYCw/s1600/axn.png" group-title="TV OPCION 1", AXN
@@ -179,8 +183,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",Tierra De Amor Y Venganza
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/31/68/303168ac72ed212e263324e9c3d7d88b.png" group-title="TV OPCION 1",MULTIPREMIER
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/70
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="TV OPCION 1",Top Cine (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
@@ -204,6 +206,8 @@ https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN PREMIER 2
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/207464
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438834589120729097/xUxfrCMf_400x400.jpg" group-title="TV OPCION 1", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9bee320c3818dbc2ddc14975a99e84a5?rik=zCyWwiA65QPS1g&pid=ImgRaw&r=0" group-title="TV OPCION 1", CINEMUNDO
