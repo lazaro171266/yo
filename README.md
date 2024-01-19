@@ -38,6 +38,20 @@ http://cdn1host.online:2999/carlosleon/2469/16
 http://cdn1host.online:2999/carlosleon/2469/15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV OPCION 1",CANAL 6
 http://cdn1host.online:2999/carlosleon/2469/14
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Uyk1FcjES8X1nQAitR7JDjKk3VzmiKKMPQ&usqp=CAU" group-title="TV OPCION 1",CANAL CLARO
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/213631
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/78b7b977769119.Y3JvcCwxNDk3LDExNzEsNjU5LDk2.png" group-title="TV OPCION 1",HOLLYWOOD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/815
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg" group-title="TV OPCION 1",CINEMAX
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/336
+#EXTINF:-1 tvg-logo="https://www.thetechedvocate.org/wp-content/uploads/2023/04/HBO.jpg" group-title="TV OPCION 1",HBO
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/345
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_paramount-channel-expande-su-distribucin-a-travs-de-claro.jpg" group-title="TV OPCION 1",PARAMOUNT
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/123
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhB0/hCCk5zvfp8g/s1600/tnt_hd.png" group-title="TV OPCION 1",TNT
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/128
+#EXTINF:-1 tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG26988.jpg" group-title="TV OPCION 1",SPACE
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/127
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/31/68/303168ac72ed212e263324e9c3d7d88b.png" group-title="TV OPCION 1",MULTIPREMIER
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/168154
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Multicinema2002.jpg/revision/latest?cb=20230304224648&path-prefix=es" group-title="TV OPCION 1", MC
@@ -62,6 +76,8 @@ http://cdn1host.online:2999/carlosleon/2469/41
 http://cdn1host.online:2999/carlosleon/2469/31
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DISCOVERY ID
 http://cdn1host.online:2999/carlosleon/2469/32
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000239489971-ulpvwe-t500x500.jpg" group-title="TV OPCION 1", NATGEO WILD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/789
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/e/ec/El_gourmet_2015.jpg/revision/latest?cb=20151227232158&path-prefix=es" group-title="TV OPCION 1", EL GOURMET
 http://cdn1host.online:2999/carlosleon/2469/34
 #EXTINF:-1 tvg-logo="https://static.latamwbd.com/2023-06/TNT_NOVELAS_logo.jpg?w=900" group-title="TV OPCION 1", TNT NOVELAS
