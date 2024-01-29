@@ -337,7 +337,7 @@ https://linear-343.frequency.stream/dist/vix/343/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="TV OPCION 1", E MUSIC
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/155
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDs0Ty_KJ1j-5-nkaIunEWGk_oZ-qfxbWAA&usqp=CAU" group-title="TV OPCION 1",RETRO MUSIC BALADAS
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8//video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rcoZX4bOwtLt6U07QYHqbwAAAA?pid=ImgDet&w=206&h=206&c=7" group-title="TV OPCION 1", MEMORIAS TV
