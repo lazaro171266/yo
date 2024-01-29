@@ -341,7 +341,7 @@ https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hQsnD4m9pbh-HRQUSt4_QAHaEo?w=237&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1", SOY PLANCHA TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rcoZX4bOwtLt6U07QYHqbwAAAA?pid=ImgDet&w=206&h=206&c=7" group-title="TV OPCION 1", MEMORIAS TV
-https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+https://rpn3.bozztv.com/ssh101/ssh101/musica/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zpLpuDyiJ4OiGbEsVdPwWAHaFw?pid=ImgDet&rs=1" group-title="TV OPCION 1", TELE MUSICA
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z2pisQ6.png" group-title="TV OPCION 1",Melody Channel
