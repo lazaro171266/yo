@@ -2965,7 +2965,20 @@ http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/94200
 
 
 
-
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/14/17/25/184425.jpg" group-title="PELICULAS", PASAJEROS
+http://vod.tuxchannel.mx/peliculas4k/passengers.mkv
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.10cbad04be0c50dbd828ac352b8aa3d6?rik=2Uu8DkBFErB%2fIw&pid=ImgRaw&r=0" group-title="PELICULAS", CYBORG
+http://vod.tuxchannel.mx/peliculas/720/cyborg.mkv
+#EXTINF:-1 tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/2/1-522604746.jpg" group-title="PELICULAS", PERDIDOS EN ACCION
+http://vod.tuxchannel.mx/peliculas/720/missing%20in%20action.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71O+BG5rq+L._AC_UF894,1000_QL80_.jpg" group-title="PELICULAS", EL DEMOLEDOR
+http://vod.tuxchannel.mx/peliculas/720/demolition%20man.mkv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ofp9GVVwjayaM74p7KF-81Nz89xO0oUBieVbZ1ugnCEZQuJnYCl9xs-gOY8EWXulYuc=w240-h480-rw" group-title="PELICULAS", EL DEPREDADOR
+http://vod.tuxchannel.mx/peliculas4k/predator.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Jeepers_Creepers_El_renacer-397679454-large.jpg" group-title="PELICULAS", JEEPERS CREEPER 3
+http://vod.tuxchannel.mx/peliculas/720/jeepers%20creepers%20reborn%202022.mkv
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/cine/2022/11/noche-sin-paz-41621.jpg" group-title="PELICULAS", NOCHE SIN PAZ
+http://vod.tuxchannel.mx/peliculas/720/violent%20night%202022.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS", LA JAULA DE LAS LOCAS
 http://51.79.20.130:25461/movie/bessy/AA35Q/62313.mp4?token=TEdRVxJZEgNGVgQFAVcMVgcEBgRaAAEFV1YPUAQHAgBVVQ0PVlADDQdDHRVAFUtVVlxuWlxEDQQAUglRGUYRQlIXZl8FEwobVlEDBwBUGxwVRVheXUQNAwVRDFADVFADBEkbRghVEgNGUAIDClYbHBVUSUddFFlTXj5cB0MNB1QVXxsUTRNfVzsFVFpSD10SDRMBERREXkFCQwIMQAgIHRUHUEITUERcRlsTBQZSDRIbE1JcTQhDQEtDAkB4PEYdFQBBQgRfQ1ALDxMNEQxJBBUdE1pLOUVXQRVKB1QJAUMVXxsGQx0SVAUZblRcD1dVVEVYXFYVFQgQUxpOFwkLX14RVkQ+QVldRltfQl8NRA==
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlYjZiMGEtZWQyMy00NTE5LWFmNmYtNjFjMjk1YjNiOGZmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS", ROBOCOP 3
