@@ -26,6 +26,13 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", FOX SPORTS
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/376
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TUDN
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/397
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TUDN USA
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/395
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es" group-title="TV OPCION 1", A&E
 http://cdn1host.online:2999/carlosleon/2469/20
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/2013-10-17_1215.png?ssl=1" group-title="TV OPCION 1",UNIVERSAL TV
@@ -56,8 +63,6 @@ http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/128
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/127
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/31/68/303168ac72ed212e263324e9c3d7d88b.png" group-title="TV OPCION 1",MULTIPREMIER
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/168154
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Multicinema2002.jpg/revision/latest?cb=20230304224648&path-prefix=es" group-title="TV OPCION 1", MC
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/168155
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Multicinema2002.jpg/revision/latest?cb=20230304224648&path-prefix=es" group-title="TV OPCION 1", MC
 http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-21lC_5eSuZ8/W6llvwR8rmI/AAAAAAAAAB4/fvGKXLaV0CY9Z941D047IzDxYA2Nodc1ACPcBGAYYCw/s1600/axn.png" group-title="TV OPCION 1", AXN
@@ -2729,241 +2734,16 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
 
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257400291.png",LA FAMILIA PELUCHE
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1450
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257400291.png",EL CHAVO ANIMADO 24-7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12023
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1652142286199.png",EL CHAVO DEL 8 -
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/35023
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1652142381389.png",El Chavo del Ocho Animado (i)
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38712
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629256915312.png",Aaahhh!!! Monstruos 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12057
-#EXTINF:-1 group-title="24/7",Acapulco Shore
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38715
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257068326.png",Acapulco Shore 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12056
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1628813420241.png",Alf
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2321
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1628813457315.png",Animaniacs 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12038
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257105267.png",AVATAR 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12037
-#EXTINF:-1 group-title="24/7",Años Maravillos
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/40788
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257145393.png",BEYBLADE 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12035
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1628813536352.png",BOB ESPONJA 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12034
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257170488.png",Buzz Lightyear 24 7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11970
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1628813553389.png",Caballeros del Zodiaco
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2330
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1628813567199.png",Cantinflas
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38745
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1628813567199.png",Cantinflas ds
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/92512
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1628813567199.png",Cantinflas (DS)
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/92511
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257182319.png",Castores Cascarravias 24-7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11975
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257202164.png",CAT DOG 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12032
-#EXTINF:-1 group-title="24/7",Chapulin Colorado
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38714
-#EXTINF:-1 group-title="24/7",La Familia Pelucha (i)..
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38839
-#EXTINF:-1 group-title="24/7",Cinema Accion Classics HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38699
-#EXTINF:-1 group-title="24/7",Cinema Ciencia Ficcion HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38698
-#EXTINF:-1 group-title="24/7",Cinema Dc Comics HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38693
-#EXTINF:-1 group-title="24/7",Cinema DC Universe HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38697
-#EXTINF:-1 group-title="24/7",Cinema Disney Family (i)
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38702
-#EXTINF:-1 group-title="24/7",Cinema Disney Pixar HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38701
-#EXTINF:-1 group-title="24/7",Cinema Happy Madisson HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38696
-#EXTINF:-1 group-title="24/7",Cinema Horror HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38700
-#EXTINF:-1 group-title="24/7",Cinema Lego Movies HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38695
-#EXTINF:-1 group-title="24/7",Cinema Marvel Studio HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38694
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306476282.png",Coraje El Perro Cobarde
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11067
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257242150.png",CS1 MIAMI 1 24-7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11981
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306548323.png",Death Note
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11082
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257265326.png",Des encanto 24-7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11980
-#EXTINF:-1 group-title="24/7",Desafio Sobre Rueda HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38708
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257290545.png",Dexter labs 24-7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11978
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306602272.png",Digimon
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11085
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306614257.png",Dinosaurios
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11069
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257340176.png",DORA LA EXPLORADORA 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12028
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1629306733427.png",Dragon Ball
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2336
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1629306687352.png",Dragon ball super (p)
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2338
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1629306701366.png",Dragon Ball Z - Saga Cell
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2339
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258336426.png",DTM Navidad
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12067
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258361351.png",DTM Pokemon
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12066
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257089272.png",DTV Anime
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12076
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257307336.png",DTV Dis-ney Live
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12075
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257388473.png",DTV Dream-Works
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12074
-#EXTINF:-1 group-title="TV OPCION 2" tvg-logo="https://budtv-ultra.com/posters/1629257322210.png",DTV-Disney Princesas
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12073
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1629257376478.png",Dragonball Movies
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12072
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257933367.png",DTV-Happy madison
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12068
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258300472.png",DTV-Marvel
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12071
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076847527.png",DTV-Terror
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12069
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1646276838171.png",Edd y Eddy
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46972
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306756215.png",El Chapulin Colorado
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2343
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257434137.png",EL MUNDO DE BEAKMAN 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12021
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257816499.png",EL PAJARO LOCO 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12020
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306804404.png",El Principe del Rap
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2345
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257860408.png",En Familia con Chabelo 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11988
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257879482.png",Escandalosos 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11990
-#EXTINF:-1 group-title="24/7",Escobar: el patron del mal
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38703
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257905257.png",EXTRANORMAL 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12019
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258306569.png",MALCOM EL DE ENMEDIO 24/7 (i)
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38716
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306847336.png",Futurama
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2347
-#EXTINF:-1 group-title="24/7",Futurama HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38718
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257926129.png",Grizzy y los lemmings 24-7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11973
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257955172.png",Hechizada 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12052
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257362301.png",House MD 2 24-7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11982
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306956268.png",iCarly
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2352
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257995270.png",J K Rowling
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12077
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257969587.png",jimmy neutron 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12015
-#EXTINF:-1 group-title="24/7",Johnny Bravo
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/40846
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258005507.png",LA CASA DE MICKEY MOUSE 24-7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11977
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076069232.png",La Familia P. Luche
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2360
-#EXTINF:-1 group-title="24/7",La Familia Peluche
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38713
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629308158394.png",La Hora Pico
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11101
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258033294.png",La ninera 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12051
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258061539.png",La Pantera rosa 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11989
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258160391.png",La Rosa De Guadalupe (i)
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/82427
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258320491.png",La Vaca Y El Pollito
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46971
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1646277566567.png",Las sombrías aventuras de Billy y Mandy
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46975
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258181137.png",LE TEMES A LA OSCURIDAD 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12009
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629306831462.png",Looney toons 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12008
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1646277074466.png",Los chicos del barrio
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46973
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258198267.png",Los gatos samurai 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12050
-#EXTINF:-1 group-title="24/7",Los Picapiedras
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38710
-#EXTINF:-1 group-title="24/7",Los Simpson New HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38706
-#EXTINF:-1 group-title="24/7",Los Simpsonps HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38722
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076336558.png",Los Thundercats
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2372
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257413542.png",Mentalista 3 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12048
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076446479.png",Mi Bella Genio
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2377
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258319584.png",Mikami la Cazafantasmas 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12046
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258168358.png",Miraculus Ladybug 24-7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11979
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076646146.png",Mr Bean
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11070
-#EXTINF:-1 group-title="24/7",Pedro Infante
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38711
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076875587.png",Peppa Pig
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2386
-#EXTINF:-1 group-title="24/7",Peppa Pig
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38717
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629076895371.png",PHINEAS Y FERB 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12003
-#EXTINF:-1 group-title="24/7",Pokemon
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38719
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258387349.png",Power Rangers in Space 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12043
-#EXTINF:-1 group-title="24/7",Rapidos y Furioso HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38720
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258422360.png",Rick y Morty
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2392
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258786348.png",Sailor Moon Crystal
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/2395
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258281267.png",Simpson Las casitas del horror 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11998
-#EXTINF:-1 group-title="24/7",South Park (ES) (i)
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38840
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258636278.png",South Park 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/12041
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258469285.png",Teen Titans Go
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11093
-#EXTINF:-1 group-title="24/7",The Walking Dead
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/38704
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1646277372241.png",Tom and Jerry Show
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/46974
-#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1650388475456.png",Two And a Half Men HD
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/57516
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258320491.png",Vaca y pollito 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11993
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257861286.png",YU GI OH 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11992
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629257831587.png",ZOEY 101 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11991
-#EXTINF:-1 group-title="24/7" tvg-logo="https://budtv-ultra.com/posters/1629258306569.png",MALCOM EL DE ENMEDIO 24/7 (p)
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/11974
-#EXTINF:-1 group-title="24/7",Friends (i) 24/7
-http://xcm.budtv-ultra.com:25461/Rafalinea/GthWFh9whpGX/94200
-
-
-
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1652142286199.png",EL CHAVO DEL 8 
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/84027
+#EXTINF:-1 group-title="24/7" tvg-logo="",BOB ESPONJA
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1441
+#EXTINF:-1 group-title="24/7" tvg-logo="",BIRDMAN
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1487
+#EXTINF:-1 group-title="24/7" tvg-logo="",DON GATO Y SU PANDILLA
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1490
+#EXTINF:-1 group-title="24/7" tvg-logo="",LOS SUPERSONICOS
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/221337
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/11/14/17/25/184425.jpg" group-title="PELICULAS", PASAJEROS
 http://vod.tuxchannel.mx/peliculas4k/passengers.mkv
@@ -3060,6 +2840,7 @@ http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJFahLdfNr30nUh_mYb1goqt63JWTs
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLdy6XtW19vIE0w1q-rU31l4I8BywpQFtq6y2NZ3e3Jk
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODkyZjcyOGMtZWVhYy00ZWEyLWJlZDItZDA2OTBhNGZmMjBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="PELICULAS", BLUE BEETLE
 http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJa6a098QUf1PpDKqLJB6q6Z9-xa-ujst7F23bpBgth5
+
 #EXTINF:-1,EL DIA DE MI GRADUACION
 http://vod.tuxchannel.mx/peliculas/720/senior%20year%202022.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BOYKA INDISPUTED 
