@@ -995,9 +995,46 @@ http://gotv.vip:8880/Jaime/Jaime123/36760
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 5", DISTRITO COMEDIA
 http://1tv41.icu:8080/Py5zFZ/363334/57639
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QlLR_Q_5lWU/VxfynesrKoI/AAAAAAAA9RA/Ds8uWML8FmwfuVLIrm8NK8clufBmQ95fACLcB/s990/distrito%2Bcomedia.png" group-title="TV OPCION 5", DISTRITO COMEDIA 2
-http://45.5.117.182:8000/play/ihf9/index.m3u8?fbclid=IwAR2G4mvqNBUjzgGS-4OH69KvGPSbpqrGk6lwzdUR9rdwo0ddHoyJhSAoN3Y
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", Foro TV HD
+http://1tv41.icu:8080/Py5zFZ/363334/57594
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", Unicable
+http://1tv41.icu:8080/Py5zFZ/363334/57611
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",CNN 
+http://1tv41.icu:8080/Py5zFZ/363334/57619
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",Discovery Channel
+http://1tv41.icu:8080/Py5zFZ/363334/57625
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", Fox
+http://1tv41.icu:8080/Py5zFZ/363334/57637
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", Cinemax
+http://1tv41.icu:8080/Py5zFZ/363334/57638
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",Discovery
+http://1tv41.icu:8080/Py5zFZ/363334/57645
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", Multimedios 
+http://1tv41.icu:8080/Py5zFZ/363334/57646
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",Multimedios HD
+http://1tv41.icu:8080/Py5zFZ/363334/57711
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TNT 
+http://1tv41.icu:8080/Py5zFZ/363334/57719
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",Discovery
+http://1tv41.icu:8080/Py5zFZ/363334/66245
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", AZTECA UNO
+http://1tv41.icu:8080/Py5zFZ/363334/57643
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TELEMUNDO 51 MIAMI HD
+http://1tv41.icu:8080/Py5zFZ/363334/56410
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",UniMas  
+http://1tv41.icu:8080/Py5zFZ/363334/57969
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",Univision
 
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",Galavision
+http://1tv41.icu:8080/Py5zFZ/363334/58770
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",TUDN
+http://1tv41.icu:8080/Py5zFZ/363334/21644
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",LAS ESTRELLAS
+http://1tv41.icu:8080/Py5zFZ/363334/82940
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5", Comedy Central
+http://1tv41.icu:8080/Py5zFZ/363334/83529
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 5",Knight Rider
+http://1tv41.icu:8080/Py5zFZ/363334/83700
 
 
 
