@@ -117,6 +117,8 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS -1
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1",LAS ESTRELLAS -2
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th?q=Las+Estrellas+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=es-MX&cc=MX&setlang=es&adlt=moderate&t=1&mw=247" group-title="TV OPCION 1", LAS ESTRELLAS OPCION 2
