@@ -28,6 +28,8 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", VIVO PLAY
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", FOX SPORTS
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/376
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TUDN
@@ -73,8 +75,12 @@ http://cdn1host.online:2999/carlosleon/2469/21
 http://cdn1host.online:2999/carlosleon/2469/303
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="TV OPCION 1", DE PELICULA
 http://cdn1host.online:2999/carlosleon/2469/85
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="TV OPCION 1", DE PELICULA (2)
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="TV OPCION 1", DE PELICULA PLUS
 http://cdn1host.online:2999/carlosleon/2469/1699
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="TV OPCION 1", DE PELICULA PLUS (2)
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="TV OPCION 1", CLARO CINEMA
 http://cdn1host.online:2999/carlosleon/2469/1720
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="TV OPCION 1", E! ENTERTAINMENT
@@ -93,14 +99,18 @@ http://cdn1host.online:2999/carlosleon/2469/34
 http://cdn1host.online:2999/carlosleon/2469/39
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xZtRlCgTCq41ObAJEVqeBS-fPAXhSXj69YYfkky5CspHLMiB5sm-gPNCmN6S0_3CISU&usqp=CAU" group-title="TV OPCION 1", TL NOVELAS
 http://cdn1host.online:2999/carlosleon/2469/40
-
-
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",BANDAMAX
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="TV OPCION 1", DISTRITO COMEDIA (1)
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="TV OPCION 1", DISTRITO COMEDIA
 http://cdn1host.online:2999/carlosleon/2469/38
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/41/36/d5/4136d5ec5153a2985d1f4c5faba1190c.jpg" group-title="TV OPCION 1",TELEMUNDO INTERNACIONAL
 http://cdn1host.online:2999/carlosleon/2469/54
 #EXTINF:-1 tvg-logo="https://newsletters.worldscreen.com/tvcanales/img/2015-01-06-logounicable.gif" group-title="TV OPCION 1",UNICABLE
 http://cdn1host.online:2999/carlosleon/2469/24
+#EXTINF:-1 tvg-logo="https://newsletters.worldscreen.com/tvcanales/img/2015-01-06-logounicable.gif" group-title="TV OPCION 1",UNICABLE (2)
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV OPCION 1",IMAGEN TV
 http://cdn1host.online:2999/carlosleon/2469/1695
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV OPCION 1",IMAGEN TV
@@ -127,14 +137,24 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOGfMAPzwXct2dRl8AnL2V0KQmoQ3g4-GXB_oFhVoesU_LIc2VY9_7dnjxtG2TqFYeZ2Q&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOGfMAPzwXct2dRl8AnL2V0KQmoQ3g4-GXB_oFhVoesU_LIc2VY9_7dnjxtG2TqFYeZ2Q&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO -1
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOGfMAPzwXct2dRl8AnL2V0KQmoQ3g4-GXB_oFhVoesU_LIc2VY9_7dnjxtG2TqFYeZ2Q&usqp=CAU" group-title="TV OPCION 1", AZTECA UNO -1 (2)
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="TV OPCION 1",TV Azteca Noroeste (Monterrey) (720p)
 https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9532940c64bfa31a9418edb1d29d01aa?rik=zQo7hFQ31kAuKg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20140515064650%2flogopedia%2fimages%2f1%2f13%2fAzteca_7_2000.png&ehk=1ZijXBEDE74TL8IGRNar13W4KG8k3CgS76nUnf8w6vE%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", AZTECA 7 
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9532940c64bfa31a9418edb1d29d01aa?rik=zQo7hFQ31kAuKg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20140515064650%2flogopedia%2fimages%2f1%2f13%2fAzteca_7_2000.png&ehk=1ZijXBEDE74TL8IGRNar13W4KG8k3CgS76nUnf8w6vE%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", AZTECA 7 (2)
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9532940c64bfa31a9418edb1d29d01aa?rik=zQo7hFQ31kAuKg&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20140515064650%2flogopedia%2fimages%2f1%2f13%2fAzteca_7_2000.png&ehk=1ZijXBEDE74TL8IGRNar13W4KG8k3CgS76nUnf8w6vE%3d&risl=&pid=ImgRaw&r=0" group-title="TV OPCION 1", AZTECA 7 (3)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1", A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/41/36/d5/4136d5ec5153a2985d1f4c5faba1190c.jpg" group-title="TV OPCION 1",TELEMUNDO INTERNACIONAL
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3024
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1", CANAL 57 USA
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es" group-title="TV OPCION 1",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV
