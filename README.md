@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",COMO DICE EL DICHO
-https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",LA ROSA DE GUADALUPE
-https://linear-344.frequency.stream/mt/studio/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1641056610880479233/y7LYZu4L_400x400.jpg" group-title="TV OPCION 1",CNN EN ESPAÑOL
@@ -251,7 +247,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fver2-1.fna.fbcdn.net/v/t39.30808-6/300834146_456891763119975_7482949456401382255_n.png?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFHi9xDN_AHtFwbp9waarXNasA8nzMuuEJqwDyfMy64Qgm6-jYFDhkMtWC-UaBfAn2wJH7sBp0_Q9e8suf3PN7z&_nc_ohc=7aR1mJp28ZYAX_xFwtf&_nc_oc=AQmMsnbFLvJAg797doOLLBhyHEhLMw8lThcYWOnGaFA8Sp-xExUXa9wl12zd8aj4Xof9stnQMCAO_zFCH4YPbVLT&_nc_ht=scontent.fver2-1.fna&oh=00_AfA--7-SdT8GveBT_OmNYGJV44KqUDyGi-3O0Y1mpCP6vA&oe=65729FD4" group-title="TV OPCION 1",CINE DE ORO MEXICANO
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel-landscape/62ba25664dab70b5db40efc3/49810c8e0dc1777f82ae60e40ce34c17?tr=w-1200,h-627,f-jpeg" group-title="TV OPCION 1",CINE DE ORO MEXICANO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1015291157860020230/NAY2iXam_400x400.jpg" group-title="TV OPCION 1",MEGACINE HD 
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
@@ -263,11 +259,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1" ,MY TIME NETWORK
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,VIX CINE RETRO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1HEZyGfTWiSB0_gH9YyvRwu_ERAms4lNXjjBjLs3cPVFgTCLm2-SZTI_9o8q9uRCH2w&usqp=CAU" group-title="TV OPCION 1" ,VIX CINE RETRO
 https://linear-562.frequency.stream/mt/studio/562/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,MOOVIE MEX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG4nOLXgY3xu3zrKprcsQCKq8WnvrhJe9aqQ&usqp=CAU" group-title="TV OPCION 1" ,MOOVIE MEX
 https://linear-564.frequency.stream/mt/studio/564/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,BITME
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCfHKPe5iYriyYKfjkO6127CPuQ6a3RaS6HiG1PidjJIzinO_UpNGZ4ilgHlYkbKtlao&usqp=CAU" group-title="TV OPCION 1" ,BITME
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
@@ -1605,8 +1601,11 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 #EXTINF:-1 group-title="TV OPCION 6",TELEMUNDO HOUSTON HD
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
-
-#EXTINF:-1 group-title="24/7" tvg-logo="", tvg-logo="",LA ROSA DE GUADALUPE
+#EXTINF:-1 group-title="24/7" tvg-logo="", tvg-logo="",COMO DICE EL DICHO
+https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="", tvg-logo="",LA ROSA DE GUADALUPE 
+https://linear-344.frequency.stream/mt/studio/344/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="", tvg-logo="",LA ROSA DE GUADALUPE 2
 http://sdmx.vip:8080/China02/china93/180593
 #EXTINF:-1 group-title="24/7" tvg-logo="",Como Dice El Dicho
 http://sdmx.vip:8080/China02/china93/2090993
