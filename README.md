@@ -48,6 +48,8 @@ http://cdn1host.online:2999/carlosleon/2469/16
 http://cdn1host.online:2999/carlosleon/2469/15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV OPCION 1",CANAL 6
 http://cdn1host.online:2999/carlosleon/2469/14
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/31/68/303168ac72ed212e263324e9c3d7d88b.png" group-title="TV OPCION 1",MULTIPREMIER
+http://138.59.177.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="TV OPCION 1",FX
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/40898
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Uyk1FcjES8X1nQAitR7JDjKk3VzmiKKMPQ&usqp=CAU" group-title="TV OPCION 1",CANAL CLARO
