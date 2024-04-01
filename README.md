@@ -1623,7 +1623,7 @@ http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140117
 http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140119
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISTRITO COMEDIA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/distrito-comedia-mx.png" group-title="CANALES 4K",DISTRITO COMEDIA
 http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140120
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="COMEDY CENTRAL ESP" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL ESP
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="COMEDY CENTRAL ESP" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="CANALES 4K",COMEDY CENTRAL ESP
 http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140121
 #EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNICABLE HD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unicable-mx.png" group-title="CANALES 4K",UNICABLE HD
 http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140122
@@ -1653,7 +1653,7 @@ http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140134
 http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140135
 #EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TLC ESP HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_lam.png" group-title="CANALES 4K",TLC ESP HD
 http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140136
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TL NOVELA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_novela_channel_ph.png" group-title="TELENOVELAS",TL NOVELA
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TL NOVELA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_novela_channel_ph.png" group-title="CANALES 4K",TL NOVELA
 http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140137
 #EXTINF:-1 tvg-id="I444.61776.zap2it.com" tvg-name="PASIONES HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pasiones_us_estados_unidos.png" group-title="CANALES 4K",PASIONES HD
 http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140138
@@ -1857,11 +1857,8 @@ http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140324
 http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140325
 
 
-#EXTINF:-1 group-title="24/7" tvg-logo="", tvg-logo="",COMO DICE EL DICHO
-https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="", tvg-logo="",LA ROSA DE GUADALUPE 
-https://linear-344.frequency.stream/mt/studio/344/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="24/7" tvg-logo="", tvg-logo="",LA ROSA DE GUADALUPE 2
+
+#EXTINF:-1 group-title="24/7" tvg-logo="", tvg-logo="",LA ROSA DE GUADALUPE
 http://sdmx.vip:8080/China02/china93/180593
 #EXTINF:-1 group-title="24/7" tvg-logo="",Como Dice El Dicho
 http://sdmx.vip:8080/China02/china93/2090993
