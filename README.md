@@ -170,6 +170,8 @@ http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3024
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es" group-title="TV OPCION 1",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV HD
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/459
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.92ed8577ecce7013b885cda85ae2e202?rik=F3YTp9r2knBZOQ&pid=ImgRaw&r=0" group-title="TV OPCION 1", GALAVISION
