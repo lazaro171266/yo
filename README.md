@@ -1605,6 +1605,258 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 #EXTINF:-1 group-title="TV OPCION 6",TELEMUNDO HOUSTON HD
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
+
+
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="AZTECA 7 (XHIMT)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png" group-title="CANALES 4K",AZTECA 7 (XHIMT)
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140112
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="IMAGEN TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imagen_tv_mx.png" group-title="CANALES 4K",IMAGEN TV HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140113
+#EXTINF:-1 tvg-id="I430.62161.zap2it.com" tvg-name="HOLA TV" tvg-logo="http://allstar.is-by.us:25461/images/18b09c94fa7ffa5efb8a8e56318212ce.png" group-title="CANALES 4K",HOLA TV
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140114
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="AZTECA UNO - 2 HORAS" tvg-logo="http://allstar.is-by.us:25461/images/090fff64b7e509594ce6d558d49ea66e.png" group-title="CANALES 4K",AZTECA UNO - 2 HORAS
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140115
+#EXTINF:-1 tvg-id="I419.17054.zap2it.com" tvg-name="CNN MX ESPANOL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_espanol.png" group-title="CANALES 4K",CNN MX ESPANOL
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140116
+#EXTINF:-1 tvg-id="I102.16461.schedulesdirect.org" tvg-name="ESTRELLAS  HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="CANALES 4K",ESTRELLAS  HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140117
+#EXTINF:-1 tvg-id="I406.77606.zap2it.com" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_internacional.png" group-title="CANALES 4K",TELEMUNDO INTERNACIONAL
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140119
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISTRITO COMEDIA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/distrito-comedia-mx.png" group-title="CANALES 4K",DISTRITO COMEDIA
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140120
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="COMEDY CENTRAL ESP" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL ESP
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140121
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNICABLE HD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unicable-mx.png" group-title="CANALES 4K",UNICABLE HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140122
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="Canal 5 HD (XHGC-TDT)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png" group-title="CANALES 4K",Canal 5 HD (XHGC-TDT)
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140123
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="A&E USAHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="CANALES 4K",A&E USAHD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140125
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="ANIMAL PLANET" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="CANALES 4K",ANIMAL PLANET
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140126
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-home-and-health-us.png" group-title="CANALES 4K",DISCOVERY HOME & HEALTH
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140127
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY WORLD ESP" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_world_lam.png" group-title="CANALES 4K",DISCOVERY WORLD ESP
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140128
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY MX HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CANALES 4K",DISCOVERY MX HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140129
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY TURBO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-turbo-us.svg" group-title="CANALES 4K",DISCOVERY TURBO
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140130
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY THEATER" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_theater_lam.png" group-title="CANALES 4K",DISCOVERY THEATER
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140131
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.svg" group-title="CANALES 4K",INVESTIGATION DISCOVERY
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140132
+#EXTINF:-1 tvg-id="I443.43362.zap2it.com" tvg-name="HISTORY 2 MX HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="CANALES 4K",HISTORY 2 MX HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140133
+#EXTINF:-1 tvg-id="I269.14771.zap2it.com" tvg-name="HISTORY EN ESPANOL" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_en_espanol_us.png" group-title="CANALES 4K",HISTORY EN ESPANOL
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140134
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="NATIONAL GEOGRAPHIC WILD ESP HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="CANALES 4K",NATIONAL GEOGRAPHIC WILD ESP HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140135
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TLC ESP HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_lam.png" group-title="CANALES 4K",TLC ESP HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140136
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TL NOVELA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_novela_channel_ph.png" group-title="TELENOVELAS",TL NOVELA
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140137
+#EXTINF:-1 tvg-id="I444.61776.zap2it.com" tvg-name="PASIONES HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pasiones_us_estados_unidos.png" group-title="CANALES 4K",PASIONES HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140138
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="E! ESP HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/e_global_us.png" group-title="CANALES 4K",E! ESP HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140139
+#EXTINF:-1 tvg-id="I824.56036.schedulesdirect.org" tvg-name="BABY TV MX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="CANALES 4K",BABY TV MX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140140
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="CARTOONITO MX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="CANALES 4K",CARTOONITO MX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140141
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="CANALES 4K",CARTOON NETWORK
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140142
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_channel_global.png" group-title="CANALES 4K",DISNEY CHANNEL
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140143
+#EXTINF:-1 tvg-id="I322.61311.schedulesdirect.org" tvg-name="DISNEY JR HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="CANALES 4K",DISNEY JR HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140144
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY KIDS MX HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png" group-title="CANALES 4K",DISCOVERY KIDS MX HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140145
+#EXTINF:-1 tvg-id="I301.82649.zap2it.com" tvg-name="NICK JUNIOR HD MX" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="CANALES 4K",NICK JUNIOR HD MX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140146
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TEEN NICK USA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teen_nick_us.png" group-title="CANALES 4K",TEEN NICK USA
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140147
+#EXTINF:-1 tvg-id="I34.90898.schedulesdirect.org" tvg-name="A3 SERIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atreseries-es.png" group-title="CANALES 4K",A3 SERIES HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140149
+#EXTINF:-1 tvg-id="I19.90653.schedulesdirect.org" tvg-name="AMC HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CANALES 4K",AMC HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140150
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="CINECANAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinecanal-us.png" group-title="CANALES 4K",CINECANAL HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140151
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DE PELICULA CLASICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png" group-title="CANALES 4K",DE PELICULA CLASICO
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140153
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="SYFY ENG" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="CANALES 4K",SYFY ENG
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140154
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="PARAMOUNT NETWORK ESP" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png" group-title="CANALES 4K",PARAMOUNT NETWORK ESP
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140155
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="SONY CHANNEL LAT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="CANALES 4K",SONY CHANNEL LAT
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140156
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="SPACE MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_mx.png" group-title="CANALES 4K",SPACE MEXICO
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140157
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="CINEMAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_lam.png" group-title="CANALES 4K",CINEMAX HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140158
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/studio_universal_global.png" group-title="CANALES 4K",STUDIO UNIVERSAL HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140159
+#EXTINF:-1 tvg-id="I211.16799.schedulesdirect.org" tvg-name="UNIVERSAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/universal-channel-america-latina-us.png" group-title="CANALES 4K",UNIVERSAL HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140160
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CANALES 4K",UNIVERSAL COMEDY
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140161
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CANALES 4K",UNIVERSAL CINEMA
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140162
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNIVERSAL PREMIER LATINO" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CANALES 4K",UNIVERSAL PREMIER LATINO
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140163
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNIVERSAL CRIMEN" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="CANALES 4K",UNIVERSAL CRIMEN
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140164
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNIVERSAL REALITY Latino" tvg-logo="https://www.lyngsat.com/logo/tv/uu/universal-channel-america-latina-us.png" group-title="CANALES 4K",UNIVERSAL REALITY Latino
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140165
+#EXTINF:-1 tvg-id="I553.11160.zap2it.com" tvg-name="MULTIPREMIER MP" tvg-logo="https://www.lyngsat.com/logo/tv/mm/multipremier_mx.png" group-title="CANALES 4K",MULTIPREMIER MP
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140166
+#EXTINF:-1 tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png" group-title="CANALES 4K",AXN HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140168
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FX HD mx" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="CANALES 4K",FX HD mx
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140169
+#EXTINF:-1 tvg-id="I430.88305.schedulesdirect.org" tvg-name="FILM&ARTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/film_and_arts_lam.png" group-title="CANALES 4K",FILM&ARTS
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140170
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="GOLDEN EDGE" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-edge-mx.png" group-title="CANALES 4K",GOLDEN EDGE
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140171
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO MX" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_east.png" group-title="CANALES 4K",HBO MX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140173
+#EXTINF:-1 tvg-id="I348.80652.schedulesdirect.org" tvg-name="HBO 2 HD Latino" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_lam.png" group-title="CANALES 4K",HBO 2 HD Latino
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140174
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO PLUS" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="CANALES 4K",HBO PLUS
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140175
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO POP" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-pop-us.png" group-title="CANALES 4K",HBO POP
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140176
+#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO MUNDI" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-mundi-us.png" group-title="CANALES 4K",HBO MUNDI
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140178
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO EXTREME Dual" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png" group-title="CANALES 4K",HBO EXTREME Dual
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140179
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TNT HD" tvg-logo="http://allstar.is-by.us:25461/images/b79c4b63475c85f02c75aa2c3081d9fb.png" group-title="CANALES 4K",TNT HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140180
+#EXTINF:-1 tvg-id="I433.54867.zap2it.com" tvg-name="BANDAMAX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandamax-mx.png" group-title="CANALES 4K",BANDAMAX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140184
+#EXTINF:-1 tvg-id="I160.60964.schedulesdirect.org" tvg-name="MTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_us.png" group-title="CANALES 4K",MTV HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140185
+#EXTINF:-1 tvg-id="I572.49141.zap2it.com" tvg-name="MTV LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_hd_us.png" group-title="CANALES 4K",MTV LIVE
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140186
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TELEHIT MUSICA  HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telehit-mx.png" group-title="CANALES 4K",TELEHIT MUSICA  HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140188
+#EXTINF:-1 tvg-id="I90.18101.schedulesdirect.org" tvg-name="BANDAMAX MX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandamax-mx.png" group-title="CANALES 4K",BANDAMAX MX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140189
+#EXTINF:-1 tvg-id="I388.81448.schedulesdirect.org" tvg-name="FIGHT NETWORK 77" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_network_ca.png" group-title="CANALES 4K",FIGHT NETWORK 77
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140191
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FOX SPORTS 3" tvg-logo="http://allstar.is-by.us:25461/images/a1a4e3072633c3e084c3f8a377a1e642.png" group-title="CANALES 4K",FOX SPORTS 3
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140196
+#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BEIN SPORTS ESP" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="CANALES 4K",BEIN SPORTS ESP
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140198
+#EXTINF:-1 tvg-id="I212.45399.zap2it.com" tvg-name="NFL HD 77" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png" group-title="CANALES 4K",NFL HD 77
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140200
+#EXTINF:-1 tvg-id="I468.32161.zap2it.com" tvg-name="GOL TV 77 US" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gol-tv-us.png" group-title="CANALES 4K",GOL TV 77 US
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140205
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="GOURMET HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-gourmet-ar.png" group-title="CANALES 4K",GOURMET HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140206
+#EXTINF:-1 tvg-id="I12.83162.schedulesdirect.org" tvg-name="Adrenalina Sports Network MX" tvg-logo="https://www.lyngsat.com/logo/tv/aa/adrenalina-sports-network-us.png" group-title="CANALES 4K",Adrenalina Sports Network MX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140207
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FORO TV MX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/foro-tv-mx.png" group-title="CANALES 4K",FORO TV MX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140208
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="Multimedio Laguna HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-6-mx.png" group-title="CANALES 4K",Multimedio Laguna HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140212
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Canal 5 HD Mexico" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png" group-title="CANALES 4K",Canal 5 HD Mexico
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140213
+#EXTINF:-1 tvg-id="I898.65930.schedulesdirect.org" tvg-name="ESPN + HD MX" tvg-logo="http://142.54.161.162/espn-plus-us.jpg" group-title="CANALES 4K",ESPN + HD MX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140218
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TNT Latino HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_us.png" group-title="CANALES 4K",TNT Latino HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140219
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="Multipremier HD MEX" tvg-logo="https://www.lyngsat.com/logo/tv/mm/multipremier_mx.png" group-title="CANALES 4K",Multipremier HD MEX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140220
+#EXTINF:-1 tvg-id="I402.68049.zap2it.com" tvg-name="UNIVISION WEST" tvg-logo="http://allstar.is-by.us:25461/images/64f66576614ccf2e062351427169857b.png" group-title="CANALES 4K",UNIVISION WEST
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140224
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-name="UNIVERSO fhd" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_universo_este.png" group-title="CANALES 4K",UNIVERSO fhd
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140225
+#EXTINF:-1 tvg-id="I404.10222.zap2it.com" tvg-name="GALAVISION WEST" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galavision_east.png" group-title="CANALES 4K",GALAVISION WEST
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140231
+#EXTINF:-1 tvg-id="I355.10139.zap2it.com" tvg-name="CNBC HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc-us.svg" group-title="CANALES 4K",CNBC HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140235
+#EXTINF:-1 tvg-id="I356.64241.zap2it.com" tvg-name="MSNBC HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/msnbc_us.png" group-title="CANALES 4K",MSNBC HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140236
+#EXTINF:-1 tvg-id="I357.26849.zap2it.com" tvg-name="CNBC WORLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc-world-us.svg" group-title="CANALES 4K",CNBC WORLD HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140237
+#EXTINF:-1 tvg-id="I402.68049.zap2it.com" tvg-name="UNIVISION SAN DIEGO" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="CANALES 4K",UNIVISION SAN DIEGO
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140238
+#EXTINF:-1 tvg-id="I560.74073.zap2it.com" tvg-name="EPIX HITS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/epix-hits-us.png" group-title="CANALES 4K",EPIX HITS HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140242
+#EXTINF:-1 tvg-id="I539.68409.zap2it.com" tvg-name="EPIX DRIVE HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/epix-drive-in-us.png" group-title="CANALES 4K",EPIX DRIVE HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140243
+#EXTINF:-1 tvg-id="I564.105723.zap2it.com" tvg-name="HALLMARK DRAMA ENG" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark-drama-us.png" group-title="CANALES 4K",HALLMARK DRAMA ENG
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140249
+#EXTINF:-1 tvg-id="I242.58452.zap2it.com" tvg-name="USA NETWORK HD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/usa_network_east.png" group-title="CANALES 4K",USA NETWORK HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140256
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="SYFY ENG" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="CANALES 4K",SYFY ENG
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140257
+#EXTINF:-1 tvg-id="I341.45805.zap2it.com" tvg-name="COZI TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cozi-tv-us.png" group-title="CANALES 4K",COZI TV
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140259
+#EXTINF:-1 tvg-id="I327.59440.zap2it.com" tvg-name="CMT USA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmt-us.png" group-title="CANALES 4K",CMT USA
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140260
+#EXTINF:-1 tvg-id="I249.62420.zap2it.com" tvg-name="Comedy Central ENG" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="CANALES 4K",Comedy Central ENG
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140261
+#EXTINF:-1 tvg-id="I271.18822.zap2it.com" tvg-name="ViCe HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vice-tv-us.svg" group-title="CANALES 4K",ViCe HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140262
+#EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="SONY MOVIE CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="CANALES 4K",SONY MOVIE CHANNEL
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140263
+#EXTINF:-1 tvg-id="I345.84823.schedulesdirect.org" tvg-name="HBO WEST" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_east.png" group-title="CANALES 4K",HBO WEST
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140269
+#EXTINF:-1 tvg-id="I509.59845.zap2it.com" tvg-name="HBO ZONE" tvg-logo="http://allstar.is-by.us:25461/images/6dca7b32a17636a7066802f6707c542f.png" group-title="CANALES 4K",HBO ZONE
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140270
+#EXTINF:-1 tvg-id="I502.59368.zap2it.com" tvg-name="HBO  East" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png" group-title="CANALES 4K",HBO  East
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140271
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO SIGNATURE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_lam.png" group-title="CANALES 4K",HBO SIGNATURE
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140273
+#EXTINF:-1 tvg-id="I507.16585.zap2it.com" tvg-name="HBO FAMILY US" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_br.png" group-title="CANALES 4K",HBO FAMILY US
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140276
+#EXTINF:-1 tvg-id="I506.59839.zap2it.com" tvg-name="HBO COMEDY EAST US" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_comedy_east.png" group-title="CANALES 4K",HBO COMEDY EAST US
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140277
+#EXTINF:-1 tvg-id="I392.76950.schedulesdirect.org" tvg-name="BEIN SPORTS EXTRA US" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="CANALES 4K",BEIN SPORTS EXTRA US
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140283
+#EXTINF:-1 tvg-id="I218.14899.zap2it.com" tvg-name="GOLF USA" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="CANALES 4K",GOLF USA
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140284
+#EXTINF:-1 tvg-id="I630.49198.zap2it.com" tvg-name="NBC SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_sports_bay_area.png" group-title="CANALES 4K",NBC SPORTS
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140286
+#EXTINF:-1 tvg-id="I381.76370.zap2it.com" tvg-name="PAC 12 BAY AREA" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pac_12_networks_us.png" group-title="CANALES 4K",PAC 12 BAY AREA
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140290
+#EXTINF:-1 tvg-id="I213.62081.zap2it.com" tvg-name="MLB NETWORK " tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb_network.png" group-title="CANALES 4K",MLB NETWORK 
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140296
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS USA INTERNACIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="CANALES 4K",TYC SPORTS USA INTERNACIONAL
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140297
+#EXTINF:-1 tvg-id="I465.72189.zap2it.com" tvg-name="FOX DEPORTES USA" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_deportes_us.png" group-title="CANALES 4K",FOX DEPORTES USA
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140298
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="SPORTSMAN HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportsman-channel-us.png" group-title="CANALES 4K",SPORTSMAN HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140300
+#EXTINF:-1 tvg-id="I154.45399.schedulesdirect.org" tvg-name="NHL HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png" group-title="CANALES 4K",NHL HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140302
+#EXTINF:-1 tvg-id="I41.11054.zap2it.com" tvg-name="AT&T SPORTS NET SOUTHWEST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/att-sportsnet-us.png" group-title="CANALES 4K",AT&T SPORTS NET SOUTHWEST
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140309
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/afizzionados-mx.png" group-title="CANALES 4K",Afizzionados HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140312
+#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BEiN Sports Xtra LAT" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="CANALES 4K",BEiN Sports Xtra LAT
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140313
+#EXTINF:-1 tvg-id="I388.81448.schedulesdirect.org" tvg-name="FIGHT NETWORK / MMA NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="CANALES 4K",FIGHT NETWORK / MMA NETWORK
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140314
+#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-name="WWE NET" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="CANALES 4K",WWE NET
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140315
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN 4 ARG" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="CANALES 4K",ESPN 4 ARG
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140316
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARG" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-premium-us-ar.svg" group-title="CANALES 4K",ESPN PREMIUM ARG
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140317
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN DEPORTES HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_deportes.png" group-title="CANALES 4K",ESPN DEPORTES HD
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140318
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 US" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png" group-title="CANALES 4K",ESPN2 US
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140320
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FOX SPORTS HD MEX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="CANALES 4K",FOX SPORTS HD MEX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140323
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FOX SPORTS 2 HD MEX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="CANALES 4K",FOX SPORTS 2 HD MEX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140324
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FOX SPORTS 3 HD MEX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="CANALES 4K",FOX SPORTS 3 HD MEX
+http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140325
+
+
 #EXTINF:-1 group-title="24/7" tvg-logo="", tvg-logo="",COMO DICE EL DICHO
 https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="", tvg-logo="",LA ROSA DE GUADALUPE 
