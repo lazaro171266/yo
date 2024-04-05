@@ -498,91 +498,326 @@ http://1tv41.icu:8080/Py5zFZ/363334/57639
 http://1tv41.icu:8080/Py5zFZ/363334/82940
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="M | TV MAS FHD" tvg-logo="http://ceoapps.org/logos/tvmas.png" group-title="TV OPCION 3", LA ROSA DE GUADALUPE
-http://sdmx.vip:8080/China02/china93/2083045
-#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="M | TV MAS FHD" tvg-logo="http://ceoapps.org/logos/tvmas.png" group-title="TV OPCION 3", TV MAS 
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",La Rosa de Guadalupe
+http://sdmx.vip:8080/China02/china93/2157911
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Ultra Clasico
+http://sdmx.vip:8080/China02/china93/2157599
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Ultra Cine
+http://sdmx.vip:8080/China02/china93/2157469
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Ultra Documental
+http://sdmx.vip:8080/China02/china93/2157470
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Ultra Macho
+http://sdmx.vip:8080/China02/china93/2157594
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Ultra Mex
+http://sdmx.vip:8080/China02/china93/2157595
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Ultra Fiesta
+http://sdmx.vip:8080/China02/china93/2157596
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Ultra Familia
+http://sdmx.vip:8080/China02/china93/2157597
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Ultra Kids
+http://sdmx.vip:8080/China02/china93/2157598
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",MULTICINEMA  
+http://sdmx.vip:8080/China02/china93/2199237
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Comedy Central FHD
+http://sdmx.vip:8080/China02/china93/148720
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Distrito Comedia FHD
+http://sdmx.vip:8080/China02/china93/148721
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Universal Kids FHD
+http://sdmx.vip:8080/China02/china93/153893
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Baby First FHD
+http://sdmx.vip:8080/China02/china93/154077
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Cartoonito Boomerang FHD
+http://sdmx.vip:8080/China02/china93/154079
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Cartoon Network FHD
+http://sdmx.vip:8080/China02/china93/154080
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Discovery Kids FHD
+http://sdmx.vip:8080/China02/china93/154082
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Disney Jr FHD
+http://sdmx.vip:8080/China02/china93/154083
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TeenNick FHD
+http://sdmx.vip:8080/China02/china93/154087
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Nick Jr FHD
+http://sdmx.vip:8080/China02/china93/154089
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Nickelodeon FHD
+http://sdmx.vip:8080/China02/china93/154090
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Azteca Uno FHD
+http://sdmx.vip:8080/China02/china93/10816
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Canal 4 FHD
+http://sdmx.vip:8080/China02/china93/10826
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Televisa (Leon) FHD
+http://sdmx.vip:8080/China02/china93/10827
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TV MAS FHD
 http://sdmx.vip:8080/China02/china93/10829
-#EXTINF:-1 tvg-id="" tvg-name="M | TeleVer" tvg-logo="http://ceoapps.org/logos/telever.png" group-title="TV OPCION 3", TeleVer
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TeleVer
 http://sdmx.vip:8080/China02/china93/10832
-#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="M | Nu9ve FHD" tvg-logo="http://ceoapps.org/logos/nu9ve.png" group-title="TV OPCION 3", Nu9ve  
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Nu9ve FHD
 http://sdmx.vip:8080/China02/china93/10837
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="M | Canal 5 FHD" tvg-logo="http://ceoapps.org/logos/canal5.png" group-title="TV OPCION 3", Canal 5  
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Las Estrellas FHD
+http://sdmx.vip:8080/China02/china93/27471
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Canal 5 FHD
 http://sdmx.vip:8080/China02/china93/27472
-#EXTINF:-1 tvg-id="canalmonterreyxefb.mx" tvg-name="M | Televisa Monterrey FHD" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Monterrey FHD
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Televisa Monterrey FHD
 http://sdmx.vip:8080/China02/china93/27495
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="M | Azteca Corazon FHD" tvg-logo="http://ceoapps.org/logos/azcorazon.png" group-title="TV OPCION 3", Azteca Corazon FHD
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Azteca Corazon FHD
 http://sdmx.vip:8080/China02/china93/75649
-#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="M | Canal Once FHD" tvg-logo="http://ceoapps.org/logos/canalonce.png" group-title="TV OPCION 3", Canal Once FHD
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Canal Once FHD
 http://sdmx.vip:8080/China02/china93/84527
-#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="M | Azteca Mundo FHD" tvg-logo="http://ceoapps.org/logos/azmundo.png" group-title="TV OPCION 3", Azteca Mundo FHD
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Azteca Mundo FHD
 http://sdmx.vip:8080/China02/china93/101312
-#EXTINF:-1 tvg-id="amastv.mx" tvg-name="M | A+ FHD" tvg-logo="http://ceoapps.org/logos/amas.png" group-title="TV OPCION 3", A+ FHD
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",A+ FHD
 http://sdmx.vip:8080/China02/china93/154117
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="M | Azteca 7 FHD" tvg-logo="http://ceoapps.org/logos/azteca7.png" group-title="TV OPCION 3", Azteca 7 FHD
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Azteca 7 FHD
 http://sdmx.vip:8080/China02/china93/154123
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="M | Imagen TV FHD" tvg-logo="http://ceoapps.org/logos/imagentelevision.png" group-title="TV OPCION 3", Imagen TV FHD
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Imagen TV FHD
 http://sdmx.vip:8080/China02/china93/155181
-#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="M | Multimedios FHD" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Multimedios FHD
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Multimedios FHD
 http://sdmx.vip:8080/China02/china93/155188
-#EXTINF:-1 tvg-id="" tvg-name="M | N+" tvg-logo="http://ceoapps.org/logos/nmas.png" group-title="TV OPCION 3", N+
-http://sdmx.vip:8080/China02/china93/2113879
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="M | Azteca Uno" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV OPCION 3", Azteca Uno
-http://sdmx.vip:8080/China02/china93/155185
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="M | Azteca Uno -2 Horas" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV OPCION 3", Azteca Uno -2 Horas
-http://sdmx.vip:8080/China02/china93/2055627
-#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="M | Azteca Mundo" tvg-logo="http://ceoapps.org/logos/azmundo.png" group-title="TV OPCION 3", Azteca Mundo
-http://sdmx.vip:8080/China02/china93/10800
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="M | Azteca 7" tvg-logo="http://ceoapps.org/logos/azteca7.png" group-title="TV OPCION 3", Azteca 7
-http://sdmx.vip:8080/China02/china93/154122
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="M | Azteca Clic" tvg-logo="http://ceoapps.org/logos/clic.png" group-title="TV OPCION 3", Azteca Clic
-http://sdmx.vip:8080/China02/china93/197238
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="M | Imagen TV HD" tvg-logo="http://ceoapps.org/logos/imagentelevision.png" group-title="TV OPCION 3", Imagen TV HD
-http://sdmx.vip:8080/China02/china93/155182
-#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="M | Nu9ve TV HD" tvg-logo="http://ceoapps.org/logos/nu9ve.png" group-title="TV OPCION 3", Nu9ve
-http://sdmx.vip:8080/China02/china93/155183
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="M | Azteca Corazon" tvg-logo="http://ceoapps.org/logos/azcorazon.png" group-title="TV OPCION 3", Azteca Corazon
-http://sdmx.vip:8080/China02/china93/154119
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="M | Canal 5" tvg-logo="http://ceoapps.org/logos/canal5.png" group-title="TV OPCION 3", Canal 5
-http://sdmx.vip:8080/China02/china93/10839
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="M | Las Estrellas" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV OPCION 3", Las Estrellas
-http://sdmx.vip:8080/China02/china93/154121
-#EXTINF:-1 tvg-id="" tvg-name="M | Las Estrellas -1 Hora" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV OPCION 3", Las Estrellas -1 Hora
-http://sdmx.vip:8080/China02/china93/2153486
-#EXTINF:-1 tvg-id="Estrella-2.Mx" tvg-name="M | Las Estrellas -2 Horas" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV OPCION 3", Las Estrellas -2 Horas
-http://sdmx.vip:8080/China02/china93/212817
-#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="M | Multimedios" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Multimedios
-http://sdmx.vip:8080/China02/china93/10821
-#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="M | Canal Once HD" tvg-logo="http://ceoapps.org/logos/canalonce.png" group-title="TV OPCION 3", Canal Once HD
-http://sdmx.vip:8080/China02/china93/154116
-#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="M | Multimedios Plus" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV OPCION 3", Multimedios Plus
-http://sdmx.vip:8080/China02/china93/10834
-#EXTINF:-1 tvg-id="mvstv.mx" tvg-name="M | MVS TV" tvg-logo="http://ceoapps.org/logos/mvs.png" group-title="TV OPCION 3", MVS TV
-http://sdmx.vip:8080/China02/china93/76078
-#EXTINF:-1 tvg-id="canalmonterreyxefb.mx" tvg-name="M | Televisa Monterrey" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV OPCION 3", Televisa Monterrey
-http://sdmx.vip:8080/China02/china93/154120
-#EXTINF:-1 tvg-id="" tvg-name="D | Zona TUDN MX" tvg-logo="http://ceoapps.org/logos/zonatudn2.png" group-title="TV OPCION 3", Zona TUDN MX
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TVT Tabasco
+http://sdmx.vip:8080/China02/china93/2123294
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Zona TUDN MX
 http://sdmx.vip:8080/China02/china93/2130323
-#EXTINF:-1 tvg-id="" tvg-name="C | Love Nature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="TV OPCION 3", Love Nature
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Love Nature
 http://sdmx.vip:8080/China02/china93/2139190
-#EXTINF:-1 tvg-id="" tvg-name="M | Canal del Congreso" tvg-logo="http://ceoapps.org/logos/canaldelcongreso.png" group-title="TV OPCION 3", Canal del Congreso
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Canal del Congreso
 http://sdmx.vip:8080/China02/china93/2145514
-#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="M | Justicia TV HD" tvg-logo="http://ceoapps.org/logos/justiciatv.png" group-title="TV OPCION 3", Justicia TV HD
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Televisa Puebla HD
+http://sdmx.vip:8080/China02/china93/2145663
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Animal Planet FHD
+http://sdmx.vip:8080/China02/china93/147960
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Discovery Channel FHD
+http://sdmx.vip:8080/China02/china93/148703
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Discovery H&H FHD
+http://sdmx.vip:8080/China02/china93/148704
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Discovery Investigation FHD
+http://sdmx.vip:8080/China02/china93/148705
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Discovery Theater FHD
+http://sdmx.vip:8080/China02/china93/148706
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Discovery Turbo FHD
+http://sdmx.vip:8080/China02/china93/148707
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Discovery World FHD
+http://sdmx.vip:8080/China02/china93/148708
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",El Gourmet FHD
+http://sdmx.vip:8080/China02/china93/148709
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Food Network FHD
+http://sdmx.vip:8080/China02/china93/148710
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",History FHD
+http://sdmx.vip:8080/China02/china93/148711
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Nat Geo FHD
+http://sdmx.vip:8080/China02/china93/148712
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TLC FHD
+http://sdmx.vip:8080/China02/china93/148714
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Wobi FHD
+http://sdmx.vip:8080/China02/china93/148715
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",H2 FHD
+http://sdmx.vip:8080/China02/china93/154075
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Discovery Channel CO FHD
+http://sdmx.vip:8080/China02/china93/183443
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",History en Español FHD
+http://sdmx.vip:8080/China02/china93/192976
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",HGTV HD
+http://sdmx.vip:8080/China02/china93/2145512
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",A&E FHD
+http://sdmx.vip:8080/China02/china93/148716
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",AMC FHD
+http://sdmx.vip:8080/China02/china93/148717
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",AXN FHD
+http://sdmx.vip:8080/China02/china93/148718
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Bitme FHD
+http://sdmx.vip:8080/China02/china93/148719
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",E! FHD
+http://sdmx.vip:8080/China02/china93/148722
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Star Channel FHD
+http://sdmx.vip:8080/China02/china93/148723
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",FX FHD
+http://sdmx.vip:8080/China02/china93/148725
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Tru TV FHD
+http://sdmx.vip:8080/China02/china93/148804
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TNT Series FHD
+http://sdmx.vip:8080/China02/china93/148805
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Sony FHD
+http://sdmx.vip:8080/China02/china93/148806
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",MTV FHD
+http://sdmx.vip:8080/China02/china93/148807
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Mas Chic FHD
+http://sdmx.vip:8080/China02/china93/148808
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Hola TV FHD
+http://sdmx.vip:8080/China02/china93/148809
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Warner FHD
+http://sdmx.vip:8080/China02/china93/148810
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Universal TV FHD
+http://sdmx.vip:8080/China02/china93/155179
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Lifetime FHD
+http://sdmx.vip:8080/China02/china93/187635
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Curiosity Stream HD
+http://sdmx.vip:8080/China02/china93/2145521
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Europa TV HD
+http://sdmx.vip:8080/China02/china93/2145664
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Telemundo MX
+http://sdmx.vip:8080/China02/china93/2145673
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",A3 Series Internacional HD
+http://sdmx.vip:8080/China02/china93/2145710
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Lifetime (ARG)
+http://sdmx.vip:8080/China02/china93/2147951
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Telemundo (ARG)
+http://sdmx.vip:8080/China02/china93/2147952
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TNT Series (ARG)
+http://sdmx.vip:8080/China02/china93/2147953
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",DHE FHD
+http://sdmx.vip:8080/China02/china93/153478
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Cinecanal FHD
+http://sdmx.vip:8080/China02/china93/154085
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Cinemax FHD
+http://sdmx.vip:8080/China02/china93/154086
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",De Pelicula Plus FHD
+http://sdmx.vip:8080/China02/china93/154096
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Golden Plus FHD
+http://sdmx.vip:8080/China02/china93/154112
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",HBO. FHD
+http://sdmx.vip:8080/China02/china93/154113
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",HBO + FHD
+http://sdmx.vip:8080/China02/china93/154115
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",HBO 2 FHD
+http://sdmx.vip:8080/China02/china93/155165
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",HBO Family FHD
+http://sdmx.vip:8080/China02/china93/155166
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",HBO POP FHD
+http://sdmx.vip:8080/China02/china93/155168
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",HBO Signature FHD
+http://sdmx.vip:8080/China02/china93/155170
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Paramount Channel FHD
+http://sdmx.vip:8080/China02/china93/155172
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Space | MX | FHD
+http://sdmx.vip:8080/China02/china93/155173
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Studio Universal FHD
+http://sdmx.vip:8080/China02/china93/155174
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",SYFY FHD
+http://sdmx.vip:8080/China02/china93/155175
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TNT FHD
+http://sdmx.vip:8080/China02/china93/155177
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Golden Premier FHD
+http://sdmx.vip:8080/China02/china93/200946
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Morbido TV
+http://sdmx.vip:8080/China02/china93/2145546
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",De Pelicula FHD
+http://sdmx.vip:8080/China02/china93/2145662
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Film & Arts HD
+http://sdmx.vip:8080/China02/china93/2145709
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Studio Universal (ARG)
+http://sdmx.vip:8080/China02/china93/2147954
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Claro Sports Latinoamerica FHD
+http://sdmx.vip:8080/China02/china93/10923
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Fox Sports | MX FHD
+http://sdmx.vip:8080/China02/china93/10953
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TUDN FHD
+http://sdmx.vip:8080/China02/china93/10955
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Fox Sports | ARG FHD
+http://sdmx.vip:8080/China02/china93/10959
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",AyM Sports FHD
+http://sdmx.vip:8080/China02/china93/10961
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Espn 2 | MX FHD
+http://sdmx.vip:8080/China02/china93/10962
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Espn | MX FHD
+http://sdmx.vip:8080/China02/china93/10963
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Espn Plus | MX FHD
+http://sdmx.vip:8080/China02/china93/10964
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TNT Sports FHD
+http://sdmx.vip:8080/China02/china93/17316
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",FUTV CR FHD
+http://sdmx.vip:8080/China02/china93/21798
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Adrenalina Sports FHD
+http://sdmx.vip:8080/China02/china93/155250
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Afizzionados FHD
+http://sdmx.vip:8080/China02/china93/155471
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Espn 3 | MX FHD
+http://sdmx.vip:8080/China02/china93/155475
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Fox Sports 2 | MX FHD
+http://sdmx.vip:8080/China02/china93/155649
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Fox Sports 3 | MX FHD
+http://sdmx.vip:8080/China02/china93/155650
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Caza y pesca FHD
+http://sdmx.vip:8080/China02/china93/158477
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Eurosport FHD
+http://sdmx.vip:8080/China02/china93/158479
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Eurosport 2 FHD
+http://sdmx.vip:8080/China02/china93/158482
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Espn 3 | ARG FHD
+http://sdmx.vip:8080/China02/china93/181349
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Espn 2 | COL FHD
+http://sdmx.vip:8080/China02/china93/181351
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Espn EXTRA FHD
+http://sdmx.vip:8080/China02/china93/181378
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Fox Sports 2 | COL FHD
+http://sdmx.vip:8080/China02/china93/183213
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Fox Sports 3 | COL FHD
+http://sdmx.vip:8080/China02/china93/183214
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Fox Sports | CL FHD
+http://sdmx.vip:8080/China02/china93/183329
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Fox Sports 2 | CL FHD
+http://sdmx.vip:8080/China02/china93/183333
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",FOX Sports Premium Arg FHD
+http://sdmx.vip:8080/China02/china93/195840
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Espn | ARG FHD
+http://sdmx.vip:8080/China02/china93/202064
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",DIRECTV SPORTS FHD
+http://sdmx.vip:8080/China02/china93/203185
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",ESPN 4 ARG
+http://sdmx.vip:8080/China02/china93/2121660
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",ESPN Premium ARG
+http://sdmx.vip:8080/China02/china93/2121662
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",ESPN 4 CL
+http://sdmx.vip:8080/China02/china93/2121680
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Espn Plus Sur CO
+http://sdmx.vip:8080/China02/china93/2121734
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",PX Sports HD
+http://sdmx.vip:8080/China02/china93/2121811
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Golf Channel AR
+http://sdmx.vip:8080/China02/china93/2145544
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",TVC Deportes HD
+http://sdmx.vip:8080/China02/china93/2145706
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Tigo Sports Panama
+http://sdmx.vip:8080/China02/china93/2146834
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",ADN FHD
+http://sdmx.vip:8080/China02/china93/10603
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Bloomberg FHD
+http://sdmx.vip:8080/China02/china93/10607
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Foro TV FHD
+http://sdmx.vip:8080/China02/china93/10616
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Milenio Noticias FHD
+http://sdmx.vip:8080/China02/china93/10621
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",RT Noticias FHD
+http://sdmx.vip:8080/China02/china93/28615
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Teleformula FHD
+http://sdmx.vip:8080/China02/china93/154104
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Much Music
+http://sdmx.vip:8080/China02/china93/2145545
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",MTV 80s
+http://sdmx.vip:8080/China02/china93/2145661
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Bandamax HD
+http://sdmx.vip:8080/China02/china93/2145667
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Teleritmo HD
+http://sdmx.vip:8080/China02/china93/2145672
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",MTV 90s
+http://sdmx.vip:8080/China02/china93/2145708
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Azteca Clic HD
+http://sdmx.vip:8080/China02/china93/2145513
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Justicia TV HD
 http://sdmx.vip:8080/China02/china93/2145666
-#EXTINF:-1 tvg-id="" tvg-name="M | AMX Noticias" tvg-logo="http://ceoapps.org/logos/amx.png" group-title="TV OPCION 3", AMX Noticias
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",MN Mega Noticias HD
+http://sdmx.vip:8080/China02/china93/2145668
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",AMX Noticias
 http://sdmx.vip:8080/China02/china93/2145669
-#EXTINF:-1 tvg-id="" tvg-name="M| Mexiquense" tvg-logo="http://ceoapps.org/logos/mexiquense.png" group-title="TV OPCION 3", Mexiquense
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Mexiquense
 http://sdmx.vip:8080/China02/china93/2145707
-#EXTINF:-1 tvg-id="" tvg-name="M| Mexiquense" tvg-logo="http://ceoapps.org/logos/mexiquense.png" group-title="TV OPCION 3", CLARO CINEMA
-http://sdmx.vip:8080/China02/china93/2091457
-
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Telemundo Houston HD
+http://sdmx.vip:8080/China02/china93/2151028
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Las Estrellas -1 Hora
+http://sdmx.vip:8080/China02/china93/2153486
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",DirecTV Sports ECU
+http://sdmx.vip:8080/China02/china93/2154022
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Televisa Guadalajara
+http://sdmx.vip:8080/China02/china93/2157917
+#EXTINF:-1 group-title="TV OPCION 3" tvg-logo="",Telehit
+http://sdmx.vip:8080/China02/china93/2158062
 
 
 
