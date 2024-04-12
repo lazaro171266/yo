@@ -9,10 +9,6 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="TV OPCION 1", ADN40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="TV OPCION 1",EXCELSIOR  TV 
-https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="TV OPCION 1",EURO NEWS
-https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV OPCION 1",MULTIMEDIOS MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43258c4c5167991940231" group-title="TV OPCION 1",MVS TV
@@ -27,15 +23,12 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", VIVO PLAY
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1644456305963270144/_0LhRSJI_400x400.jpg" group-title="TV OPCION 1", VIVO PLAY
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", FOX SPORTS
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/376
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TUDN
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/397
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TUDN USA
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/395
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="TV OPCION 1", USA
+http://cdn1host.online:2999/carlosleon/2469/31
+#EXTINF:-1 tvg-logo="https://canal57.com/wp-content/uploads/2021/03/banner_poster57.jpg" group-title="TV OPCION 1", CANAL 57 USA
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es" group-title="TV OPCION 1", A&E
 http://cdn1host.online:2999/carlosleon/2469/20
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvtonight.com.au/wp-content/uploads/2013-10-17_1215.png?ssl=1" group-title="TV OPCION 1",UNIVERSAL TV
@@ -48,14 +41,10 @@ http://cdn1host.online:2999/carlosleon/2469/16
 http://cdn1host.online:2999/carlosleon/2469/15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="TV OPCION 1",CANAL 6
 http://cdn1host.online:2999/carlosleon/2469/14
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/31/68/303168ac72ed212e263324e9c3d7d88b.png" group-title="TV OPCION 1",MULTIPREMIER
-http://138.59.177.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="TV OPCION 1",FX
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/40898
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Uyk1FcjES8X1nQAitR7JDjKk3VzmiKKMPQ&usqp=CAU" group-title="TV OPCION 1",CANAL CLARO
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/213631
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/78b7b977769119.Y3JvcCwxNDk3LDExNzEsNjU5LDk2.png" group-title="TV OPCION 1",HOLLYWOOD
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/815
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg" group-title="TV OPCION 1",CINEMAX
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/336
 #EXTINF:-1 tvg-logo="https://www.thetechedvocate.org/wp-content/uploads/2023/04/HBO.jpg" group-title="TV OPCION 1",HBO
@@ -66,8 +55,6 @@ http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/123
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/128
 #EXTINF:-1 tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG26988.jpg" group-title="TV OPCION 1",SPACE
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/127
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/31/68/303168ac72ed212e263324e9c3d7d88b.png" group-title="TV OPCION 1",MULTIPREMIER
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/168154
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Multicinema2002.jpg/revision/latest?cb=20230304224648&path-prefix=es" group-title="TV OPCION 1", MC
 http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-21lC_5eSuZ8/W6llvwR8rmI/AAAAAAAAAB4/fvGKXLaV0CY9Z941D047IzDxYA2Nodc1ACPcBGAYYCw/s1600/axn.png" group-title="TV OPCION 1", AXN
@@ -88,8 +75,6 @@ http://cdn1host.online:2999/carlosleon/2469/1720
 http://cdn1host.online:2999/carlosleon/2469/30
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/b/b7/Azcoraz%C3%B3n.png/revision/latest/thumbnail/width/360/height/360?cb=20200402024001&path-prefix=es" group-title="TV OPCION 1", AZCORAZON
 http://cdn1host.online:2999/carlosleon/2469/41
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", USA
-http://cdn1host.online:2999/carlosleon/2469/31
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", DISCOVERY ID
 http://cdn1host.online:2999/carlosleon/2469/32
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000239489971-ulpvwe-t500x500.jpg" group-title="TV OPCION 1", NATGEO WILD
@@ -101,6 +86,12 @@ http://cdn1host.online:2999/carlosleon/2469/39
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xZtRlCgTCq41ObAJEVqeBS-fPAXhSXj69YYfkky5CspHLMiB5sm-gPNCmN6S0_3CISU&usqp=CAU" group-title="TV OPCION 1", TL NOVELAS
 http://cdn1host.online:2999/carlosleon/2469/40
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xZtRlCgTCq41ObAJEVqeBS-fPAXhSXj69YYfkky5CspHLMiB5sm-gPNCmN6S0_3CISU&usqp=CAU" group-title="TV OPCION 1", TL NOVELAS (2)
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", FOX SPORTS
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/376
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TUDN
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/397
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TUDN USA
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/395
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",TUDN
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
@@ -166,8 +157,6 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/41/36/d5/4136d5ec5153a2985d1f4c5faba1190c.jpg" group-title="TV OPCION 1",TELEMUNDO INTERNACIONAL
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3024
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LO1rKHt.png" group-title="TV OPCION 1", CANAL 57 USA
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es" group-title="TV OPCION 1",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV HD
