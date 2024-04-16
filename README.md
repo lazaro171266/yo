@@ -23,6 +23,8 @@ https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="TV OPCION 1",N+ DOCUMENTALES
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/06/LOGO-MASCHIC-TXT-VIOLETA-copia-1.png" group-title="TV OPCION 1",MAS CHIC
+http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="TV OPCION 1",Love Nature
