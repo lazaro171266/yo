@@ -110,6 +110,8 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="TV OPCION 1",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ccmpunila.weebly.com/uploads/1/5/5/3/15537570/8216048.jpg?368" group-title="TV OPCION 1",CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" group-title="TV OPCION 1", USA
 http://cdn1host.online:2999/carlosleon/2469/31
 #EXTINF:-1 tvg-logo="https://canal57.com/wp-content/uploads/2021/03/banner_poster57.jpg" group-title="TV OPCION 1", CANAL 57 USA
@@ -156,6 +158,8 @@ http://likea8bitboss.xyz:80/Lapsteel/2508461937/775894
 http://likea8bitboss.xyz:80/Lapsteel/2508461937/775895
 #EXTINF:-1 tvg-logo="https://cinelatino.net/wp-content/uploads/2023/09/logoss.png" group-title="TV OPCION 1",CINE LATINO
 http://likea8bitboss.xyz:80/Lapsteel/2508461937/775896
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLyOi1tAFRZW2Hg4H8Xbqwe3_TlBCz8fYjQAvSkm81uzmkHpK19q80MVNPwEVtFo3ebvk&usqp=CAU" group-title="TV OPCION 1",AZCINEMA
+http://stream.flynetwifi.com:1935/live/mobile-120/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="TV OPCION 1", DE PELICULA
 http://cdn1host.online:2999/carlosleon/2469/85
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="TV OPCION 1", DE PELICULA (2)
