@@ -264,7 +264,7 @@ http://sdmx.vip:8080/China02/china93/2157598
 #EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Cine-Mexicano-Logo.png" group-title="TV OPCION 1",CINE MEXICANO
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHZ1asUn6FUNIBRKfvam3NVY/ts
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="TV OPCION 1", CINEMA DINAMITA
-http://ultrapremium.cloud:8080/live/PLAYLIFE485166/gHAqfHJG52yu/117.m3u8
+http://ultrapremium.cloud:8080/PLAYLIFE485166/gHAqfHJG52yu/117
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX CLASICO
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/140821
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="TV OPCION 1", CINE ESTRELLA TV
