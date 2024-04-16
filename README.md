@@ -146,6 +146,16 @@ http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 http://cdn1host.online:2999/carlosleon/2469/21
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/640px-Cinelatino_logo.png" group-title="TV OPCION 1", CINE LATINO
 http://cdn1host.online:2999/carlosleon/2469/303
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9O0rYB0Y6IGBA3xthxlWwK17yZIkqOpAbDhE9qrzQf1Xw6B1BBhI9jctvvdMM3Qu-5Q&usqp=CAU" group-title="TV OPCION 1",CINE ESTELAR
+http://likea8bitboss.xyz:80/Lapsteel/2508461937/775892
+#EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Cine-Mexicano-Logo.png" group-title="TV OPCION 1",CINE MEXICANO
+http://likea8bitboss.xyz:80/Lapsteel/2508461937/775893
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQex71XsWDjruhcskXr8CMtArNpduksmpwtSvB6NFxS4w&s" group-title="TV OPCION 1",CINE NOSTALGIA
+http://likea8bitboss.xyz:80/Lapsteel/2508461937/775894
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7XOx8MGV7Lu0SAuqp9qVHzXYjRgIYiY_0AvQqx1HXA&s" group-title="TV OPCION 1",CINE SONY
+http://likea8bitboss.xyz:80/Lapsteel/2508461937/775895
+#EXTINF:-1 tvg-logo="https://cinelatino.net/wp-content/uploads/2023/09/logoss.png" group-title="TV OPCION 1",CINE LATINO
+http://likea8bitboss.xyz:80/Lapsteel/2508461937/775896
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="TV OPCION 1", DE PELICULA
 http://cdn1host.online:2999/carlosleon/2469/85
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg" group-title="TV OPCION 1", DE PELICULA (2)
