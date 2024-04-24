@@ -2102,70 +2102,70 @@ http://vod.tuxchannel.mx/peliculas4k/finding%20dory.mkv
 http://vod.tuxchannel.mx/peliculas/720/ambulance%202022.mkv
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/305013316/s718/ligando-padre.jpg" group-title="PELICULAS",QUE DESPADRE
 http://vod.tuxchannel.mx/peliculas/720/que_despadre_2022.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",PERDONA NUESTRAS OFENSAS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRkOGY4NmItMDdhYi00ZTExLTk3YWQtYmI2ZjkzNDczMmYwXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg" group-title="PELICULAS",PERDONA NUESTRAS OFENSAS
 http://vod.tuxchannel.mx/peliculas/720/forgive%20us%20our%20trespasses%202022.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",LA MASACRE DE TEXAS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f8/La_masacre_de_Texas_2022_Poster.jpg/revision/latest?cb=20220131205415&path-prefix=es" group-title="PELICULAS",LA MASACRE DE TEXAS
 http://vod.tuxchannel.mx/peliculas/720/texas%20chainsaw%20massacre%202022.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DISPARO AL CORAZON
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/tit/E76ykt/poster/heart-shot_vgFcSPQ.jpeg" group-title="PELICULAS",DISPARO AL CORAZON
 http://vod.tuxchannel.mx/peliculas/720/heart%20shot%202022.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SCREAM 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNI-JGKVc7j8ATOprOHLAthuWkFFVhOHAnR7cHozkjw&s" group-title="PELICULAS",SCREAM 5
 http://vod.tuxchannel.mx/peliculas/720/scream%202022.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",DURO DE CUIDAR 2
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/05/27/19/19/3612388.png" group-title="PELICULAS",DURO DE CUIDAR 2
 http://vod.tuxchannel.mx/peliculas/720/the%20hitmans%20wifes%20bodyguard%202021.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",007 SPECTRE
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Spectre-683709494-large.jpg" group-title="PELICULAS",007 SPECTRE
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALIADOS
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/16/11/04/09/50/257986.jpg" group-title="PELICULAS",ALIADOS
 http://vod.tuxchannel.mx/peliculas4k/allied.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ALIEN COVENANT
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KyHH_uXQI5nq7hWDjmtX-s5gC5EZFZHrtkxTkeaky5Bnb0P5Lsl-dkilEOf3tii1lRBLrA" group-title="PELICULAS",ALIEN COVENANT
 http://vod.tuxchannel.mx/peliculas4k/alien%20covenant.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SUPER POLICIAS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/66d06acfc56fa9a0ccde8adaaa3e4a99cfc787b6a4e1b0b54d5381e66ed015ff.jpg" group-title="PELICULAS",SUPER POLICIAS
 http://vod.tuxchannel.mx/peliculas4k/hot%20fuzz.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS", ACADEMIA DE ESPIAS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/42381a15c91ae9a29237267a6e23af623a2c28caabf70038682c55d3641c105f.jpg" group-title="PELICULAS", ACADEMIA DE ESPIAS
 http://vod.tuxchannel.mx/peliculas4k/barely%20lethal.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BATTLE SHIP
+#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/85451200-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" group-title="PELICULAS",BATTLE SHIP
 http://vod.tuxchannel.mx/peliculas4k/battleship.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",GUARDIANES DE LA BAHIA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/45/Baywatch_Guardianes_de_la_Bahia_Poster_Final_2_JPosters.jpg/revision/latest?cb=20170427004336&path-prefix=es" group-title="PELICULAS",GUARDIANES DE LA BAHIA
 http://vod.tuxchannel.mx/peliculas4k/baywatch.mkv
 
 
 
-#EXTINF:-1,El Perfume. Historia de un asesino (2006)
+#EXTINF:-1 tvg-logo="https://s3-ap-northeast-1.amazonaws.com/peatix-files/pod/7288472/cover-Dual-audio-perfume-movie-download-in-hindi.jpeg" group-title="PELICULAS", EL PERFUME  HISTORIA DE UN ASESINO(2006)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelismar23%2FVer%20El%20Perfume-%20Historia%20de%20un%20asesino%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1,Predator: La presa (2022)
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/297406677/s718/prey-2022.jpg" group-title="PELICULAS",Predator: La presa (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Predator-%20La%20presa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:-1,Greenland: El último refugio (2020)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Greenland_El_aultimo_refugio-845083448-large.jpg" group-title="PELICULAS",Greenland: El último refugio (2020)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fgreenland.mp4
-#EXTINF:-1,Huye (Get Out) (2017)
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/17/08/05/23/55/189240.jpg" group-title="PELICULAS",Huye (Get Out) (2017)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte6%2FVer%20pel%C3%ADcula%20%C2%A1Huye!%20online%20gratis%20en%20HD%20%E2%80%A2%20Gnula.mp4
-#EXTINF:-1,Animales nocturnos (2016)
+#EXTINF:-1 tvg-logo="https://cl2.buscafs.com/www.tomatazos.com/public/uploads/images/119002/119002_800x1185.jpg" group-title="PELICULAS",Animales nocturnos (2016)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte2%2FVer%20pel%C3%ADcula%20Animales%20Nocturnos%20online%20gratis%20en%20HD%20%E2%80%A2%20Gnula.mp4
-#EXTINF:-1,Gravity (2013)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71fJrN9Z5lL._AC_UF894,1000_QL80_.jpg" group-title="PELICULAS",Gravity (2013)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte2%2FVer%20pel%C3%ADcula%20Gravedad%20online%20gratis%20en%20HD%20%E2%80%A2%20Gnula.mp4
-#EXTINF:-1,Vértigo (2022)
+#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/39753-784619-20220722063400.jpg" group-title="PELICULAS",Vértigo (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fseptiembe%2FVer%20V%C3%A9rtigo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
-#EXTINF:-1,En la hierba alta (2019)
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/159191227/s718/in-the-tall-grass.jpg" group-title="PELICULAS",En la hierba alta (2019)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelissep%2FVer%20pel%C3%ADcula%20En%20la%20hierba%20alta%20online%20gratis%20en%20HD%20%E2%80%A2%20Repelis.mp4
-#EXTINF:-1,Emboscada final (2019)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Emboscada_final-528074809-large.jpg" group-title="PELICULAS",Emboscada final (2019)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelissep%2FVer%20Emboscada%20final%20(The%20Highwaymen)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
-#EXTINF:-1,Troya (2004)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/89/85/99/20070124.jpg" group-title="PELICULAS",Troya (2004)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Troya%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1,Patch Adams (1998)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/06/10/45/072199.jpg" group-title="PELICULAS",Patch Adams (1998)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Patch%20Adams%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1,El curioso caso de Benjamin Button (2008)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b1/El-Curioso-Caso-de-Benjamin-Button-Lat.-2008.png/revision/latest?cb=20220224152424&path-prefix=es" group-title="PELICULAS",El curioso caso de Benjamin Button (2008)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20El%20curioso%20caso%20de%20Benjamin%20Button%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1,Gigantes de acero (2011)
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_880202-MLA45873955595_052021-O.webp" group-title="PELICULAS",Gigantes de acero (2011)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Gigantes%20de%20Acero%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1,El niño con el pijama de rayas (2008)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71BLwafI6QL._AC_UF894,1000_QL80_.jpg" group-title="PELICULAS",El niño con el pijama de rayas (2008)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20El%20ni%C3%B1o%20con%20el%20pijama%20de%20rayas%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1,V de Vendetta (2005)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/7/7c/V.jpg/revision/latest?cb=20200330000059&path-prefix=es" group-title="PELICULAS",V de VENGANZA (2005)
 https://od.lk/s/MjNfMjI2MDQyMjZf/Ver%20V%20de%20venganza%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1,Titanic (1997)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/811lT7khIrL._AC_UF894,1000_QL80_DpWeblab_.jpg" group-title="PELICULAS",Titanic (1997)
 https://od.lk/s/MjNfMjI2MDQyODJf/Ver%20Titanic%20%281997%29%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
-#EXTINF:-1,El pianista (2002)
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/74766078/s592/el-pianista" group-title="PELICULAS",El pianista (2002)
 https://od.lk/s/MjNfMjI2MDQ2NDVf/Ver%20El%20pianista%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1,Náufrago (2000)
+##EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/14/02/24/12/47/059672.jpg" group-title="PELICULAS",Náufrago (2000)
 https://od.lk/s/MjNfMjI2MDQ4MDlf/Ver%20El%20n%C3%A1ufrago%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:-1,Santana ¿Americano yo? (1992)
+#EXTINF:-1 tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/AMERICANME/EXPORTACION_WEB/SS/AMERICANMEWVERTICAL.jpg?size=200x300" group-title="PELICULAS",Santana ¿Americano yo? (1992)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjunio%2FVer%20Santana%20%C2%BFAmericano%20yo-%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
 
