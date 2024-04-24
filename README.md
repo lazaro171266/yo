@@ -1613,8 +1613,6 @@ http://gotv.vip:8880/Jaime/Jaime123/73786
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51457
 #EXTINF:-1 tvg-id="studio.universal.mx" tvg-name="MX002:Studio Universal" tvg-logo="" group-title="TV OPCION 7" ,MX002:Studio Universal
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51456
-#EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX003:A3 Series HD" tvg-logo="" group-title="TV OPCION 7" ,MX003:A3 Series HD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51455
 #EXTINF:-1 tvg-id="adrenalina.sports.network.mx" tvg-name="MX004:Adrenalina Sports Network" tvg-logo="" group-title="TV OPCION 7" ,MX004:Adrenalina Sports Network
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51454
 #EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="MX005:Animal Planet HD" tvg-logo="" group-title="TV OPCION 7" ,MX005:Animal Planet HD
@@ -1629,7 +1627,7 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51450
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51449
 #EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX010:Azteca FHD" tvg-logo="" group-title="TV OPCION 7" ,MX010:Azteca FHD
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51448
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png" group-title="CANALES 4K",AZTECA 7 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png" group-title="TV OPCION 7",AZTECA 7 
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51447
 #EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX012:AYM Sports" tvg-logo="" group-title="TV OPCION 7" ,MX012:AYM Sports
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51446
@@ -1665,7 +1663,7 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51431
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51430
 #EXTINF:-1 tvg-id="teleritmo.mx" tvg-name="MX029:Teleritmo" tvg-logo="" group-title="TV OPCION 7" ,MX029:Teleritmo
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51429
-#EXTINF:-1 tvg-id="tiin.mx" tvg-name="MX030:Tiin" tvg-logo="" group-title="TV OPCION 7" ,MX030:Tiin
+#EXTINF:-1 tvg-id="tiin.mx" tvg-name="MX030:Tiin" tvg-logo="" group-title="TV OPCION 7" ,MX030:BITME
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51428
 #EXTINF:-1 tvg-id="tvc.mx" tvg-name="MX031:TVC" tvg-logo="" group-title="TV OPCION 7" ,MX031:TVC
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51427
@@ -2042,16 +2040,7 @@ http://sdmx.vip:8080/China02/china93/2090938
 http://sdmx.vip:8080/China02/china93/2090939
 #EXTINF:-1 group-title="24/7" tvg-logo="",Movies Jim Carrey
 http://sdmx.vip:8080/China02/china93/2090941
-#EXTINF:-1 group-title="24/7" tvg-logo="",EL CHAVO DEL 8 
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/84027
-#EXTINF:-1 group-title="24/7" tvg-logo="",BOB ESPONJA
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1441
-#EXTINF:-1 group-title="24/7" tvg-logo="",BIRDMAN
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1487
-#EXTINF:-1 group-title="24/7" tvg-logo="",DON GATO Y SU PANDILLA
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1490
-#EXTINF:-1 group-title="24/7" tvg-logo="",LOS SUPERSONICOS
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/221337
+
 
 
 
@@ -2075,43 +2064,43 @@ http://51.79.20.130:25461/movie/bessy/AA35Q/62313.mp4?token=TEdRVxJZEgNGVgQFAVcM
 http://51.158.201.245:91/Uploads/Accion/Robocop-3-1993-lat.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dee437de11d2ff4718bd2b8c0cbfcfab8f31445c12063441f03fbde9ff82bbd4.jpg" group-title="PELICULAS", APOCALYPTO
 http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
-#EXTINF:-1,EL DIA DE MI GRADUACION
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uKhPTN0tRgSq9kEQ94MCfuevN9f.jpg" group-title="PELICULAS",EL AÑO DE MI GRADUACION
 http://vod.tuxchannel.mx/peliculas/720/senior%20year%202022.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BOYKA INDISPUTED 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/f666dbfc214d71c65af7a13c8231b10be9ae3acc8ed4979af27bebf7be7e28ce.jpg" group-title="PELICULAS",BOYKA INDISPUTED 
 http://vod.tuxchannel.mx/peliculas4k/boyka%20undisputed%20iv.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",PATRULLA MOTORIZADA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71hrWv14UGL._AC_UF894,1000_QL80_.jpg" group-title="PELICULAS",PATRULLA MOTORIZADA
 http://vod.tuxchannel.mx/peliculas4k/chips.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",COMPADRES
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMwNDkzOTU5N15BMl5BanBnXkFtZTgwMjA3MjgyODE@._V1_.jpg" group-title="PELICULAS",COMPADRES
 http://vod.tuxchannel.mx/peliculas4k/compadres.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ATRAPADA EN LAS PROFUNDIDADES
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/260510619/s592/atrapada-en-las-profundidades" group-title="PELICULAS",ATRAPADA EN LAS PROFUNDIDADES
 http://vod.tuxchannel.mx/peliculas/720/breaking%20surface%202020.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",EL PROTECTOR
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/244264629/s592/the-marksman-el-protector" group-title="PELICULAS",EL PROTECTOR
 http://vod.tuxchannel.mx/peliculas/720/the%20marksman%202021.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",SIN RASTRO
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Sin_rastro_Gone-759869479-large.jpg" group-title="PELICULAS",SIN RASTRO
 http://vod.tuxchannel.mx/peliculas/720/the%20vanished%202020.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",LA RAZON DE ESTAR CONTIGO 2
+#EXTINF:-1 tvg-logo="https://images.cdn3.buscalibre.com/fit-in/360x360/e8/79/e87973fcadc324731ff26d5bddf8e618.jpg" group-title="PELICULAS",LA RAZON DE ESTAR CONTIGO 2
 http://vod.tuxchannel.mx/peliculas/720/a%20dogs%20journey%202019.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMERICAN PIE GIRLS RULES
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdlMzdmNDAtYTIyNi00ZWZiLWE3ZDYtOTg2YzE3NDRkNTYwXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_.jpg" group-title="PELICULAS",AMERICAN PIE GIRLS RULES
 http://vod.tuxchannel.mx/peliculas/720/american%20pie%20presents%20girls%20rules%202020.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",LA LAGUNA AZUL
+#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/03891100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" group-title="PELICULAS",LA LAGUNA AZUL
 http://vod.tuxchannel.mx/peliculas/720/el%20lago%20azul.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ANACONDAS 2
+#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL59KX/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="PELICULAS",ANACONDAS 2
 http://vod.tuxchannel.mx/peliculas/720/anacondas%20the%20hunt%20for%20the%20blood%20orchid%202004.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",ACCION POLICIAL
+#EXTINF:-1 tvg-logo="https://laaventuracine.com/wp-content/uploads/2016/05/accion-policial-frontal.jpg" group-title="PELICULAS",ACCION POLICIAL
 http://vod.tuxchannel.mx/peliculas/720/police%20story.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",CAOS
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/89/70/52/20062937.jpg" group-title="PELICULAS",CAOS
 http://vod.tuxchannel.mx/peliculas/720/chaos.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",PRESAS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdiYTI2MTMtNTMzZi00NjNjLTkxNjctMzBhZDYyYjAxYjgyXkEyXkFqcGdeQXVyNjE4ODA3NTY@._V1_.jpg" group-title="PELICULAS",PRESAS
 http://vod.tuxchannel.mx/peliculas/720/prey%202021.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMERICAN PIE 5
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/15/01/26/13/17/311416.jpg" group-title="PELICULAS",AMERICAN PIE 5
 http://vod.tuxchannel.mx/peliculas/720/american%20pie%20presents%20the%20naked%20mile.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",COMO SER UN LATIN LOVER
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/43/Como_ser_un_latin_lover_poster.jpg/revision/latest/scale-to-width-down/1200?cb=20170429164400&path-prefix=es" group-title="PELICULAS",COMO SER UN LATIN LOVER
 http://vod.tuxchannel.mx/peliculas4k/how%20to%20be%20a%20latin%20lover.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",BUSCANDO A DORY
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YJA8a6TDgwPrvtYraR4tIcg1OQqHw53csgBqLl92talcCPmzKEo_KUQAwOGTuQuSqU4sX-S8SrkoctLc2EE" group-title="PELICULAS",BUSCANDO A DORY
 http://vod.tuxchannel.mx/peliculas4k/finding%20dory.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",AMBULANCIA PLAN DE HUIDA
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ambulance_Plan_de_huida-869632786-large.jpg" group-title="PELICULAS",AMBULANCIA PLAN DE HUIDA
 http://vod.tuxchannel.mx/peliculas/720/ambulance%202022.mkv
-#EXTINF:-1 tvg-logo="" group-title="PELICULAS",QUE DESPADRE
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/305013316/s718/ligando-padre.jpg" group-title="PELICULAS",QUE DESPADRE
 http://vod.tuxchannel.mx/peliculas/720/que_despadre_2022.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",PERDONA NUESTRAS OFENSAS
 http://vod.tuxchannel.mx/peliculas/720/forgive%20us%20our%20trespasses%202022.mkv
