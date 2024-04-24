@@ -1609,255 +1609,222 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
 
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7" , A&E FHD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51457
+#EXTINF:-1 tvg-id="studio.universal.mx" tvg-name="MX002:Studio Universal" tvg-logo="" group-title="TV OPCION 7" ,MX002:Studio Universal
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51456
+#EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX003:A3 Series HD" tvg-logo="" group-title="TV OPCION 7" ,MX003:A3 Series HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51455
+#EXTINF:-1 tvg-id="adrenalina.sports.network.mx" tvg-name="MX004:Adrenalina Sports Network" tvg-logo="" group-title="TV OPCION 7" ,MX004:Adrenalina Sports Network
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51454
+#EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="MX005:Animal Planet HD" tvg-logo="" group-title="TV OPCION 7" ,MX005:Animal Planet HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51453
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX006:AXN FHD" tvg-logo="" group-title="TV OPCION 7" ,MX006:AXN FHD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51452
+#EXTINF:-1 tvg-id="azteca.cinema.mx" tvg-name="MX007:Azteca Cinema HD" tvg-logo="" group-title="TV OPCION 7" ,MX007:Azteca Cinema HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51451
+#EXTINF:-1 tvg-id="azteca.click.mx" tvg-name="MX008:Azteca Click" tvg-logo="" group-title="TV OPCION 7" ,MX008:Azteca Click
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51450
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="MX009:ADN 40" tvg-logo="" group-title="TV OPCION 7" ,MX009:ADN 40
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51449
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX010:Azteca FHD" tvg-logo="" group-title="TV OPCION 7" ,MX010:Azteca FHD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51448
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png" group-title="CANALES 4K",AZTECA 7 
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51447
+#EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX012:AYM Sports" tvg-logo="" group-title="TV OPCION 7" ,MX012:AYM Sports
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51446
+#EXTINF:-1 tvg-id="tv.azteca.mundo.mx" tvg-name="MX013:Azteca Mundo" tvg-logo="" group-title="TV OPCION 7" ,MX013:Azteca Mundo
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51445
+#EXTINF:-1 tvg-id="azteca.uno.mx" tvg-name="MX014:Azteca Uno" tvg-logo="" group-title="TV OPCION 7" ,MX014:Azteca Uno
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51444
+#EXTINF:-1 tvg-id="baby.mx" tvg-name="MX016:Baby TV" tvg-logo="" group-title="TV OPCION 7" ,MX016:Baby TV
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51442
+#EXTINF:-1 tvg-id="bbc.world.news.mx" tvg-name="MX017:BBC World News" tvg-logo="" group-title="TV OPCION 7" ,MX017:BBC World News
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51441
+#EXTINF:-1 tvg-id="el.financiero.bloomberg.mx" tvg-name="MX018:Bloomberg HD" tvg-logo="" group-title="TV OPCION 7" ,MX018:Bloomberg HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51440
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="MX019:Boomerang HD" tvg-logo="" group-title="TV OPCION 7" ,MX019:Boomerang HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51439
+#EXTINF:-1 tvg-id="cadena.h.mx" tvg-name="MX020:CANAL 8" tvg-logo="" group-title="TV OPCION 7" ,MX020:CANAL 8
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51438
+#EXTINF:-1 tvg-id="canal.4.mx" tvg-name="MX021:Canal 4 HD" tvg-logo="" group-title="TV OPCION 7" ,MX021:Canal 4 HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51437
+#EXTINF:-1 tvg-id="canal.5.mx" tvg-name="MX022:Canal 5 HD" tvg-logo="" group-title="TV OPCION 7" ,MX022:Canal 5 HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51436
+#EXTINF:-1 tvg-id="tbs.mexico.mx" tvg-name="MX023:TBS" tvg-logo="" group-title="TV OPCION 7" ,MX023:TBS
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51435
+#EXTINF:-1 tvg-id="tcm.mexico.mx" tvg-name="MX024:TCM" tvg-logo="" group-title="TV OPCION 7" ,MX024:TCM
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51434
+#EXTINF:-1 tvg-id="wobi.mx" tvg-name="MX025:Wobi" tvg-logo="" group-title="TV OPCION 7" ,MX025:Wobi
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51433
+#EXTINF:-1 tvg-id="bloomberg.mx" tvg-name="MX026:TVO D" tvg-logo="" group-title="TV OPCION 7" ,MX026:TVO D
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51432
+#EXTINF:-1 tvg-id="unicable.mx.mx" tvg-name="MX027:Unicable" tvg-logo="" group-title="TV OPCION 7" ,MX027:Unicable
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51431
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="MX028:Tooncast" tvg-logo="" group-title="TV OPCION 7" ,MX028:Tooncast
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51430
+#EXTINF:-1 tvg-id="teleritmo.mx" tvg-name="MX029:Teleritmo" tvg-logo="" group-title="TV OPCION 7" ,MX029:Teleritmo
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51429
+#EXTINF:-1 tvg-id="tiin.mx" tvg-name="MX030:Tiin" tvg-logo="" group-title="TV OPCION 7" ,MX030:Tiin
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51428
+#EXTINF:-1 tvg-id="tvc.mx" tvg-name="MX031:TVC" tvg-logo="" group-title="TV OPCION 7" ,MX031:TVC
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51427
+#EXTINF:-1 tvg-id="amc.mexico.mx" tvg-name="MX032:AMC" tvg-logo="" group-title="TV OPCION 7" ,MX032:AMC
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51426
+#EXTINF:-1 tvg-id="discovery.turbo.international.mx" tvg-name="MX033:NBC Golf" tvg-logo="" group-title="TV OPCION 7" ,MX033:NBC Golf
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51425
+#EXTINF:-1 tvg-id="excelsior.mx" tvg-name="MX034:NICKTOONS" tvg-logo="" group-title="TV OPCION 7" ,MX034:NICKTOONS
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51424
+#EXTINF:-1 tvg-id="las.estrellas.mx" tvg-name="MX035:Canal de las Estrellas HD" tvg-logo="" group-title="TV OPCION 7" ,MX035:Canal de las Estrellas HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51423
+#EXTINF:-1 tvg-id="nick.jr.mexico.mx" tvg-name="MX036:NICK JR" tvg-logo="" group-title="TV OPCION 7" ,MX036:NICK JR
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51422
+#EXTINF:-1 tvg-id="canal.once.mx" tvg-name="MX037:Canal Once HD" tvg-logo="" group-title="TV OPCION 7" ,MX037:Canal Once HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51421
+#EXTINF:-1 tvg-id="sundance.mx" tvg-name="MX038:Sundance TV" tvg-logo="" group-title="TV OPCION 7" ,MX038:Sundance TV
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51420
+#EXTINF:-1 tvg-id="cartoon.network.mx" tvg-name="MX039:Cartoon Network HD" tvg-logo="" group-title="TV OPCION 7" ,MX039:Cartoon Network HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51419
+#EXTINF:-1 tvg-id="cinecanal.mexico.mx" tvg-name="MX040:Cinecanal HD" tvg-logo="" group-title="TV OPCION 7" ,MX040:Cinecanal HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51418
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="MX041:Cinemax HD" tvg-logo="" group-title="TV OPCION 7" ,MX041:Cinemax HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51417
+#EXTINF:-1 tvg-id="cnn.en.espanol.mx" tvg-name="MX042:CNN en Español" tvg-logo="" group-title="TV OPCION 7" ,MX042:CNN en Español
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51416
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="MX043:CNN INT" tvg-logo="" group-title="TV OPCION 7" ,MX043:CNN INT
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51415
+#EXTINF:-1 tvg-id="comedy.central.mexico.mx" tvg-name="MX044:Comedy Central HD" tvg-logo="" group-title="TV OPCION 7" ,MX044:Comedy Central HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51414
+#EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="MX045:De Pelicula" tvg-logo="" group-title="TV OPCION 7" ,MX045:De Pelicula
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51413
+#EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="MX046:De Pelicula Plus HD" tvg-logo="" group-title="TV OPCION 7" ,MX046:De Pelicula Plus HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51412
+#EXTINF:-1 tvg-id="discovery.mexico.mx" tvg-name="MX047:Discovery Channel HD" tvg-logo="" group-title="TV OPCION 7" ,MX047:Discovery Channel HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51411
+#EXTINF:-1 tvg-id="discovery.civilization.international.mx" tvg-name="MX048:Discovery Civilization" tvg-logo="" group-title="TV OPCION 7" ,MX048:Discovery Civilization
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51410
+#EXTINF:-1 tvg-id="discovery.home.health.mx" tvg-name="MX049:Discovery H&H" tvg-logo="" group-title="TV OPCION 7" ,MX049:Discovery H&H
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51409
+#EXTINF:-1 tvg-id="discovery.kids.mx.mx" tvg-name="MX050:Discovery Kids" tvg-logo="" group-title="TV OPCION 7" ,MX050:Discovery Kids
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51408
+#EXTINF:-1 tvg-id="discovery.science.international.mx" tvg-name="MX051:Discovery Science" tvg-logo="" group-title="TV OPCION 7" ,MX051:Discovery Science
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51407
+#EXTINF:-1 tvg-id="comedy.central.mx" tvg-name="MX052:Comedy Central FHD" tvg-logo="" group-title="TV OPCION 7" ,MX052:Comedy Central FHD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51406
+#EXTINF:-1 tvg-id="tlc.mx.mx" tvg-name="MX053:Discovery TLC HD" tvg-logo="" group-title="TV OPCION 7" ,MX053:Discovery TLC HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51405
+#EXTINF:-1 tvg-id="discovery.turbo.mx" tvg-name="MX054:Discovery Turbo HD" tvg-logo="" group-title="TV OPCION 7" ,MX054:Discovery Turbo HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51404
+#EXTINF:-1 tvg-id="discovery.world.mx" tvg-name="MX055:Discovery World HD" tvg-logo="" group-title="TV OPCION 7" ,MX055:Discovery World HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51403
+#EXTINF:-1 tvg-id="disney.mx" tvg-name="MX056:Disney Channel HD" tvg-logo="" group-title="TV OPCION 7" ,MX056:Disney Channel HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51402
+#EXTINF:-1 tvg-id="disney.junior.mx" tvg-name="MX057:Disney Jr" tvg-logo="" group-title="TV OPCION 7" ,MX057:Disney Jr
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51401
+#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="MX059:Distrito Comedia" tvg-logo="" group-title="TV OPCION 7" ,MX059:Distrito Comedia
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51399
+#EXTINF:-1 tvg-id="dw.english.mx" tvg-name="MX060:DW" tvg-logo="" group-title="TV OPCION 7" ,MX060:DW
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51398
+#EXTINF:-1 tvg-id="e.entertainment.mx" tvg-name="MX061:E! Entertainment HD" tvg-logo="" group-title="TV OPCION 7" ,MX061:E! Entertainment HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51397
+#EXTINF:-1 tvg-id="el.gourmet.mx" tvg-name="MX062:El Gourmet HD" tvg-logo="" group-title="TV OPCION 7" ,MX062:El Gourmet HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51396
+#EXTINF:-1 tvg-id="espn.mexico.mx" tvg-name="MX063:Espn HD" tvg-logo="" group-title="TV OPCION 7" ,MX063:Espn HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51395
+#EXTINF:-1 tvg-id="espn.2.mx" tvg-name="MX064:Espn 2 HD" tvg-logo="" group-title="TV OPCION 7" ,MX064:Espn 2 HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51394
+#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX065:Espn 3" tvg-logo="" group-title="TV OPCION 7" ,MX065:Espn 3
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51393
+#EXTINF:-1 tvg-id="espn.plus.mx" tvg-name="MX066:Espn Plus HD" tvg-logo="" group-title="TV OPCION 7" ,MX066:Espn Plus HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51392
+#EXTINF:-1 tvg-id="disney.mx" tvg-name="MX067:ESPN EXTRA" tvg-logo="" group-title="TV OPCION 7" ,MX067:ESPN EXTRA
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51391
+#EXTINF:-1 tvg-id="europa.europa.mx" tvg-name="MX068:Europa Europa" tvg-logo="" group-title="TV OPCION 7" ,MX068:Europa Europa
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51390
+#EXTINF:-1 tvg-id="food.network.mx" tvg-name="MX069:Food Network HD" tvg-logo="" group-title="TV OPCION 7" ,MX069:Food Network HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51389
+#EXTINF:-1 tvg-id="e.mx" tvg-name="MX070:UNIVERSAL CHANNEL" tvg-logo="" group-title="TV OPCION 7" ,MX070:UNIVERSAL CHANNEL
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51388
+#EXTINF:-1 tvg-id="teleformula.mx" tvg-name="MX071:NICK 2" tvg-logo="" group-title="TV OPCION 7" ,MX071:NICK 2
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51387
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX072:INGENIO TV" tvg-logo="" group-title="TV OPCION 7" ,MX072:INGENIO TV
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51386
+#EXTINF:-1 tvg-id="star.action.mx" tvg-name="MX073:Star TVE" tvg-logo="" group-title="TV OPCION 7" ,MX073:Star TVE
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51385
+#EXTINF:-1 tvg-id="star.mexico.mx" tvg-name="MX074:Banda Max" tvg-logo="" group-title="TV OPCION 7" ,MX074:Banda Max
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51384
+#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX075:Star Channel" tvg-logo="" group-title="TV OPCION 7" ,MX075:Star Channel
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51383
+#EXTINF:-1 tvg-id="star.classics.mx" tvg-name="MX076:SEC Network" tvg-logo="" group-title="TV OPCION 7" ,MX076:SEC Network
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51382
+#EXTINF:-1 tvg-id="star.life.mx" tvg-name="MX077:Isat" tvg-logo="" group-title="TV OPCION 7" ,MX077:Isat
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51381
+#EXTINF:-1 tvg-id="fx.movies.mx" tvg-name="MX078:XHGV-TDT" tvg-logo="" group-title="TV OPCION 7" ,MX078:XHGV-TDT
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51380
+#EXTINF:-1 tvg-id="fox.news.mx" tvg-name="MX079:Fox News HD" tvg-logo="" group-title="TV OPCION 7" ,MX079:Fox News HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51379
+#EXTINF:-1 tvg-id="tnt.series.mexico.mx" tvg-name="MX080:TNT Series" tvg-logo="" group-title="TV OPCION 7" ,MX080:TNT Series
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51378
+#EXTINF:-1 tvg-id="fox.sports.mexico.mx" tvg-name="MX081:Fox Sports 1 HD" tvg-logo="" group-title="TV OPCION 7" ,MX081:Fox Sports 1 HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51377
+#EXTINF:-1 tvg-id="fox.sports.2.mexico.mx" tvg-name="MX082:Fox Sports 2 HD" tvg-logo="" group-title="TV OPCION 7" ,MX082:Fox Sports 2 HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51376
+#EXTINF:-1 tvg-id="fox.sports.3.mexico.mx" tvg-name="MX083:Fox Sports 3 HD" tvg-logo="" group-title="TV OPCION 7" ,MX083:Fox Sports 3 HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51375
+#EXTINF:-1 tvg-id="mhz7.france.24.mx" tvg-name="MX084:Francia 24 HD" tvg-logo="" group-title="TV OPCION 7" ,MX084:Francia 24 HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51374
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="MX085:FX HD" tvg-logo="" group-title="TV OPCION 7" ,MX085:FX HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51373
+#EXTINF:-1 tvg-id="warner.mexico.mx" tvg-name="MX086:Warner" tvg-logo="" group-title="TV OPCION 7" ,MX086:Warner
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51372
+#EXTINF:-1 tvg-id="telehit.plus.mx" tvg-name="MX087:Telehit Plus" tvg-logo="" group-title="TV OPCION 7" ,MX087:Telehit Plus
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51371
+#EXTINF:-1 tvg-id="el.garage.south.mx" tvg-name="MX088:Garage TV" tvg-logo="" group-title="TV OPCION 7" ,MX088:Garage TV
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51370
+#EXTINF:-1 tvg-id="glitz.mx" tvg-name="MX089:TVC DEPORTES" tvg-logo="" group-title="TV OPCION 7" ,MX089:TVC DEPORTES
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51369
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX090:Golden" tvg-logo="" group-title="TV OPCION 7" ,MX090:Golden
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51368
+#EXTINF:-1 tvg-id="golden.edge.mx" tvg-name="MX091:Golden Edge" tvg-logo="" group-title="TV OPCION 7" ,MX091:Golden Edge
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51367
+#EXTINF:-1 tvg-id="golden.plus.mx" tvg-name="MX092:Golden Plus HD" tvg-logo="" group-title="TV OPCION 7" ,MX092:Golden Plus HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51366
+#EXTINF:-1 tvg-id="history.mx.mx" tvg-name="MX093:History HD" tvg-logo="" group-title="TV OPCION 7" ,MX093:History HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51365
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX094:VH1 CLASSIC" tvg-logo="" group-title="TV OPCION 7" ,MX094:VH1 CLASSIC
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51364
+#EXTINF:-1 tvg-id="hola.mx" tvg-name="MX095:Hola TV HD" tvg-logo="" group-title="TV OPCION 7" ,MX095:Hola TV HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51363
+#EXTINF:-1 tvg-id="imagen.mx" tvg-name="MX096:Imagen TV" tvg-logo="" group-title="TV OPCION 7" ,MX096:Imagen TV
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51362
+#EXTINF:-1 tvg-id="ingenio.mexico.mx" tvg-name="MX097:Nickelodeon" tvg-logo="" group-title="TV OPCION 7" ,MX097:Nickelodeon
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51361
+#EXTINF:-1 tvg-id="investigation.discovery.mx" tvg-name="MX098:Investigation Discovery HD" tvg-logo="" group-title="TV OPCION 7" ,MX098:Investigation Discovery HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51360
+#EXTINF:-1 tvg-id="itv.qa.mx" tvg-name="MX099:NTN 24" tvg-logo="" group-title="TV OPCION 7" ,MX099:NTN 24
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51359
+#EXTINF:-1 tvg-id="las.estrellas.mx" tvg-name="MX100:VH1" tvg-logo="" group-title="TV OPCION 7" ,MX100:VH1
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51358
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="MX101:Lifetime HD" tvg-logo="" group-title="TV OPCION 7" ,MX101:Lifetime HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51357
+#EXTINF:-1 tvg-id="mas.chic.mx" tvg-name="MX102:TNT" tvg-logo="" group-title="TV OPCION 7" ,MX102:TNT
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51356
+#EXTINF:-1 tvg-id="mexiquense.mx" tvg-name="MX103:Canal VIX lo mejor lega" tvg-logo="" group-title="TV OPCION 7" ,MX103:Canal VIX lo mejor lega
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51355
+#EXTINF:-1 tvg-id="milenio.mx" tvg-name="MX104:Milenio TV" tvg-logo="" group-title="TV OPCION 7" ,MX104:Milenio TV
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51354
+#EXTINF:-1 tvg-id="mtv.mexico.mx" tvg-name="MX105:MTV HD" tvg-logo="" group-title="TV OPCION 7" ,MX105:MTV HD
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51353
+#EXTINF:-1 tvg-id="mtv.hits.international.mx" tvg-name="MX106:MTV Hits" tvg-logo="" group-title="TV OPCION 7" ,MX106:MTV Hits
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51352
+#EXTINF:-1 tvg-id="space.mx" tvg-name="MX107:Space" tvg-logo="" group-title="TV OPCION 7" ,MX107:Space
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/61027
+#EXTINF:-1 tvg-id="sony.mx" tvg-name="MX108:Sony Channel" tvg-logo="" group-title="TV OPCION 7" ,MX108:Sony Channel
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/61026
+#EXTINF:-1 tvg-id="" tvg-name="MX109:TDN" tvg-logo="" group-title="TV OPCION 7" ,MX109:TDN
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/61025
 
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="AZTECA 7 (XHIMT)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png" group-title="CANALES 4K",AZTECA 7 (XHIMT)
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140112
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="IMAGEN TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imagen_tv_mx.png" group-title="CANALES 4K",IMAGEN TV HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140113
-#EXTINF:-1 tvg-id="I430.62161.zap2it.com" tvg-name="HOLA TV" tvg-logo="http://allstar.is-by.us:25461/images/18b09c94fa7ffa5efb8a8e56318212ce.png" group-title="CANALES 4K",HOLA TV
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140114
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="AZTECA UNO - 2 HORAS" tvg-logo="http://allstar.is-by.us:25461/images/090fff64b7e509594ce6d558d49ea66e.png" group-title="CANALES 4K",AZTECA UNO - 2 HORAS
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140115
-#EXTINF:-1 tvg-id="I419.17054.zap2it.com" tvg-name="CNN MX ESPANOL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_espanol.png" group-title="CANALES 4K",CNN MX ESPANOL
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140116
-#EXTINF:-1 tvg-id="I102.16461.schedulesdirect.org" tvg-name="ESTRELLAS  HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png" group-title="CANALES 4K",ESTRELLAS  HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140117
-#EXTINF:-1 tvg-id="I406.77606.zap2it.com" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_internacional.png" group-title="CANALES 4K",TELEMUNDO INTERNACIONAL
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140119
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISTRITO COMEDIA" tvg-logo="https://www.lyngsat.com/logo/tv/dd/distrito-comedia-mx.png" group-title="CANALES 4K",DISTRITO COMEDIA
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140120
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="COMEDY CENTRAL ESP" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="CANALES 4K",COMEDY CENTRAL ESP
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140121
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNICABLE HD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unicable-mx.png" group-title="CANALES 4K",UNICABLE HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140122
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="Canal 5 HD (XHGC-TDT)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png" group-title="CANALES 4K",Canal 5 HD (XHGC-TDT)
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140123
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="A&E USAHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="CANALES 4K",A&E USAHD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140125
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="ANIMAL PLANET" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="CANALES 4K",ANIMAL PLANET
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140126
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-home-and-health-us.png" group-title="CANALES 4K",DISCOVERY HOME & HEALTH
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140127
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY WORLD ESP" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_world_lam.png" group-title="CANALES 4K",DISCOVERY WORLD ESP
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140128
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY MX HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CANALES 4K",DISCOVERY MX HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140129
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY TURBO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-turbo-us.svg" group-title="CANALES 4K",DISCOVERY TURBO
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140130
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY THEATER" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_theater_lam.png" group-title="CANALES 4K",DISCOVERY THEATER
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140131
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.svg" group-title="CANALES 4K",INVESTIGATION DISCOVERY
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140132
-#EXTINF:-1 tvg-id="I443.43362.zap2it.com" tvg-name="HISTORY 2 MX HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="CANALES 4K",HISTORY 2 MX HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140133
-#EXTINF:-1 tvg-id="I269.14771.zap2it.com" tvg-name="HISTORY EN ESPANOL" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_en_espanol_us.png" group-title="CANALES 4K",HISTORY EN ESPANOL
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140134
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="NATIONAL GEOGRAPHIC WILD ESP HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="CANALES 4K",NATIONAL GEOGRAPHIC WILD ESP HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140135
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TLC ESP HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_lam.png" group-title="CANALES 4K",TLC ESP HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140136
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TL NOVELA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_novela_channel_ph.png" group-title="CANALES 4K",TL NOVELA
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140137
-#EXTINF:-1 tvg-id="I444.61776.zap2it.com" tvg-name="PASIONES HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pasiones_us_estados_unidos.png" group-title="CANALES 4K",PASIONES HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140138
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="E! ESP HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/e_global_us.png" group-title="CANALES 4K",E! ESP HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140139
-#EXTINF:-1 tvg-id="I824.56036.schedulesdirect.org" tvg-name="BABY TV MX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="CANALES 4K",BABY TV MX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140140
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="CARTOONITO MX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="CANALES 4K",CARTOONITO MX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140141
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="CANALES 4K",CARTOON NETWORK
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140142
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_channel_global.png" group-title="CANALES 4K",DISNEY CHANNEL
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140143
-#EXTINF:-1 tvg-id="I322.61311.schedulesdirect.org" tvg-name="DISNEY JR HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="CANALES 4K",DISNEY JR HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140144
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DISCOVERY KIDS MX HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png" group-title="CANALES 4K",DISCOVERY KIDS MX HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140145
-#EXTINF:-1 tvg-id="I301.82649.zap2it.com" tvg-name="NICK JUNIOR HD MX" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="CANALES 4K",NICK JUNIOR HD MX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140146
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TEEN NICK USA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teen_nick_us.png" group-title="CANALES 4K",TEEN NICK USA
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140147
-#EXTINF:-1 tvg-id="I34.90898.schedulesdirect.org" tvg-name="A3 SERIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atreseries-es.png" group-title="CANALES 4K",A3 SERIES HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140149
-#EXTINF:-1 tvg-id="I19.90653.schedulesdirect.org" tvg-name="AMC HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CANALES 4K",AMC HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140150
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="CINECANAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinecanal-us.png" group-title="CANALES 4K",CINECANAL HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140151
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="DE PELICULA CLASICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png" group-title="CANALES 4K",DE PELICULA CLASICO
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140153
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="SYFY ENG" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="CANALES 4K",SYFY ENG
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140154
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="PARAMOUNT NETWORK ESP" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png" group-title="CANALES 4K",PARAMOUNT NETWORK ESP
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140155
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="SONY CHANNEL LAT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="CANALES 4K",SONY CHANNEL LAT
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140156
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="SPACE MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_mx.png" group-title="CANALES 4K",SPACE MEXICO
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140157
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="CINEMAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_lam.png" group-title="CANALES 4K",CINEMAX HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140158
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/studio_universal_global.png" group-title="CANALES 4K",STUDIO UNIVERSAL HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140159
-#EXTINF:-1 tvg-id="I211.16799.schedulesdirect.org" tvg-name="UNIVERSAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/universal-channel-america-latina-us.png" group-title="CANALES 4K",UNIVERSAL HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140160
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CANALES 4K",UNIVERSAL COMEDY
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140161
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="CANALES 4K",UNIVERSAL CINEMA
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140162
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNIVERSAL PREMIER LATINO" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="CANALES 4K",UNIVERSAL PREMIER LATINO
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140163
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNIVERSAL CRIMEN" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="CANALES 4K",UNIVERSAL CRIMEN
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140164
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="UNIVERSAL REALITY Latino" tvg-logo="https://www.lyngsat.com/logo/tv/uu/universal-channel-america-latina-us.png" group-title="CANALES 4K",UNIVERSAL REALITY Latino
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140165
-#EXTINF:-1 tvg-id="I553.11160.zap2it.com" tvg-name="MULTIPREMIER MP" tvg-logo="https://www.lyngsat.com/logo/tv/mm/multipremier_mx.png" group-title="CANALES 4K",MULTIPREMIER MP
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140166
-#EXTINF:-1 tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_global.png" group-title="CANALES 4K",AXN HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140168
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FX HD mx" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="CANALES 4K",FX HD mx
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140169
-#EXTINF:-1 tvg-id="I430.88305.schedulesdirect.org" tvg-name="FILM&ARTS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/film_and_arts_lam.png" group-title="CANALES 4K",FILM&ARTS
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140170
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="GOLDEN EDGE" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-edge-mx.png" group-title="CANALES 4K",GOLDEN EDGE
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140171
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO MX" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_east.png" group-title="CANALES 4K",HBO MX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140173
-#EXTINF:-1 tvg-id="I348.80652.schedulesdirect.org" tvg-name="HBO 2 HD Latino" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_lam.png" group-title="CANALES 4K",HBO 2 HD Latino
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140174
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO PLUS" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="CANALES 4K",HBO PLUS
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140175
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO POP" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-pop-us.png" group-title="CANALES 4K",HBO POP
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140176
-#EXTINF:-1 tvg-id="I3.109803.schedulesdirect.org" tvg-name="HBO MUNDI" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-mundi-us.png" group-title="CANALES 4K",HBO MUNDI
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140178
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO EXTREME Dual" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png" group-title="CANALES 4K",HBO EXTREME Dual
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140179
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TNT HD" tvg-logo="http://allstar.is-by.us:25461/images/b79c4b63475c85f02c75aa2c3081d9fb.png" group-title="CANALES 4K",TNT HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140180
-#EXTINF:-1 tvg-id="I433.54867.zap2it.com" tvg-name="BANDAMAX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandamax-mx.png" group-title="CANALES 4K",BANDAMAX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140184
-#EXTINF:-1 tvg-id="I160.60964.schedulesdirect.org" tvg-name="MTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_us.png" group-title="CANALES 4K",MTV HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140185
-#EXTINF:-1 tvg-id="I572.49141.zap2it.com" tvg-name="MTV LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_hd_us.png" group-title="CANALES 4K",MTV LIVE
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140186
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TELEHIT MUSICA  HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telehit-mx.png" group-title="CANALES 4K",TELEHIT MUSICA  HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140188
-#EXTINF:-1 tvg-id="I90.18101.schedulesdirect.org" tvg-name="BANDAMAX MX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandamax-mx.png" group-title="CANALES 4K",BANDAMAX MX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140189
-#EXTINF:-1 tvg-id="I388.81448.schedulesdirect.org" tvg-name="FIGHT NETWORK 77" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_network_ca.png" group-title="CANALES 4K",FIGHT NETWORK 77
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140191
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FOX SPORTS 3" tvg-logo="http://allstar.is-by.us:25461/images/a1a4e3072633c3e084c3f8a377a1e642.png" group-title="CANALES 4K",FOX SPORTS 3
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140196
-#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BEIN SPORTS ESP" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png" group-title="CANALES 4K",BEIN SPORTS ESP
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140198
-#EXTINF:-1 tvg-id="I212.45399.zap2it.com" tvg-name="NFL HD 77" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png" group-title="CANALES 4K",NFL HD 77
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140200
-#EXTINF:-1 tvg-id="I468.32161.zap2it.com" tvg-name="GOL TV 77 US" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gol-tv-us.png" group-title="CANALES 4K",GOL TV 77 US
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140205
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="GOURMET HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el-gourmet-ar.png" group-title="CANALES 4K",GOURMET HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140206
-#EXTINF:-1 tvg-id="I12.83162.schedulesdirect.org" tvg-name="Adrenalina Sports Network MX" tvg-logo="https://www.lyngsat.com/logo/tv/aa/adrenalina-sports-network-us.png" group-title="CANALES 4K",Adrenalina Sports Network MX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140207
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FORO TV MX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/foro-tv-mx.png" group-title="CANALES 4K",FORO TV MX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140208
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="Multimedio Laguna HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-6-mx.png" group-title="CANALES 4K",Multimedio Laguna HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140212
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Canal 5 HD Mexico" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png" group-title="CANALES 4K",Canal 5 HD Mexico
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140213
-#EXTINF:-1 tvg-id="I898.65930.schedulesdirect.org" tvg-name="ESPN + HD MX" tvg-logo="http://142.54.161.162/espn-plus-us.jpg" group-title="CANALES 4K",ESPN + HD MX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140218
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TNT Latino HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_us.png" group-title="CANALES 4K",TNT Latino HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140219
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="Multipremier HD MEX" tvg-logo="https://www.lyngsat.com/logo/tv/mm/multipremier_mx.png" group-title="CANALES 4K",Multipremier HD MEX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140220
-#EXTINF:-1 tvg-id="I402.68049.zap2it.com" tvg-name="UNIVISION WEST" tvg-logo="http://allstar.is-by.us:25461/images/64f66576614ccf2e062351427169857b.png" group-title="CANALES 4K",UNIVISION WEST
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140224
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-name="UNIVERSO fhd" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_universo_este.png" group-title="CANALES 4K",UNIVERSO fhd
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140225
-#EXTINF:-1 tvg-id="I404.10222.zap2it.com" tvg-name="GALAVISION WEST" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galavision_east.png" group-title="CANALES 4K",GALAVISION WEST
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140231
-#EXTINF:-1 tvg-id="I355.10139.zap2it.com" tvg-name="CNBC HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc-us.svg" group-title="CANALES 4K",CNBC HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140235
-#EXTINF:-1 tvg-id="I356.64241.zap2it.com" tvg-name="MSNBC HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/msnbc_us.png" group-title="CANALES 4K",MSNBC HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140236
-#EXTINF:-1 tvg-id="I357.26849.zap2it.com" tvg-name="CNBC WORLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnbc-world-us.svg" group-title="CANALES 4K",CNBC WORLD HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140237
-#EXTINF:-1 tvg-id="I402.68049.zap2it.com" tvg-name="UNIVISION SAN DIEGO" tvg-logo="https://www.lyngsat.com/logo/tv/uu/univision_us.png" group-title="CANALES 4K",UNIVISION SAN DIEGO
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140238
-#EXTINF:-1 tvg-id="I560.74073.zap2it.com" tvg-name="EPIX HITS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/epix-hits-us.png" group-title="CANALES 4K",EPIX HITS HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140242
-#EXTINF:-1 tvg-id="I539.68409.zap2it.com" tvg-name="EPIX DRIVE HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/epix-drive-in-us.png" group-title="CANALES 4K",EPIX DRIVE HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140243
-#EXTINF:-1 tvg-id="I564.105723.zap2it.com" tvg-name="HALLMARK DRAMA ENG" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark-drama-us.png" group-title="CANALES 4K",HALLMARK DRAMA ENG
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140249
-#EXTINF:-1 tvg-id="I242.58452.zap2it.com" tvg-name="USA NETWORK HD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/usa_network_east.png" group-title="CANALES 4K",USA NETWORK HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140256
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="SYFY ENG" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syfy_us_global.png" group-title="CANALES 4K",SYFY ENG
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140257
-#EXTINF:-1 tvg-id="I341.45805.zap2it.com" tvg-name="COZI TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cozi-tv-us.png" group-title="CANALES 4K",COZI TV
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140259
-#EXTINF:-1 tvg-id="I327.59440.zap2it.com" tvg-name="CMT USA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmt-us.png" group-title="CANALES 4K",CMT USA
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140260
-#EXTINF:-1 tvg-id="I249.62420.zap2it.com" tvg-name="Comedy Central ENG" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="CANALES 4K",Comedy Central ENG
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140261
-#EXTINF:-1 tvg-id="I271.18822.zap2it.com" tvg-name="ViCe HD" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vice-tv-us.svg" group-title="CANALES 4K",ViCe HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140262
-#EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="SONY MOVIE CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="CANALES 4K",SONY MOVIE CHANNEL
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140263
-#EXTINF:-1 tvg-id="I345.84823.schedulesdirect.org" tvg-name="HBO WEST" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_east.png" group-title="CANALES 4K",HBO WEST
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140269
-#EXTINF:-1 tvg-id="I509.59845.zap2it.com" tvg-name="HBO ZONE" tvg-logo="http://allstar.is-by.us:25461/images/6dca7b32a17636a7066802f6707c542f.png" group-title="CANALES 4K",HBO ZONE
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140270
-#EXTINF:-1 tvg-id="I502.59368.zap2it.com" tvg-name="HBO  East" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png" group-title="CANALES 4K",HBO  East
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140271
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="HBO SIGNATURE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_lam.png" group-title="CANALES 4K",HBO SIGNATURE
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140273
-#EXTINF:-1 tvg-id="I507.16585.zap2it.com" tvg-name="HBO FAMILY US" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_br.png" group-title="CANALES 4K",HBO FAMILY US
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140276
-#EXTINF:-1 tvg-id="I506.59839.zap2it.com" tvg-name="HBO COMEDY EAST US" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_comedy_east.png" group-title="CANALES 4K",HBO COMEDY EAST US
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140277
-#EXTINF:-1 tvg-id="I392.76950.schedulesdirect.org" tvg-name="BEIN SPORTS EXTRA US" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="CANALES 4K",BEIN SPORTS EXTRA US
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140283
-#EXTINF:-1 tvg-id="I218.14899.zap2it.com" tvg-name="GOLF USA" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="CANALES 4K",GOLF USA
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140284
-#EXTINF:-1 tvg-id="I630.49198.zap2it.com" tvg-name="NBC SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc_sports_bay_area.png" group-title="CANALES 4K",NBC SPORTS
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140286
-#EXTINF:-1 tvg-id="I381.76370.zap2it.com" tvg-name="PAC 12 BAY AREA" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pac_12_networks_us.png" group-title="CANALES 4K",PAC 12 BAY AREA
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140290
-#EXTINF:-1 tvg-id="I213.62081.zap2it.com" tvg-name="MLB NETWORK " tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb_network.png" group-title="CANALES 4K",MLB NETWORK 
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140296
-#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS USA INTERNACIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyc_sports.png" group-title="CANALES 4K",TYC SPORTS USA INTERNACIONAL
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140297
-#EXTINF:-1 tvg-id="I465.72189.zap2it.com" tvg-name="FOX DEPORTES USA" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_deportes_us.png" group-title="CANALES 4K",FOX DEPORTES USA
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140298
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="SPORTSMAN HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportsman-channel-us.png" group-title="CANALES 4K",SPORTSMAN HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140300
-#EXTINF:-1 tvg-id="I154.45399.schedulesdirect.org" tvg-name="NHL HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png" group-title="CANALES 4K",NHL HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140302
-#EXTINF:-1 tvg-id="I41.11054.zap2it.com" tvg-name="AT&T SPORTS NET SOUTHWEST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/att-sportsnet-us.png" group-title="CANALES 4K",AT&T SPORTS NET SOUTHWEST
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140309
-#EXTINF:-1 tvg-id="" tvg-name="Afizzionados HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/afizzionados-mx.png" group-title="CANALES 4K",Afizzionados HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140312
-#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BEiN Sports Xtra LAT" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="CANALES 4K",BEiN Sports Xtra LAT
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140313
-#EXTINF:-1 tvg-id="I388.81448.schedulesdirect.org" tvg-name="FIGHT NETWORK / MMA NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="CANALES 4K",FIGHT NETWORK / MMA NETWORK
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140314
-#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-name="WWE NET" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wwe-channel-za.png" group-title="CANALES 4K",WWE NET
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140315
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN 4 ARG" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="CANALES 4K",ESPN 4 ARG
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140316
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM ARG" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-premium-us-ar.svg" group-title="CANALES 4K",ESPN PREMIUM ARG
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140317
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN DEPORTES HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_deportes.png" group-title="CANALES 4K",ESPN DEPORTES HD
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140318
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2 US" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png" group-title="CANALES 4K",ESPN2 US
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140320
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FOX SPORTS HD MEX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="CANALES 4K",FOX SPORTS HD MEX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140323
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FOX SPORTS 2 HD MEX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="CANALES 4K",FOX SPORTS 2 HD MEX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140324
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="FOX SPORTS 3 HD MEX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="CANALES 4K",FOX SPORTS 3 HD MEX
-http://aztkplay.pro:8080/LeonDC22/q8jzcPFcPX/140325
+
 
 
 
@@ -2106,84 +2073,8 @@ http://vod.tuxchannel.mx/peliculas/720/violent%20night%202022.mkv
 http://51.79.20.130:25461/movie/bessy/AA35Q/62313.mp4?token=TEdRVxJZEgNGVgQFAVcMVgcEBgRaAAEFV1YPUAQHAgBVVQ0PVlADDQdDHRVAFUtVVlxuWlxEDQQAUglRGUYRQlIXZl8FEwobVlEDBwBUGxwVRVheXUQNAwVRDFADVFADBEkbRghVEgNGUAIDClYbHBVUSUddFFlTXj5cB0MNB1QVXxsUTRNfVzsFVFpSD10SDRMBERREXkFCQwIMQAgIHRUHUEITUERcRlsTBQZSDRIbE1JcTQhDQEtDAkB4PEYdFQBBQgRfQ1ALDxMNEQxJBBUdE1pLOUVXQRVKB1QJAUMVXxsGQx0SVAUZblRcD1dVVEVYXFYVFQgQUxpOFwkLX14RVkQ+QVldRltfQl8NRA==
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTVlYjZiMGEtZWQyMy00NTE5LWFmNmYtNjFjMjk1YjNiOGZmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS", ROBOCOP 3
 http://51.158.201.245:91/Uploads/Accion/Robocop-3-1993-lat.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81z3kb3TRpL._AC_UF1000,1000_QL80_.jpg" group-title="PELICULAS", NORBIT
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zCOikuf8GqPVmgERDTOQqgkO-BrBv6agAg5K-RGGgKAF
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/198/21019828_20130716124830723.jpg" group-title="PELICULAS", LOS DIOSES DEBEN ESTAR  LOCOS
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zMwpk7uEEOOuxdNubQp6OrRRLiGGrW3r74h1_Wlg9cvz
-#EXTINF:-1 tvg-logo="https://dicpelis.com/wp-content/uploads/2021/07/The_Gods_Must_Be_Crazy_2_poster_espaol.jpg" group-title="PELICULAS", LOS DIOSES DEBEN ESTAR  LOCOS 2
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zPlribiV49AVqd4-gYetqFZcJs7vLKGwNo89qgLxgNql
-#EXTINF:-1 tvg-logo="https://comoacaba.com/wp-content/uploads/2019/10/16FbE4pn39AZuTDnCxUgYFQB9gQ.jpg" group-title="PELICULAS", GHOST - LA SOMBRA DEL AMOR
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/5900/5977/001_m.jpg" group-title="PELICULAS", EL ESPECIALISTA
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLo-x0ZYKwzcypCQagFRkPkH5wePUmbhcZlCwDaBI4fb
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Siempre_a_tu_lado_Hachiko-386676685-large.jpg" group-title="PELICULAS", HACHIKO - SIEMPRE A TU LADO
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zK4InZfkYp9SB2HNEzl6juhsbOtVTeSww1bOtKPR02FL
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/18/06/20/03/55/3237983.jpg" group-title="PELICULAS", MUJER BONITA
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zFS2VxO3fS4iKR_DSmH-s4_a99zp1SztAog5uPoMz5u7
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/23/10/36/0134677.jpg" group-title="PELICULAS", RASCACIELOS
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zBQwc3o3AYvYTbradU81g3w-99IImDrntIH653W-1cdf
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Los_aAngeles_de_Charlie-321085855-large.jpg" group-title="PELICULAS", LOS ANGELES DE CHARLIE
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLINESZxb8_Nm0DbytRpG80KZ0gHILl57R3j8CPCwLhb
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/03/04/11/17/316520.jpg" group-title="PELICULAS", CONTRACARA
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zKcZogoW_9wZMWqrmmBqW9VhkrQkRlQPSRlJHb84fYU_
-#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/e1491900-0000-0000-0000-000000000002/504/image.jpg?w=720" group-title="PELICULAS", RAMBO
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91N1a3EH2PL._AC_UF1000,1000_QL80_.jpg" group-title="PELICULAS", ACERO PURO
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zO713YyVomGNFLBIpyk45qaMVrPHv66Rx1gMwrpeBlXW
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfe5Y9wRpCKvLbo4S0zAeZTGG7J1mNcO0UAJK8FvTaRTnT8Uc3TBZWHfph_158hU8QCM&usqp=CAU" group-title="PELICULAS", SANGRE POR SANGRE
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zAnWfMdy34V0YAaFZiQmUlPsAgnAzlT_jTUp74PKJi2C
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dee437de11d2ff4718bd2b8c0cbfcfab8f31445c12063441f03fbde9ff82bbd4.jpg" group-title="PELICULAS", APOCALYPTO
 http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Jurassic_World_Dominion-228831206-large.jpg" group-title="PELICULAS", JURASSIC WORLD DOMINION
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zD8FnueDs3B8zzGOfG_vEXJZ4rP5PfwIPn7Ts-BKFiH1
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNiYTVmMzMtYjBmNC00OGQyLTg2MmItODIzYTczNmFjMTQ2XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg" group-title="PELICULAS", HEARTH OF STONE
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zOf_aGQU0P99ia3uYY8jDyHn6kzHEnW10CpKuKhbCVF0
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0d/Buscando-justicia.jpg/revision/latest?cb=20191211235044&path-prefix=es" group-title="PELICULAS", BUSCANDO JUSTICIA
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zKcAnwwy1VclnwzTKk8MsETjvElsRkghD2ZJ2zDUZniL
-#EXTINF:-1 tvg-logo="https://resizing.flixster.com/45bDQsezasfg4nXkrYeZPVtdKu4=/206x305/v2/https://resizing.flixster.com/QnfH8KhP2GcTThpVE4jqYUAxo3I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RmMjYyMTIyLWVlYjUtNDU1Mi1iYjc0LTRlODg1MTg0NmU1Zi5qcGc=" group-title="PELICULAS", RIP 2
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zAhq0_YDOQ8Biaiu_DSMwKFKD9MbFO7A8DvojqMMUQnD
-#EXTINF:-1 tvg-logo="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/MoviePosters/AllMADPhotos/10450373/10450373_v5_cmd1.jpg" group-title="PELICULAS", EXODUS DIOSES Y REYES
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zETovlD254R5xS05yuEVTaAYbpoqPkjpMKo2IwGuQ1o1
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/05/Cartel_La_lista_de_Schindler.jpg/revision/latest?cb=20220301142651&path-prefix=es" group-title="PELICULAS", LA LISTA DE SCHINDLER
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJEC8IWn-fxMJXyT9OESELyIKP8m-ymTxxlFBvkXwME5
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/61/66/20098979.jpg" group-title="PELICULAS", LA VIDA ES BELLA
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zGEKemxa2wfl9MsHInk6ixZUJKc166ghIYHDBwUtfSxI
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_junglecruise_21740_v2_bb7f0ae4.jpeg?region=0%2C0%2C540%2C810" group-title="PELICULAS", JUNGLE CRUISE
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zM4E_d6Eitu6tH2Q-Hm0FV5coEv7aXmVCuVZlO8JK6-p
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_866875-MLM31476839093_072019-O.webp" group-title="PELICULAS", PERFUME HISTORIA DE UN ASESINO
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zIFDmqo_Hlk2o5MkxCLwNsXNB4IzMRc2I3Qx0A9_38GQ
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/L5JOVCx0baAn39g2_m45URKiaexhpDt5N1m_eD6jKn_4GW6LFQ398rM5fJBO7RqYR_XH" group-title="PELICULAS", EL PATRIOTA
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zB6Jx7TGZIJ6Ef7JjfwKHDVUoRyNoa8ZywOcin_yIq2r
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3f/7b/7f/3f7b7fa7913a40606674fc0bf3268b99.jpg" group-title="PELICULAS", EL REGALO PROMETIDO
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zF0WNZPVKudwbALYkkKQwurxLjj9vna_Df9G7YXDbn7h
-#EXTINF:-1 tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs2.abcstatics.com%2Fmedia%2Fpeliculas%2F000%2F003%2F740%2Fcon-air-1.jpg&nuevoancho=683&medio=abc" group-title="PELICULAS", CON AIR
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zOLFzJU-D_vysDqSxvvkZviAnlDTjwycYMUK0rFCGcOp
-#EXTINF:-1 tvg-logo="https://www.sonyvideo.com.mx/media/packshots/url/el_justiciero_2_digital.jpg" group-title="PELICULAS", EL JUSTICIERO 2
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zN8NmkGfYpyBVyQxUAzdSFNjjl538s-anw_76D1gpWOz
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Por_una_razaon_de_ser-723479909-large.jpg" group-title="PELICULAS", POR UNA RAZON DE SER
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zEPsewdBEXtfThNN8xy-3ltdJCeDfEIzAc1s8p3AHCIc
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NP32Nattl8hqTOIqnAihTM4PFjMmJVzwdsSazo3N-ERL3QFfRcKt7sVpYt1wPIbJ2NNi" group-title="PELICULAS", REPLICAS
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zM58Qf-rfKk5H-fzOZZHGIyvMOswLKgVnaZOH4Fqa7zk
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71NSHpAO6ZL._AC_UF894,1000_QL80_.jpg" group-title="PELICULAS", PHILADELPHIA
-https://s1.oneupload.to/hls2/01/00011/q1crvbg1m9jb_l/master.m3u8?t=ne3zQmjO9KqHWlvUTXpKkQ1789SIrKTkhIfL8iIzRLA&s=1699934260&e=28800&f=59826&i=0.0&sp=0
-#EXTINF:-1 tvg-logo="https://www.peliculasmexicanas.com/wp-content/uploads/sites/12/2017/11/EL-INFIERNO-DMX-F-.jpg" group-title="PELICULAS", EL INFIERNO
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJYu8US_dyDmU7tAPDr8EkbNBEQIpi-EFLgVyxvkJ7NW
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFiNTI1NTctMTc3Ny00ZThlLTkyNTItMWEyYTYxMjFmOGMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS", 3 MEXICANOS ARDIENTES
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zDWDQoqU5D8eJ3bkWb7ULRSBFXj4H4HqLqHNMzWG1Qoo
-#EXTINF:-1 tvg-logo="https://beersandpolitics.com/wp-content/uploads/2019/01/leydeherodes.jpg" group-title="PELICULAS", LA LEY DE HERODES
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zP_7qtxKvtm2WT9Xc6YnXhDQKUZv8Hko8Nqz_1ranWgZ
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/16/09/23/18/43/135977.jpg" group-title="PELICULAS", EL JEREMIAS
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zEavreTz0gnRWoz5Wxx_qkq19sZQjRGpBPMwHS8jelH6
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e4/El_Rescate_%282011%29.jpg/revision/latest/thumbnail/width/360/height/450?cb=20130203134233&path-prefix=es" group-title="PELICULAS", EL RESCATE
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zEoGWC4K4_5wCX4sY4KqQbYmAEpM9tq0R46HkiZ15a64
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/cc/2b/12cc2b59c59b1680929c17ad5ba5541a.jpg" group-title="PELICULAS", BUSQUEDA IMPLACABLE 2
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zPltFWj1iASJK6cm4cWld0xoG6w5LxgEszW5lZkySfiw
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Legado_de_sangre-346205226-large.jpg" group-title="PELICULAS", LEGADO DE SANGRE 
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJFahLdfNr30nUh_mYb1goqt63JWTsarIS3TQ1nyvs7-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_piloto-759873939-large.jpg" group-title="PELICULAS", EL PILOTO
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zLdy6XtW19vIE0w1q-rU31l4I8BywpQFtq6y2NZ3e3Jk
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODkyZjcyOGMtZWVhYy00ZWEyLWJlZDItZDA2OTBhNGZmMjBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" group-title="PELICULAS", BLUE BEETLE
-http://vis4k.online:8080/play/R9l66d4Epfrye2oX09G-zJa6a098QUf1PpDKqLJB6q6Z9-xa-ujst7F23bpBgth5
-
 #EXTINF:-1,EL DIA DE MI GRADUACION
 http://vod.tuxchannel.mx/peliculas/720/senior%20year%202022.mkv
 #EXTINF:-1 tvg-logo="" group-title="PELICULAS",BOYKA INDISPUTED 
