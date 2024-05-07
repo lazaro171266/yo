@@ -1570,25 +1570,25 @@ http://gotv.vip:8880/Jaime/Jaime123/145886
 #EXTINF:-1 group-title="TV OPCION 6",TELEMUNDO HOUSTON HD
 http://gotv.vip:8880/Jaime/Jaime123/73786
 
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Milenio TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/640px-Milenio_Television.png" group-title="TV OPCION 7",Milenio TV
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51354
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",CNN en Español
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/42b3dcde-53e3-494e-b755-128babf6a5d3/2408980387/live-app-for-cnn-en-espanol-screenshot.png" group-title="TV OPCION 7",CNN en Español
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51416
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",CNN INT
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/42b3dcde-53e3-494e-b755-128babf6a5d3/2408980387/live-app-for-cnn-en-espanol-screenshot.png" group-title="TV OPCION 7",CNN INTERNACIONAL
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51415
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",ADN 40
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NB_eR3rXbLlV-4o0iReSjJEafKBonOwze9FkzHVCfRUxDWO1sSJASibkIpCEsFOpA0Pb4vpq=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 7",ADN 40
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51449
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Imagen TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV OPCION 7",Imagen TV
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51362
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Azteca FHD
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_01/large.aztecaunovertical.png.11f1b17bdfa9a731eeacb09977f0e0b5.png" group-title="TV OPCION 7",Azteca UNO
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51448
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png" group-title="TV OPCION 7",AZTECA 7 
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51447
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Azteca Mundo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1QpzN-l_wv6SMRBK3O7V0A2DZP8QvlaFCDt4HcFpGIQ&s" group-title="TV OPCION 7",Azteca Mundo
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51445
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Azteca Uno
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfELT36UzZENDZbUQqB-huSgeOD8oLTaBjOblPAsHHEQ&s" group-title="TV OPCION 7",Azteca Uno
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51444
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7", LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TV OPCION 7", LAS ESTRELLAS
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51423
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Canal 5 HD
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51436
