@@ -35,8 +35,6 @@ http://sdmx.vip:8080/China02/china93/2139190
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/F24RGvK6LdYoQ0nZBRN3hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://s.yimg.com/os/creatr-uploaded-images/2019-08/9a986670-c83d-11e9-bfda-b57072efb051" group-title="TV OPCION 1", LA ROSA DE GUADALUPE
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=344&pid=344&token=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="TV OPCION 1", HUMOR SIN BARRERAS
-http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=310&pid=310&token=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="TV OPCION 1", DISTRITO COMEDIA (1)
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="TV OPCION 1", DISTRITO COMEDIA
@@ -91,7 +89,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3024
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest/scale-to-width-down/200?cb=20200308213727&path-prefix=es" group-title="TV OPCION 1",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj02gFnnixCUEfFjDnu4FSA_HO67uIV0Ue0daxTgt8IZowR4_xhDMZMXFHfj4sk7IRxcYKU7tPU5U2pqbLKpePmm6rtyO3d8zh9CIrWLadZ1149EyAM3sg7JJeGwMlI5rhLkYMKmNDftI8/s652/Punto+2+HD+-+Liberty.jpeg" group-title="TV OPCION 1",PUNTO 2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/751530537165025280/uzVEpyCs_400x400.jpg" group-title="TV OPCION 1",PUNTO 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV OPCION 1",Estrella TV HD
 http://gotv.vip:8880/Jaime/Jaime123/66
@@ -151,10 +149,8 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 http://cdn1host.online:2999/carlosleon/2469/1699
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="TV OPCION 1", DE PELICULA PLUS (2)
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="TV OPCION 1", CANAL CLARO
-http://cdn1host.online:2999/carlosleon/2469/1720
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="TV OPCION 1", CLARO CINEMA
-http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a05b&f=.m3u8&k=SrRegio
+http://cdn1host.online:2999/carlosleon/2469/1720
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="TV OPCION 1",Top Cine (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
