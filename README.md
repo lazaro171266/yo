@@ -141,10 +141,31 @@ http://cdn1host.online:2999/carlosleon/2469/14
 http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-21lC_5eSuZ8/W6llvwR8rmI/AAAAAAAAAB4/fvGKXLaV0CY9Z941D047IzDxYA2Nodc1ACPcBGAYYCw/s1600/axn.png" group-title="TV OPCION 1", AXN
 http://cdn1host.online:2999/carlosleon/2469/21
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",COMEDY CENTRAL
 http://cdn1host.online:2999/carlosleon/2469/23
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", UNICABLE
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",UNICABLE
 http://cdn1host.online:2999/carlosleon/2469/24
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",AZCORAZON
+http://cdn1host.online:2999/carlosleon/2469/29
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",E! ENTERTAINMENT
+http://cdn1host.online:2999/carlosleon/2469/30
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",USA
+http://cdn1host.online:2999/carlosleon/2469/31
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",DISCOVERY ID
+http://cdn1host.online:2999/carlosleon/2469/32
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",TNT SERIES
+http://cdn1host.online:2999/carlosleon/2469/33
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",EL GOURMET
+http://cdn1host.online:2999/carlosleon/2469/34
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",DISTRITO COMEDIA
+http://cdn1host.online:2999/carlosleon/2469/36
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",TL NOVELAS
+http://cdn1host.online:2999/carlosleon/2469/40
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",DISNEY JR
+http://cdn1host.online:2999/carlosleon/2469/44
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",NICK JR
+http://cdn1host.online:2999/carlosleon/2469/45
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/1200px-Cine_Latino_logo.svg.png" group-title="TV OPCION 1", CINE LATINO
 http://cdn1host.online:2999/carlosleon/2469/303
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxv_lrgDvQo2w1ntM9EygVfMuur-Edn34PxuN7y608Wg&s" group-title="TV OPCION 1", DE PELICULA
