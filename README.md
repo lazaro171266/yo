@@ -192,18 +192,15 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438834589120729097/xUxfrCMf_400x400.jpg" group-title="TV OPCION 1", PUNTO MOVIES
 http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=punto_movies
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9bee320c3818dbc2ddc14975a99e84a5?rik=zCyWwiA65QPS1g&pid=ImgRaw&r=0" group-title="TV OPCION 1", CINEMUNDO
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?key=SrRegio&c=cinemundo_plus
+http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=cinemundo_plus
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxqoELTnWJTmGdc8N0XyQ88BgQZh3uYB0fzP_NT=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1" ,PELICULAS MANIA
 http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=peliculas_mania
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.8Dhk8K_u_Kt6d4R1D2gakgHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1" ,CINE HD
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?key=SrRegio&c=beto_7hd
+http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=beto_7hd
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.UmOGXRBt3Di3iO994My2TwHaE8?w=226&h=180&c=7&r=0&o=5&pid=1.7" group-title="TV OPCION 1" , NETFLIX HD
-http://notabasica.com/php/SR_REGIO_601032_/tv3.php?key=SrRegio&c=a_neflix01
+http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=a_neflix01
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQbU5L8feakFXv1ZHK8PpALBG3RENjhhyV7gOKq=s176-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", TERROR MANIA
 http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=terror_mania
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQbU5L8feakFXv1ZHK8PpALBG3RENjhhyV7gOKq=s176-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1", TERROR TV
-https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yT22aG5TnjY/XxE7ri-XgKI/AAAAAAAAB_o/yRmzQT8Wm8Eq8OxtHuyElQr2PONDRrHVgCLcBGAsYHQ/w640-h480/frecuenciamusicaltv_logoroku.jpg" group-title="TV OPCION 1" ,FRECUENCIA MUSICAL TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="TV OPCION 1",Retro PELIS
