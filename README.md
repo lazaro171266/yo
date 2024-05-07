@@ -1578,7 +1578,7 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51416
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51415
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/NB_eR3rXbLlV-4o0iReSjJEafKBonOwze9FkzHVCfRUxDWO1sSJASibkIpCEsFOpA0Pb4vpq=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 7",ADN 40
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51449
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="TV OPCION 7",Imagen TV
+#EXTINF:-1 tvg-logo="https://www.eleconomista.com.mx/__export/1584472198786/sites/eleconomista/img/2020/03/17/imagen-tv.jpg_423682103.jpg" group-title="TV OPCION 7",Imagen TV
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51362
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_01/large.aztecaunovertical.png.11f1b17bdfa9a731eeacb09977f0e0b5.png" group-title="TV OPCION 7",Azteca UNO
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51448
@@ -1590,28 +1590,19 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51445
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51444
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TV OPCION 7", LAS ESTRELLAS
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51423
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Canal 5 HD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51436
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",TVC
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Canal Once HD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51421
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",DW
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51398
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",XHGV-TDT
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51380
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Golden
+#EXTINF:-1 tvg-logo="https://www.imagenpoblana.mx/medios/diario/20160402/89082.jpg" group-title="TV OPCION 7",Golden
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51368
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Golden Edge
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV OPCION 7",Golden Edge
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51367
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Golden Plus HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 7",Golden Plus HD
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51366
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Cinecanal HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="TV OPCION 7",Cinecanal
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51418
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Cinemax HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9TZ3xdNoXq8c0IJh0XiIDXvYTW-cWFN5cUjzyVPR8A&s" group-title="TV OPCION 7",Cinemax
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51417
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7" ,A&E FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es" group-title="TV OPCION 7" ,A&E
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51457
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Studio Universal
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51456
