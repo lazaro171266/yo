@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://eldiario.com/wp-content/uploads/2023/04/PORTADA-LOS-SIMPSON-2.png" group-title="TV OPCION 1", LOS SIMPSONS HD
+http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=simpson_maniahd189
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTp8PCz-yQU1E0NitwnCiSV-4OBt5i2byQJSw&usqp=CAU" group-title="TV OPCION 1", MILENIO HD 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1641056610880479233/y7LYZu4L_400x400.jpg" group-title="TV OPCION 1",CNN EN ESPAÑOL
