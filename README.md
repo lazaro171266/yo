@@ -1592,16 +1592,14 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51444
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51423
 
 
-#EXTINF:-1 tvg-logo="https://www.imagenpoblana.mx/medios/diario/20160402/89082.jpg" group-title="TV OPCION 7",Golden
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKKeLRzvPFotbguR6_KNRNuKbhNkT_SWPfF6_ND7ZOl1dRfv8VxhJLN4a47QS1UEyotaw&usqp=CAU" group-title="TV OPCION 7",Golden
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51368
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV OPCION 7",Golden Edge
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51367
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 7",Golden Plus HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_HD_%282010%29.jpg/revision/latest/scale-to-width-down/220?cb=20210429155452&path-prefix=es" group-title="TV OPCION 7",Golden Plus HD
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51366
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="TV OPCION 7",Cinecanal
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51418
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9TZ3xdNoXq8c0IJh0XiIDXvYTW-cWFN5cUjzyVPR8A&s" group-title="TV OPCION 7",Cinemax
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51417
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest?cb=20191216020018&path-prefix=es" group-title="TV OPCION 7" ,A&E
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51457
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Studio Universal
