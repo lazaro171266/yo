@@ -1612,9 +1612,9 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51451
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51435
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="TV OPCION 7",TCM
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51434
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg" group-title="TV OPCION 7",BITME
+#EXTINF:-1 tvg-logo="https://www.eleconomista.com.mx/__export/1562785978686/sites/eleconomista/img/2019/07/10/bitme-televisa.jpg_423682103.jpg" group-title="TV OPCION 7",BITME
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51428
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/el-canal-amc-trabaja-con-tres-nuevos-proyectos/52399224-1-esl-ES/El-canal-AMC-trabaja-con-tres-nuevos-proyectos.jpg?crop=0.5625xw:1xh;center,top&resize=1200:*" group-title="TV OPCION 7",AMC
+#EXTINF:-1 tvg-logo="https://amcnetworks.es/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png" group-title="TV OPCION 7",AMC
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51426
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/s/u/n/sundancetv.jpg" group-title="TV OPCION 7",Sundance TV
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51420
@@ -1624,13 +1624,13 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51413
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51412
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="TV OPCION 7",Europa Europa
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51390
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="TV OPCION 7",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJsRou4NrimfShPFJXJdlm9fN_7SarXz62hzsNbEZbXQ&s" group-title="TV OPCION 7",UNIVERSAL CHANNEL
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51388
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="TV OPCION 7",Star Channel
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51383
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_i-sat_m.png" group-title="TV OPCION 7",Isat
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51381
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="TV OPCION 7",TNT Series
+#EXTINF:-1 tvg-logo="https://i0.wp.com/raspberrymag.com/wp-content/uploads/2015/03/TNT_Serie.svg_.png?fit=519%2C616&ssl=1" group-title="TV OPCION 7",TNT Series
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51378
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="TV OPCION 7",FX 
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51373
@@ -1653,8 +1653,6 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51397
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51396
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSUyndP_2XLP4Nrwvut4JgxxWVVXexzfXC1Awb-YE6w&s" group-title="TV OPCION 7",Unicable
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51431
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/abs-image-upload-na/5/AmazonStores/A1PA6795UKMFR9/d36a4e91672508796d9478cfb22aff93.w1667.h1667.jpg" group-title="TV OPCION 7",Comedy Central FHD
-http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51406
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/abs-image-upload-na/5/AmazonStores/A1PA6795UKMFR9/d36a4e91672508796d9478cfb22aff93.w1667.h1667.jpg" group-title="TV OPCION 7",Comedy Central HD
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51414
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_10/1679567950_DistritoComedia-.png.51fc33f3d4f8dff729c018643cfb86bb.png" group-title="TV OPCION 7",Distrito Comedia
@@ -1680,6 +1678,9 @@ http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51405
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51404
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",Discovery World HD
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51403
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",DISCOVERY HOME THEATER
+http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51406
+
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",VH1 CLASSIC
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/51364
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 7",MTV HD
