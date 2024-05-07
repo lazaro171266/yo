@@ -161,11 +161,17 @@ http://cdn1host.online:2999/carlosleon/2469/34
 http://cdn1host.online:2999/carlosleon/2469/36
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",TL NOVELAS
 http://cdn1host.online:2999/carlosleon/2469/40
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",PASIONES
+http://cdn1host.online:2999/carlosleon/2469/305
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",STUDIO UNIVERSAL
+http://cdn1host.online:2999/carlosleon/2469/86
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",FOX SPORTS
+http://cdn1host.online:2999/carlosleon/2469/92
+
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",DISNEY JR
 http://cdn1host.online:2999/carlosleon/2469/44
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",NICK JR
 http://cdn1host.online:2999/carlosleon/2469/45
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/1200px-Cine_Latino_logo.svg.png" group-title="TV OPCION 1", CINE LATINO
 http://cdn1host.online:2999/carlosleon/2469/303
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxv_lrgDvQo2w1ntM9EygVfMuur-Edn34PxuN7y608Wg&s" group-title="TV OPCION 1", DE PELICULA
@@ -178,6 +184,10 @@ http://cdn1host.online:2999/carlosleon/2469/1699
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_22692.png.e5fe062660250e2df713bdb2d0a8c40b.png" group-title="TV OPCION 1", CLARO CINEMA
 http://cdn1host.online:2999/carlosleon/2469/1720
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",N+
+http://cdn1host.online:2999/carlosleon/2469/1715
+
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kR6lVdnq79U1IuyItJ9zsGfGcwq9t0ccPqb-V9g-nJ9Yw=s900-c-k-c0x00ffffff-no-rj" group-title="TV OPCION 1",Top Cine (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="TV OPCION 1",WOW TV
