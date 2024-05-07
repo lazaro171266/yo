@@ -34,7 +34,7 @@ http://sdmx.vip:8080/China02/china93/2139190
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1644456305963270144/_0LhRSJI_400x400.jpg" group-title="TV OPCION 1", VIVO PLAY
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s.yimg.com/ny/api/res/1.2/F24RGvK6LdYoQ0nZBRN3hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDY-/https://s.yimg.com/os/creatr-uploaded-images/2019-08/9a986670-c83d-11e9-bfda-b57072efb051" group-title="TV OPCION 1", LA ROSA DE GUADALUPE
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=344&pid=344&token=SrRegio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="TV OPCION 1", DISTRITO COMEDIA (1)
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
@@ -203,6 +203,10 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="TV OPCION 1",Retro PELIS
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b9671cdac71b0008f371df/featuredImage.jpg?fm=jpg&w=1000&h=525&fit=clip&mark=https%3A%2F%2Fpluto-assets.s3.amazonaws.com%2Foptimizely%2Fimages%2Fpluto_logo_solid_white.png&mark-w=200&mark-pad=30&txt=Watch%20Free&txt-size=40&txt-color=ffffff&txt-align=bottom%2Cleft&txt-font=Futura-Bold&txt-pad=38&blend=https%3A%2F%2Fassets.imgix.net%2Fblog%2Fblog-blends.pdf%3Fpage%3D1%26fm%3Dpng&bm=multiply&bc=bottom&bf=crop&ixlib=react-9.1.5" group-title="TV OPCION 1", CINE CLASICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://seriesretro.com/wp-content/uploads/2020/06/5ed8d22a4ac42_originalcursi1.png" group-title="TV OPCION 1",TV SERIES RETRO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KK7Ys5nScvKkj7DzEI4Hhib5M_FKKAiY98aMRBxEJG4ZWM07g7NsJ7gtFlc_zV1zFCQ" group-title="TV OPCION 1",OLD
 https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772410.ts|User-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PY_gyhVYlhbJsUpRAMTZdNJbnM4-oUnjH3gIg-WAvQMSfOzBY-4ZdWtNfcKygKjJw64" group-title="TV OPCION 1", ACS NETWORK
