@@ -162,6 +162,8 @@ http://cdn1host.online:2999/carlosleon/2469/86
 http://cdn1host.online:2999/carlosleon/2469/44
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1D4QwXp-i4bW9AvDR02-UHRKSXHEMTHro17ZoVq19Gg&s" group-title="TV OPCION 1",NICK JR
 http://cdn1host.online:2999/carlosleon/2469/45
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="TV OPCION 1",BOOMERANG
+http://cdn1host.online:2999/carlosleon/2469/130
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cine_Latino_logo.svg/1200px-Cine_Latino_logo.svg.png" group-title="TV OPCION 1", CINE LATINO
 http://cdn1host.online:2999/carlosleon/2469/303
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxv_lrgDvQo2w1ntM9EygVfMuur-Edn34PxuN7y608Wg&s" group-title="TV OPCION 1", DE PELICULA
@@ -187,12 +189,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6652061e12b0246ef228236f06fa5f1.webp" group-title="TV OPCION 1" ,MY TIME NETWORK
 https://linear-261.frequency.stream/dist/vix/261/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="TV OPCION 1" ,GOLDEN PLUS
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="TV OPCION 1" ,GOLDEN PREMIER
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/7/1013/png-transparent-logo-hbo-hd-scalable-graphics-design-blue-angle-text.png" group-title="TV OPCION 1",HBO
+http://cdn1host.online:2999/carlosleon/2469/120
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/hbo-2-logo.png" group-title="TV OPCION 1",HBO2
+http://cdn1host.online:2999/carlosleon/2469/121
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438834589120729097/xUxfrCMf_400x400.jpg" group-title="TV OPCION 1", +CINE
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438834589120729097/xUxfrCMf_400x400.jpg" group-title="TV OPCION 1", PUNTO MOVIES
@@ -237,30 +239,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHWeJNtI_wfHWOxHX9ijs3p8/ts
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/vector-poster-retro-cinema-festival-260nw-1310044447.jpg" group-title="TV OPCION 1", RETRO CINEMA
 http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Clasico" tvg-logo="http://ceoapps.org/logos/ultraclasico.png" group-title="TV OPCION 1", Ultra Clasico
-http://sdmx.vip:8080/China02/china93/2157599
 #EXTINF:-1 tvg-id="" tvg-name="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWeiuZ7BTvThCrNbyAI6-2xqG92YXs64tpzQ&usqp=CAU" group-title="TV OPCION 1", CINE CLASICO
 http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/76865
-#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Cine" tvg-logo="http://ceoapps.org/logos/ultracine.png" group-title="TV OPCION 1", Ultra Cine
-http://sdmx.vip:8080/China02/china93/2157469
-#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Documental" tvg-logo="http://ceoapps.org/logos/ultradocu.png" group-title="TV OPCION 1", Ultra Documental
-http://sdmx.vip:8080/China02/china93/2157470
-#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Macho" tvg-logo="http://ceoapps.org/logos/ultramacho.png" group-title="TV OPCION 1", Ultra Macho
-http://sdmx.vip:8080/China02/china93/2157594
-#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Mex" tvg-logo="http://ceoapps.org/logos/ultramex.png" group-title="TV OPCION 1", Ultra Mex
-http://sdmx.vip:8080/China02/china93/2157595
-#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Fiesta" tvg-logo="http://ceoapps.org/logos/ultrafiesta.png" group-title="TV OPCION 1", Ultra Fiesta
-http://sdmx.vip:8080/China02/china93/2157596
-#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Familia" tvg-logo="http://ceoapps.org/logos/ultrafamilia.png" group-title="TV OPCION 1", Ultra Familia
-http://sdmx.vip:8080/China02/china93/2157597
-#EXTINF:-1 tvg-id="" tvg-name="M| Ultra Kids" tvg-logo="http://ceoapps.org/logos/ultrakidz.png" group-title="TV OPCION 1", Ultra Kids
-http://sdmx.vip:8080/China02/china93/2157598
 #EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Cine-Mexicano-Logo.png" group-title="TV OPCION 1",CINE MEXICANO
 http://vis4k.online:8080/play/7buOj4dEtLZ_t6Jh_xjOHZ1asUn6FUNIBRKfvam3NVY/ts
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="TV OPCION 1", CINEMA DINAMITA
-http://ultrapremium.cloud:8080/PLAYLIFE485166/gHAqfHJG52yu/117
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DveaPhvYgGM/YSUgaTgHODI/AAAAAAAAENk/lW8SyPJbqd0dB8qYI422v-Da4hJNP8x-ACLcBGAsYHQ/s540/filmex-logoroku.png" group-title="TV OPCION 1", FILMEX CLASICO
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/140821
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="TV OPCION 1", CINE ESTRELLA TV
 https://m3u-editor.com/serve/de212d40-6554-11ee-a8f4-a966672c7d35/952772352
 #EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2022/11/mx-nuestro-cine-donde-ver-canal-cine-mexicano.jpg" group-title="TV OPCION 1", MX NUESTRO CINE
@@ -289,21 +271,7 @@ http://cdn1host.online:2999/carlosleon/2469/40
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0xZtRlCgTCq41ObAJEVqeBS-fPAXhSXj69YYfkky5CspHLMiB5sm-gPNCmN6S0_3CISU&usqp=CAU" group-title="TV OPCION 1", TL NOVELAS (2)
 #EXTINF:-1 tvg-logo="https://noticias.imer.mx/wp-content/uploads/2022/04/o1pPkhwJ_400x400.jpg" group-title="TV OPCION 1", FOX SPORTS MX
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", FOX SPORTS
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/376
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TUDN
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/397
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", TUDN USA
-http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/395
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",TUDN
-https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",TUDN MX
-https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",TUDN US
-https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",AFIZZIONADOS
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",BANDAMAX
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1",VEVO REGIONAL MEXICANO
