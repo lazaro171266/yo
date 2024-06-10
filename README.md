@@ -25,6 +25,14 @@ https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="TV OPCION 1",N+ DOCUMENTALES
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="TV OPCION 1",FOX SPORTS MX
+http://cdn1host.online:2999/carlosleon/2469/92
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports-2_m.png" group-title="TV OPCION 1",FOX SPORTS 2
+http://cdn1host.online:2999/carlosleon/2469/93
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports-3_m.png" group-title="TV OPCION 1",FOX SPORTS 3
+http://cdn1host.online:2999/carlosleon/2469/100
+
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/13-Teleseries-en-vivo-Online.png" group-title="TV OPCION 1",TELESERIES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/06/LOGO-MASCHIC-TXT-VIOLETA-copia-1.png" group-title="TV OPCION 1",MAS CHIC
@@ -121,6 +129,8 @@ http://cdn1host.online:2999/carlosleon/2469/14
 http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-21lC_5eSuZ8/W6llvwR8rmI/AAAAAAAAAB4/fvGKXLaV0CY9Z941D047IzDxYA2Nodc1ACPcBGAYYCw/s1600/axn.png" group-title="TV OPCION 1", AXN
 http://cdn1host.online:2999/carlosleon/2469/21
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiE3t61QM2SFs3HhHaslcbKLmxjlFnP2yjjahod0x3xK6K3CeurzDEwGYaNPTUqqu39PU&usqp=CAU" group-title="TV OPCION 1",FX
+http://cdn1host.online:2999/carlosleon/2469/19
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8a8d704ba5a5ac474de026ec04" group-title="TV OPCION 1",COMEDY CENTRAL
 http://cdn1host.online:2999/carlosleon/2469/23
 #EXTINF:-1 tvg-logo="https://newsletters.worldscreen.com/tvcanales/img/2015-01-06-logounicable.gif" group-title="TV OPCION 1",UNICABLE
