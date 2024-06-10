@@ -5,6 +5,8 @@ http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=simpson_maniahd18
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1641056610880479233/y7LYZu4L_400x400.jpg" group-title="TV OPCION 1",CNN EN ESPAÑOL
 http://1tv41.icu:8080/Py5zFZ/363334/57619
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1641056610880479233/y7LYZu4L_400x400.jpg" group-title="TV OPCION 1",CNN MEXICO
+http://cdn1host.online:2999/carlosleon/2469/105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="TV OPCION 1",TELEFORMULA
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.o5uPYkA73Ny8WcNydPnETAAAAA?pid=ImgDet&rs=1" group-title="TV OPCION 1", FORO TV
@@ -25,7 +27,7 @@ https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="TV OPCION 1",N+ DOCUMENTALES
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="TV OPCION 1",FOX SPORTS MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="TV OPCION 1",FOX SPORTS 
 http://cdn1host.online:2999/carlosleon/2469/92
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports-2_m.png" group-title="TV OPCION 1",FOX SPORTS 2
 http://cdn1host.online:2999/carlosleon/2469/93
