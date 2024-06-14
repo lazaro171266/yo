@@ -197,7 +197,7 @@ http://cdn1host.online:2999/carlosleon/2469/121
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/hbo-2-logo.png" group-title=", CHILE VISUAL FILMS
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438834589120729097/xUxfrCMf_400x400.jpg" group-title="TV OPCION 1", +CINE
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?WebM3UCL
+https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1438834589120729097/xUxfrCMf_400x400.jpg" group-title="TV OPCION 1", PUNTO MOVIES
 http://notabasica.com/php/SR_REGIO_601032_/tv3.php?k=SrRegio&c=punto_movies
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxqoELTnWJTmGdc8N0XyQ88BgQZh3uYB0fzP_NT=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV OPCION 1" ,PELICULAS MANIA
@@ -369,7 +369,7 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://preview.redd.it/2ff36gtu41e71.jpg?auto=webp&s=d5f74b9ca69e4fba268b58e9972afd867f6d8b27" group-title="TV OPCION 1", REWIND TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vLvQKx6bpHkxLM0RcSex_N_L4gEB5kIQvhrSZNgnaqjw-xTooaXt0HwcMc_hE3ytV5E" group-title="TV OPCION 1", EL GALPON 80
-https://stmv2.zcasthn.com.br/ferchile/ferchile/playlist.m3u8?PlaylistM3UCL
+https://streamlov.alsolnet.com/amplificacion/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.80aa4c56b540d69b19bf97e9762894e4?rik=Y3OdsdLA0HAxGg&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="TV OPCION 1", THE RETRO CHANNEL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.8ea5cb89be0e1535d39522f4aff9f998?rik=gck84SgpCjWGDg&pid=ImgRaw&r=0" group-title="TV OPCION 1", OLDIES HITS
