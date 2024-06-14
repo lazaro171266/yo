@@ -222,6 +222,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7de
 https://m3u-editor.com:443/live/cyeulqer/fvgnu1ye/952772410.ts|User-agent=LKSDJ87F943532Q35JR098F7UADUSFQO3I4508FGUQAWJ9RJV4Q390KLDASJF908WR57U98Q43YUIRGTWE8AT68472T8F7Q87YE4RFA78Y4WR78Y728W4AT5
 #EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CHILE VISUAL RETRO
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", RETRO PLAY TV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PY_gyhVYlhbJsUpRAMTZdNJbnM4-oUnjH3gIg-WAvQMSfOzBY-4ZdWtNfcKygKjJw64" group-title="TV OPCION 1", ACS NETWORK
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhPnTQ7RhWSPEsAtUSLF3Z9vYZCczSZhHpaQ&usqp=CAU" group-title="TV OPCION 1", DREIKO TV
