@@ -348,9 +348,11 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRituMHc-XA99p7O3cfLDimxM__TWI_yAJ9KQlmHk62U26dNDk6dunk6dL6UEShh2GfpuI&usqp=CAU" group-title="TV OPCION 1", CLASSICS TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.kcGi7J_aHhgLus9NQo1x3AHaHa?pid=ImgDet&rs=1" group-title="TV OPCION 1", RETR0 PLUS
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?WebM3UCL
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIsRKHHlqjVuJDIbjKe0tW7MPpqkYK61_I-kQ8GzCNDfyFOSjkmXmyPtyclP5OJjxJcTs&usqp=CAU" group-title="TV OPCION 1", V CLASSIC TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", M MUSIC TV
+https://cdn.mycloudstream.io/hls/live/broadcast/9b3ke4sb/index.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQmzvtTn4YrYJXQ-bRXPyNHqKW_4Z_P6ORhUYUr=s900-c-k-c0x00ffffff-no-rj"group-title="TV OPCION 1", VINTAGE MUSICA
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/dmlkZW8udG91cmNoYW5uZWxfaWNvbl8xNTcxMDE1ODc4XzA3Ng/icon.png?w=100&fakeurl=1" group-title="TV OPCION 1",VIDEO TOUR CHANNEL
@@ -365,6 +367,12 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8?Playli
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.80sclassical.co.uk/wp-content/uploads/2019/01/80s.png" group-title="TV OPCION 1", MEGA CLASSICS
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", CHILE REMIX
+https://live.tvcontrolcp.com:19360/chileremix2/chileremix2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="TV OPCION 1", LATINOS TV
+https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/72/ae/120714/1/c300.png" group-title="TV OPCION 1", LA RANCHERA
 https://5fa5de1a545ae.streamlock.net/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/72/ae/120714/1/c300.png" group-title="TV OPCION 1", GRUPERA TV
